@@ -1,0 +1,3217 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>AQUITAINE Campings Municipaux</name>
+		<description><![CDATA[Campings Municipaux en Aquitaine<br>Landes - Dordogne - Pyrenees Atlantiques - Gironde<br>Lot et Garonne]]></description>
+		<Folder>
+			<name>Calque sans titre</name>
+			<Placemark>
+				<name>Camping Municipal  les Pins Bleus 3*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Avril-<br>Budget €/j: 20-25<br>Emplacement: `120<br>Locations: Mobilhomes<br>description: sur 6 hectares dans un cadre nature, des espaces aérés et ombragés.<br>Adresse: Avenue de l ocean, 40133 LABENNE<br>GPS: 43.602553,-1.456511<br>Phone: 05 59 45 41 13<br>Website: http://www.lespinsbleus.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril-</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>`120</value>
+					</Data>
+					<Data name='Locations'>
+						<value>Mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>sur 6 hectares dans un cadre nature, des espaces aérés et ombragés.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue de l ocean, 40133 LABENNE</value>
+					</Data>
+					<Data name='GPS'>
+						<value>43.602553,-1.456511</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 59 45 41 13</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.lespinsbleus.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.456375,43.602801,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal de Carcans-Océan 3*</name>
+				<description><![CDATA[Departement: Gironde<br>Opening Dates: Avril-Septembre<br>Budget €/j: 30-35<br>Emplacement: 447<br>Locations: non<br>description: Dans un cadre privilégié, entre forêt, lac et océan<br>Adresse: 1, rue du Camping, 33121 Carcans-Plage<br>GPS: 45.081506,-1.186793<br>Phone: 05 56 03 41 44<br>Website: www.camping-carcans-ocean.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>30-35</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>447</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans un cadre privilégié, entre forêt, lac et océan</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>1, rue du Camping, 33121 Carcans-Plage</value>
+					</Data>
+					<Data name='GPS'>
+						<value>45.081506,-1.186793</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 56 03 41 44</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-carcans-ocean.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.186523,45.082036,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal de la Ferrette </name>
+				<description><![CDATA[Departement: Lot et Garonne<br>Opening Dates: Juin-Septembre<br>Budget €/j: 10-15<br>Emplacement: 32<br>Locations: Mobilhomes<br>description: A 200 m de la Bastide dans un cadre de verdure<br>Adresse: Route de Bergerac, 47330 CASTILLONNES<br>GPS: 44.656329,0.591389<br>Phone: 05 53 36 94 68 <br>Website: http://goo.gl/Uwfhye]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Lot et Garonne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>32</value>
+					</Data>
+					<Data name='Locations'>
+						<value>Mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>A 200 m de la Bastide dans un cadre de verdure</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Bergerac, 47330 CASTILLONNES</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.656329,0.591389</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 36 94 68 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/Uwfhye</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.591556,44.656329,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal Panoramique 1*</name>
+				<description><![CDATA[Departement: Lot et Garonne<br>Opening Dates: Juillet - Aout<br>Budget €/j: 5-10<br>Emplacement: 17<br>Locations: non<br>description: vue panoramique sur la vallée du Lot<br>Adresse: 47260 LAPARADE<br>GPS: ns<br>Phone: 05 53 84 05 19<br>Website: http://goo.gl/DzixYj]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Lot et Garonne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juillet - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>17</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>vue panoramique sur la vallée du Lot</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>47260 LAPARADE</value>
+					</Data>
+					<Data name='GPS'>
+						<value>ns</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 84 05 19</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/DzixYj</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.446545,44.388911,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  Lougratte 2*</name>
+				<description><![CDATA[Departement: Lot et Garonne<br>Opening Dates: mi Juin-mi Septembre<br>Budget €/j: 10-15<br>Emplacement: 90<br>Locations: Mobilhomes<br>description: au cœur de la Verte Guyenne, pays du foie gras<br>Adresse: 47290 LOUGRATTE<br>GPS: 44.577137,0.620035<br>Phone: 06 63 32 15 52 <br>Website: www.lougratte.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Lot et Garonne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>90</value>
+					</Data>
+					<Data name='Locations'>
+						<value>Mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>au cœur de la Verte Guyenne, pays du foie gras</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>47290 LOUGRATTE</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.577137,0.620035</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 63 32 15 52 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lougratte.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.620492,44.57708,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  le Chateau</name>
+				<description><![CDATA[Departement: Lot et Garonne<br>Opening Dates: Juillet - Aout<br>Budget €/j: 10-15<br>Emplacement: 20<br>Locations: non<br>description: au pied du château des Ducs<br>Adresse: 47120 DURAS<br>GPS: 44.677763,0.177773<br>Phone: 05.53.83.70.18<br>Website: http://www.paysdeduras.com/campings.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Lot et Garonne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juillet - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>20</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>au pied du château des Ducs</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>47120 DURAS</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.677763,0.177773</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05.53.83.70.18</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.paysdeduras.com/campings.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.177273,44.677969,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  de la Piscine 2*</name>
+				<description><![CDATA[Departement: Lot et garonne<br>Opening Dates: Avril-mi Novembre<br>Budget €/j: 10-15<br>Emplacement: 48<br>Locations: non<br>description: Chemin a pied pour aller a la station thermale<br>Adresse: rue du souvenir Francais, 47700 CASTELJALOUX<br>GPS: 44.314998,0.091859<br>Phone: 05 53 93 54 68 <br>Website: www.casteljaloux.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Lot et garonne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril-mi Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>48</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Chemin a pied pour aller a la station thermale</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue du souvenir Francais, 47700 CASTELJALOUX</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.314998,0.091859</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 93 54 68 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.casteljaloux.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.091785,44.315036,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  le lac de Ferie 3*</name>
+				<description><![CDATA[Departement: Lot et Garonne<br>Opening Dates: mi Juin - Aout<br>Budget €/j: 15-20<br>Emplacement: 50<br>Locations: Chalets<br>description: emplacements spacieux et ombragés<br>Adresse: Route 961, 47140 PENNE D AGENAIS<br>GPS: 44.384575,0.80629<br>Phone: 05 53 41 30 97<br>Website: http://goo.gl/RvQxNg]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Lot et Garonne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Juin - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>50</value>
+					</Data>
+					<Data name='Locations'>
+						<value>Chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>emplacements spacieux et ombragés</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route 961, 47140 PENNE D AGENAIS</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.384575,0.80629</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 41 30 97</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/RvQxNg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.807152,44.384483,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal LAGRUERE 2*</name>
+				<description><![CDATA[Departement: Lot et Garonne<br>Opening Dates: Avril-Octobre<br>Budget €/j: 10-15<br>Emplacement: 9<br>Locations: non<br>description: <br>Adresse: Barne - Halte nautique, 47400 Lagruère<br>GPS: ns<br>Phone: 05 53 20 95 47<br>Website: http://lagruere.info]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Lot et Garonne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>9</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Barne - Halte nautique, 47400 Lagruère</value>
+					</Data>
+					<Data name='GPS'>
+						<value>ns</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 20 95 47</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://lagruere.info</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.253716,44.394052,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  la Plage 3*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: mi Avril-Septembre<br>Budget €/j: 20-25<br>Emplacement: 480<br>Locations: Mobilhomes,chalets,tentes<br>description: à 800 mètres de l'océan et à 300 mètres de Mimizan-plage<br>Adresse: Avenue de Woolsack, 40200 MIMIZAN<br>GPS: 44.216586,-1.284224<br>Phone: 05 58 09 01 21<br>Website: www.mimizan-camping.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>480</value>
+					</Data>
+					<Data name='Locations'>
+						<value>Mobilhomes,chalets,tentes</value>
+					</Data>
+					<Data name='description'>
+						<value>à 800 mètres de l'océan et à 300 mètres de Mimizan-plage</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue de Woolsack, 40200 MIMIZAN</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.216586,-1.284224</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 09 01 21</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mimizan-camping.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.284027,44.218631,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  le Lac 2*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Mai-Aout<br>Budget €/j: 15-20<br>Emplacement: 400<br>Locations: Bungalows<br>description: Situé dans un site protégé de 450 ha, à proximité de la ville de Mimizan<br>Adresse: Avenue de Woolsack, 40200 MIMIZAN <br>GPS: 44.219677,-1.23<br>Phone: 05 58 09 01 21<br>Website: www.mimizan-camping.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>400</value>
+					</Data>
+					<Data name='Locations'>
+						<value>Bungalows</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé dans un site protégé de 450 ha, à proximité de la ville de Mimizan</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue de Woolsack, 40200 MIMIZAN </value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.219677,-1.23</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 09 01 21</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mimizan-camping.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.230297,44.218877,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  la DIGUE </name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Avril-Octobre<br>Budget €/j: 5-10<br>Emplacement: 33<br>Locations: non<br>description: idéal pour un pique-nique en famille ou une partie de pêche entre amis<br>Adresse: 90 route de Bonnegarde, 40330 AMOU<br>GPS: 43.588364,-0.737546<br>Phone: 05 58 89 00 22<br>Website: http://goo.gl/fRXdFD]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>33</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>idéal pour un pique-nique en famille ou une partie de pêche entre amis</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>90 route de Bonnegarde, 40330 AMOU</value>
+					</Data>
+					<Data name='GPS'>
+						<value>43.588364,-0.737546</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 89 00 22</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/fRXdFD</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.736256,43.587292,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  le Tatiou 3*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: mi Avril-Septembre<br>Budget €/j: 20-25<br>Emplacement: 480<br>Locations: propietaires loueurs<br>description: au cœur de la forêt landaise et à 5 minutes de l'océan<br>Adresse: 40170 BIAS<br>GPS: 44.145323,-1.240235<br>Phone: 05 58 09 04 76 <br>Website: www.campingletatiou.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>480</value>
+					</Data>
+					<Data name='Locations'>
+						<value>propietaires loueurs</value>
+					</Data>
+					<Data name='description'>
+						<value>au cœur de la forêt landaise et à 5 minutes de l'océan</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>40170 BIAS</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.145323,-1.240235</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 09 04 76 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campingletatiou.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.240211,44.144153,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  la Civelle 3*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Mars-Septembre<br>Budget €/j: 25-30<br>Emplacement: 270<br>Locations: 200 mobilhomes<br>description: sur 11 hectares de pin et de chêne avec piscine<br>Adresse: Rue des Biches, 40130 CAPBRETON<br>GPS: 43.631074,-1.43222<br>Phone: 05 58 72 15 11 <br>Website: www.campinglacivelle.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mars-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>270</value>
+					</Data>
+					<Data name='Locations'>
+						<value>200 mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>sur 11 hectares de pin et de chêne avec piscine</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue des Biches, 40130 CAPBRETON</value>
+					</Data>
+					<Data name='GPS'>
+						<value>43.631074,-1.43222</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 72 15 11 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campinglacivelle.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.4326,43.629987,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  la Cheneraie 2*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Mars-Octobre<br>Budget €/j: 10-15<br>Emplacement: 36<br>Locations: chalets, mobilhomes<br>description: centre ville dans une petite bourgade des Landes de Gascogne, à la limite du Gers<br>Adresse: Bordenave rd38, 40310 GABARRET<br>GPS: 43.982563,0.016294<br>Phone: 05 58 44 92 62 <br>Website: http://goo.gl/c6ABEz]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mars-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>36</value>
+					</Data>
+					<Data name='Locations'>
+						<value>chalets, mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>centre ville dans une petite bourgade des Landes de Gascogne, à la limite du Gers</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Bordenave rd38, 40310 GABARRET</value>
+					</Data>
+					<Data name='GPS'>
+						<value>43.982563,0.016294</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 44 92 62 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/c6ABEz</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.016265,43.982532,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  les Sableres 3*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Avril - mi Octobre<br>Budget €/j: 25-30<br>Emplacement: 517<br>Locations: Chalets, tentes, mobilhomes<br>description: A 150 MÈTRES DE LA PLAGE, EN BORDURE DE LA FORÊT DES LANDES, <br>Adresse: Boulevard du Marensin , 40480 VIEUX BOUCAU LES BAINS<br>GPS: 43.793007,-1.406091<br>Phone: 05 58 48 12 29<br>Website: www.camping-les-sableres.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril - mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>517</value>
+					</Data>
+					<Data name='Locations'>
+						<value>Chalets, tentes, mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>A 150 MÈTRES DE LA PLAGE, EN BORDURE DE LA FORÊT DES LANDES, </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Boulevard du Marensin , 40480 VIEUX BOUCAU LES BAINS</value>
+					</Data>
+					<Data name='GPS'>
+						<value>43.793007,-1.406091</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 48 12 29</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-les-sableres.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.406186,43.792767,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  la plage du cap de l Homy 3*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Mai-Septembre<br>Budget €/j: 30-35<br>Emplacement: 444<br>Locations: Bungalows<br>description: A 400 mètres de l'océan Atlantique, et de ses plages de sable fin<br>Adresse: 600, avenue de l'Océan, 40170 LIT ET MIXE<br>GPS: 44.037288,-1.3346<br>Phone: 05 58 42 83 47<br>Website: www.camping-cap.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>30-35</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>444</value>
+					</Data>
+					<Data name='Locations'>
+						<value>Bungalows</value>
+					</Data>
+					<Data name='description'>
+						<value>A 400 mètres de l'océan Atlantique, et de ses plages de sable fin</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>600, avenue de l'Océan, 40170 LIT ET MIXE</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.037288,-1.3346</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 42 83 47</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-cap.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.334839,44.037257,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  la Cite Verte </name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Juin-Septembre<br>Budget €/j: 20-25<br>Emplacement: 24<br>Locations: non<br>description: Au cœur de la Cité Verte, proche du centre ville <br>Adresse: Chemin des Loussets, 40700 HAGETMAU<br>GPS: 43.648963,-0.59035<br>Phone: 05 58 79 79 79 <br>Website: www.tourisme-hagetmau.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>24</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Au cœur de la Cité Verte, proche du centre ville </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin des Loussets, 40700 HAGETMAU</value>
+					</Data>
+					<Data name='GPS'>
+						<value>43.648963,-0.59035</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 79 79 79 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-hagetmau.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.590515,43.649057,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal l Adour 2*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: mi Mai-mi Octobre<br>Budget €/j: 10-15<br>Emplacement: 50<br>Locations: mobilhome<br>description: Calme en bordure du fleuve Adour, 50 emplacements spacieux et ombragés<br>Adresse: Rue du Parc des Sports, 40270 GRENADE SUR L ADOUR <br>GPS: 43.772969,-0.435401<br>Phone: 05 58 45 91 14<br>Website: http://goo.gl/yxQMuz]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Mai-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>50</value>
+					</Data>
+					<Data name='Locations'>
+						<value>mobilhome</value>
+					</Data>
+					<Data name='description'>
+						<value>Calme en bordure du fleuve Adour, 50 emplacements spacieux et ombragés</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue du Parc des Sports, 40270 GRENADE SUR L ADOUR </value>
+					</Data>
+					<Data name='GPS'>
+						<value>43.772969,-0.435401</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 45 91 14</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/yxQMuz</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.435762,43.773093,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  Geaune 2*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Avril-Octobre<br>Budget €/j: 10-15<br>Emplacement: 50<br>Locations: non<br>description: dans un espace calme et ombragé, à proximité de la piscine<br>Adresse: 11, route de Clèdes, 40320 GEAUNE<br>GPS: 43.635718,-0.382122<br>Phone: 05 58 44 50 27 <br>Website: http://goo.gl/pYQyRr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>50</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>dans un espace calme et ombragé, à proximité de la piscine</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>11, route de Clèdes, 40320 GEAUNE</value>
+					</Data>
+					<Data name='GPS'>
+						<value>43.635718,-0.382122</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 44 50 27 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/pYQyRr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.382032,43.635811,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  la Saucille 2*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Juillet-Aout<br>Budget €/j: 10-15<br>Emplacement: 32<br>Locations: non<br>description: Best kept secret avec acces a la base de loisirs<br>Adresse: Rue du Vieux Port, 40250 MUGRON<br>GPS: 43.758681,-0.753404<br>Phone: 05 58 97 98 50<br>Website: http://goo.gl/YEeH4s]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juillet-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>32</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Best kept secret avec acces a la base de loisirs</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue du Vieux Port, 40250 MUGRON</value>
+					</Data>
+					<Data name='GPS'>
+						<value>43.758681,-0.753404</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 97 98 50</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/YEeH4s</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.75325,43.758728,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  St Vivien 1*</name>
+				<description><![CDATA[Departement: Gironde<br>Opening Dates: Avril - Octobre<br>Budget €/j: 10-15<br>Emplacement: 36<br>Locations: non<br>description: Saint Vivien de Médoc et son célèbre et authentique marché rural <br>Adresse: 35 rue Ludovic Trarieux, 33590 ST VIVIEN DE MEDOC<br>GPS: 45.43469,-1.031774<br>Phone: 05 56 09 43 77<br>Website: http://goo.gl/9VA4TL]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>36</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Saint Vivien de Médoc et son célèbre et authentique marché rural </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>35 rue Ludovic Trarieux, 33590 ST VIVIEN DE MEDOC</value>
+					</Data>
+					<Data name='GPS'>
+						<value>45.43469,-1.031774</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 56 09 43 77</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/9VA4TL</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.031427,45.434238,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal Sainte Terre</name>
+				<description><![CDATA[Departement: Gironde<br>Opening Dates: Juin - Septembre<br>Budget €/j: 10-15<br>Emplacement: 30<br>Locations: non<br>description: en bordure de Dordogne.<br>Adresse: 33350 STE TERRE<br>GPS: 44.823445,-0.108729<br>Phone: 05 57 47 16 23<br>Website: http://goo.gl/ATqUQz]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juin - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>30</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>en bordure de Dordogne.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>33350 STE TERRE</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.823445,-0.108729</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 57 47 16 23</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/ATqUQz</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.109198,44.823202,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  de Teuillac</name>
+				<description><![CDATA[Departement: Gironde<br>Opening Dates: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacement: ns<br>Locations: ns<br>description: en cours verification 2014<br><br>Adresse: 33710 TEUILLAC<br>GPS: ns<br>Phone: 05 57 64 34 55<br>Website: http://goo.gl/rw32WA]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>ns</value>
+					</Data>
+					<Data name='Locations'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>en cours verification 2014
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>33710 TEUILLAC</value>
+					</Data>
+					<Data name='GPS'>
+						<value>ns</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 57 64 34 55</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/rw32WA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.543823,45.090975,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  les Gabarreys 4*</name>
+				<description><![CDATA[Departement: Gironde<br>Opening Dates: Avril-Octobre<br>Budget €/j: 20-25<br>Emplacement: 59<br>Locations: 6 mobil homes<br>description: Deux hectares de chênes, saules et peupliers <br>Adresse: Route de la Rivière, 33250 PAUILLAC<br>GPS: 45.185031,-0.742482<br>Phone: 05 56 59 10 03 <br>Website: www.pauillac-medoc.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>59</value>
+					</Data>
+					<Data name='Locations'>
+						<value>6 mobil homes</value>
+					</Data>
+					<Data name='description'>
+						<value>Deux hectares de chênes, saules et peupliers </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de la Rivière, 33250 PAUILLAC</value>
+					</Data>
+					<Data name='GPS'>
+						<value>45.185031,-0.742482</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 56 59 10 03 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.pauillac-medoc.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.7425,45.185379,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  du Pin Sec 1*</name>
+				<description><![CDATA[Departement: Gironde<br>Opening Dates: Mai-Septembre<br>Budget €/j: 15-20<br>Emplacement: 530<br>Locations: non<br>description: Dans une grande clairiere de pins a 500m de l ocean<br><br>Adresse: 33990 NAUJAC SUR MER<br>GPS: 45.267789,-1.160306<br>Phone: 05 56 73 00 66 <br>Website: www.naujac.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>530</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans une grande clairiere de pins a 500m de l ocean
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>33990 NAUJAC SUR MER</value>
+					</Data>
+					<Data name='GPS'>
+						<value>45.267789,-1.160306</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 56 73 00 66 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.naujac.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.161289,45.26788,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal les Pastourelles 3*</name>
+				<description><![CDATA[Departement: Gironde<br>Opening Dates: Mars -Novembre<br>Budget €/j: 20-25<br>Emplacement: 600<br>Locations: Mobilhomes<br>description: Au cœur d’une pinède de 13 hectares en bordure du bassin d'Arcachon<br>Adresse: Claouey, 33950 LEGE CAP FERRET<br>GPS: 44.751015,-1.179832<br>Phone: 05 56 60 70 61<br>Website: www.legecapferret.fr/lespastourelles]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mars -Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>600</value>
+					</Data>
+					<Data name='Locations'>
+						<value>Mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Au cœur d’une pinède de 13 hectares en bordure du bassin d'Arcachon</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Claouey, 33950 LEGE CAP FERRET</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.751015,-1.179832</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 56 60 70 61</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.legecapferret.fr/lespastourelles</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.178112,44.750756,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  la Grigne 2*</name>
+				<description><![CDATA[Departement: Gironde<br>Opening Dates: Avril - Septembre<br>Budget €/j: 25-30<br>Emplacement: 700<br>Locations: mobilhomes<br>description: Acces direct a la plage pour des vacances sportives surf,<br>Adresse: Route de l'Océan, 33680 LE PORGE<br>GPS: 44.893884,-1.204297<br>Phone: 05 56 26 54 88<br>Website: www.leporge.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>700</value>
+					</Data>
+					<Data name='Locations'>
+						<value>mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Acces direct a la plage pour des vacances sportives surf,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de l'Océan, 33680 LE PORGE</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.893884,-1.204297</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 56 26 54 88</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.leporge.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.20532,44.891816,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  LE GURP 2*</name>
+				<description><![CDATA[Departement: Gironde<br>Opening Dates: Juin - mi Septembre<br>Budget €/j: 20-25<br>Emplacement: 1000<br>Locations: non<br>description: Le plus grand muni de France !<br>Adresse: route de l ocean, 33590 GRAYAN ET L HOPITAL <br>GPS: 45.433425,-1.144516<br>Phone: 05 56 09 44 53<br>Website: http://goo.gl/8sL8d5]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>1000</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Le plus grand muni de France !</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route de l ocean, 33590 GRAYAN ET L HOPITAL </value>
+					</Data>
+					<Data name='GPS'>
+						<value>45.433425,-1.144516</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 56 09 44 53</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/8sL8d5</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.146355,45.433876,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  Lo Qualh </name>
+				<description><![CDATA[Departement: Gironde<br>Opening Dates: Mai-mi Octobre<br>Budget €/j: 5-10<br>Emplacement: 25 <br>Locations: non<br>description: Situé en bord de Dordogne - Calme - Excellent pour promenade à pieds<br>Adresse: le bourg sud, 33350 FLAUJAGUES<br>GPS: 44.828939,0.036986<br>Phone: 05 57 40 72 23 <br>Website: http://goo.gl/R412YU]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>25 </value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé en bord de Dordogne - Calme - Excellent pour promenade à pieds</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>le bourg sud, 33350 FLAUJAGUES</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.828939,0.036986</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 57 40 72 23 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/R412YU</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.03695,44.82903,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  Braud 2*</name>
+				<description><![CDATA[Departement: Gironde<br>Opening Dates: ns<br>Budget €/j: 10-15<br>Emplacement: 95<br>Locations: non<br>description: Ideal pour decouvrir l estuaire , ses marais et ses oiseaux<br><br>Adresse: 33820 BRAUD ET ST LOUIS<br>GPS: ns<br>Phone: 05 57 42 60 87<br>Website: http://goo.gl/Bnf98H]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>95</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Ideal pour decouvrir l estuaire , ses marais et ses oiseaux
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>33820 BRAUD ET ST LOUIS</value>
+					</Data>
+					<Data name='GPS'>
+						<value>ns</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 57 42 60 87</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/Bnf98H</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.628302,45.249105,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  la citadelle 2*</name>
+				<description><![CDATA[Departement: Gironde <br>Opening Dates: Avril- mi Octobre<br>Budget €/j: 15-20<br>Emplacement: 24<br>Locations: non<br>description: Petit Muni au bord de la Dordogne, sympa avec sa piscine Muni qui sert d accueil<br>Adresse: rue du roc, 33710 BOURG<br>GPS: 45.038581,-0.561636<br>Phone: 05 57 68 40 04<br>Website: http://goo.gl/l8iScC]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde </value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril- mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>24</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Petit Muni au bord de la Dordogne, sympa avec sa piscine Muni qui sert d accueil</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue du roc, 33710 BOURG</value>
+					</Data>
+					<Data name='GPS'>
+						<value>45.038581,-0.561636</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 57 68 40 04</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/l8iScC</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.561311,45.038536,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  la Citadelle</name>
+				<description><![CDATA[Departement: Gironde<br>Opening Dates: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacement: 50<br>Locations: non<br>description: à l'intérieur des remparts <br>Adresse: 33390 BLAYE<br>GPS: 45.129318,-0.666134<br>Phone: 05 57 42 00 20 <br>Website: http://goo.gl/zpiq62]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>50</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>à l'intérieur des remparts </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>33390 BLAYE</value>
+					</Data>
+					<Data name='GPS'>
+						<value>45.129318,-0.666134</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 57 42 00 20 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/zpiq62</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.666196,45.129417,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping  Municipal CENAC 1*</name>
+				<description><![CDATA[Departement: Dordogne<br>Opening Dates: mi Juin-mi Septembre<br>Budget €/j: 10-15<br>Emplacement: 110<br>Locations: non<br>description: En contrebas de Domme – l’un des plus beaux villages de France<br>Adresse: RD 46, 24250 CENAC ET ST JULIEN<br>GPS: 44.792556,1.207674<br>Phone: 05 53 28 31 91<br>Website: http://goo.gl/6yWkPI]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Dordogne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>110</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>En contrebas de Domme – l’un des plus beaux villages de France</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>RD 46, 24250 CENAC ET ST JULIEN</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.792556,1.207674</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 28 31 91</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/6yWkPI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.207337,44.793226,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  EXCIDEUIL</name>
+				<description><![CDATA[Departement: Dordogne<br>Opening Dates: Mai - Septembre<br>Budget €/j: 10-15<br>Emplacement: 33<br>Locations: non<br>description: situé au Pont Rouge, direction St Médard d’Excideuil<br>Adresse: Pont Rouge, 24160 EXCIDEUIL<br>GPS: 45.337577,1.059641<br>Phone: 05 53 62 43 72<br>Website: http://goo.gl/7C7isK]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Dordogne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>33</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>situé au Pont Rouge, direction St Médard d’Excideuil</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Pont Rouge, 24160 EXCIDEUIL</value>
+					</Data>
+					<Data name='GPS'>
+						<value>45.337577,1.059641</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 62 43 72</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/7C7isK</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.059709,45.337607,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  la Borgne 2*</name>
+				<description><![CDATA[Departement: Dordogne<br>Opening Dates: mi Juin-mi Septembre<br>Budget €/j: 15-20<br>Emplacement: 100<br>Locations: Caravanes<br>description: En bord de Dordogne, le camping municipal La Borgne est un lieu où se côtoient pêcheurs et baigneurs<br>Adresse: La Borgne, 24370 CAZOULES<br>GPS: 44.873176,1.433369<br>Phone: 05 53 29 81 64<br>Website: http://goo.gl/hWRaJM]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Dordogne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>100</value>
+					</Data>
+					<Data name='Locations'>
+						<value>Caravanes</value>
+					</Data>
+					<Data name='description'>
+						<value>En bord de Dordogne, le camping municipal La Borgne est un lieu où se côtoient pêcheurs et baigneurs</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>La Borgne, 24370 CAZOULES</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.873176,1.433369</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 29 81 64</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/hWRaJM</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.432557,44.873146,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  ST MARTIAL 2*</name>
+				<description><![CDATA[Departement: Dordogne<br>Opening Dates: mi Juin -mi Septembre<br>Budget €/j: 10-15<br>Emplacement: 28<br>Locations: non<br>description: Plan d’eau sur place<br>Adresse: le clos de l ouvrage, 24360 BUSSEROLLES<br>GPS: 45.677049,0.640318<br>Phone: 05.53.60.53.04<br>Website: http://goo.gl/IykkLe]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Dordogne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Juin -mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>28</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Plan d’eau sur place</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>le clos de l ouvrage, 24360 BUSSEROLLES</value>
+					</Data>
+					<Data name='GPS'>
+						<value>45.677049,0.640318</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05.53.60.53.04</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/IykkLe</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.640206,45.677236,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  les CHENES </name>
+				<description><![CDATA[Departement: Pyrénées Atlantiques<br>Opening Dates: mi Juin - mi Novembre<br>Budget €/j: 10-15<br>Emplacement: 43<br>Locations: non<br>description: petit muni<br>Adresse: Rue Cassoures, 64 260 - BUZY<br>GPS: <br>Phone: 05 59 04 80 27<br>Website: http://goo.gl/SKxXQD]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Pyrénées Atlantiques</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Juin - mi Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>43</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>petit muni</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue Cassoures, 64 260 - BUZY</value>
+					</Data>
+					<Data name='GPS'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 59 04 80 27</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/SKxXQD</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.4626276,43.1259829,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal la PISCINE</name>
+				<description><![CDATA[Departement: Pyrénées Atlantiques<br>Opening Dates: Mi Mai-Septembre<br>Budget €/j: 10-15<br>Emplacement: 27<br>Locations: non<br>description: Un petit muni avec la piscine muni aussi a cote<br>Adresse: Route de la Bastide, 64160 MORLAAS<br>GPS: <br>Phone: 05 59 12 00 87<br>Website: http://goo.gl/gpH5Qq]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Pyrénées Atlantiques</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mi Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>27</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Un petit muni avec la piscine muni aussi a cote</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de la Bastide, 64160 MORLAAS</value>
+					</Data>
+					<Data name='GPS'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 59 12 00 87</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/gpH5Qq</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.259552,43.345155,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal MONTPLAISIR </name>
+				<description><![CDATA[Departement: Pyrénées Atlantiques<br>Opening Dates: ouvert toute l annee<br>Budget €/j: 15-20<br>Emplacement: 70<br>Locations: non<br>description: idem, dans la vallee d Ossau<br>Adresse: Quartier Monplaisir, 64260 GERE BELESTEN<br>GPS: <br>Phone: 05 59 82 61 18<br>Website: http://goo.gl/wl3BvX]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Pyrénées Atlantiques</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>ouvert toute l annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>70</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>idem, dans la vallee d Ossau</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Quartier Monplaisir, 64260 GERE BELESTEN</value>
+					</Data>
+					<Data name='GPS'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 59 82 61 18</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/wl3BvX</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.42572,43.02473,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal Au Pied de l Aubisque 3*</name>
+				<description><![CDATA[Departement: Pyrénées Atlantiques<br>Opening Dates: ouvert toute l annee<br>Budget €/j: 15-20<br>Emplacement: 53<br>Locations: mobilhomes<br>description: au cœur de la Vallée d’Ossau, sur la commune de Béost<br>Adresse: Quartier Laneplaa, 64 440 BEOST<br>GPS: <br>Phone: 05 59 82 45 05<br>Website: http://goo.gl/VSNdca]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Pyrénées Atlantiques</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>ouvert toute l annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>53</value>
+					</Data>
+					<Data name='Locations'>
+						<value>mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>au cœur de la Vallée d’Ossau, sur la commune de Béost</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Quartier Laneplaa, 64 440 BEOST</value>
+					</Data>
+					<Data name='GPS'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 59 82 45 05</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/VSNdca</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.414219,42.99316,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal CAROLE 2*</name>
+				<description><![CDATA[Departement: Pyrénées Atlantiques<br>Opening Dates: Mars - mi Octobre<br>Budget €/j: 10-15<br>Emplacement: 46<br>Locations: non<br>description: Situé en centre Vallée d'Aspe, à quelques pas du village de Bedous,<br>Adresse: 64490 BEDOUS<br>GPS: <br>Phone: 05 59 34 59 19<br>Website: www.tourisme-aspe.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Pyrénées Atlantiques</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mars - mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>46</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé en centre Vallée d'Aspe, à quelques pas du village de Bedous,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>64490 BEDOUS</value>
+					</Data>
+					<Data name='GPS'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 59 34 59 19</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-aspe.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.598068,42.998621,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal le LAUZART 2*</name>
+				<description><![CDATA[Departement: Pyrénées Atlantiques<br>Opening Dates: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacement: 50<br>Locations: non<br>description: pour les randonneurs du GR10 ou camp de base pour découvrir les montagnes aspoises<br><br>Adresse: 64490 LESCUN<br>GPS: ns<br>Phone: 05 59 34 61 77<br>Website: http://camping-lescun.com/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Pyrénées Atlantiques</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>50</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>pour les randonneurs du GR10 ou camp de base pour découvrir les montagnes aspoises
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>64490 LESCUN</value>
+					</Data>
+					<Data name='GPS'>
+						<value>ns</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 59 34 61 77</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://camping-lescun.com/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.63446,42.932296,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal L OREE du BOIS 2*</name>
+				<description><![CDATA[Departement: Pyrénées Atlantiques<br>Opening Dates: juin au 30 septembre<br>Budget €/j: 15-20<br>Emplacement: 67<br>Locations: chalets - Bungalows<br>description: sur une colline face aux Pyrénées, tarifs reduits pour la piscine<br>Adresse: 2 allee des sports , 64000 ARTHEZ DE BEARN<br>GPS: <br>Phone: 05 59 67 76 56<br>Website: http://www.camping-arthez.com/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Pyrénées Atlantiques</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>juin au 30 septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>67</value>
+					</Data>
+					<Data name='Locations'>
+						<value>chalets - Bungalows</value>
+					</Data>
+					<Data name='description'>
+						<value>sur une colline face aux Pyrénées, tarifs reduits pour la piscine</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>2 allee des sports , 64000 ARTHEZ DE BEARN</value>
+					</Data>
+					<Data name='GPS'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 59 67 76 56</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.camping-arthez.com/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.62032,43.465005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  CHIBAU BERRIA 2*</name>
+				<description><![CDATA[Departement: Pyrénées Atlantiques<br>Opening Dates: Juin-Septembre<br>Budget €/j: 25-30<br>Emplacement: 215<br>Locations: non<br>description: à 2 km du centre ville de Saint-Jean-de-Luz, dans un cadre naturel privilégié, face à la mer.<br>Adresse: 525 Chemin de Chibau Berria, 64500 ST JEAN DE LUZ<br>GPS: 43.408274,-1.635936<br>Phone: 05 59 26 11 94 <br>Website: http://goo.gl/Ap5GOn]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Pyrénées Atlantiques</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>215</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>à 2 km du centre ville de Saint-Jean-de-Luz, dans un cadre naturel privilégié, face à la mer.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>525 Chemin de Chibau Berria, 64500 ST JEAN DE LUZ</value>
+					</Data>
+					<Data name='GPS'>
+						<value>43.408274,-1.635936</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 59 26 11 94 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/Ap5GOn</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.6354180000000003,43.408352,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  MOSQUEROS 2*</name>
+				<description><![CDATA[Departement: Pyrénées Atlantiques<br>Opening Dates: ouvert toute l annee<br>Budget €/j: 10-15<br>Emplacement: 62<br>Locations: non<br>description: A proximité des thermes (1 km) et du centre de Salies-de-Béarn,<br>Adresse: Route de Bayonne, 64270 SALIES DE BEARN<br>GPS: 43.4762837,-0.9381991<br>Phone: 06 73 12 52 37<br>Website: http://goo.gl/JRsLVn]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Pyrénées Atlantiques</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>ouvert toute l annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>62</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>A proximité des thermes (1 km) et du centre de Salies-de-Béarn,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Bayonne, 64270 SALIES DE BEARN</value>
+					</Data>
+					<Data name='GPS'>
+						<value>43.4762837,-0.9381991</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 73 12 52 37</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/JRsLVn</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.9385159999999999,43.475844,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal le Pont Lat 2*</name>
+				<description><![CDATA[Departement: Pyrénées Atlantiques<br>Opening Dates: Juin - Septembre<br>Budget €/j: 10-15<br>Emplacement: 20<br>Locations: non<br>description: Situé au cœur du Béarn, a cote de la piscine municipale<br>Adresse: 64360 MONEIN<br>GPS: <br>Phone: 05 59 71 27 23<br>Website: http://goo.gl/54qz2d]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Pyrénées Atlantiques</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juin - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>20</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé au cœur du Béarn, a cote de la piscine municipale</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>64360 MONEIN</value>
+					</Data>
+					<Data name='GPS'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 59 71 27 23</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/54qz2d</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.576782,43.321181,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal PLAZA BERRI 2*</name>
+				<description><![CDATA[Departement: Pyrénées Atlantiques<br>Opening Dates: Avril-Octobre<br>Budget €/j: 10-15<br>Emplacement: 53<br>Locations: non<br>description: Situé à 200m du centre ville<br>Adresse: Avenue du fronton, 64220 SAINT-JEAN-PIED-DE-PORT<br>GPS: 43.160552,-1.236827<br>Phone: 05 59 37 11 19<br>Website: http://goo.gl/GVb6Za]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Pyrénées Atlantiques</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>53</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé à 200m du centre ville</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue du fronton, 64220 SAINT-JEAN-PIED-DE-PORT</value>
+					</Data>
+					<Data name='GPS'>
+						<value>43.160552,-1.236827</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 59 37 11 19</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/GVb6Za</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.236906,43.160615,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal de L IROULEGUY 2*</name>
+				<description><![CDATA[Departement: Pyrénées Atlantiques<br>Opening Dates: Mai - Novembre<br>Budget €/j: 10-15<br>Emplacement: 67<br>Locations: non<br>description: le camping est situé en bordure de rivière dans un cadre verdoyant et ombragé.15 mn de l'Espagne<br>Adresse: Borciriette, 64430 ST ETIENNE DE BAIGORRY<br>GPS: 43.183729,-1.335679<br>Phone: 05 59 37 40 80<br>Website: http://goo.gl/LV6ib4 ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Pyrénées Atlantiques</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai - Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>67</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>le camping est situé en bordure de rivière dans un cadre verdoyant et ombragé.15 mn de l'Espagne</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Borciriette, 64430 ST ETIENNE DE BAIGORRY</value>
+					</Data>
+					<Data name='GPS'>
+						<value>43.183729,-1.335679</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 59 37 40 80</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/LV6ib4 </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.335933,43.184323,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  le PRE SEC 3*</name>
+				<description><![CDATA[Departement: Dordogne<br>Opening Dates: Mai-Septembre <br>Budget €/j: 10-15<br>Emplacement: 74<br>Locations: 14 Bungalows toute l annee<br>description: situé en bordure de rivière "La Dronne" et à 500 m du bourg<br>Adresse: 24350 TOCANE ST APRE<br>GPS: 45.257187,0.494807<br>Phone: 05 53 90 40 60<br>Website: www.campingdupresec.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Dordogne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre </value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>74</value>
+					</Data>
+					<Data name='Locations'>
+						<value>14 Bungalows toute l annee</value>
+					</Data>
+					<Data name='description'>
+						<value>situé en bordure de rivière "La Dronne" et à 500 m du bourg</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>24350 TOCANE ST APRE</value>
+					</Data>
+					<Data name='GPS'>
+						<value>45.257187,0.494807</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 90 40 60</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campingdupresec.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.49454600000000004,45.257957,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  le REPAIRE 3*</name>
+				<description><![CDATA[Departement: Dordogne<br>Opening Dates: 15 Mai - 1er Septembre<br>Budget €/j: 20-25<br>Emplacement: 90<br>Locations: 10 chalets<br>description: aux portes du parc naturel régional Périgord-Limousin<br>Adresse: le repaire, 24800 THIVIERS<br>GPS: 45.412641,0.934993<br>Phone: 05 53 52 69 75<br>Website: www.camping-le-repaire.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Dordogne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>15 Mai - 1er Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>90</value>
+					</Data>
+					<Data name='Locations'>
+						<value>10 chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>aux portes du parc naturel régional Périgord-Limousin</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>le repaire, 24800 THIVIERS</value>
+					</Data>
+					<Data name='GPS'>
+						<value>45.412641,0.934993</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 52 69 75</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-le-repaire.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.9348250000000001,45.412536,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  Saint Pardoux la Rivoirerie 2*</name>
+				<description><![CDATA[Departement: Dordogne<br>Opening Dates: ns<br>Budget €/j: 10-15<br>Emplacement: 39<br>Locations: non<br>description: Terrain de camping à proximité de la rivière la Dronne, offrant calme et détente.<br>Adresse: La Font Pissotte,  24470 ST PARDOUX LA RIVIERE<br>GPS: <br>Phone: 05 53 60 81 74<br>Website: http://goo.gl/AuX8lA ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Dordogne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>39</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Terrain de camping à proximité de la rivière la Dronne, offrant calme et détente.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>La Font Pissotte,  24470 ST PARDOUX LA RIVIERE</value>
+					</Data>
+					<Data name='GPS'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 60 81 74</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/AuX8lA </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.74825,45.496646,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  ST LEON / VEZERE</name>
+				<description><![CDATA[Departement: Dordogne<br>Opening Dates: Mai -Septembre<br>Budget €/j: 10-15<br>Emplacement: 20<br>Locations: non<br>description: camping ombragé a une situation privilégiée au coeur du village et au bord de la Vézere<br><br>Adresse: 24290 ST LEON SUR VEZERE<br>GPS: 45.011487,1.088857<br>Phone: 05 53 50 73 16<br>Website: http://goo.gl/DFdvaO ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Dordogne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai -Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>20</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>camping ombragé a une situation privilégiée au coeur du village et au bord de la Vézere
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>24290 ST LEON SUR VEZERE</value>
+					</Data>
+					<Data name='GPS'>
+						<value>45.011487,1.088857</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 50 73 16</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/DFdvaO </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.088891,45.011525,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  le BOURNIOU 2*</name>
+				<description><![CDATA[Departement: Dordogne<br>Opening Dates: Juin - Septembre<br>Budget €/j: 15-20<br>Emplacement: 160<br>Locations: tentes<br>description: Au bord de l'eau, sur la rive gauche de la Dordogne<br>Adresse: Le Bourniou, 24370 ST JULIEN DE LAMPON<br>GPS: 44.863945,1.359362<br>Phone: 05 53 29 83 39<br>Website: www.camping-bourniou.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Dordogne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juin - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>160</value>
+					</Data>
+					<Data name='Locations'>
+						<value>tentes</value>
+					</Data>
+					<Data name='description'>
+						<value>Au bord de l'eau, sur la rive gauche de la Dordogne</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Bourniou, 24370 ST JULIEN DE LAMPON</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.863945,1.359362</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 29 83 39</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-bourniou.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.360073,44.86402100000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  de la PLAGE 3*</name>
+				<description><![CDATA[Departement: Dordogne<br>Opening Dates: Juin - Septembre<br>Budget €/j: 10-15<br>Emplacement: 70<br>Locations: Chalets-Huttes-Mobilhomes<br>description: Plage surveillee sur la riviere, piscine, pour des vacances en famille<br>Adresse: au pont, 24410 ST AULAYE<br>GPS: 45.207985,0.132884<br>Phone: 05 53 90 62 20<br>Website: www.saint-aulaye.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Dordogne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juin - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>70</value>
+					</Data>
+					<Data name='Locations'>
+						<value>Chalets-Huttes-Mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Plage surveillee sur la riviere, piscine, pour des vacances en famille</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>au pont, 24410 ST AULAYE</value>
+					</Data>
+					<Data name='GPS'>
+						<value>45.207985,0.132884</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 90 62 20</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saint-aulaye.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.132222,45.208045,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  VIEUX MOULIN </name>
+				<description><![CDATA[Departement: Dordogne<br>Opening Dates: Juin-Septembre<br>Budget €/j: 20-25<br>Emplacement: 12.44<br>Locations: non<br>description: Un Muni discret au Pays du bien vivre et bien manger !<br>Adresse: 10 rue Arnaud de Mareuil, 24340 MAREUIL<br>GPS: 45.44711,0.450393<br>Phone: 05 53 60 99 80<br>Website: http://mareuil.camping.free.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Dordogne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>12.44</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Un Muni discret au Pays du bien vivre et bien manger !</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>10 rue Arnaud de Mareuil, 24340 MAREUIL</value>
+					</Data>
+					<Data name='GPS'>
+						<value>45.44711,0.450393</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 60 99 80</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://mareuil.camping.free.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.45129800000000003,45.446824,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  du Meridien</name>
+				<description><![CDATA[Departement: Dordogne<br>Opening Dates: mi Avril-Septembre<br>Budget €/j: 10-15<br>Emplacement: 100<br>Locations: 4 mobilhomes<br>description: piscine municipale gratuite pour les campeurs<br>Adresse: rue de la dronne, 24490 La Roche-Chalais<br>GPS: 45.149495,-0.000561<br>Phone: 05 53 91 40 65<br>Website: www.larochechalais.com/chrono/index.php]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Dordogne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>100</value>
+					</Data>
+					<Data name='Locations'>
+						<value>4 mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>piscine municipale gratuite pour les campeurs</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue de la dronne, 24490 La Roche-Chalais</value>
+					</Data>
+					<Data name='GPS'>
+						<value>45.149495,-0.000561</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 91 40 65</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.larochechalais.com/chrono/index.php</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.001931,45.148836,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  le LAC 3*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Avril - Octobre<br>Budget €/j: 20-25<br>Emplacement: 249<br>Locations: direct proprietaires<br>description: Niché dans un cadre idyllique, sur la pointe sud du Lac de Biscarrosse <br>Adresse: route du lac, 40200 STE EULALIE EN BORN<br>GPS: 44.306468,-1.179155<br>Phone: 05 58 09 70 10 <br>Website: www.lecampingdulac.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>249</value>
+					</Data>
+					<Data name='Locations'>
+						<value>direct proprietaires</value>
+					</Data>
+					<Data name='description'>
+						<value>Niché dans un cadre idyllique, sur la pointe sud du Lac de Biscarrosse </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route du lac, 40200 STE EULALIE EN BORN</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.306468,-1.179155</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 09 70 10 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lecampingdulac.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.178284,44.307512,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  LA LETTE FLEURIE 3*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Mai-Septembre<br>Budget €/j: 20-25<br>Emplacement: 460<br>Locations: non<br>description: Dans un cadre calme et agréable, PLAGE de CONTIS a 4km piste cyclable<br>Adresse: 40170 ST JULIEN EN BORN<br>GPS: 44.081173,-1.261503<br>Phone: 05 58 42 74 09 <br>Website: www.camping-municipal-plage.com/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>460</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans un cadre calme et agréable, PLAGE de CONTIS a 4km piste cyclable</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>40170 ST JULIEN EN BORN</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.081173,-1.261503</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 42 74 09 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-municipal-plage.com/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.262012,44.081836,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  SARBAZAN 2*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacement: 56<br>Locations: Bungalows<br>description: Best kept secret avec des HLL a la location<br>Adresse: 40120 SARBAZAN<br>GPS: <br>Phone: 05 58 45 64 93 <br>Website: http://goo.gl/dbvVo4]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>56</value>
+					</Data>
+					<Data name='Locations'>
+						<value>Bungalows</value>
+					</Data>
+					<Data name='description'>
+						<value>Best kept secret avec des HLL a la location</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>40120 SARBAZAN</value>
+					</Data>
+					<Data name='GPS'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 45 64 93 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/dbvVo4</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.3265,44.022693,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  L ARRIU 3*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Juillet-mi Septembre<br>Budget €/j: 10-15<br>Emplacement: 74<br>Locations: 3 HLL<br>description: Best kept secret avec piscine gratuite et 3 HLL a la location<br>Adresse: 525 chemin de l arriu, 40410 PISSOS<br>GPS: 44.305869,-0.769282<br>Phone: 05 58 08 90 38 <br>Website: http://goo.gl/zzv8SS]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juillet-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>74</value>
+					</Data>
+					<Data name='Locations'>
+						<value>3 HLL</value>
+					</Data>
+					<Data name='description'>
+						<value>Best kept secret avec piscine gratuite et 3 HLL a la location</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>525 chemin de l arriu, 40410 PISSOS</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.305869,-0.769282</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 08 90 38 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/zzv8SS</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.769343,44.305854,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  la GALUPE 2*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Juillet - Aout<br>Budget €/j: 10-15<br>Emplacement: 30<br>Locations: non<br>description: Camping ombragé, calme <br>Adresse: 242 chemin du camping, 40300 SORDE L ABBAYE<br>GPS: 43.531158,-1.064007<br>Phone: 05 58 73 18 13 <br>Website: http://goo.gl/iumhHp]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juillet - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>30</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Camping ombragé, calme </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>242 chemin du camping, 40300 SORDE L ABBAYE</value>
+					</Data>
+					<Data name='GPS'>
+						<value>43.531158,-1.064007</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 73 18 13 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/iumhHp</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.063871,43.531003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  La Passerelle 2*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: ns<br>Budget €/j: 15-20<br>Emplacement: 89<br>Locations: non<br>description: cadre calme et agréable, à l'ombre des pins des Landes<br>Adresse: Route des Lacs, 40170 ST JULIEN EN BORN<br>GPS: 44.068702,-1.229657<br>Phone: 05 58 42 80 18 <br>Website: www.camping-municipal-bourg.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>89</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>cadre calme et agréable, à l'ombre des pins des Landes</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route des Lacs, 40170 ST JULIEN EN BORN</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.068702,-1.229657</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 42 80 18 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-municipal-bourg.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.229412,44.06863200000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  le GALAN 2*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Fevrier- Novembre<br>Budget €/j: 10-15<br>Emplacement: 400<br>Locations: Chalets, mobilhomes, Bungalows<br>description: dans un cadre de verdure de 4 hectares, des espaces aérés et ombragés par de nombreux chênes.<br>Adresse: 73, Rue du stade, 40260 Castets<br>GPS: 43.880484,-1.137526<br>Phone: 05 58 89 43 52<br>Website: www.camping-legalan.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Fevrier- Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>400</value>
+					</Data>
+					<Data name='Locations'>
+						<value>Chalets, mobilhomes, Bungalows</value>
+					</Data>
+					<Data name='description'>
+						<value>dans un cadre de verdure de 4 hectares, des espaces aérés et ombragés par de nombreux chênes.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>73, Rue du stade, 40260 Castets</value>
+					</Data>
+					<Data name='GPS'>
+						<value>43.880484,-1.137526</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 89 43 52</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-legalan.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.1373,43.880464,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  la Rouergue 2*</name>
+				<description><![CDATA[Departement: Gironde<br>Opening Dates: Mai -Septembre<br>Budget €/j: 15-20<br>Emplacement: ns<br>Locations: non<br>description: Sur ce site calme et reposant, vous trouverez un accueil chaleureux<br>Adresse: 33190 LA REOLE<br>GPS: 44.577355,-0.033735<br>Phone: 06 20 31 98 12<br>Website: http://goo.gl/WPflHx]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai -Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>ns</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Sur ce site calme et reposant, vous trouverez un accueil chaleureux</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>33190 LA REOLE</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.577355,-0.033735</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 20 31 98 12</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/WPflHx</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.033131,44.577569,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  au Jardin</name>
+				<description><![CDATA[Departement: Lot et Garonne<br>Opening Dates: Juin-Septembre<br>Budget €/j: 5-10<br>Emplacement: 50<br>Locations: non<br>description: situe près du village perché de Meilhan, baignade surveillee<br><br><br>Adresse: 47180 Meilhan-sur-Garonne<br>GPS: 44.522779,0.037097<br>Phone: 05 53 94 30 04<br>Website: http://goo.gl/VifmJQ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Lot et Garonne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>50</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>situe près du village perché de Meilhan, baignade surveillee
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>47180 Meilhan-sur-Garonne</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.522779,0.037097</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 94 30 04</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/VifmJQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.036993,44.523039,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal de POUILLON</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Juillet - Aout<br>Budget €/j: 10-15<br>Emplacement: 20<br>Locations: non<br>description: dans un cadre convivial, au bord d’un ruisseau.<br>Adresse: Bd des sports, 40350 POUILLON<br>GPS: 43.610096,-0.991732<br>Phone: 05 58 98 21 62<br>Website: http://goo.gl/IiR3bb]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juillet - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>20</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>dans un cadre convivial, au bord d’un ruisseau.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Bd des sports, 40350 POUILLON</value>
+					</Data>
+					<Data name='GPS'>
+						<value>43.610096,-0.991732</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 98 21 62</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/IiR3bb</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.991452,43.610119,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aire Naturelle Municipale LUXEY</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: ns<br>Budget €/j: 5-10<br>Emplacement: 25<br>Locations: non<br>description: en cours de verification<br>Adresse: <br>GPS: <br>Phone: 05 58 04 70 70<br>Website: http://goo.gl/QV9QCX]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>25</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>en cours de verification</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='GPS'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 58 04 70 70</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/QV9QCX</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.519791,44.266346,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aire Municipale Naturelle ACCOUS</name>
+				<description><![CDATA[Departement: Pyrénées Atlantiques<br>Opening Dates: Mai-Octobre<br>Budget €/j: 5-10<br>Emplacement: 25<br>Locations: non<br>description: Situé à 1000m d'altitude au cœur de la Vallée d'Aspe, dans les Pyrénées Atlantiques,<br>Adresse: Route du Caillaü et de LacuardeQuartier Lhers, 64490 ACCOUS<br>GPS: <br>Phone: 06 70 20 45 86<br>Website: http://goo.gl/qwHqkx]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Pyrénées Atlantiques</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>25</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé à 1000m d'altitude au cœur de la Vallée d'Aspe, dans les Pyrénées Atlantiques,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route du Caillaü et de LacuardeQuartier Lhers, 64490 ACCOUS</value>
+					</Data>
+					<Data name='GPS'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 70 20 45 86</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/qwHqkx</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.606222,42.979346,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal de l Allemans du dropt</name>
+				<description><![CDATA[Departement: Lot et Garonne<br>Opening Dates: mi Avril-mi Octobre<br>Budget €/j: 5-10<br>Emplacement: 7<br>Locations: non<br>description: Situé au coeur d'un charmant village de caractère, <br>Adresse: 47800 ALLEMANS-DU-DROPT<br>GPS: 44.6286034, 0.29142737<br>Phone: 07 88 47 03 17<br>Website: http://goo.gl/swI9vN]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Lot et Garonne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Avril-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>7</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé au coeur d'un charmant village de caractère, </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>47800 ALLEMANS-DU-DROPT</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.6286034, 0.29142737</value>
+					</Data>
+					<Data name='Phone'>
+						<value>07 88 47 03 17</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/swI9vN</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.29139,44.628817000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal du Vieux Moulin</name>
+				<description><![CDATA[Departement: Lot et Garonne<br>Opening Dates: saison<br>Budget €/j: 10-15<br>Emplacement: 48<br>Locations: non<br>description: Pres du Lot dans un cadre fleuri et ombrage.<br><br><br>Adresse: route de villeneuve, 47190 AIGUILLON<br>GPS: 44.30461,0.34465<br>Phone: 05 53 79 61 43<br>Website: http://goo.gl/QYgY5t]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Lot et Garonne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>saison</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>48</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Pres du Lot dans un cadre fleuri et ombrage.
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route de villeneuve, 47190 AIGUILLON</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.30461,0.34465</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 79 61 43</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/QYgY5t</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.344417,44.304733,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal du Lac 1* </name>
+				<description><![CDATA[Departement: Lot et Garonne<br>Opening Dates: mi Juin-mi Septembre<br>Budget €/j: 10-15<br>Emplacement: 64<br>Locations: non<br>description: dans un paisible sous-bois au cœur des coteaux<br>Adresse: route du Lac, 47290 CANCON<br>GPS: 44.524707,0.639113<br>Phone: 05 53 41 11 39 <br>Website: http://goo.gl/mXixDe ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Lot et Garonne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>64</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>dans un paisible sous-bois au cœur des coteaux</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route du Lac, 47290 CANCON</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.524707,0.639113</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 41 11 39 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/mXixDe </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.639009,44.524783,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal de Clairac 2*</name>
+				<description><![CDATA[Departement: Lot et Garonne<br>Opening Dates: Juillet - Aout<br>Budget €/j: <br>Emplacement: 50<br>Locations: non<br>description: ombragé situé au bord de la rivière Lot.<br>Adresse: Route de la plage, 47320 CLAIRAC <br>GPS: ns<br>Phone: 05 53 84 22 21<br>Website: http://goo.gl/Ag5IF2]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Lot et Garonne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juillet - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>50</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>ombragé situé au bord de la rivière Lot.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de la plage, 47320 CLAIRAC </value>
+					</Data>
+					<Data name='GPS'>
+						<value>ns</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 84 22 21</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/Ag5IF2</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.391388,44.362151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Intercommunal des Coteaux de Garonne</name>
+				<description><![CDATA[Departement: Gironde<br>Opening Dates: mi Juin=mi Septembre<br>Budget €/j: 15-20<br>Emplacement: 30<br>Locations: non<br>description: à quelques pas des fortifications de la bastide de Cadillac. Piscine municipale<br>Adresse: rue du Porc, 33410 CADILLAC <br>GPS: 44.634895,-0.321255<br>Phone: 05 56 62 72 98<br>Website: http://goo.gl/K5l0HC ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Juin=mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>30</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>à quelques pas des fortifications de la bastide de Cadillac. Piscine municipale</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue du Porc, 33410 CADILLAC </value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.634895,-0.321255</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 56 62 72 98</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/K5l0HC </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.321661,44.634704,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal les Oyats 2*</name>
+				<description><![CDATA[Departement: Gironde<br>Opening Dates: Avril-Septembre<br>Budget €/j: 30-35<br>Emplacement: 164<br>Locations: chalets<br>description: Emplacements de 100m2 agréablement arborés<br>Adresse: Boulevard Guy Albospeyre, 33780 SOULAC SUR MER<br>GPS: 45.483003,-1.138379<br>Phone: 05 56 09 78 54<br>Website: http://campinglesoyats.jimdo.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>30-35</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>164</value>
+					</Data>
+					<Data name='Locations'>
+						<value>chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>Emplacements de 100m2 agréablement arborés</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Boulevard Guy Albospeyre, 33780 SOULAC SUR MER</value>
+					</Data>
+					<Data name='GPS'>
+						<value>45.483003,-1.138379</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 56 09 78 54</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://campinglesoyats.jimdo.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.13893,45.483063,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  de la Verdalle 2*</name>
+				<description><![CDATA[Departement: Gironde<br>Opening Dates: mi Avril-Septembre<br>Budget €/j: 25-30<br>Emplacement: 108<br>Locations: Tentes - Bungalows<br>description: grands emplacements sur des terrains plats<br>Adresse: 2 allee de l Infante, 33470 GUJAN MESTRAT<br>GPS: 44.643895,-1.110522<br>Phone: 05 56 66 12 62<br>Website: http://www.campingdeverdalle.com/ ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>108</value>
+					</Data>
+					<Data name='Locations'>
+						<value>Tentes - Bungalows</value>
+					</Data>
+					<Data name='description'>
+						<value>grands emplacements sur des terrains plats</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>2 allee de l Infante, 33470 GUJAN MESTRAT</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.643895,-1.110522</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 56 66 12 62</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.campingdeverdalle.com/ </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.110864,44.643926,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  du Pont du Gers</name>
+				<description><![CDATA[Departement: Lot et Garonne<br>Opening Dates: Juin - Septembre<br>Budget €/j: 10-15<br>Emplacement: 30<br>Locations: non<br>description: dans un cadre verdoyant et ombragé, à deux pas des commerces<br>Adresse: 47220 ASTAFFORT<br>GPS: 44.065603 / 0.648751<br>Phone: 05 53 67 13 33<br>Website: http://goo.gl/q6Fwza ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Lot et Garonne</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juin - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>30</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>dans un cadre verdoyant et ombragé, à deux pas des commerces</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>47220 ASTAFFORT</value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.065603 / 0.648751</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 53 67 13 33</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/q6Fwza </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.64903,44.065957,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  de Roquefort 2*</name>
+				<description><![CDATA[Departement: Landes<br>Opening Dates: Mi Juin - Aout<br>Budget €/j: 10-15<br>Emplacement: 36<br>Locations: non<br>description: Faites comme chez vous, installez vous !<br>Adresse: 78 allee de Nauton, 40245 ROQUEFORT des LANDES <br>GPS: 44.046851,-0.322816<br>Phone: pas de tel, installez vous<br>Website: www.roquefort-des-landes.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Landes</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mi Juin - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>36</value>
+					</Data>
+					<Data name='Locations'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Faites comme chez vous, installez vous !</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>78 allee de Nauton, 40245 ROQUEFORT des LANDES </value>
+					</Data>
+					<Data name='GPS'>
+						<value>44.046851,-0.322816</value>
+					</Data>
+					<Data name='Phone'>
+						<value>pas de tel, installez vous</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.roquefort-des-landes.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.323625,44.046944,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal de l Océan</name>
+				<description><![CDATA[Departement: Gironde<br>Opening Dates: 9 mois/an tbc<br>Budget €/j: 25-30<br>Emplacement: 70<br>Locations: emplacements mobilhomes<br>description: NEW 2015 ! Ce nouveau Muni est  sur l emplacement de l ex camping GCU. Le camping n est pas encore référencé dans le site de OT de tourisme, mais cela ne devrait pas tarder...<br>Adresse: Avenue de Joinville, 33390 Vendays Montalivet<br>GPS: <br>Phone: 05 56 73 32 02<br>Website: http://www.ot-vendays-montalivet.fr/ ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Gironde</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>9 mois/an tbc</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacement'>
+						<value>70</value>
+					</Data>
+					<Data name='Locations'>
+						<value>emplacements mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>NEW 2015 ! Ce nouveau Muni est  sur l emplacement de l ex camping GCU. Le camping n est pas encore référencé dans le site de OT de tourisme, mais cela ne devrait pas tarder...</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue de Joinville, 33390 Vendays Montalivet</value>
+					</Data>
+					<Data name='GPS'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 56 73 32 02</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.ot-vendays-montalivet.fr/ </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.152792,45.3844812,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

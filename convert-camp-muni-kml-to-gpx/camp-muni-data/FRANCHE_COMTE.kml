@@ -1,0 +1,1306 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>FRANCHE COMTE  Campings Municipaux</name>
+		<description><![CDATA[Camping Municipaux Jura, Doubs, Belfort et Haute Saône<br>]]></description>
+		<Folder>
+			<name>Calque sans titre</name>
+			<Placemark>
+				<name>Camping MUNICIPAL du CHAMP de MARS 3*</name>
+				<description><![CDATA[Departement: Jura<br>Ouverture: Mi Decembre - Septembre<br>Budget €/j: 15-20<br>Emplacements: 135<br>Location: chalets<br>description: Dans le Parc naturel du Haut-Jura, à 700 mètres du centre-ville<br>Adresse: Rue du Camping, 39150 ST LAURENT EN GRANDVAUX<br>Phone: 03 84 60 19 30 <br>Website: http://camping-saint-laurent-jura.fr/ ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Jura</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mi Decembre - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>135</value>
+					</Data>
+					<Data name='Location'>
+						<value>chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans le Parc naturel du Haut-Jura, à 700 mètres du centre-ville</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue du Camping, 39150 ST LAURENT EN GRANDVAUX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 60 19 30 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://camping-saint-laurent-jura.fr/ </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.962915000000001,46.576268,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Salins les bains 2*</name>
+				<description><![CDATA[Departement: Jura<br>Ouverture: Avril - Octobre<br>Budget €/j: 15-20<br>Emplacements: 46<br>Location: non<br>description: Proche du centre ville Piscine extérieure à 600 m des Thermes<br>Adresse: place de l ancienne gare, 39110 SALINS LES BAINS<br>Phone: 03 84 37 92 70<br>Website: http://goo.gl/SoMoSv ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Jura</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>46</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Proche du centre ville Piscine extérieure à 600 m des Thermes</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>place de l ancienne gare, 39110 SALINS LES BAINS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 37 92 70</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/SoMoSv </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.876656,46.937136,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL St JULIEN </name>
+				<description><![CDATA[Departement: Jura<br>Ouverture: Mai - Octobre<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: non<br>description: Situé à 500 mètres du village où se trouvent les commerces <br>Adresse: rue du stade ,39320 ST JULIEN<br>Phone: 03 84 85 42 37 <br>Website: http://goo.gl/NwFrXl]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Jura</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé à 500 mètres du village où se trouvent les commerces </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue du stade ,39320 ST JULIEN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 85 42 37 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/NwFrXl</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.454626,46.393891,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES ILES 1*</name>
+				<description><![CDATA[Departement: Doubs<br>Ouverture: Avril-Octobre<br>Budget €/j: 10-15<br>Emplacements: 60<br>Location: non<br>description: Un terrain de pétanque est à la disposition des campeurs<br>Adresse: Route de l isle sur le doubs, 25340 CLERVAL<br>Phone: 06.75.39.50.68<br>Website: http://goo.gl/tJ8pqV  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Doubs</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Un terrain de pétanque est à la disposition des campeurs</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de l isle sur le doubs, 25340 CLERVAL</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06.75.39.50.68</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/tJ8pqV  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.506481,47.396839,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Goumois 1*</name>
+				<description><![CDATA[Departement: Doubs<br>Ouverture: Avril-Octobre<br>Budget €/j: 10-15<br>Emplacements: 38<br>Location: non<br>description: au bord du Doubs, à 400m du village. Endroit calme, pleine nature<br>Adresse: rue de la Forge, 25470 GOUMOIS<br>Phone: 03 81 44 28 24<br>Website: http://goo.gl/ZTj9uO  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Doubs</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>38</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>au bord du Doubs, à 400m du village. Endroit calme, pleine nature</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue de la Forge, 25470 GOUMOIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 81 44 28 24</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/ZTj9uO  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.950226,47.261291,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le CHAMPALOUX </name>
+				<description><![CDATA[Departement: Doubs<br>Ouverture: Mai - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 60<br>Location: non<br>description: Dans un cadre de verdure, en bordure de rivière dans la vallée de la Loue <br>Adresse: Champaloux, 25930 LODS<br>Phone: 03 81 60 90 11<br>Website: http://goo.gl/qSVnyJ     ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Doubs</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans un cadre de verdure, en bordure de rivière dans la vallée de la Loue </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Champaloux, 25930 LODS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 81 60 90 11</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/qSVnyJ     </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.246758,47.044043,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Saint Point du Lac 3*</name>
+				<description><![CDATA[Departement: Doubs<br>Ouverture: Mai - Septembre<br>Budget €/j: 15-20<br>Emplacements: 84<br>Location: non<br>description: massif du Jura - 850 m d'altitude a cote d un lac <br>Adresse: 8, rue du Port, 25160 ST POINT LAC<br>Phone: 03 81 69 61 64<br>Website: www.camping-saintpointlac.fr  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Doubs</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>84</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>massif du Jura - 850 m d'altitude a cote d un lac </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>8, rue du Port, 25160 ST POINT LAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 81 69 61 64</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-saintpointlac.fr  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.304092,46.811339,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BORDS DE LOUE 2**</name>
+				<description><![CDATA[Departement: Doubs<br>Ouverture: ns<br>Budget €/j: 15-20<br>Emplacements: 27<br>Location: <br>description: <br>Adresse: chemin des graduations, 325610 ARC ET SENANS<br>Phone: 03 81 57 50 28<br>Website: www.camping-des-bords-de-loue.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Doubs</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>27</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>chemin des graduations, 325610 ARC ET SENANS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 81 57 50 28</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-des-bords-de-loue.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.767479,47.034801,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL PRE BAILLY 2**</name>
+				<description><![CDATA[Departement: Doubs<br>Ouverture: mi Mars-Septembre<br>Budget €/j: 10-15<br>Emplacements: 37<br>Location: <br>description: <br>Adresse: 25840 VUILLAFANS<br>Phone: 03 81 60 91 52<br>Website: http://vuillafans.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Doubs</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>37</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>25840 VUILLAFANS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 81 60 91 52</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://vuillafans.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.216888,47.063574,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES PROMENADES 3*</name>
+				<description><![CDATA[Departement: Doubs<br>Ouverture: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 75<br>Location: <br>description: <br>Adresse: 25440 QUINGEY<br>Phone: 03 81 63 74 01<br>Website: www.campingquingey.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Doubs</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>75</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>25440 QUINGEY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 81 63 74 01</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campingquingey.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.884209,47.102031,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL d' AUTREY le VAY 2*</name>
+				<description><![CDATA[Departement: Haute Saone <br>Ouverture: mi Avril-mi Octobre<br>Budget €/j: 10-15 TARIFS 2009<br>Emplacements: 20<br>Location: chalets<br>description: en bordure de rivière dans un village tres calme de 70 habitants<br>Adresse: 70110 AUTREY LE VAY<br>Phone: 03 84 63 40 83 ou 06 32 65 50 05<br>Website: www.oppenans.com/autrey.htm ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haute Saone </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15 TARIFS 2009</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='Location'>
+						<value>chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>en bordure de rivière dans un village tres calme de 70 habitants</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>70110 AUTREY LE VAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 63 40 83 ou 06 32 65 50 05</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.oppenans.com/autrey.htm </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.402283,47.537369,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Longue Rive </name>
+				<description><![CDATA[Departement: Haute Saone <br>Ouverture: mi Avril-Septembre<br>Budget €/j: 10-15<br>Emplacements: 72<br>Location: non<br>description: piscine chauffée avec toboggan aquatique<br>Adresse: Route de la Plage /Ile Sauzay, 70100 GRAY<br>Phone: 03 84 64 90 44<br>Website: www.cc-valdegray.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haute Saone </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>72</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>piscine chauffée avec toboggan aquatique</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de la Plage /Ile Sauzay, 70100 GRAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 64 90 44</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.cc-valdegray.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.61676,47.454094,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Venay</name>
+				<description><![CDATA[Departement: Haute Saone <br>Ouverture: mi Avril-Octobre<br>Budget €/j: 10-15<br>Emplacements: 15<br>Location: non<br>description: dans un petit village de moyenne montagne<br>Adresse: 70440 MIELLIN<br>Phone: 03 84 63 81 34 <br>Website: http://goo.gl/YOVvyP ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haute Saone </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>15</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>dans un petit village de moyenne montagne</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>70440 MIELLIN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 63 81 34 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/YOVvyP </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.740112,47.809465,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Le Patis</name>
+				<description><![CDATA[Departement: Haute Saone <br>Ouverture: Mai - Septembre<br>Budget €/j: 5-10<br>Emplacements: 50<br>Location: mobilhomes<br>description: Un muni pres de la rivieire. Petanque, ping pong, peche..<br>Adresse: Bord de l Aynans, 70200 LES AYNANS<br>Phone: 03 84 63 95 01<br>Website: http://goo.gl/bCtLce]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haute Saone </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value>mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Un muni pres de la rivieire. Petanque, ping pong, peche..</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Bord de l Aynans, 70200 LES AYNANS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 63 95 01</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/bCtLce</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.453781,47.621438,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le PAQUILLOT</name>
+				<description><![CDATA[Departement: Haute Saone <br>Ouverture: Ouvert toute l'année<br>Budget €/j: 10-15<br>Emplacements: 2 de passage<br>Location: non<br>description: Seulement 2 emplacements de pasage<br>Adresse: 70190 CIREY<br>Phone: 03 84 91 81 43<br>Website: www.cirey.fr/cirprat.html ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haute Saone </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>2 de passage</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Seulement 2 emplacements de pasage</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>70190 CIREY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 91 81 43</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.cirey.fr/cirprat.html </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.135864,47.39556,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Saone Jolie 2*</name>
+				<description><![CDATA[Departement: Haute Saone <br>Ouverture: mi Mai- mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 100<br>Location: non<br>description: Le camping se trouve au Parc de la Maladière<br>Adresse: Parc de la Maladière, 70170 PORT SUR SAONE<br>Phone: 03 84 91 51 32<br>Website: http://www.ville-port-sur-saone.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haute Saone </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Le camping se trouve au Parc de la Maladière</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Parc de la Maladière, 70170 PORT SUR SAONE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 91 51 32</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.ville-port-sur-saone.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.043854,47.688504,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Entre les 2 Ponts</name>
+				<description><![CDATA[Departement: Haute Saone <br>Ouverture: Avril- Octobre<br>Budget €/j: ns<br>Emplacements: 33<br>Location: non<br>description: Situé en bordure de l'Ognon, face à la base touristique et de plein air ou vous pourrez louer et pratiquer le canoe kayak<br>Adresse: 70230 MONTBOZON<br>Phone: 03 84 20 52 26<br>Website: http://goo.gl/MVHHP1  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haute Saone </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril- Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé en bordure de l'Ognon, face à la base touristique et de plein air ou vous pourrez louer et pratiquer le canoe kayak</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>70230 MONTBOZON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 20 52 26</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/MVHHP1  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.259117000000001,47.466165,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la LOUVIERE </name>
+				<description><![CDATA[Departement: Haute Saone <br>Ouverture: saison estivale<br>Budget €/j: ns<br>Emplacements: 30<br>Location: non<br>description: en bordure de Saône jouxtant une zone de loisirs pour enfants. Pêche Randonnées Sorties à VTT <br>Adresse: La Louvière, 70130 SOING CUBRY CHARENTENAY<br>Phone: 03 84 78 45 17<br>Website: www.tourisme-scey-valdesaone.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haute Saone </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>saison estivale</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>en bordure de Saône jouxtant une zone de loisirs pour enfants. Pêche Randonnées Sorties à VTT </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>La Louvière, 70130 SOING CUBRY CHARENTENAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 78 45 17</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-scey-valdesaone.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.877342,47.582316,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE PASSE Loup 2*</name>
+				<description><![CDATA[Departement: Territoire de Belfort <br>Ouverture: Ouvert toute l'année<br>Budget €/j: 15-20<br>Emplacements: 100<br>Location: Chalets<br>description: implanté dans un lieu ombragé, en lisière de la forêt, un endroit calme et paisible <br>Adresse: Rue des Chênes, 90100 JONCHEREY<br>Phone: 03 84 56 32 63<br>Website: www.joncherey.fr/  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Territoire de Belfort </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value>Chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>implanté dans un lieu ombragé, en lisière de la forêt, un endroit calme et paisible </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue des Chênes, 90100 JONCHEREY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 56 32 63</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.joncherey.fr/  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.015543,47.531806,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES CYCLAMENS 2*</name>
+				<description><![CDATA[Departement: Jura<br>Ouverture: Mai -Septembre<br>Budget €/j: 10-15<br>Emplacements: 160<br>Location: <br>description: <br>Adresse: La Presqu'ile, 01590 CHANCIA<br>Phone: 04 74 75 82 14<br>Website: www.camping-chancia.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Jura</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai -Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>160</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>La Presqu'ile, 01590 CHANCIA</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 74 75 82 14</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-chancia.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.638733,46.345032,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL DU VAL DE SAINE 2*</name>
+				<description><![CDATA[Departement: Jura<br>Ouverture: mi Juin - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 70<br>Location: chalets<br>description: ambiance calme et verdoyante de la montagne<br>Adresse: 39460 FONCINE LE HAUT<br>Phone: 03 84 51 93 11<br>Website: www.camping-haut-jura.com/  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Jura</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value>chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>ambiance calme et verdoyante de la montagne</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>39460 FONCINE LE HAUT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 51 93 11</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-haut-jura.com/  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.06926,46.654385,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE LAC DE NARLAY 1*</name>
+				<description><![CDATA[Departement: Jura<br>Ouverture: ns<br>Budget €/j: 15-20<br>Emplacements: 200<br>Location: <br>description:  <br>Adresse: 39130 LE FRASNOIS<br>Phone: 03 84 25 59 05 <br>Website: www.le-frasnois-jura.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Jura</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>200</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value> </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>39130 LE FRASNOIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 25 59 05 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.le-frasnois-jura.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.900002,46.636472,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BOYSE 3*</name>
+				<description><![CDATA[Departement: Jura<br>Ouverture: Avril - Septembre<br>Budget €/j: 20-25<br>Emplacements: 161<br>Location: 25 chalets<br>description: Sur un domaine de 7 hectares<br>Adresse: 20, rue Vallerey, 39300 CHAMPAGNOLE<br>Phone: 03 84 52 00 32 <br>Website: www.camping-boyse.jimdo.com/  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Jura</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>161</value>
+					</Data>
+					<Data name='Location'>
+						<value>25 chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>Sur un domaine de 7 hectares</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>20, rue Vallerey, 39300 CHAMPAGNOLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 52 00 32 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-boyse.jimdo.com/  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.903778,46.751153,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du bois Joli 2*</name>
+				<description><![CDATA[Departement: Jura<br>Ouverture: Juillet - Aout<br>Budget €/j: 10-15<br>Emplacements: 42<br>Location: HLL/mobilhome<br>description: ombragé, localisé à proximité de la région des lacs, est situé au bord de nombreux sentiers de randonnée pédestre,<br>Adresse: 39150 CHAUX DES CROTENAY<br>Phone: 03 84 51 50 82 <br>Website: www.jura-tourism.com/offre/fiche/camping-du-bois-joli/K%7CK2017    ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Jura</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>42</value>
+					</Data>
+					<Data name='Location'>
+						<value>HLL/mobilhome</value>
+					</Data>
+					<Data name='description'>
+						<value>ombragé, localisé à proximité de la région des lacs, est situé au bord de nombreux sentiers de randonnée pédestre,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>39150 CHAUX DES CROTENAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 51 50 82 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.jura-tourism.com/offre/fiche/camping-du-bois-joli/K%7CK2017    </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.971069,46.658862,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL sous le MOULIN 2*</name>
+				<description><![CDATA[Departement: Jura<br>Ouverture: mi Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 150<br>Location: <br>description: <br>Adresse: 39240 CONDES<br>Phone: 04 74 75 82 28 <br>Website: www.camping-lac-jura.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Jura</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>150</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>39240 CONDES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 74 75 82 28 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-lac-jura.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.62397,46.336973,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les PEUPLIERS 2*</name>
+				<description><![CDATA[Departement: Jura<br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: 39700 FRAISANS<br>Phone: 03 84 71 10 88 <br>Website: www.fraisans.fr/tourisme-4-1-camping.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Jura</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>39700 FRAISANS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 71 10 88 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.fraisans.fr/tourisme-4-1-camping.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.762329,47.1477,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ORCHAMPS 1*</name>
+				<description><![CDATA[Departement: Jura<br>Ouverture: Juin - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 26<br>Location: <br>description:  <br>Adresse: 5 rue Neuve, 39700 ORCHAMPS<br>Phone: 03 84 71 30 35 <br>Website: .jura-tourism.com/offre/fiche/camping-municipal-d-orchamps/K%7CK2050]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Jura</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>26</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value> </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>5 rue Neuve, 39700 ORCHAMPS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 71 30 35 </value>
+					</Data>
+					<Data name='Website'>
+						<value>.jura-tourism.com/offre/fiche/camping-municipal-d-orchamps/K%7CK2050</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.65739,47.147138,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA LOUVE 2*</name>
+				<description><![CDATA[Departement: Jura<br>Ouverture: Avril-Septembre<br>Budget €/j: 10-15<br>Emplacements: 45<br>Location: <br>description: <br>Adresse: Rue du Pont, 39600 CHAMPAGNE SUR LOUE<br>Phone: 06 36 18 30 69<br>Website: www.camping_champagne.monsite-orange.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Jura</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>45</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue du Pont, 39600 CHAMPAGNE SUR LOUE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 36 18 30 69</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping_champagne.monsite-orange.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.815866,47.040986,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BAUME les MESSIEURS 1*</name>
+				<description><![CDATA[Departement: Jura<br>Ouverture: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 52<br>Location: <br>description: <br>Adresse: 39210 BAUME LES MESSIEURS<br>Phone: 03 84 44 63 16 <br>Website: www.baumelesmessieurs.fr/?page_id=44)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Jura</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>52</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>39210 BAUME LES MESSIEURS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 84 44 63 16 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.baumelesmessieurs.fr/?page_id=44)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.648346,46.705027,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Saint Michel 3 </name>
+				<description><![CDATA[Departement: Doubs<br>Ouverture: Mai - Octobre + caravaneige<br>Budget €/j: 15-20<br>Emplacements: ns<br>Location: <br>description: <br>Adresse: 23 rue Saint-Michel, 25120 MAICHE<br>Phone: 03.81.64.12.56<br>Website: www.mairie-maiche.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Doubs</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Octobre + caravaneige</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>23 rue Saint-Michel, 25120 MAICHE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03.81.64.12.56</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie-maiche.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.796417,47.250339,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Paquier</name>
+				<description><![CDATA[Departement: Doubs<br>Ouverture: Mars- Octobre<br>Budget €/j: 10-15<br>Emplacements: 60<br>Location: <br>description: <br>Adresse: route de pasquier, 25190 VAUFREY<br>Phone: 06 37 51 56 90 <br>Website: www.doubs.travel/campings.html#)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Doubs</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars- Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route de pasquier, 25190 VAUFREY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 37 51 56 90 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.doubs.travel/campings.html#)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.925507,47.346267,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>World Heritage</name>
+				<description><![CDATA[Departement: <br>Ouverture: <br>Budget €/j: <br>Emplacements: <br>Location: <br>description: De la grande saline de Salins-les-Bains à la saline royale d’Arc-et-Senans, la production du sel ignigène<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value></value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>De la grande saline de Salins-les-Bains à la saline royale d’Arc-et-Senans, la production du sel ignigène</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.878801,46.940066,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal les Grands Assanges</name>
+				<description><![CDATA[Departement: Doubs<br>Ouverture: mi Avril- mi Septembre<br>Budget €/j: ns<br>Emplacements: 96<br>Location: <br>description: <br>Adresse: rue de l eglise, 25350 MANDEURE<br>Phone: 03 82 35 23 79<br>Website: www.doubs.travel/campings.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Doubs</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>96</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue de l eglise, 25350 MANDEURE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 82 35 23 79</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.doubs.travel/campings.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.805429,47.455806,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Larmont</name>
+				<description><![CDATA[Departement: Doubs<br>Ouverture: Ouvert toute l annee sauf du 15/11 au 15/12<br>Budget €/j: 20-25<br>Emplacements: 66<br>Location: non<br>description: <br>Adresse: 2 chemin de Poulombief, 25300 PONTARLIER<br>Phone: 03 81 46 23 33<br>Website: www.camping-pontarlier.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Doubs</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert toute l annee sauf du 15/11 au 15/12</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>66</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>2 chemin de Poulombief, 25300 PONTARLIER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 81 46 23 33</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-pontarlier.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.37413,46.900789,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

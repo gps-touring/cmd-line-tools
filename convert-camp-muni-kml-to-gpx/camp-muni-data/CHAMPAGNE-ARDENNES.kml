@@ -1,0 +1,831 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>CHAMPAGNE  ARDENNES campings</name>
+		<description><![CDATA[Campings municipaux en<br>Haute Marne<br>Meuse<br>Aube]]></description>
+		<Folder>
+			<name>Calque sans titre</name>
+			<Placemark>
+				<name>Camping MUNICIPAL les bateaux 3***</name>
+				<description><![CDATA[Département: Aisne<br>Ouverture: Avril-Octobre<br>Budget €/j: 10-15<br>Emplacements: 70<br>description: Quai Edgar Quinet <br>08500 Revin<br>Tél: 03.24.40.15.65 <br>VERS LE SITE (http://www.ville-revin.fr/camping.aspx  )]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aisne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='description'>
+						<value>Quai Edgar Quinet 
+08500 Revin
+Tél: 03.24.40.15.65 
+VERS LE SITE (http://www.ville-revin.fr/camping.aspx  )</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.62945,49.943826,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Peupleraie 2**</name>
+				<description><![CDATA[Département: Haute Marne<br>Ouverture: Juin-Septembre<br>Budget €/j: 10-15<br>Emplacements: 68<br>description: 6, Esplanade de Tauberbischofsheim<br>51300 Vitry-le-François<br>Tél: 03 25 88 45 24 <br>SITE WEB (http://www.vitry-le-francois.net/page.php?p=decouvrir_camping.php&r=4)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Marne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>68</value>
+					</Data>
+					<Data name='description'>
+						<value>6, Esplanade de Tauberbischofsheim
+51300 Vitry-le-François
+Tél: 03 25 88 45 24 
+SITE WEB (http://www.vitry-le-francois.net/page.php?p=decouvrir_camping.php&amp;r=4)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.57984,48.729643,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Connantre</name>
+				<description><![CDATA[Département: Haute Marne<br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: ns<br>description: 51230 Connantre<br>Tél: 03 26 81 08 76<br>SITE WEB (http://www.connantre51.fr/fr/information/45928/camping-aire-camping-car)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Marne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>51230 Connantre
+Tél: 03 26 81 08 76
+SITE WEB (http://www.connantre51.fr/fr/information/45928/camping-aire-camping-car)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.9219410000000003,48.72475,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Revigny-sur-Ornain</name>
+				<description><![CDATA[Département: Meuse<br>Ouverture: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 27<br>description: 12,50 EUR/jour tarifs non mis a jour<br>(Budget moyen indicatif pour 2p + emplacement + électricité)Meuse - 27 emplacements<br>Ouvert  / Mobil home tte l annee<br>rue du Stade<br>55800 Revigny-sur-Ornain<br>Tel 03.29.78.73.34 <br>SITE WEB (http://www.ot-revigny-ornain.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Meuse</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>27</value>
+					</Data>
+					<Data name='description'>
+						<value>12,50 EUR/jour tarifs non mis a jour
+(Budget moyen indicatif pour 2p + emplacement + électricité)Meuse - 27 emplacements
+Ouvert  / Mobil home tte l annee
+rue du Stade
+55800 Revigny-sur-Ornain
+Tel 03.29.78.73.34 
+SITE WEB (http://www.ot-revigny-ornain.fr/)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.982836,48.82639,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Brienne-le-Château</name>
+				<description><![CDATA[Département: Aube<br>Ouverture: Aube<br>Budget €/j: 10-15<br>Emplacements: ns<br>description: 12,00 EUR/jour Tarifs non mis a jour<br>(Budget moyen indicatif pour 2p + emplacement + électricité)Aube - emplacements<br>Ouvert NS<br>10500 Brienne-le-Château<br>Tél: (0)3.25.92.80.31 <br>SITE WEB (http://www.ville-brienne-le-chateau.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aube</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Aube</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>12,00 EUR/jour Tarifs non mis a jour
+(Budget moyen indicatif pour 2p + emplacement + électricité)Aube - emplacements
+Ouvert NS
+10500 Brienne-le-Château
+Tél: (0)3.25.92.80.31 
+SITE WEB (http://www.ville-brienne-le-chateau.fr/)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.526154,48.393104,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Val D ante</name>
+				<description><![CDATA[Département: Haute Marne<br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: ns<br>description: 9,30 EUR/jour tarifs non mis a jour<br>(Budget moyen indicatif pour 2p + emplacement + électricité) - emplacements<br>Ouvert NS<br>51330 Givry-en-Argonne<br>Tél: 03.26.60.04.15<br>SITE WEB (http://www.tourisme-en-champagne.com/fr/38/2/1/HPA0000000000103/sit/detail/sejournez-champagne/camping-municipal-du-val-d-ante/menu/2)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Marne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>9,30 EUR/jour tarifs non mis a jour
+(Budget moyen indicatif pour 2p + emplacement + électricité) - emplacements
+Ouvert NS
+51330 Givry-en-Argonne
+Tél: 03.26.60.04.15
+SITE WEB (http://www.tourisme-en-champagne.com/fr/38/2/1/HPA0000000000103/sit/detail/sejournez-champagne/camping-municipal-du-val-d-ante/menu/2)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.89001,48.951521,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Fismes 1*</name>
+				<description><![CDATA[Département: Haute Marne<br>Ouverture: mi Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 33<br>description: 15,30 EUR/jour <br>Haute Marne - 33 emplacements<br>Ouvert mi Avril-Septembre<br>allee des missions <br>51330 FISMES<br>Tél: 03.26.48.10.26 <br>SITE WEB (http://www.fismes.fr/?histoire-patrimoine-et-tourisme/camping-municipal.html )]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Marne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33</value>
+					</Data>
+					<Data name='description'>
+						<value>15,30 EUR/jour 
+Haute Marne - 33 emplacements
+Ouvert mi Avril-Septembre
+allee des missions 
+51330 FISMES
+Tél: 03.26.48.10.26 
+SITE WEB (http://www.fismes.fr/?histoire-patrimoine-et-tourisme/camping-municipal.html )</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.671193,49.309484,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL sedan</name>
+				<description><![CDATA[Département: Aisne<br>Ouverture: Avril-Septembre<br>Budget €/j: 5-10<br>Emplacements: 150<br>description: 9,15 EUR/jour tarifs non mis a jour<br>(Budget moyen indicatif pour 2p + emplacement + électricité) - 150 emplacements <br>Ouvert <br>08000 SEDAN<br>Tél: 03.24.27.13.05 <br>SITE WEB (http://www.tourisme-sedan.fr/camping-municipal-de-la-prairie/sedan/tabid/12888/offreid/cb2cef04-035e-473d-909d-3f85503a2054/page-de-detail.aspx)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aisne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>150</value>
+					</Data>
+					<Data name='description'>
+						<value>9,15 EUR/jour tarifs non mis a jour
+(Budget moyen indicatif pour 2p + emplacement + électricité) - 150 emplacements 
+Ouvert 
+08000 SEDAN
+Tél: 03.24.27.13.05 
+SITE WEB (http://www.tourisme-sedan.fr/camping-municipal-de-la-prairie/sedan/tabid/12888/offreid/cb2cef04-035e-473d-909d-3f85503a2054/page-de-detail.aspx)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.097656,49.731581,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Moreypre</name>
+				<description><![CDATA[Département: Aisne<br>Ouverture: mi Avril-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 50<br>description: 10,90 EUR/jour Tarifs non mis a jour<br>(Budget moyen indicatif pour 2p + emplacement + électricité)Aisne - 50 emplacements<br>Ouvert <br>08500 HAYBES<br>Tél: 03 24 41 14 54 <br>SITE WEB (http://www.tourisme-champagne-ardenne.com/Rubrique.aspx?RubriqueID=3656&LangueID=1&SiteID=1)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aisne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='description'>
+						<value>10,90 EUR/jour Tarifs non mis a jour
+(Budget moyen indicatif pour 2p + emplacement + électricité)Aisne - 50 emplacements
+Ouvert 
+08500 HAYBES
+Tél: 03 24 41 14 54 
+SITE WEB (http://www.tourisme-champagne-ardenne.com/Rubrique.aspx?RubriqueID=3656&amp;LangueID=1&amp;SiteID=1)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.70747,50.010607,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Mont Olympe 3***</name>
+				<description><![CDATA[Département: Aisne<br>Ouverture: Avril-Septembre<br>Budget €/j: 20-25<br>Emplacements: 100<br>description: 21,10 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + électricité)Aisne - 100 emplacements <br>Ouvert <br>Rue des Paquis<br>08109 Charleville-Mézières<br>Tél: (0)3 24 33 23 60<br>VERS LE SITE (http://www.charleville-mezieres.fr/Decouverte-de-la-ville/Tourisme/Le-camping)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aisne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='description'>
+						<value>21,10 EUR/jour 
+(Budget moyen indicatif pour 2p + emplacement + électricité)Aisne - 100 emplacements 
+Ouvert 
+Rue des Paquis
+08109 Charleville-Mézières
+Tél: (0)3 24 33 23 60
+VERS LE SITE (http://www.charleville-mezieres.fr/Decouverte-de-la-ville/Tourisme/Le-camping)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.737854,49.784811,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Port Diseur</name>
+				<description><![CDATA[Département: Aisne<br>Ouverture: Avril-Octobre<br>Budget €/j: <br>Emplacements: ns<br>description: FERME 2014/jour <br>(Budget moyen indicatif pour 2p + emplacement + électricité)Aisne - emplacements <br>Ouvert <br>08109 MONTHERME<br>Tél: 03.24.53.01.21<br>SITE WEB (http://www.meuse-semoy-tourisme.com/annuaires/campings/camping-departemental-d-haulme.html)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aisne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>FERME 2014/jour 
+(Budget moyen indicatif pour 2p + emplacement + électricité)Aisne - emplacements 
+Ouvert 
+08109 MONTHERME
+Tél: 03.24.53.01.21
+SITE WEB (http://www.meuse-semoy-tourisme.com/annuaires/campings/camping-departemental-d-haulme.html)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.732361,49.884017,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Dolmens</name>
+				<description><![CDATA[Département: Aube<br>Ouverture: Avril-mi Octobre<br>Budget €/j: 5-10<br>Emplacements: 40<br>description: 9,00 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + électricité)Aube - 40 emplacements<br>Ouvert <br>10290 Marcilly-le-Hayer<br>Tél: 03 25 21 70 36 <br>VERS LE SITE (http://www.tourisme-champagne-ardenne.com)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aube</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='description'>
+						<value>9,00 EUR/jour 
+(Budget moyen indicatif pour 2p + emplacement + électricité)Aube - 40 emplacements
+Ouvert 
+10290 Marcilly-le-Hayer
+Tél: 03 25 21 70 36 
+VERS LE SITE (http://www.tourisme-champagne-ardenne.com)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.6364750000000003,48.354424,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Charbonnieres</name>
+				<description><![CDATA[Département: Haute Marne<br>Ouverture: mi Avril-Septembre<br>Budget €/j: 5-10<br>Emplacements: 20<br>description: 8,90 EUR/jour tarifs non mis a jour<br>(Budget moyen indicatif pour 2p + emplacement + électricité) - 20 emplacements<br>Ouvert <br>51160 AUBERIVE<br>Tél: 03 25 84 21 13<br>VERS LE SITE (http://www.tourisme-champagne-ardenne.com/hebergement/hotellerie-de-plein-air/camping-es-charbonnieres/arbot/o_4904.aspx)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Marne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='description'>
+						<value>8,90 EUR/jour tarifs non mis a jour
+(Budget moyen indicatif pour 2p + emplacement + électricité) - 20 emplacements
+Ouvert 
+51160 AUBERIVE
+Tél: 03 25 84 21 13
+VERS LE SITE (http://www.tourisme-champagne-ardenne.com/hebergement/hotellerie-de-plein-air/camping-es-charbonnieres/arbot/o_4904.aspx)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.41717,49.203817,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Futeau</name>
+				<description><![CDATA[Département: Haute Marne<br>Ouverture: Haute Marne<br>Budget €/j: 10-15<br>Emplacements: 25<br>description: 10,00 EUR/jour tarifs non mis a jour<br>(Budget moyen indicatif pour 2p + emplacement + électricité)Haute Marne - 25 emplacements<br>51 FUTEAU<br>mairiefuteau@orange.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Marne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Haute Marne</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25</value>
+					</Data>
+					<Data name='description'>
+						<value>10,00 EUR/jour tarifs non mis a jour
+(Budget moyen indicatif pour 2p + emplacement + électricité)Haute Marne - 25 emplacements
+51 FUTEAU
+mairiefuteau@orange.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.000153000000001,49.078364,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal de Dommarien</name>
+				<description><![CDATA[Département: Haute Marne<br>Ouverture: Haute Marne<br>Budget €/j: 5-10<br>Emplacements: ns<br>description: 9,80 EUR/jour tarifs non mis a jour<br>(Budget moyen indicatif pour 2p + emplacement + électricité) - emplacements <br>52190 DOMMARIEN<br>Tél:03 25 88 45 83 ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Marne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Haute Marne</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>9,80 EUR/jour tarifs non mis a jour
+(Budget moyen indicatif pour 2p + emplacement + électricité) - emplacements 
+52190 DOMMARIEN
+Tél:03 25 88 45 83 </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.346632,47.686903,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aire Naturelle MUNICIPALEMontiers-sur-Saulx</name>
+				<description><![CDATA[Département: Meuse<br>Ouverture: Meuse<br>Budget €/j: 0-5<br>Emplacements: ns<br>description: 4,50 EUR/jour tarifs non mis a jour<br>(Budget moyen indicatif pour 2p + emplacement + électricité)MEUSE - emplacements<br> 55290 MONTIERS SUR SAULX<br>tél. 03 29 75 90 63 ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Meuse</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Meuse</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>0-5</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>4,50 EUR/jour tarifs non mis a jour
+(Budget moyen indicatif pour 2p + emplacement + électricité)MEUSE - emplacements
+ 55290 MONTIERS SUR SAULX
+tél. 03 29 75 90 63 </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.266513,48.531869,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Ligny-en-Barrois</name>
+				<description><![CDATA[Département: Meuse<br>Ouverture: Meuse<br>Budget €/j: 10-15<br>Emplacements: ns<br>description: 11,00 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + électricité)MEUSE - emplacements<br> 55500 LIGNY en BAROIS<br>tél. 03.29.77.09.36<br>SITE WEB (http://www.lignyenbarrois.com/wp/tourisme/camping-municipal/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Meuse</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Meuse</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>11,00 EUR/jour 
+(Budget moyen indicatif pour 2p + emplacement + électricité)MEUSE - emplacements
+ 55500 LIGNY en BAROIS
+tél. 03.29.77.09.36
+SITE WEB (http://www.lignyenbarrois.com/wp/tourisme/camping-municipal/)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.32397,48.68827,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la Grelette 2**</name>
+				<description><![CDATA[Département: Haute Marne<br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: ns<br>description: 9,80 EUR/jour tarifs non mis a jour<br>(Budget moyen indicatif pour 2p + emplacement + électricité) - emplacements<br>51 Sainte-Menehould<br>Tel 03 26 60 80 21]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Marne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>9,80 EUR/jour tarifs non mis a jour
+(Budget moyen indicatif pour 2p + emplacement + électricité) - emplacements
+51 Sainte-Menehould
+Tel 03 26 60 80 21</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.892978,49.090822,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Wassy</name>
+				<description><![CDATA[Département: Meuse<br>Ouverture: Meuse<br>Budget €/j: 10-15<br>Emplacements: ns<br>description: 14,00 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + électricité)MEUSE - emplacements<br> 52130 WASSY<br>tél.03 25 55 31 90]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Meuse</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Meuse</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>14,00 EUR/jour 
+(Budget moyen indicatif pour 2p + emplacement + électricité)MEUSE - emplacements
+ 52130 WASSY
+tél.03 25 55 31 90</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.948753,48.499508,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Val-de-Vesle</name>
+				<description><![CDATA[Département: Haute Marne<br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: ns<br>description: 12,90 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + électricité) - emplacements<br>51 Val-de-Vesle<br>Tel 03.26.03.91.79<br>SITE WEB (http://www.valdevesle.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Marne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>12,90 EUR/jour 
+(Budget moyen indicatif pour 2p + emplacement + électricité) - emplacements
+51 Val-de-Vesle
+Tel 03.26.03.91.79
+SITE WEB (http://www.valdevesle.fr/)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.223091,49.176572,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Les Châtaigniers de Montmirail 2**</name>
+				<description><![CDATA[Département: Haute Marne<br>Ouverture: Avril-Octobre<br>Budget €/j: 5-10<br>Emplacements: ns<br>description: 9,50 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + électricité)Haute Marne - emplacements<br>Ouvert Avril - Octobre<br>rue du petit saint Lazare<br>51210 MONTMIRAIL<br>tel 03 26 81 25 61<br>SITE WEB (http://www.montmirail.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Marne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>9,50 EUR/jour 
+(Budget moyen indicatif pour 2p + emplacement + électricité)Haute Marne - emplacements
+Ouvert Avril - Octobre
+rue du petit saint Lazare
+51210 MONTMIRAIL
+tel 03 26 81 25 61
+SITE WEB (http://www.montmirail.fr/)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.535925,48.870165,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Mottes</name>
+				<description><![CDATA[Département: Aube<br>Ouverture: Mai-mi Septembre<br>Budget €/j: 15-20<br>Emplacements: ns<br>description: 10130 ERVY LE CHATEL<br>Tel 03 25 70 07 96<br>SITE WEB (http://www.ervy-le-chatel.fr/fr/information/38286/camping-municipal-les-mottes)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aube</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>10130 ERVY LE CHATEL
+Tel 03 25 70 07 96
+SITE WEB (http://www.ervy-le-chatel.fr/fr/information/38286/camping-municipal-les-mottes)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.909751,48.041155,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la NOSLE</name>
+				<description><![CDATA[Département: Aube<br>Ouverture: ns<br>Budget €/j: <br>Emplacements: 90<br>description: en travaux <br>Rue Joseph Anglade<br>10160 AIX en OTHE<br>33 (0)3 25 46 75 44<br>VERS LE SITE (http://www.tourisme-champagne-ardenne.com)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aube</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>90</value>
+					</Data>
+					<Data name='description'>
+						<value>en travaux 
+Rue Joseph Anglade
+10160 AIX en OTHE
+33 (0)3 25 46 75 44
+VERS LE SITE (http://www.tourisme-champagne-ardenne.com)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.7309140000000003,48.222513,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Le Paquis 2**</name>
+				<description><![CDATA[Département: Haute Marne<br>Ouverture: Avril-Octobre<br>Budget €/j: 10-15<br>Emplacements: 80<br>description: Rue de St Jean <br>55270 Varennes-en-Argonne<br>03 29 80 74 61<br>SITE WEB (http://www.varennesenargonne.fr/pages/le-tourisme.html)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Marne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>80</value>
+					</Data>
+					<Data name='description'>
+						<value>Rue de St Jean 
+55270 Varennes-en-Argonne
+03 29 80 74 61
+SITE WEB (http://www.varennesenargonne.fr/pages/le-tourisme.html)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.033516,49.226297,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Nogent sur Seine 2*</name>
+				<description><![CDATA[Département: Aube<br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 100<br>description: rue du camping<br>10400 NOGENT SUR SEINE<br>Tél: 03 25 39 76 67<br>VERS LE SITE (http://www.tourisme-nogentais.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aube</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='description'>
+						<value>rue du camping
+10400 NOGENT SUR SEINE
+Tél: 03 25 39 76 67
+VERS LE SITE (http://www.tourisme-nogentais.fr/)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.508372,48.503555,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Pont Sur Seine</name>
+				<description><![CDATA[Département: Aube<br>Ouverture: ns<br>Budget €/j: 0-5<br>Emplacements: ns<br>description: Route de Villenauxe <br>10400 Pont-sur-Seine<br>Tél: 03 25 21 40 22<br>VERS LE SITE (http://www.tourisme-nogentais.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aube</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>0-5</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>Route de Villenauxe 
+10400 Pont-sur-Seine
+Tél: 03 25 21 40 22
+VERS LE SITE (http://www.tourisme-nogentais.fr/)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.602529,48.516746,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Navarre</name>
+				<description><![CDATA[Département: Haute Marne <br>Ouverture: Mars-Octobre<br>Budget €/j: 15-20<br>Emplacements: ns<br>description: 9 rue Blv Marechal de Lattre<br>52200 LANGRES<br>Tel 03 25 87 37 92<br>SITE WEB (http://www.camping-navarre-langres.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Marne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>9 rue Blv Marechal de Lattre
+52200 LANGRES
+Tel 03 25 87 37 92
+SITE WEB (http://www.camping-navarre-langres.fr/)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.329785,47.860685,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

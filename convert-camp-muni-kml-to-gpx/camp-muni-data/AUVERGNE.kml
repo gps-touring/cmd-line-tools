@@ -1,0 +1,4712 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>AUVERGNE : Campings </name>
+		<description><![CDATA[Campings Municipaux dans l Allier, Cantal, Haute Loire, Puy de Dome<br><br>]]></description>
+		<Folder>
+			<name>Calque sans titre</name>
+			<Placemark>
+				<name>Camping MUNICIPAL Apchon</name>
+				<description><![CDATA[Département: Cantal <br>Ouverture: Juillet - Septembre<br>Budget €/j: 5-10<br>Emplacements: 22<br>Location: <br>description: Dans un village au coeur du Cantal<br>Adresse: 15400 APCHON<br>Phone: 04.71.78.05.97<br>Website: www.apchon.fr  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>22</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Dans un village au coeur du Cantal</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>15400 APCHON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04.71.78.05.97</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.apchon.fr  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.693228,45.247647,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Beringer</name>
+				<description><![CDATA[Département: Cantal <br>Ouverture: Juin-mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 40<br>Location: <br>description: 2015 LE CAMPING EST FERME POUR RESTRUCTURATION POUR UNE DUREE ILLIMITEE<br>Adresse: Beringer, 15350 CHAMPAGNAC<br>Phone: 04 71 69 61 55 <br>Website: www.champagnac.org  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>2015 LE CAMPING EST FERME POUR RESTRUCTURATION POUR UNE DUREE ILLIMITEE</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Beringer, 15350 CHAMPAGNAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 69 61 55 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.champagnac.org  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.407293,45.368821,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Tarentaine 3*</name>
+				<description><![CDATA[Département: Cantal <br>Ouverture: mi Juin-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 120<br>Location: Caravanes / Mobilhomes<br>description: en bordure de riviere<br>Adresse: Les Coudays , route de saignes, 15270 CHAMPS SUR TARENTAINE MARCHAL<br>Phone: 04 71 78 71 25 <br>Website: www.campinglatarentaine.e-monsite.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>120</value>
+					</Data>
+					<Data name='Location'>
+						<value>Caravanes / Mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>en bordure de riviere</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Les Coudays , route de saignes, 15270 CHAMPS SUR TARENTAINE MARCHAL</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 78 71 25 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campinglatarentaine.e-monsite.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.550802,45.39173,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Pres des étangs 2*</name>
+				<description><![CDATA[Département: Cantal <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: chalet /mobilhome<br>description: Un bassin réservé à la baignade.<br>Adresse: 15340 CASSANIOUZE<br>Phone: 04 71 49 97 16 <br>Website: www.cassaniouze.free.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value>chalet /mobilhome</value>
+					</Data>
+					<Data name='description'>
+						<value>Un bassin réservé à la baignade.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>15340 CASSANIOUZE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 49 97 16 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.cassaniouze.free.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.3757930000000003,44.687626,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la Sianne</name>
+				<description><![CDATA[Département: Cantal <br>Ouverture: Mi Juin - mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 30<br>Location: non<br>description: Situé dans la vallée de la Sianne, au bord de la rivière.  <br>Adresse: Le Bourg, 15500 AURIAC L EGLISE<br>Phone: 04 71 73 91 28<br>Website: www.paysdemassiac.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mi Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé dans la vallée de la Sianne, au bord de la rivière.  </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Bourg, 15500 AURIAC L EGLISE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 73 91 28</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.paysdemassiac.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.122005,45.26734,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL l Ombrade 2*</name>
+				<description><![CDATA[Département: Cantal <br>Ouverture: mi Juin-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 166<br>Location: <br>description: GPS 44.935155,2.456235<br>Adresse: Rue du Gué Bouliaga, 15000 AURILLAC<br>Phone: 04 71 48 28 87 <br>Website: www.camping.caba.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>166</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>GPS 44.935155,2.456235</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue du Gué Bouliaga, 15000 AURILLAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 48 28 87 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping.caba.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.45671,44.935109,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Boisset 1*</name>
+				<description><![CDATA[Département: Cantal <br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 20<br>Location: <br>description: Situé au bord de la Rivière le Moulègre, dans la Forêt et à quelques kilomètres à la Montagne. <br>Adresse: 15600 BOISSET<br>Phone: 04 71 62 20 97<br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Situé au bord de la Rivière le Moulègre, dans la Forêt et à quelques kilomètres à la Montagne. </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>15600 BOISSET</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 62 20 97</value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.263184,44.78183500000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL AUZON 2**</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: Juillet-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 37<br>Location: <br>description: <br>Adresse: 1, chemin des Moulins, 43390 AUZON<br>Phone: 04 71 76 18 61<br>Website: www.auzon.net/camping.php]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>37</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>1, chemin des Moulins, 43390 AUZON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 76 18 61</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.auzon.net/camping.php</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.378296,45.390735,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL AUDINET 3***</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: Juillet-mi Septembre<br>Budget €/j: 20-30<br>Emplacements: 122<br>Location: <br>description: <br>Adresse: 43700 BRIVES CHARENSAC<br>Phone: 04 71 09 10 18<br>Website: www.camping-audinet.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-30</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>122</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>43700 BRIVES CHARENSAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 09 10 18</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-audinet.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.9303590000000006,45.044419,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA RIBEYRE </name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: ns<br>Budget €/j: 14-20<br>Emplacements: 65<br>Location: <br>description: <br>Adresse: 43380 LAVOUTE CHILHAC<br>Phone: 04 71 77 48 03<br>Website: www.lavoute-chilhac.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>14-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>65</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>43380 LAVOUTE CHILHAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 77 48 03</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lavoute-chilhac.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.405762,45.144273,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL SURNETTE 3***</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: Avril-Octobre<br>Budget €/j: 13-20<br>Emplacements: 60<br>Location: <br>description: <br>Adresse: Surnette 43520 Le Mazet St Voy<br>Phone: 04 71 65 05 69<br>Website: www.campingdesurnette.net]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>13-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Surnette 43520 Le Mazet St Voy</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 65 05 69</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campingdesurnette.net</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.240723000000001,45.040537,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BOUTHEZARD 2**</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: mi Mars-Octobre<br>Budget €/j: 14-20<br>Emplacements: 80<br>Location: <br>description: <br>Adresse: Avenue d'Aiguilhe, 43000 LE PUY EN VELAY<br>Phone: 04 71 09 55 09<br>Website: www.ot-lepuyenvelay.fr/campings/Bouthezard-ec-id105.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>14-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>80</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue d'Aiguilhe, 43000 LE PUY EN VELAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 09 55 09</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ot-lepuyenvelay.fr/campings/Bouthezard-ec-id105.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.880835,45.04739,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES PRADES 3***</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: Juin-Septembre<br>Budget €/j: 14-20<br>Emplacements: 110<br>Location: <br>description: <br>Adresse: Route de Vichy, 43160 LA CHAISE DIEU<br>Phone: 04 71 00 07 88<br>Website: www.la-chaise-dieu.info/campings-et-yourtes.php]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>14-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>110</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Vichy, 43160 LA CHAISE DIEU</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 00 07 88</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.la-chaise-dieu.info/campings-et-yourtes.php</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.699603,45.330517,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA GARENNE 2**</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 496<br>Location: <br>description: <br>Adresse: Route du camping, 43210 BAS EN BASSET<br>Phone: 04 71 66 70 01<br>Website: www.camping-haute-loire.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>496</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route du camping, 43210 BAS EN BASSET</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 66 70 01</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-haute-loire.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.116633,45.306618,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL PINOLS</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: nc<br>Budget €/j: 10-15<br>Emplacements: 16<br>Location: <br>description: <br>Adresse: 43300 PINOLS<br>Phone: 04 71 74 13 16<br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>nc</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>16</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>43300 PINOLS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 74 13 16</value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.4126280000000007,45.053151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL JULLIANGES 2**</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: nc<br>Budget €/j: 10-15<br>Emplacements: 12<br>Location: <br>description: <br>Adresse: 43500 JULLIANGES<br>Phone: 04 71 03 39 00<br>Website: www.jullianges-mairie.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>nc</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>12</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>43500 JULLIANGES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 03 39 00</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.jullianges-mairie.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.7902829999999996,45.300007,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LAFAYETTE 2**</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: ns<br>Budget €/j: 15-20<br>Emplacements: 19<br>Location: <br>description: <br>Adresse: 43230 CHAVANIAC LAFAYETTE<br>Phone: 04 71 76 65 54<br>Website: www.auvergn-yack.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>19</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>43230 CHAVANIAC LAFAYETTE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 76 65 54</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.auvergn-yack.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.58017,45.158801000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE VIVIER 2**</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: Avril-mi Septembre<br>Budget €/j: 13-20<br>Emplacements: 46<br>Location: <br>description: Petit camping ombragé en bordure de rivière, au coeur des gorges du Haut-Allier.<br>Adresse: 43580 MONISTROL D'ALLIER<br>Phone: 04 71 57 24 14/21 21<br>Website: www.auvergne-tourisme.info/hotellerie-de-plein-air/monistrol-d-allier/camping-le-vivier/tourisme-HPAAUV043FS0000A-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>13-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>46</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Petit camping ombragé en bordure de rivière, au coeur des gorges du Haut-Allier.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>43580 MONISTROL D'ALLIER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 57 24 14/21 21</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.auvergne-tourisme.info/hotellerie-de-plein-air/monistrol-d-allier/camping-le-vivier/tourisme-HPAAUV043FS0000A-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.647461,44.968684,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES LONGES 3***</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: Mai-mi Septembre<br>Budget €/j: 15-20<br>Emplacements: 60<br>Location: <br>description: <br>Adresse: 43800 LAVOUTE SUR LOIRE<br>Phone: 04 71 08 18 79<br>Website: www.lavoutesurloire.fr/index.php?option=com_content&view=article&id=62&Itemid=18]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>43800 LAVOUTE SUR LOIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 08 18 79</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lavoutesurloire.fr/index.php?option=com_content&amp;view=article&amp;id=62&amp;Itemid=18</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.911133,45.11811500000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL CRAPONNE/ARZON 4****</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: Mai-mi Octobre<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: <br>description: Dans un cadre agréable, au cœur des installations sportives et de loisirs, à peine à 300 m du centre-bourg commerçant.<br>Adresse: 43500 CRAPONNE SUR ARZON<br>Phone: 04 71 03 23 09<br>Website: www.craponnesurarzon.fr/-Camping-Municipal]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Dans un cadre agréable, au cœur des installations sportives et de loisirs, à peine à 300 m du centre-bourg commerçant.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>43500 CRAPONNE SUR ARZON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 03 23 09</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.craponnesurarzon.fr/-Camping-Municipal</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.847961,45.323186,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Alleyras 2**</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 66<br>Location: <br>description: <br>Adresse: Le Pont d'Alleyras, 43580 ALLEYRAS<br>Phone: 04 71 57 56 86<br>Website: www.camping-municipal.alleyras.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>66</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Pont d'Alleyras, 43580 ALLEYRAS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 57 56 86</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-municipal.alleyras.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.668897,44.916194,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA BESSIERE 2**</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: Avril-Septembre<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: 43450 BLESLE<br>Phone: 04 71 76 25 82<br>Website: www.blesle.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>43450 BLESLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 76 25 82</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.blesle.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.172302,45.31546000000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL TENCE 3***</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: ns<br>Budget €/j: ...<br>Emplacements: 120<br>Location: <br>description: <br>Adresse: La Levée des Frères, 43190 TENCE<br>Phone: 04 71 59 83 10<br>Website: www.ville-tence.fr/?-Camping-Municipal-]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>...</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>120</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>La Levée des Frères, 43190 TENCE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 59 83 10</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-tence.fr/?-Camping-Municipal-</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.281921,45.102608,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL PRADELLES </name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: Juillet-Aout<br>Budget €/j: 10-15<br>Emplacements: nc<br>Location: <br>description: <br>Adresse: avenue de Langogne, 43420 PRADELLES<br>Phone: 04 71 00 85 74 <br>Website: www.pradelles-43.com/camping.php]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>nc</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>avenue de Langogne, 43420 PRADELLES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 00 85 74 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.pradelles-43.com/camping.php</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.885555,44.769832,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES FAUVETTES 2**</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: Avril-Septembre<br>Budget €/j: 9-15<br>Emplacements: 20<br>Location: <br>description: <br>Adresse: 43580 ST PREJET D'ALLIER<br>Phone: 06 33 18 74 63<br>Website: www.saintprejetdallier.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>9-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>43580 ST PREJET D'ALLIER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 33 18 74 63</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saintprejetdallier.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.6254880000000003,44.908414,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ST PAUL DE TARTAS 2**</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: ns<br>Budget €/j: 9-15<br>Emplacements: 34<br>Location: <br>description: <br>Adresse: 43420 ST PAUL DE TARTAS<br>Phone: 04 71 00 81 44<br>Website: www.saint-paul-de-tartas.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>9-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>34</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>43420 ST PAUL DE TARTAS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 00 81 44</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saint-paul-de-tartas.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.913879,44.805224,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA CROIX BLANCHE 2**</name>
+				<description><![CDATA[Département: Cantal <br>Ouverture: Mai-mi Octobre<br>Budget €/j: 15-20<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: 43260 ST JULIEN CHAPTEUIL<br>Phone: 04 71 08 70 01<br>Website: www.saintjulienchapteuil.fr/camping.php]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>43260 ST JULIEN CHAPTEUIL</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 08 70 01</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saintjulienchapteuil.fr/camping.php</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.070435,45.030833,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL SIAUGUES 1*</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: mi Juin-Septembre<br>Budget €/j: 10-15<br>Emplacements: 18<br>Location: <br>description: <br>Adresse: 43300 SIAUGUES STE MARIE<br>Phone: 04 71 74 23 68<br>Website: www.mairie-siaugues-stemarie.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>18</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>43300 SIAUGUES STE MARIE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 74 23 68</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie-siaugues-stemarie.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.499146,45.071581,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ST PRIVAT </name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: Mai-mi Octobre<br>Budget €/j: 5-10<br>Emplacements: 18<br>Location: <br>description: <br>Adresse: Le Marchat, 43580 ST PRIVAT D ALLIER<br>Phone: 04 71 57 22 13<br>Website: www.mairie-saintprivatdallier.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>18</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Marchat, 43580 ST PRIVAT D ALLIER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 57 22 13</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie-saintprivatdallier.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.6859130000000007,44.984228,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ST REINE 2**</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: Avril-Octobre<br>Budget €/j: 10-15<br>Emplacements: 26<br>Location: <br>description: <br>Adresse: Rue de l'Argentière, 43500 ST PAL DE CHALENCON<br>Phone: 04 71 61 30 19<br>Website: www.saint-pal.com/spc-fr-commune.camping.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>26</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de l'Argentière, 43500 ST PAL DE CHALENCON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 61 30 19</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saint-pal.com/spc-fr-commune.camping.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.9550779999999994,45.354075,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL SPORTING DE LA SEUGE</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: 15 avril au 15 octobre<br>Budget €/j: 10-15<br>Emplacements: 92<br>Location: <br>description: Camping familial au cœur d’un domaine naturel et ombragé situé à 500 m du bourg.<br>Adresse: Avenue du Guevaudan, 43170 SAUGES <br>Phone: 04 71 77 80 62<br>Website: www.saugues.fr/tourisme/hebergements/camping]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>15 avril au 15 octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>92</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Camping familial au cœur d’un domaine naturel et ombragé situé à 500 m du bourg.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue du Guevaudan, 43170 SAUGES </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 77 80 62</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saugues.fr/tourisme/hebergements/camping</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.554077,44.957024,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES CASSES </name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 24<br>Location: <br>description: <br>Adresse: Sembadel Gare, 43160 SEMBADEL<br>Phone: 04 71 00 94 72<br>Website: www.auvergne-tourisme.info/hotellerie-de-plein-air/sembadel/camping-les-casses/tourisme-HPAAUV043FS0001E-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>24</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Sembadel Gare, 43160 SEMBADEL</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 00 94 72</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.auvergne-tourisme.info/hotellerie-de-plein-air/sembadel/camping-les-casses/tourisme-HPAAUV043FS0001E-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.691406,45.274886,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA PINEDE 2**</name>
+				<description><![CDATA[Département: Haute Loire<br>Ouverture: mi Juin - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 35<br>Location: <br>description: <br>Adresse: Le Chier, 43270 ALLEGRE<br>Phone: 04 71 00 76 79<br>Website: www.mairie-allegre.com/index.php?option=com_content&view=article&id=19&Itemid=17]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Haute Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Chier, 43270 ALLEGRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 00 76 79</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie-allegre.com/index.php?option=com_content&amp;view=article&amp;id=19&amp;Itemid=17</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.7232490000000005,45.207682,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE PREGUDA</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 45<br>Location: <br>description: <br>Adresse: Le bourg, 63230 BROMONT LAMOTHE<br>Phone: 04 73 88 71 16<br>Website: www.planetepuydedome.com/index-76-1.html?cat=HEB&sscat=HEB_CAM]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>45</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le bourg, 63230 BROMONT LAMOTHE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 88 71 16</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.planetepuydedome.com/index-76-1.html?cat=HEB&amp;sscat=HEB_CAM</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.823486,45.83454,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Got 1*</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 75<br>Location: <br>description: <br>Adresse: 63390 CHATEAUNEUF LES BAINS<br>Phone: 04 73 86 67 85 <br>Website: www.chateauneuflesbains.com/chateauneuf/pages/viewer.asp?tp=d&id=2122&m=1&t=1&theme=1&ID_ELEMENT=742]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>75</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>63390 CHATEAUNEUF LES BAINS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 86 67 85 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.chateauneuflesbains.com/chateauneuf/pages/viewer.asp?tp=d&amp;id=2122&amp;m=1&amp;t=1&amp;theme=1&amp;ID_ELEMENT=742</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.897301,46.027005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES PRES DU DIMANCHE 3***</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 45<br>Location: <br>description: <br>Adresse: 63390 CHATEAUNEUF LES BAINS<br>Phone: 04 73 86 41 50<br>Website: www.chateauneuflesbains.com/chateauneuf/pages/viewer.asp?tp=d&id=2122&m=1&t=1&theme=1&ID_ELEMENT=742]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>45</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>63390 CHATEAUNEUF LES BAINS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 86 41 50</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.chateauneuflesbains.com/chateauneuf/pages/viewer.asp?tp=d&amp;id=2122&amp;m=1&amp;t=1&amp;theme=1&amp;ID_ELEMENT=742</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.902665,46.027869,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE la Croix des Roudardes</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: ns<br>Budget €/j: ...<br>Emplacements: ...<br>Location: <br>description: <br>Adresse: La Croix des Roudardes, 63740 CISTERNES LA FORET<br>Phone: 04 73 87 81 05 <br>Website: www.auvergne-tourisme.info/hotellerie-de-plein-air/cisternes-la-foret/aire-naturelle-de-la-croix-des-roudardes/tourisme-HPAAUV063FS0004L-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>...</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>...</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>La Croix des Roudardes, 63740 CISTERNES LA FORET</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 87 81 05 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.auvergne-tourisme.info/hotellerie-de-plein-air/cisternes-la-foret/aire-naturelle-de-la-croix-des-roudardes/tourisme-HPAAUV063FS0004L-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.69165,45.824971,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE CHANSET 3***</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: toute l'annee<br>Budget €/j: 20-25<br>Emplacements: 200<br>Location: <br>description: <br>Adresse: Beringer, Avenue Marrou, 63122 CEYRAT<br>Phone: 04 73 61 30 73 <br>Website: www.campingdeceyrat63.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>toute l'annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>200</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Beringer, Avenue Marrou, 63122 CEYRAT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 61 30 73 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campingdeceyrat63.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.061066,45.734943,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les TARTEAUX 2**</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Avril-Septembre<br>Budget €/j: 10-15<br>Emplacements: 90<br>Location: <br>description: Placé en bordure de la rivière Sioule<br>Adresse: Pont de Menat, 63560 MENAT<br>Phone: 04 73 85 52 47 <br>Website: http://www.ville-menat.com/manger-dormir/camping-municipal-les-tarteaux]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>90</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Placé en bordure de la rivière Sioule</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Pont de Menat, 63560 MENAT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 85 52 47 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.ville-menat.com/manger-dormir/camping-municipal-les-tarteaux</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.905884,46.097995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA POULE D'EAU 2**</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: mi Avril-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: <br>description: Au bord du Plan D'eau de 15 hectares<br>Adresse: 63700 ST ELOY LES MINES<br>Phone: 04 73 85 45 47<br>Website: www.sainteloylesmines.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Au bord du Plan D'eau de 15 hectares</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>63700 ST ELOY LES MINES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 85 45 47</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.sainteloylesmines.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.833099,46.162712,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la THAILLE 3***</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: ns<br>Budget €/j: 15-20<br>Emplacements: 80<br>Location: <br>description: <br>Adresse: 63810 BAGNOLS<br>Phone: 04 73 22 28 00 <br>Website: www.bagnols63.fr/fr/information/36605/camping-municipal-thialle]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>80</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>63810 BAGNOLS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 22 28 00 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.bagnols63.fr/fr/information/36605/camping-municipal-thialle</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.631226,45.498166,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le COLOMBIER 2**</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: mi Juin-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: Allée des Tennis, 63160 BILLOM<br>Phone: 04 73 68 91 50 <br>Website: www.billom.fr/Hebergement]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Allée des Tennis, 63160 BILLOM</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 68 91 50 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.billom.fr/Hebergement</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.34671,45.729191,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL FERNOEL </name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Juin * Septembre<br>Budget €/j: 5-10<br>Emplacements: 10<br>Location: <br>description: <br>Adresse: rue Charles Rouchon, 63620 FERNOEL<br>Phone: 04 73 21 70 22 <br>Website: www.planetepuydedome.com/hotellerie-de-plein-air/fernoel/camping-municipal-de-fernoel/tourisme-HPAAUV063FS0000H-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin * Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>10</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue Charles Rouchon, 63620 FERNOEL</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 21 70 22 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.planetepuydedome.com/hotellerie-de-plein-air/fernoel/camping-municipal-de-fernoel/tourisme-HPAAUV063FS0000H-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.436218,45.809658,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL GELLES 2**</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Avril-Octobre<br>Budget €/j: 5-10<br>Emplacements: 45<br>Location: <br>description: <br>Adresse: 63740 GELLES<br>Phone: 04 73 87 80 20<br>Website: www.gelles63.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>45</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>63740 GELLES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 87 80 20</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.gelles63.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.763748,45.768481,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE MAS 3***</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Avril-mi Novembre<br>Budget €/j: 15-20<br>Emplacements: 140<br>Location: <br>description: <br>Adresse: 63500 ISSOIRE<br>Phone: 04 73 89 03 59 <br>Website: www.sejours-issoire.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-mi Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>140</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>63500 ISSOIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 89 03 59 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.sejours-issoire.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.256416,45.536175,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la CHOMETTE </name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: ns<br>Budget €/j: ...<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: 63690 LABESSETTE<br>Phone: 04 73 22 22 98 <br>Website: www.planetepuydedome.com/hotellerie-de-plein-air/labessette/camping-la-chomette/tourisme-HPAAUV063FS0001M-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>...</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>63690 LABESSETTE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 22 22 98 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.planetepuydedome.com/hotellerie-de-plein-air/labessette/camping-la-chomette/tourisme-HPAAUV063FS0001M-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.540588,45.485169,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE BOURG LASTIC</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Juillet - Aout<br>Budget €/j: 5-10<br>Emplacements: ...<br>Location: <br>description: <br>Adresse: Combrady, 63760 BOURG LASTIC<br>Phone: 04 73 21 80 28 <br>Website: www.planetepuydedome.com/hotellerie-de-plein-air/bourg-lastic/aire-naturelle-de-combrady/tourisme-HPAAUV063FS0000G-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>...</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Combrady, 63760 BOURG LASTIC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 21 80 28 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.planetepuydedome.com/hotellerie-de-plein-air/bourg-lastic/aire-naturelle-de-combrady/tourisme-HPAAUV063FS0000G-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.554321,45.637087,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL l ESQUILADOU 3***</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Avril-Octobre + locations hiver<br>Budget €/j: 15-20<br>Emplacements: 100<br>Location: <br>description: <br>Adresse: Route des Cascades, 63240 LE MONT DORE<br>Phone: 04 73 65 23 74 <br>Website: www.sancy.com/hebergements/detail/2766/le-mont-dore/camping-municipal-l-esquiladou]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre + locations hiver</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route des Cascades, 63240 LE MONT DORE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 65 23 74 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.sancy.com/hebergements/detail/2766/le-mont-dore/camping-municipal-l-esquiladou</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.805634,45.581247,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la GRAVIERE </name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: mi Mai-mi Octobre<br>Budget €/j: 10-15<br>Emplacements: 60<br>Location: <br>description: <br>Adresse: La Graviere, 63940 MARSAC EN LIVRADOIS<br>Phone: 04 73 95 60 08<br>Website: www.planetepuydedome.com/hotellerie-de-plein-air/marsac-en-livradois/camping-la-graviere/tourisme-HPAAUV063FS0002J-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>La Graviere, 63940 MARSAC EN LIVRADOIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 95 60 08</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.planetepuydedome.com/hotellerie-de-plein-air/marsac-en-livradois/camping-la-graviere/tourisme-HPAAUV063FS0002J-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.721619,45.472651,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL MIREMONT 2**</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Mai-Septembre<br>Budget €/j: ...<br>Emplacements: 36<br>Location: <br>description: <br>Adresse: 63380 MIREMONT<br>Phone: 04 73 79 92 52 <br>Website: www.planetepuydedome.com/hotellerie-de-plein-air/miremont/camping-municipal-de-miremont/tourisme-HPAAUV063FS0000L-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>...</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>36</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>63380 MIREMONT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 79 92 52 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.planetepuydedome.com/hotellerie-de-plein-air/miremont/camping-municipal-de-miremont/tourisme-HPAAUV063FS0000L-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.7163700000000004,45.900522,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL MONTAIGUT</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: ns<br>Budget €/j: ...<br>Emplacements: 15<br>Location: <br>description: <br>Adresse: La Prade, 63700 MONTAIGUT EN COMBRAILLE<br>Phone: 04 73 85 09 09 <br>Website: www.planetepuydedome.com/hotellerie-de-plein-air/montaigut/camping-municipal-de-montaigut/tourisme-HPAAUV063FS00042-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>...</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>15</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>La Prade, 63700 MONTAIGUT EN COMBRAILLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 85 09 09 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.planetepuydedome.com/hotellerie-de-plein-air/montaigut/camping-municipal-de-montaigut/tourisme-HPAAUV063FS00042-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.797823,46.182683000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la PALLE 3***</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: mi Avril-Septembre / Chalets toute l'annee<br>Budget €/j: 15-20<br>Emplacements: 100<br>Location: <br>description: <br>Adresse: Route de la Miouze, 63230 PONTGIBAUD<br>Phone: 04 73 88 96 99 <br>Website: www.campongibaud.free.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-Septembre / Chalets toute l'annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de la Miouze, 63230 PONTGIBAUD</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 88 96 99 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campongibaud.free.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.850952,45.83071300000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL L'ETANG PHILIPPE 3***</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Ouvert toute l'annee pour les chalets<br>Budget €/j: 10-15<br>Emplacements: 130<br>Location: <br>description: <br>Adresse: 63390 ST GERVAIS D AUVERGNE<br>Phone: 04 73 85 74 84 <br>Website: www.camping-loisir.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert toute l'annee pour les chalets</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>130</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>63390 ST GERVAIS D AUVERGNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 85 74 84 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-loisir.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.82074,46.039399,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ST GEORGES DE MONS 2**</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Mai-Septembre<br>Budget €/j: 5-10<br>Emplacements: 46<br>Location: <br>description: <br>Adresse: 63780 ST GEORGES DE MONS<br>Phone: 04 73 86 76 22 <br>Website: www.ville-st-georges-de-mons.fr/accueil_hebergement.aspx#I00007359]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>46</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>63780 ST GEORGES DE MONS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 86 76 22 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-st-georges-de-mons.fr/accueil_hebergement.aspx#I00007359</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.839966,45.93396,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ST GENES CHAMPESPE</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Mai-Septembre<br>Budget €/j: 5-10<br>Emplacements: 24<br>Location: <br>description: <br>Adresse: 63850 ST GENES CHAMPESPE<br>Phone: 04 73 22 34 88<br>Website: www.auvergne-tourisme.info/hotellerie-de-plein-air/saint-genes-champespe/camping-municipal/tourisme-HPAAUV063FS00023-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>24</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>63850 ST GENES CHAMPESPE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 22 34 88</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.auvergne-tourisme.info/hotellerie-de-plein-air/saint-genes-champespe/camping-municipal/tourisme-HPAAUV063FS00023-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.721863,45.413876,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la PRADE 2**</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Avril-Octobre<br>Budget €/j: 5-10<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: 63560 SERVANT<br>Phone: 04 73 52 40 14<br>Website: www.servant-tourisme.com/servant-hebergement.php]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>63560 SERVANT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 52 40 14</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.servant-tourisme.com/servant-hebergement.php</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.9292300000000004,46.138928,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE OLLOIX</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Mai-Septembre<br>Budget €/j: 5-10<br>Emplacements: ...<br>Location: <br>description: <br>Adresse: Pré de Barre, 63450 OLLOIX<br>Phone: 04 73 39 05 54 <br>Website: www.olloix.fr/SeLoger.html#Laire_de_camping_du_pr%E9_de_Barre]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>...</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Pré de Barre, 63450 OLLOIX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 39 05 54 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.olloix.fr/SeLoger.html#Laire_de_camping_du_pr%E9_de_Barre</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.0459590000000003,45.619801,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les COUDERTS 2**</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: mi Avril-mi Octobre / Toute l'annee pour les chalets<br>Budget €/j: 10-15<br>Emplacements: 70<br>Location: <br>description: <br>Adresse: route de la Banne d'orchange, 63150 MURAT LE QUAIRE<br>Phone: 04 73 65 54 81 <br>Website: www.sancy.com/commune/murat-le-quaire]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-mi Octobre / Toute l'annee pour les chalets</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route de la Banne d'orchange, 63150 MURAT LE QUAIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 65 54 81 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.sancy.com/commune/murat-le-quaire</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.735596,45.590978,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la DORE 2**</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: mi Avril-Aout<br>Budget €/j: 15-20<br>Emplacements: 100<br>Location: <br>description: <br>Adresse: 86, rue Claussat, 63290 PUY GUILLAUME<br>Phone: 04 73 94 78 51<br>Website: www.puy-guillaume.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>86, rue Claussat, 63290 PUY GUILLAUME</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 94 78 51</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.puy-guillaume.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.466358,45.962129,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPALRambaud 2**</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Avril-Octobre<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: Rambaud,63660 ST ANTHEME<br>Phone: 04 73 95 48 79 <br>Website: www.vallee-de-lance.com/sejourner-vallee-ance/hebergement/detail.asp?idoi=sitraCAM392387&cat=camping]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rambaud,63660 ST ANTHEME</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 95 48 79 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vallee-de-lance.com/sejourner-vallee-ance/hebergement/detail.asp?idoi=sitraCAM392387&amp;cat=camping</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.917999,45.529441,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le GRAND PRE 2**</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Mai-Septembre<br>Budget €/j: 5-10<br>Emplacements: 70<br>Location: <br>description: <br>Adresse: 63380 PONTAUMUR<br>Phone: 04 73 79 79 10<br>Website: www.planetepuydedome.com/hotellerie-de-plein-air/pontaumur/camping-municipal-le-grand-pre/tourisme-HPAAUV063FS0002V-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>63380 PONTAUMUR</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 79 79 10</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.planetepuydedome.com/hotellerie-de-plein-air/pontaumur/camping-municipal-le-grand-pre/tourisme-HPAAUV063FS0002V-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.675171,45.87041,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le BANDIER 2**</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Avril-mi Octobre<br>Budget €/j: 10-15<br>Emplacements: 20<br>Location: <br>description: <br>Adresse: 63840 SAUSSANGE<br>Phone: 04 73 95 94 29<br>Website: www.sauvessanges.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>63840 SAUSSANGE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 95 94 29</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.sauvessanges.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.8715649999999995,45.392905,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL VIVEROLS 2**</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Avril-Octobre<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: Le Pradoux, 63840 VIVEROLS<br>Phone: 04 73 95 96 90 <br>Website: www.viverols.free.fr/default_frame.htm]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Pradoux, 63840 VIVEROLS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 95 96 90 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.viverols.free.fr/default_frame.htm</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.88092,45.433154,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Pierre et Source 3***</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Mai-Septembre<br>Budget €/j: 15-20<br>Emplacements: 60<br>Location: <br>description: <br>Adresse: Rue de Chancelas, 63530 VOLVIC<br>Phone: 04 73 33 50 16 <br>Website: www.camping-volvic.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de Chancelas, 63530 VOLVIC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 33 50 16 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-volvic.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.04347,45.871963,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES PERCE NEIGE 2**</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: ns<br>Budget €/j: ...<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: 63680 ST DONAT<br>Phone: 04 73 22 30 13<br>Website: www.saintdonat-auvergne.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>...</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>63680 ST DONAT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 22 30 13</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saintdonat-auvergne.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.719116,45.46591,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ORCINES 1*</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: Route de Limoges, 63870 ORCINES<br>Phone: 04 73 62 18 76<br>Website: www.orcines-puy-de-dome.com/pratique__18_adresses-utiles_.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Limoges, 63870 ORCINES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 62 18 76</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.orcines-puy-de-dome.com/pratique__18_adresses-utiles_.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.992401,45.77806,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA GOUTELLE </name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: ns<br>Budget €/j: ...<br>Emplacements: 32<br>Location: <br>description: <br>Adresse: Bourg de la Goutelle, 63230 LA GOUTELLE<br>Phone: 04 73 87 70 86<br>Website: www.planetepuydedome.com/hotellerie-de-plein-air/la-goutelle/camping-municipal-de-la-goutelle/tourisme-HPAAUV063FS0003Q-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>...</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>32</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Bourg de la Goutelle, 63230 LA GOUTELLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 87 70 86</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.planetepuydedome.com/hotellerie-de-plein-air/la-goutelle/camping-municipal-de-la-goutelle/tourisme-HPAAUV063FS0003Q-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.760315,45.842194,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE METZ 2**</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 65<br>Location: <br>description: <br>Adresse: Loumas,  63220 ARLANC<br>Phone: 04 73 95 00 71<br>Website: www.arlanc.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>65</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Loumas,  63220 ARLANC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 95 00 71</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.arlanc.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.7214469999999995,45.41484,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL DOMPIERRE SUR BESBRE 2**</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: 15 Mai-15 Septembre<br>Budget €/j: 10-15<br>Emplacements: 70<br>Location: <br>description: <br>Adresse: 03290 DOMPIERRE SUR BESBRE<br>Phone: 04 70 34 55 57 <br>Website: www.mairie-dsb.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>15 Mai-15 Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>03290 DOMPIERRE SUR BESBRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 34 55 57 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie-dsb.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.6859130000000007,46.519186,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Nieres 2**</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 45<br>Location: <br>description: <br>Adresse: Les Nières, 03450 EBREUIL<br>Phone: 04 70 90 70 60<br>Website: www.tourisme-valdesioule.fr/campings-val-de-sioule.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>45</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Les Nières, 03450 EBREUIL</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 90 70 60</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-valdesioule.fr/campings-val-de-sioule.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.084755,46.112516,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL CHOUVIGNY 2**</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: mi Avril-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 33<br>Location: <br>description: <br>Adresse: Le Bel, 03450 CHOUVIGNY<br>Phone: 04 70 90 90 48 <br>Website: www.chouvigny.planet-allier.com/camping.htm]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Bel, 03450 CHOUVIGNY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 90 90 48 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.chouvigny.planet-allier.com/camping.htm</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.988281,46.120845,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL CLAIRVAL 2**</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: mi Avril-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 45<br>Location: <br>description: <br>Adresse: route Cerilly, 03430 COSNE D ALLIER<br>Phone: 04 70 07 51 69<br>Website: www.ville-cosnedallier.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>45</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route Cerilly, 03430 COSNE D ALLIER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 07 51 69</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-cosnedallier.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.834473,46.479482,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL DEUX CHAISES </name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 12<br>Location: <br>description: <br>Adresse: 03240 DEUX CHAISES<br>Phone: 04 70 47 12 74 <br>Website: www.auvergne-tourisme.info/hotellerie-de-plein-air/deux-chaises/camping-municipal/tourisme-HPAAUV000FS000AA-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>12</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>03240 DEUX CHAISES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 47 12 74 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.auvergne-tourisme.info/hotellerie-de-plein-air/deux-chaises/camping-municipal/tourisme-HPAAUV000FS000AA-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.041153,46.381044,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le GALIZAN 2**</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: ns<br>Budget €/j: ...<br>Emplacements: 32<br>Location: <br>description: GPS 46.024033,3.647266<br><br>Adresse: 9 rue de l'Eglise, 03250 FERRIERES SUR SICHON<br>Phone: 04 70 41 10 10 <br>Website: www.ferrieres-sur-sichon.fr/ferrieres-sur-sichon.php?f=25]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>...</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>32</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>GPS 46.024033,3.647266
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>9 rue de l'Eglise, 03250 FERRIERES SUR SICHON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 41 10 10 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ferrieres-sur-sichon.fr/ferrieres-sur-sichon.php?f=25</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.647493,46.024092,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL l AUMANCE 1*</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Avril-Septembre<br>Budget €/j: 5-10<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: Crochepot, 03190 HERISSON<br>Phone: 04 70 06 88 22 <br>Website: www.herisson03.e-monsite.com/pages/hebergements-et-restauration.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Crochepot, 03190 HERISSON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 06 88 22 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.herisson03.e-monsite.com/pages/hebergements-et-restauration.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.705383,46.510444,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE MOULIN DE LYON 2**</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 75<br>Location: <br>description: <br>Adresse: 03380 HURIEL<br>Phone: 04 70 28 60 08 <br>Website: www.mairie-huriel.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>75</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>03380 HURIEL</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 28 60 08 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie-huriel.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.475529,46.375478,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la PLAGE du CHER</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Mai-Septembre<br>Budget €/j: 5-10<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: Route de la Gare, 03360 URCAY<br>Phone: 04 70 06 96 91<br>Website: www.auvergne-tourisme.info/hotellerie-de-plein-air/urcay/camping-municipal-la-plage-du-cher/tourisme-HPAAUV000FS0009C-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de la Gare, 03360 URCAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 06 96 91</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.auvergne-tourisme.info/hotellerie-de-plein-air/urcay/camping-municipal-la-plage-du-cher/tourisme-HPAAUV000FS0009C-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.592773,46.623034,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL L'ILE DE LA RONDE 2**</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Avril-Septembre<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: 03500 ST POURCAIN SUR SIOULE<br>Phone: 04 70 45 45 43<br>Website: www.ville-saint-pourcain-sur-sioule.com/fr/Article/802/Camping-Municipal-de-la-Ronde]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>03500 ST POURCAIN SUR SIOULE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 45 45 43</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-saint-pourcain-sur-sioule.com/fr/Article/802/Camping-Municipal-de-la-Ronde</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.305511,46.310893,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE VERNAY 3***</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Avril-mi Octobre<br>Budget €/j: 10-15<br>Emplacements: 35<br>Location: <br>description: <br>Adresse: Route de Saligny, 03470 PIERREFITTE SUR LOIRE<br>Phone: 04 70 47 02 49<br>Website: www.pierrefitte03.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Saligny, 03470 PIERREFITTE SUR LOIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 47 02 49</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.pierrefitte03.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.815002,46.509735000000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL SAINT MAYEUL</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 20<br>Location: <br>description: <br>Adresse: rue de Saint Mayeul, 03320 LE VEURDRE<br>Phone: 04 70 66 40 67<br>Website: www.allier-auvergne-tourisme.com/hotellerie-de-plein-air/veurdre-le/camping-municipal-saint-mayeul/tourisme-HPAAUV000FS0009V-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue de Saint Mayeul, 03320 LE VEURDRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 66 40 67</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.allier-auvergne-tourisme.com/hotellerie-de-plein-air/veurdre-le/camping-municipal-saint-mayeul/tourisme-HPAAUV000FS0009V-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.034973,46.756798,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL VALLON EN SULLY 2**</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Juin-mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: Allée des Soupirs, 03190 VALLON EN SULLY<br>Phone: 04.70.06.67.48<br>Website: www.vallonensully.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Allée des Soupirs, 03190 VALLON EN SULLY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04.70.06.67.48</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vallonensully.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.614059,46.531469,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL TREZELLES 2**</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: closed<br>Budget €/j: <br>Emplacements: 33<br>Location: <br>description: <br>Adresse: 03220 TREZELLES<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>closed</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>03220 TREZELLES</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.5980220000000003,46.320378,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le LAC 3***</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Avril-Octobre<br>Budget €/j: 10-15<br>Emplacements: 135<br>Location: <br>description: <br>Adresse: Rue Marx Dormoy, 03310 NERIS LES BAINS<br>Phone: 04 70 03 24 70<br>Website: www.ville-neris-les-bains.fr/hebergements/campings.php]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>135</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue Marx Dormoy, 03310 NERIS LES BAINS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 03 24 70</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-neris-les-bains.fr/hebergements/campings.php</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.651997,46.286698,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE MAYET DE MONTAGNE 2**</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Mars-mi Octobre<br>Budget €/j: 5-10<br>Emplacements: 60<br>Location: <br>description: <br>Adresse: 03250 LE MAYET DE MONTAGNE<br>Phone: 04 70 59 70 52<br>Website: www.lemayetdemontagne.planet-allier.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>03250 LE MAYET DE MONTAGNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 59 70 52</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lemayetdemontagne.planet-allier.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.6694340000000003,46.071325,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL HERCULAT </name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Avril-Septembre<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: 1 place St Julien, 03380 TREIGNAT<br>Phone: 04 70 07 08 83<br>Website: www.auvergne-tourisme.info/hotellerie-de-plein-air/treignat/camping-d-herculat/tourisme-HPAAUV000FS000A0-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>1 place St Julien, 03380 TREIGNAT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 07 08 83</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.auvergne-tourisme.info/hotellerie-de-plein-air/treignat/camping-d-herculat/tourisme-HPAAUV000FS000A0-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.342834,46.34598,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE Puy St Ambroise</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: nc<br>Budget €/j: Gratuite!<br>Emplacements: 6<br>Location: <br>description: <br>Adresse: Puy St Ambroise, 03220 ST LEON<br>Phone: 04 70 42 15 57 <br>Website: www.valdebesbre.com/Pages/Tourisme%20et%20loisirs/hebergements%20restauration/Camping.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>nc</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>Gratuite!</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>6</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Puy St Ambroise, 03220 ST LEON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 42 15 57 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.valdebesbre.com/Pages/Tourisme%20et%20loisirs/hebergements%20restauration/Camping.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.7010189999999996,46.403776,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ST HILAIRE 1*</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 18<br>Location: <br>description: <br>Adresse: 03440 ST HILAIRE<br>Phone: 04 70 66 50 78<br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>18</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>03440 ST HILAIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 66 50 78</value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.02124,46.494611,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE CHEVAL </name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: 03360 MEAULNE<br>Phone: 04 70 06 91 13<br>Website: www.auvergne-tourisme.info/hotellerie-de-plein-air/meaulne/camping-le-cheval-blanc/tourisme-HPAAUV000FS0009A-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>03360 MEAULNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 06 91 13</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.auvergne-tourisme.info/hotellerie-de-plein-air/meaulne/camping-le-cheval-blanc/tourisme-HPAAUV000FS0009A-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.617493,46.594731,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL MAZIRAT 1*</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: mi Mars-mi Octobre<br>Budget €/j: 5-10<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: 03420 MAZIRAT<br>Phone: 04 70 51 73 07 <br>Website: www.auvergne-tourisme.info/hotellerie-de-plein-air/mazirat/camping-municipal/tourisme-HPAAUV000FS0009E-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>03420 MAZIRAT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 51 73 07 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.auvergne-tourisme.info/hotellerie-de-plein-air/mazirat/camping-municipal/tourisme-HPAAUV000FS0009E-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.540588,46.219752,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA GRAVIERE 2**</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Avril-Septembre<br>Budget €/j: 5-10<br>Emplacements: 33<br>Location: <br>description: <br>Adresse: Forêt de Bois Mal, 03330 LOUROUX DE BOUBLE<br>Phone: 04 70 90 90 06 <br>Website: www.louroux-de-bouble.planet-allier.com/Loisirs/Camping.html)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Forêt de Bois Mal, 03330 LOUROUX DE BOUBLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 90 90 06 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.louroux-de-bouble.planet-allier.com/Loisirs/Camping.html)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.979012,46.224978,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL JENZAT 2**</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Mai-Septembre<br>Budget €/j: 15-20<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: 03800 JENZAT<br>Phone: 04 70 56 86 35<br>Website: www.camping-jenzat.e-monsite.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>03800 JENZAT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 56 86 35</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-jenzat.e-monsite.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.192215,46.164139000000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la CHAPELLE 2**</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: 03350 CERILLY<br>Phone: 04 70 67 52 00 <br>Website: www.mairie-cerilly.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>03350 CERILLY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 67 52 00 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie-cerilly.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.82074,46.617375,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL JEAN BIGNON 2**</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Mars-Octobre<br>Budget €/j: 10-15<br>Emplacements: 160<br>Location: <br>description: GPS 46.580,3.04814<br><br>Adresse: Boulevard Jean Bignon03160 BOURBON L'ARCHAMBAULT<br>Phone: 04 70 67 08 83 <br>Website: www.ot-bourbon.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>160</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>GPS 46.580,3.04814
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Boulevard Jean Bignon03160 BOURBON L'ARCHAMBAULT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 67 08 83 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ot-bourbon.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.047848,46.580575,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE PONTILLARD 2**</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 6<br>Location: <br>description: <br>Adresse: Route de Montmarault, 03330 BELLENAVES<br>Phone: 04 70 58 39 75 <br>Website: www.bellenaves.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>6</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Montmarault, 03330 BELLENAVES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 58 39 75 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.bellenaves.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.0789180000000003,46.196943,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de LABOULERE 2**</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Mai-Septembre<br>Budget €/j: ...<br>Emplacements: 66<br>Location: <br>description: <br>Adresse: Laboulère, 03120 ARFEUILLES<br>Phone: 04 70 55 50 11 <br>Website: www.arfeuilles.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>...</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>66</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Laboulère, 03120 ARFEUILLES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 55 50 11 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.arfeuilles.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.729858,46.155102,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le MONT LIBRE 3***</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Avril-Octobre<br>Budget €/j: 10-15<br>Emplacements: 70<br>Location: <br>description: <br>Adresse: Route de la Batisse, 03800 GANNAT<br>Phone: 04 70 90 12 16 <br>Website: www.bassin-gannat.com/article/archive/68/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de la Batisse, 03800 GANNAT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 90 12 16 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.bassin-gannat.com/article/archive/68/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.196163,46.091805,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Pre des Laveuses 3***</name>
+				<description><![CDATA[Département: Puy de Dôme <br>Ouverture: Ouvert toute l'annee<br>Budget €/j: 25-30<br>Emplacements: 100<br>Location: <br>description: <br>Adresse: Rue des Laveuses, 63800 COURNON D AUVERGNE<br>Phone: 04 73 84 81 30 <br>Website: www.cournon-auvergne.fr/Decouvrir-Cournon/Camping-le-Pre-des-Laveuses]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert toute l'annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue des Laveuses, 63800 COURNON D AUVERGNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 84 81 30 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.cournon-auvergne.fr/Decouvrir-Cournon/Camping-le-Pre-des-Laveuses</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.214874,45.734463,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les 3 CHENES 3***</name>
+				<description><![CDATA[Département: Puy de Dôme <br>Ouverture: nc<br>Budget €/j: 20-25<br>Emplacements: 95<br>Location: <br>description: <br>Adresse: Route du Puy, 63600 AMBERT <br>Phone: 04 73 82 34 68 <br>Website: www.camping-ambert.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>nc</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>95</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route du Puy, 63600 AMBERT </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 82 34 68 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-ambert.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.732605,45.552044,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL St Just 3*</name>
+				<description><![CDATA[Département: Cantal<br>Ouverture: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 60<br>Location: <br>description: <br>Adresse: 15320 Saint-Just<br>Phone: 04 71 73 70 48 <br>Website: www.saintjust.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>15320 Saint-Just</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 73 70 48 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saintjust.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.203201,44.891877,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Taillades 2**</name>
+				<description><![CDATA[Département: Puy de Dôme <br>Ouverture: mi Juin-Aout<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: Allée des Taillades, 63120 COURPIERE<br>Phone: 04.73.51.22.80<br>Website: www.ville-courpiere.fr/pages/index.php?page=annuaire_hotellerie]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Allée des Taillades, 63120 COURPIERE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04.73.51.22.80</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-courpiere.fr/pages/index.php?page=annuaire_hotellerie</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.532104,45.74836,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL STAPALOS 2**</name>
+				<description><![CDATA[Département: Cantal<br>Ouverture: May-Septembre<br>Budget €/j: 15-20<br>Emplacements: 83<br>Location: <br>description: <br>Adresse: 15300 MURAT<br>Phone: 04 71 20 01 83<br>Website: www.camping-murat.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>May-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>83</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>15300 MURAT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 20 01 83</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-murat.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.883911,45.143305,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le moulin du Teinturier 3*</name>
+				<description><![CDATA[Département: Cantal<br>Ouverture: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 68<br>Location: <br>description: <br>Adresse: Le Bourg, 15140 ST MARTIN VALMEROUX<br>Phone: 04 71 69 43 12<br>Website: www.salers-tourisme.fr/fr/hebergement-et-restauration/le-moulin-du-teinturier]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>68</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Bourg, 15140 ST MARTIN VALMEROUX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 69 43 12</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.salers-tourisme.fr/fr/hebergement-et-restauration/le-moulin-du-teinturier</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.430725,45.11811500000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la pierre Plate</name>
+				<description><![CDATA[Département: Cantal<br>Ouverture: mi Juin-mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: Le Bourg, 15140 FONTANGES<br>Phone: 04 71 40 71 49<br>Website: www.auvergne-tourisme.info/hotellerie-de-plein-air/fontanges/camping-la-pierre-plate/tourisme-HPAAUV0150000141-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Bourg, 15140 FONTANGES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 40 71 49</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.auvergne-tourisme.info/hotellerie-de-plein-air/fontanges/camping-la-pierre-plate/tourisme-HPAAUV0150000141-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.5009810000000003,45.113313,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Vebret</name>
+				<description><![CDATA[Département: Cantal<br>Ouverture: Juin-Septembre<br>Budget €/j: 5-10<br>Emplacements: ...<br>Location: <br>description: <br>Adresse: Beringer, 15240 VEBRET<br>Phone: 04 71 40 20 86<br>Website: www.mairie.vebret.pagesperso-orange.fr/equipements.htm#Camping municipal]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>...</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Beringer, 15240 VEBRET</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 40 20 86</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie.vebret.pagesperso-orange.fr/equipements.htm#Camping municipal</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.519989,45.338633,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de MOURIOL 3*</name>
+				<description><![CDATA[Département: Cantal<br>Ouverture: Avril-mi Novembre<br>Budget €/j: 15-20<br>Emplacements: 85<br>Location: <br>description: <br>Adresse: Route du Puy Mar, 15140 SALERS<br>Phone: 04 71 40 73 09 <br>Website: www.salers.fr/public/?code=salle-des-fetes]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-mi Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>85</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route du Puy Mar, 15140 SALERS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 40 73 09 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.salers.fr/public/?code=salle-des-fetes</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.492952,45.137856,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la Bedisse 3*</name>
+				<description><![CDATA[Département: Cantal<br>Ouverture: Mai-Septembre<br>Budget €/j: 15-20<br>Emplacements: 90<br>Location: <br>description: <br>Adresse: 15800 THIESAC <br>Phone: 04.71.47.00.41<br>Website: www.camping-thiezac.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>90</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>15800 THIESAC </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04.71.47.00.41</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-thiezac.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.666245,45.016273,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la Grangeotte</name>
+				<description><![CDATA[Département: Cantal<br>Ouverture: Juillet-Aout<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: route de Rodez, 15120 MONTSALVY<br>Phone: 04 71 49 26 00<br>Website: www.montsalvy.fr/decouvrir-la-ville/tourismeetloisirs#camping]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route de Rodez, 15120 MONTSALVY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 49 26 00</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.montsalvy.fr/decouvrir-la-ville/tourismeetloisirs#camping</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.515869,44.70673,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Lavaurs</name>
+				<description><![CDATA[Département: Cantal <br>Ouverture: Mai-mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 27<br>Location: <br>description: <br>Adresse: Lavaurs, 15200 JALEYRAC<br>Phone: 04 71 69 73 65<br>Website: www.auvergne-tourisme.info/hotellerie-de-plein-air/jaleyrac/camping-de-lavaurs/tourisme-HPAAUV0150000118-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>27</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Lavaurs, 15200 JALEYRAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 69 73 65</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.auvergne-tourisme.info/hotellerie-de-plein-air/jaleyrac/camping-de-lavaurs/tourisme-HPAAUV0150000118-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.37854,45.265222,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL FAVEROLLES </name>
+				<description><![CDATA[Département: Cantal <br>Ouverture: mi Juin-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 6<br>Location: <br>description: <br>Adresse: le Bourg, 15320 FAVEROLLES <br>Phone: 04 71 23 49 91<br>Website: www.pays-saint-flour.fr/fr/il4-preparez,hebergement_p145-camping-municipal-de-faverolles.aspx?Cle=ILIVE-CANTAL-CAMP-185]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>6</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>le Bourg, 15320 FAVEROLLES </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 23 49 91</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.pays-saint-flour.fr/fr/il4-preparez,hebergement_p145-camping-municipal-de-faverolles.aspx?Cle=ILIVE-CANTAL-CAMP-185</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.147926,44.938557,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CAMPING MUNICIPAL les CROUZETS 2</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: toute l'annee sauf Oct/Nov<br>Budget €/j: 15-20<br>Emplacements: 58<br>Location: <br>description: <br>Adresse: avenue des Crouzets, 63240 LE MONT DORE<br>Phone: 04 73 65 21 60 <br>Website: www.sancy.com/hebergements/detail/2767/le-mont-dore/camping-municipal-les-crouzets]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>toute l'annee sauf Oct/Nov</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>58</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>avenue des Crouzets, 63240 LE MONT DORE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 65 21 60 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.sancy.com/hebergements/detail/2767/le-mont-dore/camping-municipal-les-crouzets</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.813187,45.574639,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Saint Martin de Vigouroux</name>
+				<description><![CDATA[Département: Cantal<br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 32<br>Location: <br>description: <br>Adresse: Le Brezons, 15230 SAINT MARTIN SOUS VIGOUROUX<br>Phone: 04.71.23.33.61<br>Website: www.pays-saint-flour.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>32</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Brezons, 15230 SAINT MARTIN SOUS VIGOUROUX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04.71.23.33.61</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.pays-saint-flour.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.805097,44.921543,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ALBEPIERRE BREDONS 1*</name>
+				<description><![CDATA[Département: Cantal<br>Ouverture: mi Juin -mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 45<br>Location: <br>description: <br>Adresse: 15300 ALBEPIERRE BREDONS<br>Phone: 04 71 20 20 49<br>Website: www.officedetourismepaysdemurat.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin -mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>45</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>15300 ALBEPIERRE BREDONS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 20 20 49</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.officedetourismepaysdemurat.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.835159,45.0774,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CAMPING MUNICIPAL LA PLANCHE DES DAMES</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: toute l'annee<br>Budget €/j: 10-15<br>Emplacements: 25<br>Location: <br>description: <br>Adresse: 17 place de la Collegiale, 87210 DORAT<br>Phone: 05 55 60 76 61<br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>toute l'annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>17 place de la Collegiale, 87210 DORAT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 55 60 76 61</value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.485756,45.892398,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal FONTBIELLE 2**</name>
+				<description><![CDATA[Département: Cantal<br>Ouverture: Juin-Septembre<br>Budget €/j: 5-10<br>Emplacements: 60<br>Location: <br>description: <br>Adresse: le Bourg, 15260 FONTBIELLE<br>Phone: 04 71 23 84 08<br>Website: www.officeneuveglise.wix.com/campingdefontbielle]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>le Bourg, 15260 FONTBIELLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 23 84 08</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.officeneuveglise.wix.com/campingdefontbielle</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.986221,44.931266,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du gue de Loire 2*</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: 1 Juillet-30 Aout<br>Budget €/j: 15-20<br>Emplacements: 33<br>Location: <br>description: <br>Adresse: Bords de Loire, 03290 DIOU <br>Phone: 06 71 30 32 80 <br>Website: www.valdebesbre.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>1 Juillet-30 Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Bords de Loire, 03290 DIOU </value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 71 30 32 80 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.valdebesbre.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.743248,46.536193,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Grande Ouche</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Avril-mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 8<br>Location: <br>description: <br>Adresse: Le Bourg, 03130 BERT<br>Phone: 04 70 99 08 39<br>Website: www.lapalisse-tourisme.com/135_16_Campings.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>8</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Bourg, 03130 BERT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 99 08 39</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lapalisse-tourisme.com/135_16_Campings.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.704495,46.324172,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Lapalisse</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Avril-Septembre<br>Budget €/j: 5-10<br>Emplacements: 56<br>Location: <br>description: <br>Adresse: rue des Vignes, 03120 SAINT PRIX<br>Phone: 04 70 99 26 31<br>Website: www.lapalisse-tourisme.com/135_16_Campings.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>56</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue des Vignes, 03120 SAINT PRIX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 99 26 31</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lapalisse-tourisme.com/135_16_Campings.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.63935,46.243486,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Saint Mamet la Salvetat 3*</name>
+				<description><![CDATA[Département: Cantal<br>Ouverture: Avril - Octobre<br>Budget €/j: 10-15<br>Emplacements: 24<br>Location: <br>description: <br>Adresse: 15220 SAINT -MAMET LA SALVETAT<br>Phone: 04 71 64 75 21 <br>Website: www.stmamet-lasalvetat.com/index.php/tourisme/camping]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>24</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>15220 SAINT -MAMET LA SALVETAT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 64 75 21 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.stmamet-lasalvetat.com/index.php/tourisme/camping</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.307065,44.858379,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Saviloisirs 3*</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: nc<br>Budget €/j: 10-15<br>Emplacements: 19<br>Location: <br>description: <br>Adresse: 7 Place de la Liberte, 63600 SAINT AMANT ROCHE SAVINE <br>Phone: 04 73 95 73 60<br>Website: www.saviloisirs.com/le-camping.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>nc</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>19</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>7 Place de la Liberte, 63600 SAINT AMANT ROCHE SAVINE </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 95 73 60</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saviloisirs.com/le-camping.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.634565,45.574774,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Marins</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: mi Juin - Aout<br>Budget €/j: 20-25<br>Emplacements: 64<br>Location: <br>description: <br>Adresse: lac de Lapeyrousse, 63 LAPEYROUSSE<br>Phone: 04.73.93.60.00<br>Website: www.63lapeyrouse.free.fr/hebergement/hebergement.htm]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>64</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>lac de Lapeyrousse, 63 LAPEYROUSSE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04.73.93.60.00</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.63lapeyrouse.free.fr/hebergement/hebergement.htm</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.88331,46.221712,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Neussargues Moissac 3*</name>
+				<description><![CDATA[Département: Cantal<br>Ouverture: Juin-Aout<br>Budget €/j: 10-15<br>Emplacements: 24<br>Location: <br>description: <br>Adresse: route de Murat, 15170 NEUSSARGUES MOISSAC<br>Phone: 04 71 20 50 21<br>Website: www.neussargues-moissac.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>24</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route de Murat, 15170 NEUSSARGUES MOISSAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 20 50 21</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.neussargues-moissac.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.967725,45.129288,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le VERT 3*</name>
+				<description><![CDATA[Département: Cantal<br>Ouverture: Mai - Septembre<br>Budget €/j: 15-20<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: Avenue du Stade, 15600 MAURS<br>Phone: 04 71 49 00 32 <br>Website: www.campinglevert-maurs.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue du Stade, 15600 MAURS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 49 00 32 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campinglevert-maurs.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.207072,44.706273,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Font Saint Julien</name>
+				<description><![CDATA[Département: Allier<br>Ouverture: Avril - Octobre<br>Budget €/j: 10-15<br>Emplacements: ...<br>Location: <br>description: <br>Adresse: la font Saint Julien, 03320 COULEUVRE<br>Phone: 04 70 66 10 45<br>Website: www.allier-auvergne-tourisme.com/hebergements-allier/tous-les-hebergements-46-1/couleuvre/hotellerie-de-plein-air/camping-la-font-saint-julien/obt_HPAAUV000FS0009T.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Allier</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>...</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>la font Saint Julien, 03320 COULEUVRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 70 66 10 45</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.allier-auvergne-tourisme.com/hebergements-allier/tous-les-hebergements-46-1/couleuvre/hotellerie-de-plein-air/camping-la-font-saint-julien/obt_HPAAUV000FS0009T.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.904339,46.671468000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la Ramade</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Juin * Septembre<br>Budget €/j: ...<br>Emplacements: 29<br>Location: <br>description: <br>Adresse: la Ramade, 63620 GIAT<br>Phone: 04 73 21 76 80 <br>Website: www.auvergne-tourisme.info/hotellerie-de-plein-air/giat/camping-municipal-de-la-ramade/tourisme-HPAAUV063FS0003P-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin * Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>...</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>29</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>la Ramade, 63620 GIAT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 21 76 80 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.auvergne-tourisme.info/hotellerie-de-plein-air/giat/camping-municipal-de-la-ramade/tourisme-HPAAUV063FS0003P-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.429395,45.785272,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aire MUNICIPALE Camping Cars</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: Avril - Octobre<br>Budget €/j: 5-10<br>Emplacements: 41<br>Location: <br>description: <br>Adresse: le Bourg, 63970 AYDAT <br>Phone: 04 73 79 37 15<br>Website: www.tourisme-lescheires.com/aire-de-camping-cars-hebergements-aydat-auvergne.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>41</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>le Bourg, 63970 AYDAT </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 79 37 15</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-lescheires.com/aire-de-camping-cars-hebergements-aydat-auvergne.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.972488,45.659647,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aire naturelle MUNICIPALE d Herment</name>
+				<description><![CDATA[Département: Puy de Dôme<br>Ouverture: mi Mai - mi Octobre<br>Budget €/j: 5-10<br>Emplacements: ...<br>Location: <br>description: <br>Adresse: Route du Château d'Eau, 63470 HERMENT<br>Phone: 04 73 22 10 58 <br>Website: www.planetepuydedome.com/hotellerie-de-plein-air/herment/aire-naturelle-d-herment/tourisme-HPAAUV063FS0000I-1.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Puy de Dôme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai - mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>...</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route du Château d'Eau, 63470 HERMENT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 73 22 10 58 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.planetepuydedome.com/hotellerie-de-plein-air/herment/aire-naturelle-d-herment/tourisme-HPAAUV063FS0000I-1.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.566681,45.753301,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

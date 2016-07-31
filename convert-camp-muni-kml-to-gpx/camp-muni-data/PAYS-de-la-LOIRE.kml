@@ -1,0 +1,4524 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>PAYS de la LOIRE: Campings Municipaux</name>
+		<description><![CDATA[Campings municipaux en Pays de Loire:<br>Vendee - Mayenne - Loire Atlantique - Maine et Loire - Sarthe<br>Note : Les tarifs sont indicatifs en pleine saison<br>]]></description>
+		<Folder>
+			<name>Calque sans titre</name>
+			<Placemark>
+				<name>Camping MUNICIPAL la Pointe 2**</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: mi Mars-mi Novembre<br>Budget €/j: 20-25<br>Emplacements: 205<br>Location: <br>description: Ile de Noirmoutier<br><br><br><br>Adresse: L'Herbaudière , 85 330 NOIRMOUTIER-EN-L'ILE <br>Phone: 02 51 39 16 70<br>Website: www.noirmoutier-campings.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars-mi Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>205</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Ile de Noirmoutier
+
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>L'Herbaudière , 85 330 NOIRMOUTIER-EN-L'ILE </value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 39 16 70</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.noirmoutier-campings.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-2.303846,47.024182,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL CLAIR MATIN 2**</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: toute l annee sauf Decembre<br>Budget €/j: 20-25<br>Emplacements: 205<br>Location: <br>description: Ile de Noirmoutier <br>Adresse: Les Sableaux, 85330 NOIRMOUTIER EN L ILE<br>Phone: 02 51 39 05 56<br>Website: www.noirmoutier-campings.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>toute l annee sauf Decembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>205</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Ile de Noirmoutier </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Les Sableaux, 85330 NOIRMOUTIER EN L ILE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 39 05 56</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.noirmoutier-campings.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-2.223347,46.999324,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL L'ARDILLER 1*</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: Juillet-Aout<br>Budget €/j: 10-15<br>Emplacements: 20<br>Location: <br>description: <br>Adresse: rue de la Saunerie, 85540 ST CYR EN TALMONDAIS<br>Phone: 02 51 30 82 82<br>Website: www.saint-cyr-en-talmondais.fr/a138-camping-municipal-l-ardiller-saint-cyr-en-talmondais.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue de la Saunerie, 85540 ST CYR EN TALMONDAIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 30 82 82</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saint-cyr-en-talmondais.fr/a138-camping-municipal-l-ardiller-saint-cyr-en-talmondais.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.342735,46.462664,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE MARAIS 1*</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: mi Mai-Septembre<br>Budget €/j: 15-20<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: rue de Lavaud, 85540 ST BENOIST SUR MER<br>Phone: 02 51 30 84 56<br>Website: www.saintbenoistsurmer.fr/?page_id=11]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue de Lavaud, 85540 ST BENOIST SUR MER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 30 84 56</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saintbenoistsurmer.fr/?page_id=11</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.35664,46.421958,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE MOULIN NEUF 2**</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: mi Juin-mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 80<br>Location: <br>description: <br>Adresse: Rue St-Christophe, 85300 SOULLANS<br>Phone: 02 51 68 00 24<br>Website: www.soullans.fr/index.php?option=com_content&view=article&id=132&Itemid=138]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>80</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue St-Christophe, 85300 SOULLANS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 68 00 24</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.soullans.fr/index.php?option=com_content&amp;view=article&amp;id=132&amp;Itemid=138</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.8962470000000002,46.798576,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL DE L ORGATTE 2**</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 360<br>Location: <br>description: <br>Adresse: Avenue Abbé Thibaud, 85690 NOTRE DAME DE MONTS<br>Phone: 02 51 58 84 31<br>Website: www.notre-dame-de-monts.fr/fiche-presentation_camping-742-FR-K-KNMUNI-HEBERGEMENTS.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>360</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue Abbé Thibaud, 85690 NOTRE DAME DE MONTS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 58 84 31</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.notre-dame-de-monts.fr/fiche-presentation_camping-742-FR-K-KNMUNI-HEBERGEMENTS.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-2.139105,46.837327,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aire MUNICIPALE NATURELLE MOUTIERS</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: <br>Location: <br>description: closed<br><br>Adresse: 85320 MOUTIERS SUR LE LAY<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>closed
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>85320 MOUTIERS SUR LE LAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.153564,46.554139,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE VIEUX CHENE 2**</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: mi Mai- mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 23<br>Location: <br>description: <br>Adresse: rue du Port, 85370 NALLIERS<br>Phone: 06 33 47 98 73<br>Website: www.nalliers.fr/page/camping.htm]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>23</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue du Port, 85370 NALLIERS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 33 47 98 73</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.nalliers.fr/page/camping.htm</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.026063,46.467025,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA ROCHE </name>
+				<description><![CDATA[Département: Loire Atlantique <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: <br>Location: <br>description: FERME !<br><br><br><br>Adresse: 44170 MARSAC SUR DON<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loire Atlantique </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>FERME !
+
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>44170 MARSAC SUR DON</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.678698,47.597019,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Les PLATANES 2*</name>
+				<description><![CDATA[Département: Loire Atlantique <br>Ouverture: Juillet-Aout<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: 44780 MISSILLAC<br>Phone: 02 40 88 38 88<br>Website: www.missillac.fr/module-Contenus-viewpub-tid-2-pid-338.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loire Atlantique </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>44780 MISSILLAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 40 88 38 88</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.missillac.fr/module-Contenus-viewpub-tid-2-pid-338.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-2.175636,47.477754,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL DE LA MORINIERE 1*</name>
+				<description><![CDATA[Département: Loire Atlantique <br>Ouverture: Juin-Septembre<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: moriniere, 44710 PORT ST PERE<br>Phone: 02 40 31 50 13<br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loire Atlantique </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>moriniere, 44710 PORT ST PERE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 40 31 50 13</value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.744187,47.134301,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les MOUETTES 2**</name>
+				<description><![CDATA[Département: Loire Atlantique <br>Ouverture: mi Mars-mi Octobre<br>Budget €/j: 15-20<br>Emplacements: 210<br>Location: <br>description: <br>Adresse: 45, boulevard de l'Atlantique, 44510 LE POULIGUEN<br>Phone: 02 40 42 43 98<br>Website: www.tourisme-lepouliguen.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loire Atlantique </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>210</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>45, boulevard de l'Atlantique, 44510 LE POULIGUEN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 40 42 43 98</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-lepouliguen.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-2.439437,47.273923,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le CLEIN </name>
+				<description><![CDATA[Département: Loire Atlantique <br>Ouverture: mi Mars-mi Octobre<br>Budget €/j: 15-20<br>Emplacements: 120<br>Location: <br>description: <br>Adresse: 22, avenue de Kerdun, 44510 LE POULIGUEN<br>Phone: 02 40 42 43 99<br>Website: www.tourisme-lepouliguen.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loire Atlantique </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>120</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>22, avenue de Kerdun, 44510 LE POULIGUEN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 40 42 43 99</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-lepouliguen.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-2.430232,47.271702,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Coletterie 3***</name>
+				<description><![CDATA[Département: Loire Atlantique <br>Ouverture: toute l annee sauf Octobre<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: rue de Tivoli,44360 ST ETIENNE DE MONTLUC <br>Phone: 02 40 86 97 44<br>Website: www.st-etienne-montluc.net/camping/presentation-_R_203_204_.htm]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loire Atlantique </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>toute l annee sauf Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue de Tivoli,44360 ST ETIENNE DE MONTLUC </value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 40 86 97 44</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.st-etienne-montluc.net/camping/presentation-_R_203_204_.htm</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.779839,47.280037,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du Lac 2*</name>
+				<description><![CDATA[Département: Loire Atlantique <br>Ouverture: Mars-Novembre<br>Budget €/j: 15-20<br>Emplacements: 100<br>Location: <br>description: <br>Adresse: route du Lac, 44260 SAVENAY<br>Phone: 02 40 58 31 76<br>Website: www.camping-lac-savenay.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loire Atlantique </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars-Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route du Lac, 44260 SAVENAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 40 58 31 76</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-lac-savenay.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.920934,47.357294,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de l ERDRE 2**</name>
+				<description><![CDATA[Département: Loire Atlantique <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: <br>Location: <br>description: out of business <br><br><br>Adresse: 44540 ST MARS LA JAILLE<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loire Atlantique </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>out of business 
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>44540 ST MARS LA JAILLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.171932,47.52759,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les TAINIERES 1*</name>
+				<description><![CDATA[Département: Loire Atlantique <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: 200<br>Location: <br>description: <br>Adresse: 44480 DONGES<br>Phone: 02 40 91 06 47<br>Website: www.ville-donges.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loire Atlantique </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>200</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>44480 DONGES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 40 91 06 47</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-donges.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-2.084548,47.328018,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le MOULIN 3***</name>
+				<description><![CDATA[Département: Loire Atlantique <br>Ouverture: mi Avril-mi Octobre<br>Budget €/j: 15-20<br>Emplacements: 56<br>Location: <br>description: <br>Adresse: Route de Nantes, ZA de Calin, 44190 CLISSON<br>Phone: 02 40 54 44 48<br>Website: www.camping-valleedeclisson.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loire Atlantique </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>56</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Nantes, ZA de Calin, 44190 CLISSON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 40 54 44 48</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-valleedeclisson.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.282804,47.09591100000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les CHARDONS BLEUS 3***</name>
+				<description><![CDATA[Département: Loire Atlantique <br>Ouverture: mi Avril-mi Septembre<br>Budget €/j: 20-25<br>Emplacements: 300<br>Location: <br>description: <br>Adresse: Boulevard de la Grande Falaise,44420 LA TURBALLE<br>Phone: 02 40 62 80 60<br>Website: www.camping-laturballe.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loire Atlantique </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>300</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Boulevard de la Grande Falaise,44420 LA TURBALLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 40 62 80 60</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-laturballe.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-2.499154,47.328759,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la BASTILLE 1*</name>
+				<description><![CDATA[Département: Loire Atlantique <br>Ouverture: Mai-Septembre<br>Budget €/j: 5-10<br>Emplacements: 33<br>Location: <br>description: <br>Adresse: 49123 LE FRESNE SUR LOIRE<br>Phone: 02 41 39 21 25<br>Website: www.lefresnesurloire.fr/tourisme/camping-municipal]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loire Atlantique </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>49123 LE FRESNE SUR LOIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 39 21 25</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lefresnesurloire.fr/tourisme/camping-municipal</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.9242250000000001,47.398349,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du Migron 2**</name>
+				<description><![CDATA[Département: Loire Atlantique <br>Ouverture: mi Juin- mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: Square de la Chaussée Migron, 44320 FROSSAY<br>Phone: 06 76 86 67 50<br>Website: www.frossay.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loire Atlantique </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Square de la Chaussée Migron, 44320 FROSSAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 76 86 67 50</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.frossay.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.9136059999999997,47.257592,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les BELLIONS 2**</name>
+				<description><![CDATA[Département: Loire Atlantique <br>Ouverture: Mai-Septembre<br>Budget €/j: 5-10<br>Emplacements: 15<br>Location: <br>description: <br>Adresse: 44460 FEGREAC<br>Phone: 02 40 91 20 21<br>Website: www.fegreac.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loire Atlantique </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>15</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>44460 FEGREAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 40 91 20 21</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.fegreac.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-2.091093,47.599334,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Chateau 2*</name>
+				<description><![CDATA[Département: Loire Atlantique <br>Ouverture: mi Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 45<br>Location: non<br>description: situé à 500 m du centre ville et des commerces<br>Adresse: 4 rue Henri de Rohan , 44130 BLAIN<br>Phone: 02 40 79 11 00<br>Website: www.ville-blain.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loire Atlantique </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>45</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>situé à 500 m du centre ville et des commerces</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>4 rue Henri de Rohan , 44130 BLAIN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 40 79 11 00</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-blain.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.76734,47.468108,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les BRIOTAIS 2**</name>
+				<description><![CDATA[Département: Loire Atlantique <br>Ouverture: mi Mai-Septembre<br>Budget €/j: ns<br>Emplacements: 35<br>Location: <br>description: <br>Adresse: Rue de Tugny, 44110 CHATEAUBRIANT<br>Phone: 02 40 81 14 38<br>Website: www.mairie-chateaubriant.fr/decouvrir/hebergement]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loire Atlantique </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de Tugny, 44110 CHATEAUBRIANT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 40 81 14 38</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie-chateaubriant.fr/decouvrir/hebergement</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.3796,47.703755,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL CHANTENAY </name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Mai-Septembre<br>Budget €/j: 5-10<br>Emplacements: 34<br>Location: <br>description: <br>Adresse: Route du Plan d eau, 72430 CHANTENAY VILLEDIEU<br>Phone: 02 43 95 74 25<br>Website: www.vallee-de-la-sarthe.com/fr/syndication/campings/detail/HPA877000010/CHANTENAY-VILLEDIEU/CAMPING-MUNICIPAL-DE-CHANTENAY-VILLEDIEU]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>34</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route du Plan d eau, 72430 CHANTENAY VILLEDIEU</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 95 74 25</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vallee-de-la-sarthe.com/fr/syndication/campings/detail/HPA877000010/CHANTENAY-VILLEDIEU/CAMPING-MUNICIPAL-DE-CHANTENAY-VILLEDIEU</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.168056,47.915709,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BOULOIRE 2**</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: <br>Location: <br>description: ce muni nous a quitte<br><br>Adresse: 72440 BOULOIRE<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>ce muni nous a quitte
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>72440 BOULOIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.560303,47.971537,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BEAUMONT sur DEME 1* </name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: closed<br>Budget €/j: <br>Emplacements: <br>Location: <br>description: Ce muni nous a quitte <br><br>Adresse: 72340 BEAUMONT SUR DEME<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>closed</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Ce muni nous a quitte 
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>72340 BEAUMONT SUR DEME</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.571289,47.692201,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le VAL de BRAY 3***</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Avril - Octobre<br>Budget €/j: 10-15<br>Emplacements: 65<br>Location: <br>description: <br>Adresse: rue du Val de Braye, 72310 BESSE SUR BRAYE<br>Phone: 02 43 35 31 13<br>Website: http://campingmunicipal-duvaldebraye.jimdo.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>65</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue du Val de Braye, 72310 BESSE SUR BRAYE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 35 31 13</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://campingmunicipal-duvaldebraye.jimdo.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.742779,47.838049,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Val de Sarthe  3*</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 70<br>Location: Bungalows<br>description: Situé en bordure directe de la rivière « la Sarthe » et Proche du centre ville<br>Adresse: 72170 BEAUMONT SUR SARTHE<br>Phone: 02 43 97 01 93<br>Website: http://goo.gl/cjK0vV ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value>Bungalows</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé en bordure directe de la rivière « la Sarthe » et Proche du centre ville</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>72170 BEAUMONT SUR SARTHE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 97 01 93</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/cjK0vV </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.135591,48.224473,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la PRAIRIE 2**</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 25<br>Location: <br>description: <br>Adresse: Rue de la Prairie , 72110 BONNETABLE<br>Phone: 02 43 29 43 77<br>Website: http://bonnetable.e-monsite.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de la Prairie , 72110 BONNETABLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 29 43 77</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://bonnetable.e-monsite.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.433702,48.178449,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le HOUSSAY 2**</name>
+				<description><![CDATA[Département: Mayenne <br>Ouverture: mi Avril -Septembre<br>Budget €/j: 10-15<br>Emplacements: 87<br>Location: <br>description: <br>Adresse: 72700 SPAY<br>Phone: 02 43 21 16 58<br>Website: www.ville-spay.fr/spip.php?rubrique28]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Mayenne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril -Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>87</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>72700 SPAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 21 16 58</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-spay.fr/spip.php?rubrique28</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.153637,47.921749,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL PONTMAIN </name>
+				<description><![CDATA[Département: Mayenne <br>Ouverture: Toute l 'année<br>Budget €/j: 5-10<br>Emplacements: 25<br>Location: <br>description: <br>Adresse: Route de St Mars sur la Futaie, 53220 PONTMAIN<br>Phone: 02 43 05 06 45<br>Website: www.cc-bocagemayennais.fr/hebergement-restauration_hebergement.phtml?commune=53181&thematique=camping]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Mayenne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Toute l 'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de St Mars sur la Futaie, 53220 PONTMAIN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 05 06 45</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.cc-bocagemayennais.fr/hebergement-restauration_hebergement.phtml?commune=53181&amp;thematique=camping</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.059494,48.438768,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le BAC 2**</name>
+				<description><![CDATA[Département: Mayenne <br>Ouverture: mi Avril - Septembre<br>Budget €/j: 10-15<br>Emplacements: 35<br>Location: <br>description: <br>Adresse: rue du port, 53200 MENIL <br>Phone: 02 43 70 24 54<br>Website: http://menil53.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Mayenne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue du port, 53200 MENIL </value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 70 24 54</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://menil53.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.674286,47.774637,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la JOUANNE 2**</name>
+				<description><![CDATA[Département: Mayenne <br>Ouverture: Avril -Septembre<br>Budget €/j: 5-10<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: Rue de la Jouanne, 53150 MONTSURS<br>Phone: 02 43 01 00 31<br>Website: www.montsurs.mairie53.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Mayenne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril -Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de la Jouanne, 53150 MONTSURS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 01 00 31</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.montsurs.mairie53.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.551805,48.13711,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CAMPING MUNICIPAL le MURIER 3***</name>
+				<description><![CDATA[Département: Mayenne <br>Ouverture: Chalets toute l'année<br>Budget €/j: 10-15<br>Emplacements: 27<br>Location: <br>description: <br>Adresse: Rue Alain Gerbault, 53400 CRAON<br>Phone: 02 43 06 96 33<br>Website: www.ville-craon53.fr/camping-du-murier.aspx]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Mayenne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Chalets toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>27</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue Alain Gerbault, 53400 CRAON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 06 96 33</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-craon53.fr/camping-du-murier.aspx</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.94388,47.848735,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Zone Verte 3***</name>
+				<description><![CDATA[Département: Mayenne <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 90<br>Location: <br>description: <br>Adresse: Boulevard Maréchal Juin, 53600 EVRON<br>Phone: 02 43 01 65 36<br>Website: www.camping.evron.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Mayenne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>90</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Boulevard Maréchal Juin, 53600 EVRON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 01 65 36</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping.evron.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.4130170000000001,48.152344,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ST CENERE 2**</name>
+				<description><![CDATA[Département: Mayenne <br>Ouverture: mi Avril- Octobre <br>Budget €/j: 10-15<br>Emplacements: 36<br>Location: <br>description: <br>Adresse: Route de Vaiges, 53340 SAULGES<br>Phone: 02 43 90 49 81<br>Website: www.coevrons-tourisme.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Mayenne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril- Octobre </value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>36</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Vaiges, 53340 SAULGES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 90 49 81</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.coevrons-tourisme.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.441513,47.979523,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le COUPEAU 2**</name>
+				<description><![CDATA[Département: Mayenne <br>Ouverture: mi Avril- Octobre <br>Budget €/j: 10-15<br>Emplacements: 23<br>Location: <br>description: <br>Adresse: Base de Loisirs, 53940 ST BERTHEVIN<br>Phone: 02 43 68 30 70<br>Website: www.laval-tourisme.com/votre-sejour/ou-dormir/campings/237311-camping-de-coupeau]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Mayenne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril- Octobre </value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>23</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Base de Loisirs, 53940 ST BERTHEVIN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 68 30 70</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.laval-tourisme.com/votre-sejour/ou-dormir/campings/237311-camping-de-coupeau</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.839081,48.070738,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ANDOUILLE 2**</name>
+				<description><![CDATA[Département: Mayenne <br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 31<br>Location: <br>description: <br>Adresse: Le Pont, 53240 ANDOUILLE<br>Phone: 02 43 01 18 10<br>Website: www.ville-andouille.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Mayenne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>31</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Pont, 53240 ANDOUILLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 01 18 10</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-andouille.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.788269,48.171581,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ALAIN GERBAULT 2**</name>
+				<description><![CDATA[Département: Mayenne <br>Ouverture: Juin - Septembre<br>Budget €/j: 10-15<br>Emplacements: 22<br>Location: <br>description: <br>Adresse: Rue des Troënes, 53140 PRE EN PAIL<br>Phone: 02 43 30 26 60<br>Website: www.mairie-preenpail.fr/spip.php?article83 ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Mayenne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>22</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue des Troënes, 53140 PRE EN PAIL</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 30 26 60</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie-preenpail.fr/spip.php?article83 </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.200844,48.460942,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la CROIX COUVERTE</name>
+				<description><![CDATA[Département: Mayenne <br>Ouverture: mi Avril- Octobre <br>Budget €/j: 5-10<br>Emplacements: 43<br>Location: <br>description: <br>Adresse: rue de sable, 53270 STE SUZANNE<br>Phone: 02 43 01 41 61<br>Website: www.coevrons-tourisme.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Mayenne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril- Octobre </value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>43</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue de sable, 53270 STE SUZANNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 01 41 61</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.coevrons-tourisme.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.271912,48.09826000000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL VAAS 2*</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Mai - Septembre<br>Budget €/j: 5-10<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: Au Port Liberge, 72500 VAAS <br>Phone: 02 43 46 70 29<br>Website: www.vaas.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Au Port Liberge, 72500 VAAS </value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 46 70 29</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vaas.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.312424,47.666775,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE ST VINCENT DU LOROUER</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/ZbahqJOxuJxZ2OGz_U1AhtmtJrWzc0fFZNyj-arUpBQypN2SQSVcLTGLxxw-xDMytFKdGbmtPFJ1UgcGpHuznSg_GJtOFmlcyVIQ" height="200" width="auto" /><br><br>Département: <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: <br>Location: <br>description: out of business<br><br>Adresse: 72150 ST VINCENT DU LOROUER<br>Phone: <br>Website: <br><br><img src="https://lh6.googleusercontent.com/proxy/DNqD3RNkhFziElNkeOSLWOLTp5NKSibSX31v9lsMoESX8WkyybzznQnCWUGBlR_7-ZbitsvkHlbQxHpP5j-bHGQz6w" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value></value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>out of business
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>72150 ST VINCENT DU LOROUER</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/ZbahqJOxuJxZ2OGz_U1AhtmtJrWzc0fFZNyj-arUpBQypN2SQSVcLTGLxxw-xDMytFKdGbmtPFJ1UgcGpHuznSg_GJtOFmlcyVIQ https://lh6.googleusercontent.com/proxy/DNqD3RNkhFziElNkeOSLWOLTp5NKSibSX31v9lsMoESX8WkyybzznQnCWUGBlR_7-ZbitsvkHlbQxHpP5j-bHGQz6w</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.49301100000000003,47.826986,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ST LEONARD DES BOIS 2**</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/ZbahqJOxuJxZ2OGz_U1AhtmtJrWzc0fFZNyj-arUpBQypN2SQSVcLTGLxxw-xDMytFKdGbmtPFJ1UgcGpHuznSg_GJtOFmlcyVIQ" height="200" width="auto" /><br><br>Département: <br>Ouverture: Avril-Septembre<br>Budget €/j: 10-15<br>Emplacements: 80<br>Location: <br>description: <br>Adresse: 72130 ST LEONARD DES BOIS<br>Phone: 02 43 33 81 79<br>Website: www.saintleonarddesbois.fr<br><br><img src="https://lh6.googleusercontent.com/proxy/DNqD3RNkhFziElNkeOSLWOLTp5NKSibSX31v9lsMoESX8WkyybzznQnCWUGBlR_7-ZbitsvkHlbQxHpP5j-bHGQz6w" height="200" width="auto" />]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value></value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>80</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>72130 ST LEONARD DES BOIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 33 81 79</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saintleonarddesbois.fr</value>
+					</Data>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/ZbahqJOxuJxZ2OGz_U1AhtmtJrWzc0fFZNyj-arUpBQypN2SQSVcLTGLxxw-xDMytFKdGbmtPFJ1UgcGpHuznSg_GJtOFmlcyVIQ https://lh6.googleusercontent.com/proxy/DNqD3RNkhFziElNkeOSLWOLTp5NKSibSX31v9lsMoESX8WkyybzznQnCWUGBlR_7-ZbitsvkHlbQxHpP5j-bHGQz6w</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.076904,48.35214200000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL RUILLE sur LOIRE 2**</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: Les Chaintres, 72340 RUILLE SUR LOIR<br>Phone: 02 43 44 44 25<br>Website: www.ruille.vallee-du-loir.info/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Les Chaintres, 72340 RUILLE SUR LOIR</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 44 44 25</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ruille.vallee-du-loir.info/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.626221,47.754098,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du VERDURON</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: mi Mai - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: 72300 PARCE SUR SARTHE<br>Phone: 02 43 95 39 21<br>Website: www.vallee-de-la-sarthe.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>72300 PARCE SUR SARTHE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 95 39 21</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vallee-de-la-sarthe.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.199127,47.84404,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL MONTBIZOT 2**</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 34<br>Location: <br>description: <br>Adresse: Le Pont d'Orne, 72380 MONTBIZOT<br>Phone: 02 43 27 60 44<br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>34</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Pont d'Orne, 72380 MONTBIZOT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 27 60 44</value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.186768,48.136767,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL THOREE LES PINS 2**</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Mai - mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: Bord de Loir, 72800 THOREE LES PINS <br>Phone: 02 43 45 64 85<br>Website: www.tourisme-lafleche.fr/fr/camping]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Bord de Loir, 72800 THOREE LES PINS </value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 45 64 85</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-lafleche.fr/fr/camping</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.046885,47.694599,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le LAC 2**</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Avril-Septembre<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: 72130 ST PAUL LE GAULTIER<br>Phone: 02 43 33 58 55<br>Website: www.ot-alpes-mancelles.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>72130 ST PAUL LE GAULTIER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 33 58 55</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ot-alpes-mancelles.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.105743,48.319277,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la COHUE 2**</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 44<br>Location: <br>description: <br>Adresse: Route de Parigné-Le-Polin, 72210 ROEZE SUR SARTHE<br>Phone: 02 43 77 47 89<br>Website: http://roeze-sarthe.mairie.pagespro-orange.fr/tourisme.htm]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>44</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Parigné-Le-Polin, 72210 ROEZE SUR SARTHE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 77 47 89</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://roeze-sarthe.mairie.pagespro-orange.fr/tourisme.htm</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.067892,47.890795,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE PONTVALLAIN</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: ns<br>Budget €/j: gratuit<br>Emplacements: ns<br>Location: <br>description: <br>Adresse: Route de Mayat, 72510 PONTVALLAIN<br>Phone: 02 43 46 30 47<br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>gratuit</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Mayat, 72510 PONTVALLAIN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 46 30 47</value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.197754,47.743017,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL MAYET 2**</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Avril-Septembre<br>Budget €/j: 10-15<br>Emplacements: 55<br>Location: <br>description: <br>Adresse: Fort des Salles, 72360 MAYET<br>Phone: 06 89 93 76 05<br>Website: http://www.mairie-mayet.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>55</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Fort des Salles, 72360 MAYET</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 89 93 76 05</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.mairie-mayet.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.285645,47.759637,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL VIBRAYE 2**</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Avril-Octobre<br>Budget €/j: 5-10<br>Emplacements: 29<br>Location: <br>description: <br>Adresse: Route de la Ferté Bernard, 72320 VIBRAYE<br>Phone: 02 43 93 78 62<br>Website: www.vibraye.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>29</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de la Ferté Bernard, 72320 VIBRAYE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 93 78 62</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vibraye.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.74707,48.065232,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la VEGRE 3***</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Avril-Septembre<br>Budget €/j: 10-15<br>Emplacements: 80<br>Location: chalets / mobilhomesws<br>description: Le charme des vacances à la campagne au portes de Le Mans<br>Adresse: Rue Mme Andrée Le Grou, 72240 TENNIE<br>Phone: 02 43 20 59 44<br>Website: www.camping.tennie.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>80</value>
+					</Data>
+					<Data name='Location'>
+						<value>chalets / mobilhomesws</value>
+					</Data>
+					<Data name='description'>
+						<value>Le charme des vacances à la campagne au portes de Le Mans</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue Mme Andrée Le Grou, 72240 TENNIE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 20 59 44</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping.tennie.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.078878,48.108234,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL L HIPPODROME 3***</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Juillet - Aout<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: Allée du Quebec72300 SABLE SUR SARTHE<br>Phone: 02.43.95.42.61<br>Website: www.tourisme.sablesursarthe.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Allée du Quebec72300 SABLE SUR SARTHE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02.43.95.42.61</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme.sablesursarthe.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.3308340000000001,47.830501,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL DE BERCEE</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: ns<br>Location: <br>description:  <br>Adresse: 72150 PRUILLE L EGUILLE<br>Phone: 02 43 40 91 51<br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value> </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>72150 PRUILLE L EGUILLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 40 91 51</value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.42572,47.835283,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL des LICES 2**</name>
+				<description><![CDATA[Département: <br>Ouverture: <br>Budget €/j: <br>Emplacements: <br>Location: <br>description: <br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value></value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.324097,47.76933,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Marigne Laille </name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Avril-Septembre<br>Budget €/j: 5-10<br>Emplacements: 40<br>Location: 3 chalets<br>description: près du plan d'eau et aux portes de la forêt de Bercé.<br>Adresse: 72220 MARIGNE LAILLE<br>Phone: 02 43 42 12 12<br>Website: http://goo.gl/akdG1q  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value>3 chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>près du plan d'eau et aux portes de la forêt de Bercé.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>72220 MARIGNE LAILLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 42 12 12</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/akdG1q  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.343323,47.814999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du Val de Braye 2**</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Avril-OCtobre<br>Budget €/j: 5-10<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: 72390 LAVARE<br>Phone: 02 43 71 96 44<br>Website: www.basedeloisirs-lavare.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-OCtobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>72390 LAVARE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 71 96 44</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.basedeloisirs-lavare.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.648193,48.050546,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL au BORD du LOIR 3***</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Avril- mi Octobre<br>Budget €/j: 10-15<br>Emplacements: 133<br>Location: <br>description: <br>Adresse: Route du Mans, 72800 LE LUDE <br>Phone: 02 43 94 67 70<br>Website: www.campingmunicipallelude.fr/index.php]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril- mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>133</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route du Mans, 72800 LE LUDE </value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 94 67 70</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campingmunicipallelude.fr/index.php</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.162048,47.650934,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le PORT 2**</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Mai - Septembre<br>Budget €/j: 10-15<br>Emplacements: 140<br>Location: <br>description: <br>Adresse: Avenue de la Piscine, 72210 LA SUZE SUR SARTHE<br>Phone: 02 43 77 30 49<br>Website: www.vallee-de-la-sarthe.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>140</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue de la Piscine, 72210 LA SUZE SUR SARTHE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 77 30 49</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vallee-de-la-sarthe.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.038452,47.885039,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la ROUTE d OR 3***</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Mars - Octobre<br>Budget €/j: 15-20<br>Emplacements: 190<br>Location: <br>description: <br>Adresse: Allée du Camping, 72200 LA FLECHE<br>Phone: 02 43 94 55 90<br>Website: http://camping-laroutedor.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>190</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Allée du Camping, 72200 LA FLECHE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 94 55 90</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://camping-laroutedor.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.076904,47.696823,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Port Sainte Marie 3***</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Avril-Septembre<br>Budget €/j: 10-15<br>Emplacements: 80<br>Location: <br>description: <br>Adresse: Route de Noyen, 72270 MALICORNE SUR SARTHE<br>Phone: 02 43 94 80 14<br>Website: www.vallee-de-la-sarthe.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>80</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Noyen, 72270 MALICORNE SUR SARTHE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 94 80 14</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vallee-de-la-sarthe.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.08789100000000001,47.809465,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le VALMER 3***</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: 90<br>Location: <br>description: Fermé<br>Adresse: Espace du Lac, 72400 LA FERTE BERNARD<br>Phone: 02 43 71 70 03<br>Website: www.la-ferte-bernard.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>90</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Fermé</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Espace du Lac, 72400 LA FERTE BERNARD</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 71 70 03</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.la-ferte-bernard.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.655746,48.184401,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Sans Souci 3*</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Avril- Octobre<br>Budget €/j: 10-15<br>Emplacements: 81<br>Location: chalets<br>description: Reposant en bordure de rivère,<br>Adresse: Rue du Haut Ary, 72130 FRESNAY SUR SARTHE<br>Phone: 02 43 97 32 87<br>Website: http://camping-fresnaysursarthe.fr  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril- Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>81</value>
+					</Data>
+					<Data name='Location'>
+						<value>chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>Reposant en bordure de rivère,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue du Haut Ary, 72130 FRESNAY SUR SARTHE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 97 32 87</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://camping-fresnaysursarthe.fr  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.024719,48.279537,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la PISCINE </name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 35<br>Location: 1 mobilehome<br>description: Sport et détente à la campagne.<br>Adresse: Rue de la Piscine, 72390 DOLLON<br>Phone: 02 43 93 42 23<br>Website: http://goo.gl/346l28  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35</value>
+					</Data>
+					<Data name='Location'>
+						<value>1 mobilehome</value>
+					</Data>
+					<Data name='description'>
+						<value>Sport et détente à la campagne.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de la Piscine, 72390 DOLLON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 93 42 23</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/346l28  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.592918,48.039414,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la GIRONDE 2**</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Avril-Septembre<br>Budget €/j: 5-10<br>Emplacements: 32<br>Location: <br>description: <br>Adresse: Place des Halles, 72240 CONLIE<br>Phone: 02.43.20.50.35<br>Website: www.conlie.fr/conlie-notre-ville/camping-municipal]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>32</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Place des Halles, 72240 CONLIE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02.43.20.50.35</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.conlie.fr/conlie-notre-ville/camping-municipal</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.022659,48.122559,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE PORT 2**</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: Mai -Septembre<br>Budget €/j: 10-15<br>Emplacements: 60<br>Location: <br>description: <br>Adresse: Rue de la Gare, 49330 CHATEAUNEUF SUR SARTHE<br>Phone: 02 41 69 82 02<br>Website: www.chateauneufsursarthe.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai -Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de la Gare, 49330 CHATEAUNEUF SUR SARTHE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 69 82 02</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.chateauneufsursarthe.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.482025,47.67371,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE LA DAGUENIERE</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: ns<br>Budget €/j: <br>Emplacements: <br>Location: <br>description: out of business<br><br>Adresse: 49800 LA DAGUENIERE<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>out of business
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>49800 LA DAGUENIERE</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.436707,47.418796,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les GRENETTES 2**</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: ns<br>Budget €/j: <br>Emplacements: <br>Location: <br>description: Ce muni nous a quitte <br><br><br><br><br>Adresse: 49270 LA VARENNE<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Ce muni nous a quitte 
+
+
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>49270 LA VARENNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.322479,47.314621,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE MIRE</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: ns<br>Budget €/j: <br>Emplacements: <br>Location: <br>description: out of business<br><br><br><br>Adresse: 49330 MIRE<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>out of business
+
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>49330 MIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.49026500000000006,47.756868000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Roche Martin 2**</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: Juillet - Septembre<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: 23, rue des Etangs, 49420 POUANCE<br>Phone: 02 41 61 98 79<br>Website: .camping-pouance.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>23, rue des Etangs, 49420 POUANCE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 61 98 79</value>
+					</Data>
+					<Data name='Website'>
+						<value>.camping-pouance.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.179228,47.748832,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE ST PAUL du BOIS</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: ns<br>Location: <br>description: <br>Adresse: 49310 ST PAUL DU BOIS<br>Phone: 02 41 75 82 08<br>Website: www.saintpauldubois.com/village/menu/infos.htm]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>49310 ST PAUL DU BOIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 75 82 08</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saintpauldubois.com/village/menu/infos.htm</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.544209,47.080643,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le GRAND JAR 2**</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: mi Juin - Septembre<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: 49130 STE GEMMES SUR LOIRE<br>Phone: 02 41 66 75 52 <br>Website: www.ville-sainte-gemmes-sur-loire.fr/fr/Decouvrir/Tourisme/Camping-municipal-188.htm)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>49130 STE GEMMES SUR LOIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 66 75 52 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-sainte-gemmes-sur-loire.fr/fr/Decouvrir/Tourisme/Camping-municipal-188.htm)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.557556,47.421119,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL des PATISSEAUX 2**</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: Mai - Aout<br>Budget €/j: 5-10<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: route de chalonne sur Loire, 49290 CHAUDEFONDS SUR LAYON<br>Phone: 02 41 78 04 10<br>Website: www.loire-layon-tourisme.com/hebergements.php?target=campings&action=viewResult&etoile=0&piscine=0&commune=-1&noOrder=on&orderBy=1]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route de chalonne sur Loire, 49290 CHAUDEFONDS SUR LAYON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 78 04 10</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.loire-layon-tourisme.com/hebergements.php?target=campings&amp;action=viewResult&amp;etoile=0&amp;piscine=0&amp;commune=-1&amp;noOrder=on&amp;orderBy=1</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.710979,47.323712,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les RIVES du DOUET 2**</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: Avril-Septembre<br>Budget €/j: 10-15<br>Emplacements: 100<br>Location: <br>description: <br>Adresse: Rue des Blanchisseries, 49700 DOUE LA FONTAINE<br>Phone: 02 41 59 14 47<br>Website: www.camping-lesrivesdudouet.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue des Blanchisseries, 49700 DOUE LA FONTAINE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 59 14 47</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-lesrivesdudouet.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.281353,47.204293,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du PORT 2**</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: mi Avril- mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: 49170 LA POSSONNIERE<br>Phone: 02 41 72 66 66<br>Website: www.la-possonniere.fr/decouverte-de-la-commune/hebergement-restauration]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>49170 LA POSSONNIERE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 72 66 66</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.la-possonniere.fr/decouverte-de-la-commune/hebergement-restauration</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.685079,47.371675,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les FRENES 2**</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: Juin - Aout<br>Budget €/j: ns<br>Emplacements: 94<br>Location: <br>description: <br>Adresse: Route de Laval, 49220 LE LION D ANGERS<br>Phone: 02 41 95 31 56<br>Website: www.leliondangers.fr/article/archive/75/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>94</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Laval, 49220 LE LION D ANGERS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 95 31 56</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.leliondangers.fr/article/archive/75/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.722566,47.636651,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LEON DELANQUE</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: Juin -Septembre<br>Budget €/j: 10-15<br>Emplacements: 55<br>Location: <br>description: <br>Adresse: Rue du Président Kennédy, 49460 MONTREUIL JUIGNE<br>Phone: 02 41 42 40 18<br>Website: www.ville-montreuil-juigne.fr/tourisme/camping-municipal]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin -Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>55</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue du Président Kennédy, 49460 MONTREUIL JUIGNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 42 40 18</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-montreuil-juigne.fr/tourisme/camping-municipal</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.6162,47.538702,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du LAYON 2**</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: Mai - Septembre<br>Budget €/j: 5-10<br>Emplacements: 35<br>Location: <br>description: <br>Adresse: Rue Jean de Pontoise, 49190 ST AUBIN DE LUIGNE<br>Phone: 02 41 78 33 28<br>Website: www.staubindeluigne.mairie49.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue Jean de Pontoise, 49190 ST AUBIN DE LUIGNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 78 33 28</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.staubindeluigne.mairie49.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.671239,47.32841,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL l ECLUSE 2**</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: mi Avril - mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 32<br>Location: <br>description: <br>Adresse: Avenue des 3 Ponts, 49380 THOUARCE<br>Phone: 02 41 54 14 36<br>Website: www.thouarce.fr/module-Contenus-viewpub-tid-9-pid-68.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>32</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue des 3 Ponts, 49380 THOUARCE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 54 14 36</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.thouarce.fr/module-Contenus-viewpub-tid-9-pid-68.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.503933,47.266446,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE CHAMPTOCE SUR LOIRE</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: mi Avril - mi Octobre<br>Budget €/j: ns<br>Emplacements: ns<br>Location: <br>description: <br>Adresse: Parc de Rome, 49123 CHAMPTOCE SUR LOIRE<br>Phone: 02 41 39 91 80<br>Website: www.champtoce-sur-loire.mairie49.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril - mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Parc de Rome, 49123 CHAMPTOCE SUR LOIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 39 91 80</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.champtoce-sur-loire.mairie49.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.8638,47.411362,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le CHATEAU </name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: Toute l'année<br>Budget €/j: 5-10<br>Emplacements: ns<br>Location: <br>description: <br>Adresse: 25, rue Chevrière, 49080 BOUCHEMAINE<br>Phone: 02 41 77 11 04<br>Website: www.ville-bouchemaine.fr/aire-d-accueil-de-camping-cars-2666.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>25, rue Chevrière, 49080 BOUCHEMAINE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 77 11 04</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-bouchemaine.fr/aire-d-accueil-de-camping-cars-2666.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.61223,47.418389,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Le Pont des Fees 2*</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: Juin - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 46<br>Location: <br>description: <br>Adresse: Chemin du pont des Fées, 49150 BAUGE <br>Phone: 02 41 89 14 79<br>Website: www.camping-bauge.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>46</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin du pont des Fées, 49150 BAUGE </value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 89 14 79</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-bauge.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.095873,47.53829700000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BEAUREGRET 2**</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: Mai - Septembre<br>Budget €/j: ns<br>Emplacements: ns<br>Location: <br>description: <br>Adresse: 49530 DRAIN<br>Phone: 02 40 98 20 16<br>Website: www.drain49.fr/fr/tourisme]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>49530 DRAIN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 40 98 20 16</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.drain49.fr/fr/tourisme</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.206694,47.344232,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camp MUNICIPAL du VERDON 2**</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: ns<br>Location: <br>description: Ce muni nous a quitte<br><br><br><br>Adresse: 49280 LA TESSOUALLE<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Ce muni nous a quitte
+
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>49280 LA TESSOUALLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.849724,47.004139,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL MONTREUIL /MAINE 1*</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: ns<br>Location: <br>description: out of business <br><br>Adresse: 49220 MONTREUIL SUR MAINE<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>out of business 
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>49220 MONTREUIL SUR MAINE</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.698318,47.649431,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL PRUILLE 2**</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: Mai - Octobre / Mobilhome tte l'année<br>Budget €/j: 5-10<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: 49220 PRUILLE<br>Phone: 02 41 32 67 29<br>Website: www.pruille.mairie49.fr/index.php?page=article&typer=19&menu=2]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Octobre / Mobilhome tte l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>49220 PRUILLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 32 67 29</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.pruille.mairie49.fr/index.php?page=article&amp;typer=19&amp;menu=2</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.6571840000000001,47.576728,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL VIHIERS</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: ns<br>Budget €/j: <br>Emplacements: <br>Location: <br>description: <br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.540733,47.146999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL PORT ROUX 1*</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: Juillet - Aout<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: Le Port Roux, 49400 VILLEBERNIER<br>Phone: 02 41 67 23 04<br>Website: www.ot-saumur.fr/CAMPING-MUNICIPAL-LE-PORT-ROUX-_a708.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Port Roux, 49400 VILLEBERNIER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 67 23 04</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ot-saumur.fr/CAMPING-MUNICIPAL-LE-PORT-ROUX-_a708.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.027466,47.25127100000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL VILLEMOISAN 2**</name>
+				<description><![CDATA[Département: Maine et Loire <br>Ouverture: Juin - Septembre<br>Budget €/j: 5-10<br>Emplacements: 12<br>Location: <br>description: <br>Adresse: 49370 VILLEMOISAN<br>Phone: 02 41 39 21 72<br>Website: www.villemoisan.fr/tourisme/camping]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>12</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>49370 VILLEMOISAN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 39 21 72</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.villemoisan.fr/tourisme/camping</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.888219,47.462625,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL MARAIS de la GERCHE 2**</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: mi Fevrier - mi Novembre<br>Budget €/j: 20-25<br>Emplacements: 140<br>Location: <br>description: <br>Adresse: Ker Chalon,85350 L ILE D YEU<br>Phone: 02 51 58 34 20<br>Website: www.ile-yeu.fr/Hebergement/Le-Camping-Municipal]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Fevrier - mi Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>140</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Ker Chalon,85350 L ILE D YEU</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 58 34 20</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ile-yeu.fr/Hebergement/Le-Camping-Municipal</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-2.331848,46.718446,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL TRIAIZE 2**</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: Mai - Septembre<br>Budget €/j: 5-10<br>Emplacements: 70<br>Location: <br>description: <br>Adresse: Rue du Stade, 85580 TRIAIZE<br>Phone: 02 51 56 12 76<br>Website: www.paysnedelamer.fr/article.php3?id_article=2144]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue du Stade, 85580 TRIAIZE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 56 12 76</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.paysnedelamer.fr/article.php3?id_article=2144</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.201222,46.395031,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA FONTAINE 2**</name>
+				<description><![CDATA[Département: <br>Ouverture: <br>Budget €/j: <br>Emplacements: <br>Location: <br>description: No More a Muni !<br><br><br><br>Adresse: 85540 ST VINCENT SUR GRAON<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value></value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>No More a Muni !
+
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>85540 ST VINCENT SUR GRAON</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.393418,46.519127,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL PLAGE DE RIEZ 3***</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: Avril - Octobre<br>Budget €/j: 30-35<br>Emplacements: 600<br>Location: <br>description: <br>Adresse: Avenue des Mimosas, 85270 ST HILAIRE DE RIEZ<br>Phone: 02 51 54 36 59<br>Website: www.campingplagederiez.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>30-35</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>600</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue des Mimosas, 85270 ST HILAIRE DE RIEZ</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 54 36 59</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campingplagederiez.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.9786550000000003,46.723977,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le PONTET 1*</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 13<br>Location: <br>description: <br>Adresse: 85320 BESSAY<br>Phone: 02 51 27 53 82<br>Website: www.vendee-tourisme.com/hebergements-en-vendee/campings-en-vendee/camping-municipal-le-pontet]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>13</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>85320 BESSAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 27 53 82</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vendee-tourisme.com/hebergements-en-vendee/campings-en-vendee/camping-municipal-le-pontet</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.149445,46.535248,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le CALME 2**</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 90<br>Location: <br>description: <br>Adresse: rue des dolmens,85560 LE BERNARD<br>Phone: 02.51.33.25.71<br>Website: www.vendee-tourisme.com/hebergements-en-vendee/campings-en-vendee/camping-municipal-le-calme]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>90</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue des dolmens,85560 LE BERNARD</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02.51.33.25.71</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vendee-tourisme.com/hebergements-en-vendee/campings-en-vendee/camping-municipal-le-calme</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.466761,46.441287,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du PATIS 2**</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: mi Avril - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 91<br>Location: <br>description: <br>Adresse: Rue de la Piscine, 85140 LES ESSARTS<br>Phone: 02 51 62 95 83<br>Website: www.paysdesessarts.fr/fr/index.php?m=communaute&sm=communes&idc=2 ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>91</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de la Piscine, 85140 LES ESSARTS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 62 95 83</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.paysdesessarts.fr/fr/index.php?m=communaute&amp;sm=communes&amp;idc=2 </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.236348,46.772967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL l AUTIZE 3***</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: Avril - Septembre<br>Budget €/j: 15-20<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: rue du champ de foire, 85420 MAILLEZAIS<br>Phone: 02 51 00 70 79<br>Website: www.maillezais.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue du champ de foire, 85420 MAILLEZAIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 00 70 79</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.maillezais.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.738831,46.354511,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL SION 3***</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: Avril - Octobre<br>Budget €/j: 15-20<br>Emplacements: 176<br>Location: <br>description: <br>Adresse: Avenue de la Forêt, 85270 ST HILAIRE DE RIEZ<br>Phone: 02 51 54 34 23<br>Website: www.campingdesion.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>176</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue de la Forêt, 85270 ST HILAIRE DE RIEZ</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 54 34 23</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campingdesion.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.97226,46.71669500000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le CHAMP St PERE 2**</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: ns<br>Budget €/j: <br>Emplacements: <br>Location: <br>description: closed <br><br><br><br>Adresse: 85540 LE CHAMP ST PERE<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>closed 
+
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>85540 LE CHAMP ST PERE</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.343079,46.502173,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le VIEUX MOULIN 1*</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: Mars - Septembre<br>Budget €/j: 20-25<br>Emplacements: 203<br>Location: <br>description: <br>Adresse: Avenue Maurice Samson, 85360 LA TRANCHE SUR MER<br>Phone: 02 51 27 48 47<br>Website: www.latranchesurmer.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>203</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue Maurice Samson, 85360 LA TRANCHE SUR MER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 27 48 47</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.latranchesurmer.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.443672,46.345298,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la PETITE BOULOGNE 3***</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: Avril - Octobre<br>Budget €/j: 15-20<br>Emplacements: 40<br>Location: Chalets / Mobilhomes<br>description: A une demi-heure des côtes vendéennes, ouvert toute l année pour les locations<br>Adresse: 12 rue du Stade, 85670 ST ETIENNE DU BOIS<br>Phone: 02 51 34 54 51<br>Website: www.stetiennedubois-vendee.fr   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value>Chalets / Mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>A une demi-heure des côtes vendéennes, ouvert toute l année pour les locations</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>12 rue du Stade, 85670 ST ETIENNE DU BOIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 34 54 51</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.stetiennedubois-vendee.fr   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.589756,46.830134,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les ROUCHES 2**</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 25<br>Location: <br>description: <br>Adresse: rue des Hautes Rouches, 85230 ST URBAIN<br>Phone: 02 51 68 73 34<br>Website: www.otsi-beauvoir.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue des Hautes Rouches, 85230 ST URBAIN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 68 73 34</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.otsi-beauvoir.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-2.006636,46.873908,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la BAIE 3***</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: Avril - Septembre<br>Budget €/j: 15-20<br>Emplacements: 190<br>Location: <br>description: <br>Adresse: Boulevard du Communal,85460 L AIGUILLON SUR MER<br>Phone: 02 51 56 40 70<br>Website: www.camping-municipal-vendee.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>190</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Boulevard du Communal,85460 L AIGUILLON SUR MER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 56 40 70</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-municipal-vendee.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.2973090000000003,46.330543,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ST GERVAIS 2**</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 43<br>Location: <br>description: <br>Adresse: rue de la marne, 85230 ST GERVAIS<br>Phone: 02 51 68 73 14<br>Website: http://saintgervais-vendee.fr/en/tourisme/hebergement-restauration]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>43</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue de la marne, 85230 ST GERVAIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 68 73 14</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://saintgervais-vendee.fr/en/tourisme/hebergement-restauration</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.988311,46.899909,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA PREE MAREUIL 2**</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: mi Juin - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: rue de la pree, 85320 MAREUIL SUR LAY DISSAIS<br>Phone: 02 51 97 27 26<br>Website: www.tourisme.mareuilsurlay.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue de la pree, 85320 MAREUIL SUR LAY DISSAIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 97 27 26</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme.mareuilsurlay.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.222122,46.533196,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE HAMEAU DU PETIT LAY 3*</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: mi Juin - mi Septembre / chalets tte l'année<br>Budget €/j: 15-20<br>Emplacements: 24<br>Location: <br>description: <br>Adresse: Chauvin , 85640 MOUCHAMPS<br>Phone: 02 51 66 25 72<br>Website: www.lehameaudupetitlay.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - mi Septembre / chalets tte l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>24</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chauvin , 85640 MOUCHAMPS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 66 25 72</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lehameaudupetitlay.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.056318,46.775391,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA PREE DU PAVE 2**</name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: Juin - Septembre<br>Budget €/j: 10-15<br>Emplacements: 25<br>Location: non<br>description: <br>Adresse: 85390 MOUILLERON EN PAREDS<br>Phone: 02 51 00 30 34<br>Website: www.mairie-mouilleronenpareds.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>85390 MOUILLERON EN PAREDS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 00 30 34</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie-mouilleronenpareds.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.840454,46.670172,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Tour 2**</name>
+				<description><![CDATA[Département: Maine et Loire<br>Ouverture: Juin - Aout<br>Budget €/j: 10-15<br>Emplacements: ns<br>Location: <br>description: <br>Adresse: 44521 OUDON<br>Phone: 02.40.83.80.22<br>Website: www.oudon.fr/pages/oudon-tourisme/hebergements/camping-municipal-de-la-tour.php]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>44521 OUDON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02.40.83.80.22</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.oudon.fr/pages/oudon-tourisme/hebergements/camping-municipal-de-la-tour.php</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.278706,47.344755,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Gue St Leonard 3***</name>
+				<description><![CDATA[Département: Mayenne <br>Ouverture: mi Mars - Septembre<br>Budget €/j: 10-15<br>Emplacements: 70<br>Location: <br>description: <br>Adresse: rue de St Leonard, 53100 MAYENNE <br>Phone: 02 43 04 57 14<br>Website: www.paysdemayenne-tourisme.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Mayenne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue de St Leonard, 53100 MAYENNE </value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 04 57 14</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.paysdemayenne-tourisme.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.61326,48.313727,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPALles Humeaux 2*</name>
+				<description><![CDATA[Département: Vendée -<br>Ouverture: mi Juin - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 15<br>Location: <br>description: <br>Adresse: Route de Saint Martin des Noyers,85480 BOURNEZEAU<br>Phone: 02.51.40.01.31<br>Website: www.bournezeau.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée -</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>15</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Saint Martin des Noyers,85480 BOURNEZEAU</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02.51.40.01.31</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.bournezeau.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.154938,46.630579,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL moutiers.les.mauxfaits</name>
+				<description><![CDATA[Département: Vendée -<br>Ouverture: Juillet - Aout<br>Budget €/j: 10-15<br>Emplacements: 68<br>Location: <br>description: <br>Adresse: route de la Tranche sur mer, 85540 Moutiers les Mauxfaits<br>Phone: 02.51.98.96.41<br>Website: www.ot-moutierslesmauxfaits.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée -</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>68</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route de la Tranche sur mer, 85540 Moutiers les Mauxfaits</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02.51.98.96.41</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ot-moutierslesmauxfaits.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.424918,46.48421,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE LAY 2**</name>
+				<description><![CDATA[Département: Vendée -<br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: ns<br>Location: <br>description: <br>Adresse: Pallias, 85320 SAINTE PEXINE<br>Phone: 02 51 27 50 00<br>Website: http://sainte-pexine.a3w.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée -</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Pallias, 85320 SAINTE PEXINE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 51 27 50 00</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://sainte-pexine.a3w.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.13657,46.562047,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Claire Vacances</name>
+				<description><![CDATA[Département: Mayenne <br>Ouverture: mi Mai - mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 43<br>Location: <br>description: <br>Adresse: rue du Chateau, 53160 BAIS<br>Phone: 02 43 26 10 80<br>Website: www.coevrons-tourisme.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Mayenne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>43</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue du Chateau, 53160 BAIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 26 10 80</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.coevrons-tourisme.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.368042,48.246626,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Mamers 3*</name>
+				<description><![CDATA[Département: Sarthe<br>Ouverture: Mars - Octobre<br>Budget €/j: 15-20<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: Complexe de la Grille, 72170 MAMERS<br>Phone: 02.43.97.68.30<br>Website: www.mairie-mamers.fr/decouvrir-mamers/hebergement-et-camping/le-camping/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Complexe de la Grille, 72170 MAMERS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02.43.97.68.30</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie-mamers.fr/decouvrir-mamers/hebergement-et-camping/le-camping/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.354309,48.339821,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL La Maison Blanche 2* </name>
+				<description><![CDATA[Département: Vendée <br>Ouverture: ns<br>Budget €/j: 15-20<br>Emplacements: 106<br>Location: <br>description: <br>Adresse: Rue de la maison Blanche, 85300 LE PERRIER<br>Phone: 02.51.49.39.23<br>Website: www.leperrier.fr/le-camping-municipal-de-la-maison-blanche]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vendée </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>106</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de la maison Blanche, 85300 LE PERRIER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02.51.49.39.23</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.leperrier.fr/le-camping-municipal-de-la-maison-blanche</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.9969370000000002,46.81946000000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Port Ribouet 2*</name>
+				<description><![CDATA[Département: Maine et Loire<br>Ouverture: Juin - Aout<br>Budget €/j: 10-15<br>Emplacements: 34<br>Location: <br>description: <br>Adresse: Route de la Mayenne, 49220 LA JAILLE YVON<br>Phone: 02 41 95 14 32<br>Website: www.anjoubleu.com/sejour/idees-hebergements/campings/detail/camping-le-port-ribouet/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Maine et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>34</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de la Mayenne, 49220 LA JAILLE YVON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 41 95 14 32</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.anjoubleu.com/sejour/idees-hebergements/campings/detail/camping-le-port-ribouet/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.670874,47.719283,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la Foret 3***</name>
+				<description><![CDATA[Département: Sarthe <br>Ouverture: Avril - Octobre<br>Budget €/j: 15-20<br>Emplacements: ns<br>Location: <br>description: <br>Adresse: Sille Plage72140 SILLE LE GUILLAUME<br>Phone: 02 43 20 11 04<br>Website: www.campingsilleplage.com/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Sille Plage72140 SILLE LE GUILLAUME</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 43 20 11 04</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campingsilleplage.com/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.134196,48.209746,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal l'Etangsort</name>
+				<description><![CDATA[Département: Sarthe<br>Ouverture: Juin-Septembre<br>Budget €/j: ns<br>Emplacements: 12<br>Location: non<br>description: Camping clame et verdoyant avec au coeur du village boulangerie, restaurant, bar et relais alimentaire<br>Adresse: 15, rue de l'Etangsort, 72150 COURDEMANCHE<br>Phone: 02.43.44.80.19<br>Website: http://goo.gl/nLVcwl   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Sarthe</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>12</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Camping clame et verdoyant avec au coeur du village boulangerie, restaurant, bar et relais alimentaire</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>15, rue de l'Etangsort, 72150 COURDEMANCHE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02.43.44.80.19</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/nLVcwl   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.5639506,47.8138643,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

@@ -1,0 +1,2761 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>POITOU-CHARENTES Campings Municipaux</name>
+		<description><![CDATA[Campings Municipaux dans les Deux Sèvres, la Charente, Charente Maritime et la Vienne<br>]]></description>
+		<Folder>
+			<name>Calque sans titre</name>
+			<Placemark>
+				<name>Camping MUNICIPAL LES MISOTTES 2**</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: mi Avril-mi Octobre<br>Budget €/j: 10-15<br>Emplacements: 65<br>description: <br>Adresse: Rue de l ocean, 17 ESNAND<br>Phone: <br>Website: www.esnandes.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>65</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de l ocean, 17 ESNAND</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value>www.esnandes.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.120498,46.25279,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE MOULIN 2**</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: Avril-Aout<br>Budget €/j: 15-20<br>Emplacements: 50<br>description: <br>Adresse: Rue du Moulin, 17 220 Salles-sur-Mer<br>Phone: 06 23 39 37 87<br>Website: www.salles-sur-mer.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue du Moulin, 17 220 Salles-sur-Mer</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 23 39 37 87</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.salles-sur-mer.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.05208,46.10928,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES PINS 3** </name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: Avril-Septembre<br>Budget €/j: 30-35<br>Emplacements: 338<br>description: Ile d Oleron -<br> <br>Adresse: Allée Pins, 17370 Grand Village Plage<br>Phone: 05 46 47 50 13<br>Website: www.lespinsdoleron.com/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>30-35</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>338</value>
+					</Data>
+					<Data name='description'>
+						<value>Ile d Oleron -
+ </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Allée Pins, 17370 Grand Village Plage</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 47 50 13</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lespinsdoleron.com/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.241112,45.862595,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Remondeau 3*</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: mi Mars- Octobre<br>Budget €/j: 25-30<br>Emplacements: 180<br>description: <br>Adresse: Rue Du Petit Noue, 17670 LA COUARDE SUR MER<br>Phone: 05 46 29 84 27 <br>Website: http://leremondeau.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars- Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>180</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue Du Petit Noue, 17670 LA COUARDE SUR MER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 29 84 27 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://leremondeau.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.434274,46.193483,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Pree 2*</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: mi Mars- debut Novembre<br>Budget €/j: 20-25<br>Emplacements: 130<br>description: <br>Adresse: La Prée, 17880 LES PORTES EN RE<br>Phone: 05 46 29 51 04 <br>Website: www.iledere-lacouarde.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars- debut Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>130</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>La Prée, 17880 LES PORTES EN RE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 29 51 04 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.iledere-lacouarde.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.491694,46.248205,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Combe a l eau 2*</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 354<br>description: <br>Adresse: route de radia, 17590 ARS EN RE<br>Phone: 05 46 29 46 42<br>Website: www.camping-lacombealeau.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>354</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route de radia, 17590 ARS EN RE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 29 46 42</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-lacombealeau.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.536756,46.209745,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Cote Sauvage 2*</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: Avril-mi Octobre<br>Budget €/j: 15-20<br>Emplacements: 152<br>description: <br>Adresse: La Basse Benée, 17740 STE MARIE DE RE<br>Phone: 05 46 30 21 74 <br>Website: www.saintemariedere.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>152</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>La Basse Benée, 17740 STE MARIE DE RE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 30 21 74 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saintemariedere.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.312416,46.144652,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les remparts 2*</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: mi Fevrier - mi Novembre<br>Budget €/j: 25-30<br>Emplacements: 200<br>description: <br>Adresse: Rue du Rempart17410 ST MARTIN DE RE<br>Phone: 05 46 09 21 96<br>Website: www.saint-martin-de-re.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Fevrier - mi Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>200</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue du Rempart17410 ST MARTIN DE RE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 09 21 96</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saint-martin-de-re.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.367025,46.199231000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Pamproux 2*</name>
+				<description><![CDATA[Département: Deux Sèvres <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: <br>description: OUT OF BUSINESS<br><br><br>79800 PAMPROUX<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Deux Sèvres </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>OUT OF BUSINESS
+
+
+79800 PAMPROUX</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.050125,46.397384,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la Taillée 2*</name>
+				<description><![CDATA[Département: Deux Sèvres <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: 30<br>description: AUCUNE INFO DEPUIS 2010<br><br><br>Adresse: Route de Damvix, 79210 ARCAIS<br>Phone: 05 49 35 62 34 <br>Website: www.arcais.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Deux Sèvres </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='description'>
+						<value>AUCUNE INFO DEPUIS 2010
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Damvix, 79210 ARCAIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 35 62 34 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.arcais.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.694907,46.298293,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le panier Fleuri </name>
+				<description><![CDATA[Département: Deux Sèvres <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 100<br>description: <br>Adresse: Rue Paul Drevin, 79400 ST MAIXENT L ECOLE<br>Phone: 05 49 05 53 21<br>Website: www.saint-maixent-lecole.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Deux Sèvres </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue Paul Drevin, 79400 ST MAIXENT L ECOLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 05 53 21</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saint-maixent-lecole.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.21286,46.417979,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Fontaine de Villiers 2*</name>
+				<description><![CDATA[Département: Deux Sèvres <br>Ouverture: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 25<br>description: <br>Adresse: 79500 MELLE<br>Phone: 05 49 29 18 04 <br>Website: www.ville-melle.fr/article.php3?id_article=76&id_rubrique=56 )]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Deux Sèvres </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>79500 MELLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 29 18 04 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-melle.fr/article.php3?id_article=76&amp;id_rubrique=56 )</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.145569,46.225453,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du Moulin de Crevant 2*</name>
+				<description><![CDATA[Département: Deux Sèvres <br>Ouverture: mi Juin-Septembre<br>Budget €/j: 10-15<br>Emplacements: 44<br>description: 14,40 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + électricité)Deux Sèvres - 44 emplacements<br>Ouvert <br><br>Tél: 05 49 66 17 99 <br><br>SITE WEB (http://www.thouars-communaute.fr/camping_municipal.htm)<br>Adresse: 13 rue de la Grande Côte de Crevant, 79100 THOUARS<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Deux Sèvres </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>44</value>
+					</Data>
+					<Data name='description'>
+						<value>14,40 EUR/jour 
+(Budget moyen indicatif pour 2p + emplacement + électricité)Deux Sèvres - 44 emplacements
+Ouvert 
+
+Tél: 05 49 66 17 99 
+
+SITE WEB (http://www.thouars-communaute.fr/camping_municipal.htm)</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>13 rue de la Grande Côte de Crevant, 79100 THOUARS</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.219212,46.980252,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Brioux sur bretonne 1*</name>
+				<description><![CDATA[Département: Deux Sèvres <br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 30<br>description: <br>Adresse: Rue des Merlonges, 79170 BRIOUX SUR BOUTONNE<br>Phone: 05 49 07 50 46 <br>Website: www.tourisme-deux-sevres.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Deux Sèvres </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue des Merlonges, 79170 BRIOUX SUR BOUTONNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 07 50 46 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-deux-sevres.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.22007,46.144459,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL d HAUTIBUS 2*</name>
+				<description><![CDATA[Département: Deux Sèvres <br>Ouverture: Avril-Septembre / Chalets tte l annee<br>Budget €/j: 10-15<br>Emplacements: 70<br>description: <br>Adresse: Rue de la Sablière, 79150 ARGENTON LES VALLEES<br>Phone: 05 49 65 95 08<br>Website: www.argentonlesvallees.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Deux Sèvres </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre / Chalets tte l annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de la Sablière, 79150 ARGENTON LES VALLEES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 65 95 08</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.argentonlesvallees.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.4511260000000001,46.987162,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Niquiere 2*</name>
+				<description><![CDATA[Département: Deux Sèvres <br>Ouverture: Paques-Octobre<br>Budget €/j: 10-15<br>Emplacements: 40<br>description: <br>Adresse: Route Départementale 1, 79510 COULON<br>Phone: 05 49 35 81 19 <br>Website: www.ville-coulon.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Deux Sèvres </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Paques-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route Départementale 1, 79510 COULON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 35 81 19 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-coulon.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.58072,46.32166,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Fouilloux 2*</name>
+				<description><![CDATA[Département: Deux Sèvres <br>Ouverture: mi Juin-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 60<br>description: <br>Adresse: route de Niort, 79800 LA MOTHE ST HERAY<br>Phone: 05 49 05 01 41<br>Website: www.la-mothe-saint-heray.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Deux Sèvres </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route de Niort, 79800 LA MOTHE ST HERAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 05 01 41</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.la-mothe-saint-heray.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.12027,46.359916,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Peupliers 1*</name>
+				<description><![CDATA[Département: Deux Sèvres <br>Ouverture: Juin-Septembre<br>Budget €/j: 10-15<br>Emplacements: 15<br>description: <br>Adresse: 79130 AZAY SUR THOUET<br>Phone: 05 49 95 37 13 <br>Website: www.tourisme-deux-sevres.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Deux Sèvres </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>15</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>79130 AZAY SUR THOUET</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 95 37 13 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-deux-sevres.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.349159,46.624213,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Sauze Vaussais 1*</name>
+				<description><![CDATA[Département: Deux Sèvres <br>Ouverture: Ouvert toute l annee<br>Budget €/j: 5-10<br>Emplacements: 40<br>description: 8,45 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + électricité)Deux Sèvres - 40 emplacements<br><br><br>Tél: 05.49.07.60.53 <br>SITE WEB (http://www.mairie-sauze-vaussais.fr/Main.aspx?numStructure=40789&numRubrique=41992)<br><br>Adresse: Puits d'Anche Route du Chef-Boutonne, 79190 SAUZE VAUSSAIS<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Deux Sèvres </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert toute l annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='description'>
+						<value>8,45 EUR/jour 
+(Budget moyen indicatif pour 2p + emplacement + électricité)Deux Sèvres - 40 emplacements
+
+
+Tél: 05.49.07.60.53 
+SITE WEB (http://www.mairie-sauze-vaussais.fr/Main.aspx?numStructure=40789&amp;numRubrique=41992)
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Puits d'Anche Route du Chef-Boutonne, 79190 SAUZE VAUSSAIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.10437,46.130363,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Moulin de la Cour</name>
+				<description><![CDATA[Département: Charente<br>Ouverture: mi Juin-mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 25<br>description: 2011 / dernier prix connu <br>Adresse: 16500 ST MAURICE DES LIONS<br>Phone: 05 45 85 55 99 <br>Website: http://tourisme.charente-limousine.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25</value>
+					</Data>
+					<Data name='description'>
+						<value>2011 / dernier prix connu </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>16500 ST MAURICE DES LIONS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 45 85 55 99 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://tourisme.charente-limousine.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.703812,45.964993,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Ribieres </name>
+				<description><![CDATA[Département: Charente<br>Ouverture: Mai-mi Octobre<br>Budget €/j: ns<br>Emplacements: 150<br>description: <br>Adresse: Avenue St Germain16500 CONFOLENS<br>Phone: 05 45 85 01 97<br>Website: http://tourisme.charente-limousine.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>150</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue St Germain16500 CONFOLENS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 45 85 01 97</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://tourisme.charente-limousine.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.674458,46.016635,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Champion 3*</name>
+				<description><![CDATA[Département: Charente<br>Ouverture: mi Mai-mi Septembre<br>Budget €/j: ns<br>Emplacements: 120<br>description: <br>Adresse: 16230 MANSLE<br>Phone: 05 45 20 31 41 <br>Website: www.mansle.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>120</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>16230 MANSLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 45 20 31 41 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mansle.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.186768,45.870888,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Platanes </name>
+				<description><![CDATA[Département: Charente<br>Ouverture: Juin-Aout<br>Budget €/j: 10-15<br>Emplacements: 100<br>description: <br>Adresse: 16330 MONTIGNAC CHARENTE<br>Phone: 05 45 39 89 16 <br>Website: www.montignac-charente.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>16330 MONTIGNAC CHARENTE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 45 39 89 16 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.montignac-charente.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.124283,45.785243,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Val de l Argentor </name>
+				<description><![CDATA[Département: Charente<br>Ouverture: Juin-Septembre<br>Budget €/j: 5-10<br>Emplacements: 30<br>description: <br>Adresse: 3, rue du Val de l'Argentor, 16700 NANTEUIL EN VALLEE<br>Phone: 05 45 31 82 67 <br>Website: www.lacharente.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>3, rue du Val de l'Argentor, 16700 NANTEUIL EN VALLEE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 45 31 82 67 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lacharente.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.324783,46.002208,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Plein 2*</name>
+				<description><![CDATA[Département: Charente<br>Ouverture: ns<br>Budget €/j: 15-20<br>Emplacements: 30<br>description: <br>Adresse: Rue des Tanneurs, 16360 BAIGNES STE RADEGONDE<br>Phone: 05 45 78 79 95 <br>Website: (http://camping-baignes.eklablog.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue des Tanneurs, 16360 BAIGNES STE RADEGONDE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 45 78 79 95 </value>
+					</Data>
+					<Data name='Website'>
+						<value>(http://camping-baignes.eklablog.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.22968300000000003,45.382115,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Chabanais </name>
+				<description><![CDATA[Département: Charente<br>Ouverture: mi Juin-mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 40<br>description: <br>Adresse: Rue du Collège, 16150 CHABANAIS<br>Phone: 05 45 89 03 99 <br>Website: www.lacs-de-haute-charente.com/ou-dormir/campings/ ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue du Collège, 16150 CHABANAIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 45 89 03 99 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lacs-de-haute-charente.com/ou-dormir/campings/ </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.716085,45.876385,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Charmilles 1*</name>
+				<description><![CDATA[Département: Charente<br>Ouverture: mi Juin - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 40<br>description: <br>Adresse: Rue des Ecoles, 16260 CHASSENEUIL SUR BONNIEURE<br>Phone: 06.61.55.45.30<br>Website: www.chasseneuil.fr/camping.php ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue des Ecoles, 16260 CHASSENEUIL SUR BONNIEURE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06.61.55.45.30</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.chasseneuil.fr/camping.php </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.444345,45.824314,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Aubeterre 3*</name>
+				<description><![CDATA[Département: Charente<br>Ouverture: Mai-Septembre<br>Budget €/j: 20-25<br>Emplacements: 90<br>description: <br>Adresse: RD 2, 16390 AUBETERRE SUR DRONNE<br>Phone: 05 45 98 60 17 <br>Website: http://www.camping-aubeterre.fr/ ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>90</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>RD 2, 16390 AUBETERRE SUR DRONNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 45 98 60 17 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.camping-aubeterre.fr/ </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.171661,45.268605,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Bois Dinot 3*</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 170<br>description: <br>Adresse: Route de Nantes, 17230 MARANS<br>Phone: 05 46 01 10 51 <br>Website: /www.ville-marans.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>170</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Nantes, 17230 MARANS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 01 10 51 </value>
+					</Data>
+					<Data name='Website'>
+						<value>/www.ville-marans.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.990443,46.317044,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Fontaine du pre st Jean 2*</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 100<br>description: <br>Adresse: 17610 DOMPIERRE SUR CHARENTE<br>Phone: 05 46 91 01 05 <br>Website: http://dompierre-sur-charente.a3w.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>17610 DOMPIERRE SUR CHARENTE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 91 01 05 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://dompierre-sur-charente.a3w.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.493827,45.700934,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Cadoret 3*</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: Ouvert toute l annee<br>Budget €/j: 25-30<br>Emplacements: 450<br>description: <br>Adresse: Avenue de Chaterny, 17450 FOURAS<br>Phone: 05 46 82 19 19 <br>Website: www.campings-fouras.com/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert toute l annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>450</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue de Chaterny, 17450 FOURAS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 82 19 19 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campings-fouras.com/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.086617,45.992668,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Archiac 2*</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: mi Juin-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 45<br>description: <br>Adresse: rue des voituriers, 17520 ARCHIAC<br>Phone: 05 46 49 10 46 <br>Website: www.archiac-tourisme.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>45</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue des voituriers, 17520 ARCHIAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 49 10 46 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.archiac-tourisme.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.304677,45.523202000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL l esperance 1*</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: mi Juin<br>Budget €/j: 15-20<br>Emplacements: 120<br>description: <br>Adresse: Route de l'Espérance,17450 FOURAS<br>Phone: 05 46 84 24 18 <br>Website: www.campings-fouras.com/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>120</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de l'Espérance,17450 FOURAS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 84 24 18 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campings-fouras.com/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.083312,45.978892,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Giroflee 2*</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 100<br>description: <br>Adresse: Bonnemort,17560 BOURCEFRANC LE CHAPUS<br>Phone: 05 46 85 06 43 <br>Website: www.bourcefranc-le-chapus.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Bonnemort,17560 BOURCEFRANC LE CHAPUS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 85 06 43 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.bourcefranc-le-chapus.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.150496,45.831491,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Sorlut 2*</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: 15 Avril-15 Octobre<br>Budget €/j: 10-15<br>Emplacements: 150<br>description: <br>Adresse: Rue des Chênes,17120 COZES<br>Phone: 05 46 90 75 99 <br>Website: www.camping-le-sorlut.com/ )]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>15 Avril-15 Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>150</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue des Chênes,17120 COZES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 90 75 99 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-le-sorlut.com/ )</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.836501,45.586789,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL GUESNES </name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 20<br>description: <br>Adresse: 86420 GUESNES<br>Phone: 05 49 22 84 91<br>Website: www.tourisme-vienne.com/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>86420 GUESNES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 22 84 91</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-vienne.com/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.163422,46.915565,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BEAUSOLEIL 3***</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: mi Mai-Aout<br>Budget €/j: 15-20<br>Emplacements: 20<br>description: <br>Adresse: chemin de l etang, 86200 LOUDUN<br>Phone: 05 49 98 14 22<br>Website: www.ville-loudun.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>chemin de l etang, 86200 LOUDUN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 98 14 22</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-loudun.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.101624,47.012567,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL CHATEAU LARCHER </name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: Mars-Octobre<br>Budget €/j: ns<br>Emplacements: 14<br>description: <br>Adresse: Ouvert Route du Stade , 86370 Château-Larcher<br>Phone: 05 49 43 40 56<br>Website: www.tourisme-vienne.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>14</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Ouvert Route du Stade , 86370 Château-Larcher</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 43 40 56</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-vienne.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.311737,46.411352,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les IRIS </name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: 20<br>description: <br>Adresse: 4 rue du Lavoir, 86140 SAVIGNY SOUS FAYE<br>Phone: 05 49 90 70 59<br>Website: www.ot-lencloitre.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>4 rue du Lavoir, 86140 SAVIGNY SOUS FAYE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 90 70 59</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ot-lencloitre.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.285645,46.86958,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE VEZIERES </name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: ns<br>description: <br>Adresse: 86120 VEZIERES<br>Phone: 05 49 98 74 71<br>Website: www.tourisme-vienne.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>86120 VEZIERES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 98 74 71</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-vienne.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.093384,47.088826,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE CHATEAU GARNIER</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 6<br>description: 2011 / Dernier tarif connu <br><br><br>Adresse: 86350 CHATEAU GARNIER<br>Phone: 05 49 87 80 11<br>Website: www.chateau-garnier.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>6</value>
+					</Data>
+					<Data name='description'>
+						<value>2011 / Dernier tarif connu 
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>86350 CHATEAU GARNIER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 87 80 11</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.chateau-garnier.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.42572,46.25394800000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du MOULIN BEAU 1*</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 30<br>description: 2011 / Dernier tarif connu<br>Adresse: 86320 GOUEX<br>Phone: 05 49 48 46 14<br>Website: www.tourisme-lussac-les-chateaux.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='description'>
+						<value>2011 / Dernier tarif connu</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>86320 GOUEX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 48 46 14</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-lussac-les-chateaux.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.690079,46.366358,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL MOUSSAC 2**</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: Mai-Septembre<br>Budget €/j: 5-10<br>Emplacements: 27<br>description: <br>Adresse: 86150 MOUSSAC<br>Phone: 05 49 48 75 58<br>Website: www.moussac-sur-vienne.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>27</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>86150 MOUSSAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 48 75 58</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.moussac-sur-vienne.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.686646,46.281479,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL NEUVILLE DE POITOU 2**</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: <br>description: out of business<br><br>Adresse: 86170 NEUVILLE DE POITOU<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>out of business
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>86170 NEUVILLE DE POITOU</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.24581899999999998,46.686189,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL VIVONNE 3***</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: Avril-mi Septembre<br>Budget €/j: 15-20<br>Emplacements: 100<br>description: <br>Adresse: Chemin de Praire, 86370 VIVONNE<br>Phone: 05 49 43 25 95<br>Website: www.tourisme-vienne.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin de Praire, 86370 VIVONNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 43 25 95</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-vienne.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.2636720000000001,46.424606000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL CIVAUX </name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 40<br>description: <br>Adresse: 86320 CIVAUX<br>Phone: 05 49 84 51 77<br>Website: www.tourisme-vienne.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>86320 CIVAUX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 84 51 77</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-vienne.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.6633,46.444481,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL MAUVILLANT 2**</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: Juin-mi Octobre<br>Budget €/j: 10-15<br>Emplacements: 70<br>description: <br>Adresse: Route de Mauvillant, 86320 LUSSAC LES CHATEAUX<br>Phone: 05 49 48 03 32<br>Website: www.tourisme-lussac-les-chateaux.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Mauvillant, 86320 LUSSAC LES CHATEAUX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 48 03 32</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-lussac-les-chateaux.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.725784,46.40425,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BONNES 3* </name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: Juin - Aout<br>Budget €/j: 10-15<br>Emplacements: 50<br>description: <br>Adresse: Rue de la Varenne,  86300 BONNES<br>Phone: 05 49 56 44 34<br>Website: www.campingbonnes86.fr/ )]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de la Varenne,  86300 BONNES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 56 44 34</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campingbonnes86.fr/ )</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.597982,46.60228,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la FONTAINE 3***</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: Avril - Septembre<br>Budget €/j: 10-15<br>Emplacements: 90<br>description: <br>Adresse: Rue de la Fontaine, 86300 CHAUVIGNY<br>Phone: 05 49 46 31 94<br>Website: www.chauvigny.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>90</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de la Fontaine, 86300 CHAUVIGNY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 46 31 94</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.chauvigny.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.653687,46.571135,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le LAC de CHARDES</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: Mai -mi Octobre<br>Budget €/j: 10-15<br>Emplacements: 40<br>description: <br>Adresse: 86150 L ISLE JOURDAIN<br>Phone: 05 49 48 72 46<br>Website: www.tourisme-vienne.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai -mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>86150 L ISLE JOURDAIN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 48 72 46</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-vienne.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.683899,46.225453,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Pre aux Loups</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: mi Juin - mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 25<br>description: <br>Adresse: route de st pierre, 86290 LA TRIMOUILLE<br>Phone: 05 49 91 60 14<br>Website: http://tourisme-la-trimouille.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route de st pierre, 86290 LA TRIMOUILLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 91 60 14</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://tourisme-la-trimouille.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.043701,46.464349,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les ORMES 2**</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: 100<br>description: <br>Adresse: 8, rue de Buxières, 86220 LES ORMES<br>Phone: 05 49 21 23 43<br>Website: www.lesormes.fr/lesormes-camping.php ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>8, rue de Buxières, 86220 LES ORMES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 21 23 43</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lesormes.fr/lesormes-camping.php </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.603443,46.969452000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL VAUCHIRON 2**</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: mi Avril-Septembre<br>Budget €/j: 10-15<br>Emplacements: 100<br>description: <br>Adresse: Chemin de la plage, 86600 LUSIGNAN<br>Phone: 05 49 43 30 08<br>Website: www.lusignan.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin de la plage, 86600 LUSIGNAN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 43 30 08</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lusignan.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.12368200000000001,46.436896,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL DES ECLUZELLES 3***</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: mi Avril - Septembre<br>Budget €/j: 15-20<br>Emplacements: 28<br>description: <br>Adresse: 86360 CHASSENEUIL DU POITOU<br>Phone: 05 49 52 77 19<br>Website: www.ville-chasseneuil-du-poitou.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>28</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>86360 CHASSENEUIL DU POITOU</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 52 77 19</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-chasseneuil-du-poitou.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.376282,46.649908,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL DISSAY 2**</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: mi Juin - Aout<br>Budget €/j: 10-15<br>Emplacements: 100<br>description: <br>Adresse: 100 rue du Parc, 86130 DISSAY<br>Phone: 05 49 62 84 29<br>Website: www.dissay.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>100 rue du Parc, 86130 DISSAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 62 84 29</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.dissay.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.430527,46.698906,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL l ALLOCHON 3***</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: Mars - Octobre<br>Budget €/j: 5-10<br>Emplacements: 80<br>description: <br>Adresse: Avenue Tribot, 86500 MONTMORILLON<br>Phone: 06.14.88.43.99<br>Website: www.montmorillon.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>80</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue Tribot, 86500 MONTMORILLON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06.14.88.43.99</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.montmorillon.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.876846,46.420346,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le RENARD 2**</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: mi Juin - mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 50<br>description: <br>Adresse: 86150 QUEAUX<br>Phone: 05 49 48 48 32<br>Website: www.queaux.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>86150 QUEAUX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 48 48 32</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.queaux.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.666046,46.327491,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le MOULIN GASSOTTE 2**</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: Mai - Septembre<br>Budget €/j: 5-10<br>Emplacements: 50<br>description: <br>Adresse: 10, rue du 8 Mai 1945, 86310 ST SAVIN<br>Phone: 05 49 48 18 02<br>Website: www.saintsavin.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>10, rue du 8 Mai 1945, 86310 ST SAVIN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 48 18 02</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saintsavin.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.866032,46.563227,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE ST JEAN DE SAUVES</name>
+				<description><![CDATA[Département: Vienne <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: ns<br>description: <br>Adresse: chemin du Jaquelin, 86330 ST JEAN DE SAUVES<br>Phone: 05 49 50 80 92<br>Website: www.tourisme-vienne.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>chemin du Jaquelin, 86330 ST JEAN DE SAUVES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 50 80 92</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-vienne.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.098877,46.833892,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES LILAS 1*</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 24<br>description: <br>Adresse: 17210 MONTLIEU LA GARDE<br>Phone: 05 46 04 44 12<br>Website: www.montlieulagarde.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>24</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>17210 MONTLIEU LA GARDE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 04 44 12</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.montlieulagarde.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.258522,45.244437,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le SOLEIL 2**</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: Juin-Septembre<br>Budget €/j: 15-20<br>Emplacements: 160<br>description: <br>Adresse: Avenue Michel Crepeau, 17000 LA ROCHELLE<br>Phone: 05 46 44 42 53 <br>Website: www.larochelle-tourisme.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>160</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue Michel Crepeau, 17000 LA ROCHELLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 44 42 53 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.larochelle-tourisme.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.158006,46.150762,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du PORT NEUF 2**</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: Ouvert toute l'annee<br>Budget €/j: 15-20<br>Emplacements: 185<br>description: <br>Adresse: 6 Boulevard Aristide Rondeau, 17000 LA ROCHELLE<br>Phone: 05 46 43 81 20 <br>Website: www.larochelle-tourisme.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert toute l'annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>185</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>6 Boulevard Aristide Rondeau, 17000 LA ROCHELLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 43 81 20 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.larochelle-tourisme.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.184034,46.160438,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL l ETANG des ROSEES 2*</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 33<br>description: <br>Adresse: L etang des rosees,17430 GENOUILLE <br>Phone: 05 46 27 72 13 <br>Website: www.poitou-charentes-vacances.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>L etang des rosees,17430 GENOUILLE </value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 27 72 13 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.poitou-charentes-vacances.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.788977,46.0158,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les BUJOLIERS 2**</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: Juin-Septembre<br>Budget €/j: 10-15<br>Emplacements: 33<br>description: <br>Adresse: 17770 ST CESAIRE<br>Phone: 05 46 91 55 45 <br>Website: www.saint-cesaire.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>17770 ST CESAIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 91 55 45 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saint-cesaire.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.49655199999999994,45.76676,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le RAYONNEMENT 3***</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: toute l annee<br>Budget €/j: 15-20<br>Emplacements: 120<br>description: <br>Adresse: Avenue de la Fosse aux Mâts, 17300 ROCHEFORT<br>Phone: : 05 46 82 67 70 <br>Website: www.ville-rochefort.fr/decouvrir/camping ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>toute l annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>120</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue de la Fosse aux Mâts, 17300 ROCHEFORT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>: 05 46 82 67 70 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-rochefort.fr/decouvrir/camping </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.9581919999999999,45.930364,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la GARENNE</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: ns<br>Budget €/j: <br>Emplacements: ns<br>description: out of business<br><br><br>Adresse: 17380 TONNAY BOUTONNE<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>out of business
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>17380 TONNAY BOUTONNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.703125,45.958788,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camp MUNICIPAL VANDRE</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: ns<br>Budget €/j: <br>Emplacements: ns<br>description: out of business <br><br><br>Adresse: 17700 VANDRE<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>out of business 
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>17700 VANDRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.760803,46.052267,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL TAUGON 2**</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 57<br>description: <br>Adresse: 10, rue des Hérons, 17170 TAUGON<br>Phone: 05 46 09 76 15 <br>Website: www.aunis-maraispoitevin.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>57</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>10, rue des Hérons, 17170 TAUGON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 09 76 15 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.aunis-maraispoitevin.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.837107,46.309411,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les ORMEAUX</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: mi Avril-Septembre<br>Budget €/j: 5-10<br>Emplacements: 14<br>description: <br>Adresse: 1 rue de la Mairie, 17150 ST BONNET SUR GIRONDE<br>Phone: 05 46 86 01 59 <br>Website: www.mirambeau-tourisme.fr/hebergements/campings/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>14</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>1 rue de la Mairie, 17150 ST BONNET SUR GIRONDE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 86 01 59 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mirambeau-tourisme.fr/hebergements/campings/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.660553,45.35311,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BEL AIR</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: Juin-Septembre<br>Budget €/j: 10-15<br>Emplacements: 22<br>description: <br>Adresse: 17120 MORTAGNE SUR GIRONDE<br>Phone: 05 46 91 48 84 <br>Website: www.ot-mortagne.com/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>22</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>17120 MORTAGNE SUR GIRONDE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 91 48 84 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ot-mortagne.com/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.790329,45.479542,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la GARENNE 3***</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: Avril-Octobre<br>Budget €/j: 20-25<br>Emplacements: 230<br>description: <br>Adresse: Avenue de l'Ile Madame, 17730 PORT DES BARQUES<br>Phone: 05 46 84 80 66 <br>Website: www.camping-municipal-portdesbarques.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>230</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue de l'Ile Madame, 17730 PORT DES BARQUES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 84 80 66 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-municipal-portdesbarques.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.09417,45.947882,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICPAL des Saumonards 2**</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: mi Avril - Septembre<br>Budget €/j: ns<br>Emplacements: 270<br>description: Ile d Oleron <br>Adresse: Boyardville Saumonards, 17190 ST GEORGES D OLERON<br>Phone: 05 46 47 23 20 <br>Website: www.saint-georges-oleron.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>270</value>
+					</Data>
+					<Data name='description'>
+						<value>Ile d Oleron </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Boyardville Saumonards, 17190 ST GEORGES D OLERON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 47 23 20 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saint-georges-oleron.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.239953,45.978623000000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA FAUCHE PRERE 2**</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: Avril - Septembre<br>Budget €/j: 25-30<br>Emplacements: 80<br>description: Ile d Oleron<br>Adresse: 115, avenue des Pins, 17310 ST PIERRE D OLERON<br>Phone: 05 46 47 10 53 <br>Website: www.saint-pierre-oleron-tourisme.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>80</value>
+					</Data>
+					<Data name='description'>
+						<value>Ile d Oleron</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>115, avenue des Pins, 17310 ST PIERRE D OLERON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 47 10 53 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saint-pierre-oleron-tourisme.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.342177,45.923453,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ST DENIS D OLERON </name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: mi Mars-mi Octobre<br>Budget €/j: 20-25<br>Emplacements: 390<br>description: Ile d Oleron<br><br><br>Adresse: 10, boulevard d'Antioche, 17650 ST DENIS D OLERON<br>Phone: 05 46 47 85 62 <br>Website: www.st-denis-oleron.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>390</value>
+					</Data>
+					<Data name='description'>
+						<value>Ile d Oleron
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>10, boulevard d'Antioche, 17650 ST DENIS D OLERON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 47 85 62 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.st-denis-oleron.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.375544,46.038714000000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE PLANGINOT 2**</name>
+				<description><![CDATA[Département: Charente Maritime <br>Ouverture: mi Mars-mi Octobre<br>Budget €/j: 20-25<br>Emplacements: 242<br>description: Ile d Oleron <br>Adresse: 18, allée du Gai Séjour, 17840 LA BREE LES BAINS<br>Phone: 05 46 47 82 18 <br>Website: www.labreelesbains.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>242</value>
+					</Data>
+					<Data name='description'>
+						<value>Ile d Oleron </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>18, allée du Gai Séjour, 17840 LA BREE LES BAINS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 47 82 18 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.labreelesbains.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-1.352692,46.017946,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de VOULLE</name>
+				<description><![CDATA[Département: Vienne<br>Ouverture: mi Juin - mi Septembre<br>Budget €/j: 15-20<br>Emplacements: 420<br>description: <br>Adresse: Chemin de la piscine, 86 VOUILLE<br>Phone: 05 49 51 90 10<br>Website: /www.tourisme-vouille.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vienne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>420</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin de la piscine, 86 VOUILLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 49 51 90 10</value>
+					</Data>
+					<Data name='Website'>
+						<value>/www.tourisme-vouille.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.168228,46.63718,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Gue de la riviere 2**</name>
+				<description><![CDATA[Département: Charente Maritime<br>Ouverture: Juin - Aout<br>Budget €/j: 10-15<br>Emplacements: 70<br>description: <br>Adresse: 17 MAUZE LE MIGNON<br>Phone: 05.49.26.30.35<br>Website: www.ville-mauze-mignon.fr/camping-municipal ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>17 MAUZE LE MIGNON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05.49.26.30.35</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-mauze-mignon.fr/camping-municipal </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.689392,46.192666,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal de Magnerit Aunac 1*</name>
+				<description><![CDATA[Département: Charente<br>Ouverture: 15 Juin-15 Septembre<br>Budget €/j: 10-15<br>Emplacements: 25<br>description: <br>Adresse: 16460 AUNAC<br>Phone: 05 45 22 24 38 <br>Website: www.ot-paysmanslois.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>15 Juin-15 Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>16460 AUNAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 45 22 24 38 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ot-paysmanslois.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.235519,45.918796,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL des Megisseries</name>
+				<description><![CDATA[Département: Charente Maritime<br>Ouverture: mi Mars - mi Novembre<br>Budget €/j: ns<br>Emplacements: 28<br>description: <br>Adresse: rue du lycee17500 JONZAC <br>Phone: 05 46 48 49 29 <br>Website: www.jonzac-tourisme.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Charente Maritime</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars - mi Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>28</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue du lycee17500 JONZAC </value>
+					</Data>
+					<Data name='Phone'>
+						<value>05 46 48 49 29 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.jonzac-tourisme.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-0.43263000000000007,45.440253,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

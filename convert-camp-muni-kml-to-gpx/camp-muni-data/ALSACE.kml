@@ -1,0 +1,1240 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>ALSACE Campings Municipaux</name>
+		<description><![CDATA[Campings Municipaux en Alsace <br>Bas-Rhin<br>Haut-Rhin <br><br>]]></description>
+		<Folder>
+			<name>Alsace campings municipaux</name>
+			<Placemark>
+				<name>Camping MUNICIPAL 3 Châteaux 1*</name>
+				<description><![CDATA[Departement: Haut Rhin<br>Opening Dates: Juillet - Aout<br>Budget €/j: 5-10<br>Emplacements: 64<br>Location: non<br>description: Aux pieds des 3 châteaux, un ruisseau longe le camping calme et ombragé. Ideal pour les amateurs de velos et ballades<br><br>Adresse: Route Ste Marie aux Mines, 68150 RIBEAUVILLE<br>Phone: 03 89 73 20 00<br>Website: http://goo.gl/qMij9E   <br>]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haut Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juillet - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>64.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Aux pieds des 3 châteaux, un ruisseau longe le camping calme et ombragé. Ideal pour les amateurs de velos et ballades
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route Ste Marie aux Mines, 68150 RIBEAUVILLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 89 73 20 00</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/qMij9E   
+</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.301788,48.199049,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les 2 Hohnack 2*</name>
+				<description><![CDATA[Departement: Haut Rhin<br>Opening Dates: Avril - Septembre<br>Budget €/j: 15-20<br>Emplacements: 100<br>Location: non<br>description: Au calme et au vert a 750 d'altitude. Un bar terrasse avec acces internet gratuit<br>Adresse: 542 lieu dit Giragoutte, 68910 LABAROCHE<br>Phone: 03 89 49 83 72 <br>Website: www.camping-labaroche.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haut Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Au calme et au vert a 750 d'altitude. Un bar terrasse avec acces internet gratuit</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>542 lieu dit Giragoutte, 68910 LABAROCHE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 89 49 83 72 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-labaroche.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.1980189999999995,48.093588,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Florival 3*</name>
+				<description><![CDATA[Departement: Haut Rhin<br>Opening Dates: mi Avril  - Septembre<br>Budget €/j: 15-20<br>Emplacements: 73<br>Location: 20 Chalets<br>description: A proximité de la route des vins <br>Adresse: Route de Soultz, 68500 ISSENHEIM<br>Phone: 03 89 62 12 34<br>Website: www.camping-leflorival.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haut Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Avril  - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>73.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>20 Chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>A proximité de la route des vins </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Soultz, 68500 ISSENHEIM</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 89 62 12 34</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-leflorival.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.236214,47.900865,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Kaysersberg 4*</name>
+				<description><![CDATA[Departement: Haut Rhin<br>Opening Dates: Avril - Septembre<br>Budget €/j: 15-20<br>Emplacements: 110<br>Location: non<br>description: Vous y trouverez calme, confort et convivialité<br><br>Adresse: Rue des Acacias, 68240 KAYSERSBERG<br>Phone: 03 89 47 14 47 <br>Website: www.camping-kaysersberg.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haut Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>110.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Vous y trouverez calme, confort et convivialité
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue des Acacias, 68240 KAYSERSBERG</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 89 47 14 47 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-kaysersberg.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.254152000000001,48.148722,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Verts Bois 2*</name>
+				<description><![CDATA[Departement: Haut Rhin<br>Opening Dates: Avril - Octobre<br>Budget €/j: 15-20<br>Emplacements: 35<br>Location: non<br>description: Calme et ombragé. Restaurant sur place<br>Adresse: 3 rue de la fonderie, 68240 FRELAND<br>Phone: 03 89 47 57 25<br>Website: www.camping-lesvertsbois.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haut Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Calme et ombragé. Restaurant sur place</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>3 rue de la fonderie, 68240 FRELAND</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 89 47 57 25</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-lesvertsbois.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.184844,48.18113900000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du Langenwasen 1*</name>
+				<description><![CDATA[Departement: Haut Rhin<br>Opening Dates: mi Avril-mi Octobre<br>Budget €/j: 10-15<br>Emplacements: 120<br>Location: 1 studio<br>description: Best kept secret: 1 studio a louer<br>Adresse: Langenwasen,  68380 MITTLACH<br>Phone: 03 89 77 63 77 <br>Website: www.camping-alsace.info]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haut Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Avril-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>120.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>1 studio</value>
+					</Data>
+					<Data name='description'>
+						<value>Best kept secret: 1 studio a louer</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Langenwasen,  68380 MITTLACH</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 89 77 63 77 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-alsace.info</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.018375,47.982999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LEFEBRE 2*</name>
+				<description><![CDATA[Departement: Haut Rhin<br>Opening Dates: Ouvert toute l annee<br>Budget €/j: 10-15<br>Emplacements: 73<br>Location: Chalets - Tipis<br>description: Des centaines de kilomètres de chemins et de sentiers dans des paysages magnifiques<br>Adresse: Camme, 68370 ORBEY<br>Phone: 03 89 71 37 42<br>Website: www.camping-orbey.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haut Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Ouvert toute l annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>73.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>Chalets - Tipis</value>
+					</Data>
+					<Data name='description'>
+						<value>Des centaines de kilomètres de chemins et de sentiers dans des paysages magnifiques</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Camme, 68370 ORBEY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 89 71 37 42</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-orbey.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.161906,48.131976,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Pierre de Coubertin 4*</name>
+				<description><![CDATA[Departement: Haut Rhin<br>Opening Dates: mi Mars - mi Novembre<br>Budget €/j: 15-20<br>Emplacements: 208<br>Location: non<br>description: En pleine nature, à deux pas des sentiers de randonnées ou des pistes cyclables<br>Adresse: 23 rue de Landeau, 68160 RIBEAUVILLE <br>Phone: 03 89 73 66 71<br>Website: www.ribeauville.net/fr/camping.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haut Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Mars - mi Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>208.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>En pleine nature, à deux pas des sentiers de randonnées ou des pistes cyclables</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>23 rue de Landeau, 68160 RIBEAUVILLE </value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 89 73 66 71</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ribeauville.net/fr/camping.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.334189000000001,48.195216,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Médiéval 3*</name>
+				<description><![CDATA[Departement: Haut Rhin<br>Opening Dates: Juillet - Septembre<br>Budget €/j: 15-20<br>Emplacements: 117<br>Location: non<br>description: Anciennement le camping de Cigognes, le medieval est entierement renové<br>Adresse: 5 quai de la fetch, 68230 TURCKHEIM<br>Phone: 03 89 27 02 00<br>Website: www.camping-turckheim.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haut Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juillet - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>117.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Anciennement le camping de Cigognes, le medieval est entierement renové</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>5 quai de la fetch, 68230 TURCKHEIM</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 89 27 02 00</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-turckheim.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.272289,48.085353000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Hinsbourg</name>
+				<description><![CDATA[Departement: Bas Rhin<br>Opening Dates: Avril - mi Novembre<br>Budget €/j: 10-15<br>Emplacements: 25<br>Location: non<br>description: Aire naturelle avec terrain herbeux et arboré, surplombant la vallée de Frohmuhl<br>Adresse: 67290 HINSBOURG<br>Phone: 03 88 01 56 51<br>Website: www.tourisme-alsace.com/fr/217001409-Aire-naturelle-de-camping.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Bas Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril - mi Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Aire naturelle avec terrain herbeux et arboré, surplombant la vallée de Frohmuhl</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>67290 HINSBOURG</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 88 01 56 51</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-alsace.com/fr/217001409-Aire-naturelle-de-camping.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.288570000000001,48.906508,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE VALLON DE L'EHN 3*</name>
+				<description><![CDATA[Departement: Bas Rhin<br>Opening Dates: Ouvert toute l annee sauf mi Janvier / mi Mars<br>Budget €/j: 20-25<br>Emplacements: 150<br>Location: non<br>description: Au pied du Mont Sainte-Odile et sur la route de vins<br>Adresse: 1 rue de Berlin, 67210 OBERNAI<br>Phone: 03 88 95 38 48<br>Website: http://goo.gl/EN3bGC]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Bas Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Ouvert toute l annee sauf mi Janvier / mi Mars</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>150.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Au pied du Mont Sainte-Odile et sur la route de vins</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>1 rue de Berlin, 67210 OBERNAI</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 88 95 38 48</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/EN3bGC</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.467206,48.465082,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ROMANSWILLER 2*</name>
+				<description><![CDATA[Departement: Bas Rhin<br>Opening Dates: FERMETURE DEFINITIVE 2015<br>Budget €/j: <br>Emplacements: <br>Location: <br>description: <br>Adresse: 67310 ROMANSWILLER<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Bas Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>FERMETURE DEFINITIVE 2015</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>67310 ROMANSWILLER</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.407532,48.643798,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Bords du Rhin</name>
+				<description><![CDATA[Departement: Bas Rhin<br>Opening Dates: Avril - Septembre 2015<br>Budget €/j: 20-25<br>Emplacements: 73<br>Location: non<br>description: en bordure du Rhin, à proximité de la piste cyclable<br><br>Adresse: route du Rhin, 67470 SELTZ<br>Phone: 03 88 86 85 90<br>Website: http://campings-seltz.fr/   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Bas Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril - Septembre 2015</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>73.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>en bordure du Rhin, à proximité de la piste cyclable
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route du Rhin, 67470 SELTZ</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 88 86 85 90</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://campings-seltz.fr/   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>8.133874,48.890737,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL MON REPOS 2*</name>
+				<description><![CDATA[Departement: Bas Rhin<br>Opening Dates: mi Mars - mi Octobre<br>Budget €/j: 25-30<br>Emplacements: 50<br>Location: non<br>description: Principalement occupé par des résidents, seulement 50 places pour voyageurs<br>Adresse: Allée Muenchhof, 67190 STILL<br>Phone: 03 88 50 04 30<br>Website: http://goo.gl/zMNmNX ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Bas Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Mars - mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Principalement occupé par des résidents, seulement 50 places pour voyageurs</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Allée Muenchhof, 67190 STILL</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 88 50 04 30</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/zMNmNX </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.405048,48.5930091,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL WASSELONNE 3*</name>
+				<description><![CDATA[Departement: Bas Rhin<br>Opening Dates: Avril - Octobre<br>Budget €/j: 15-20<br>Emplacements: 100<br>Location: 12 chalets<br>description: piscine gratuite pour les campeurs<br>Adresse: 2 Rue des sapins, 67310 WASSELONNE<br>Phone: 03 88 87 00 08<br>Website: www.camping-wasselonne.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Bas Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>12 chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>piscine gratuite pour les campeurs</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>2 Rue des sapins, 67310 WASSELONNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 88 87 00 08</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-wasselonne.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.432121999999999,48.637163,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ERSTEIN 2**</name>
+				<description><![CDATA[Departement: Bas Rhin<br>Opening Dates: Avril - Septembre<br>Budget €/j: 15-20<br>Emplacements: 50<br>Location: non<br>description: Idéalement situé à vingt minutes de Strasbourg, Selestat, Obernai et Lahr<br>Adresse: rue de la sucrerie ,67600 ERSTEIN<br>Phone: 03 88 92 03 98<br>Website: http://goo.gl/nw31Nj]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Bas Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Idéalement situé à vingt minutes de Strasbourg, Selestat, Obernai et Lahr</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue de la sucrerie ,67600 ERSTEIN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 88 92 03 98</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/nw31Nj</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.670387999999999,48.41396300000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les MOUETTES 3***</name>
+				<description><![CDATA[Departement: Bas Rhin<br>Opening Dates: Mars - Septembre<br>Budget €/j: 15-20<br>Emplacements: 36<br>Location: kotas<br>description: dans la base de loisirs <br>Adresse: Base de Plein Air et Loisirs, 67630 LAUTERBOURG<br>Phone: 03 88 54 68 60<br>Website: www.camping-lauterbourg.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Bas Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mars - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>36.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>kotas</value>
+					</Data>
+					<Data name='description'>
+						<value>dans la base de loisirs </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Base de Plein Air et Loisirs, 67630 LAUTERBOURG</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 88 54 68 60</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-lauterbourg.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>8.164344,48.969344,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL WINGEN SUR MODER 1* </name>
+				<description><![CDATA[Departement: Bas Rhin<br>Opening Dates: Mai - Septembre<br>Budget €/j: 10-15<br>Emplacements: 35<br>Location: non<br>description: au fond d’une vallée où coulent la Moder et son affluent<br>Adresse: Rue de Zittersheim ,67290 WINGEN SUR MODER<br>Phone: 03 88 89 72 54<br>Website: http://goo.gl/uK9kim]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Bas Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>au fond d’une vallée où coulent la Moder et son affluent</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de Zittersheim ,67290 WINGEN SUR MODER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 88 89 72 54</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/uK9kim</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.367276999999999,48.916662,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL AU RHIN ET A LA SAUER 2**</name>
+				<description><![CDATA[Departement: Bas Rhin<br>Opening Dates: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 100<br>Location: non<br>description: près du Rhin et de l’embouchure de la Sauer.<br>Adresse: 67470 MUNCHHAUSEN<br>Phone: 03 88 86 11 80<br>Website: http://goo.gl/aT6Z8U]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Bas Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>près du Rhin et de l’embouchure de la Sauer.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>67470 MUNCHHAUSEN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 88 86 11 80</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/aT6Z8U</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>8.155042,48.918495,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Rove</name>
+				<description><![CDATA[Departement: Bas Rhin<br>Opening Dates: mi Juin-Aout<br>Budget €/j: 10-15<br>Emplacements: 35<br>Location: non<br>description: En bordure de ruisseau, à 250 m du village.<br>Adresse: Route de la grand fosse, 67420 SAALES<br>Phone: 03 88 97 70 26<br>Website: www.tourisme-alsace.com/fr/215000170-Camping-Rove.html ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Bas Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Juin-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>En bordure de ruisseau, à 250 m du village.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de la grand fosse, 67420 SAALES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 88 97 70 26</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-alsace.com/fr/215000170-Camping-Rove.html </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.106524,48.348606,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les CIGOGNES 2*</name>
+				<description><![CDATA[Departement: Bas Rhin<br>Opening Dates: Avril - mi Octobre + Decembre 2015<br>Budget €/j: 15-20<br>Emplacements: 48<br>Location: non<br>description: Best kept secret : ouvert fin d annee profiter et découvrir la région alsacienne en période de Noël.<br>Adresse: Rue de la 1ere DFL, 67600 SELESTAT<br>Phone: 03 88 92 03 98<br>Website: www.camping.selestat.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Bas Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril - mi Octobre + Decembre 2015</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>48.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Best kept secret : ouvert fin d annee profiter et découvrir la région alsacienne en période de Noël.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de la 1ere DFL, 67600 SELESTAT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 88 92 03 98</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping.selestat.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.448000999999999,48.254084,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping INTERCOMMUNAL du PLAN D EAU 3*</name>
+				<description><![CDATA[Departement: Haut Rhin<br>Opening Dates: Mai - Septembre<br>Budget €/j: 10-15<br>Emplacements: 45<br>Location: non<br>description: Pour les amateurs de peche<br>Adresse: le Plan d eau, 68480 COURTAVON<br>Phone: 06 42 80 56 67 <br>Website: www.sundgau-sudalsace.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haut Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>45.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Pour les amateurs de peche</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>le Plan d eau, 68480 COURTAVON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 42 80 56 67 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.sundgau-sudalsace.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.207116999999999,47.468776,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Benelux Bale</name>
+				<description><![CDATA[Departement: Haut Rhin<br>Opening Dates: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 167<br>Location: non<br>description: Au coeur des Vosges, le camping municipal d'Urbès se situe dans un cadre de verdure<br>Adresse: Rue de la Scierie, 68121 URBES<br>Phone: 03 89 82 60 91<br>Website: www.camping-urbes.fr/fr/accueil/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haut Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>167.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Au coeur des Vosges, le camping municipal d'Urbès se situe dans un cadre de verdure</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de la Scierie, 68121 URBES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 89 82 60 91</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-urbes.fr/fr/accueil/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.944132,47.881556,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping le Vert Vallon 3*</name>
+				<description><![CDATA[Departement: Haut Rhin<br>Opening Dates: FERME POUR TRAVAUX NOV2013<br>Budget €/j: 15-20<br>Emplacements: 34<br>Location: non<br>description: <br>Adresse: 51, Grand'Rue,  68610 Lautenbach-Zell <br>Phone: 03 89 74 01 80<br>Website: http://goo.gl/QuyEmV]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haut Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>FERME POUR TRAVAUX NOV2013</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>34.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>51, Grand'Rue,  68610 Lautenbach-Zell </value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 89 74 01 80</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/QuyEmV</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.147095,47.941018,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL l etang d HASPELSCHIELDT</name>
+				<description><![CDATA[Departement: Bas Rhin<br>Opening Dates: Avril - Octobre<br>Budget €/j: <br>Emplacements: 50<br>Location: non<br>description: Dans un Parc Naturel Régional, Bord de lac<br>Adresse: 57230 HASPELSCHIEDT<br>Phone: 03.87.96.53.91<br>Website: http://goo.gl/pn6BTf ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Bas Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans un Parc Naturel Régional, Bord de lac</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>57230 HASPELSCHIEDT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03.87.96.53.91</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/pn6BTf </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.494006000000001,49.082215,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Masevaux 3*</name>
+				<description><![CDATA[Departement: Haut Rhin<br>Opening Dates: mi Mars - Octobre<br>Budget €/j: 15-20<br>Emplacements: 150<br>Location: non<br>description: Dans un cadre verdoyant a cote de Mulhouse pour decouvrir la vallee de la Doller<br>Adresse: rue du Stade, 68290 MASEVAUX<br>Phone: 03 89 82 42 29<br>Website: www.masevaux.fr/camping]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haut Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Mars - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>150.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans un cadre verdoyant a cote de Mulhouse pour decouvrir la vallee de la Doller</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue du Stade, 68290 MASEVAUX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 89 82 42 29</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.masevaux.fr/camping</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.991403,47.779064,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Riquewhir </name>
+				<description><![CDATA[Departement: Haut Rhin<br>Opening Dates: mi Avril - Decembre<br>Budget €/j: 15-20<br>Emplacements: 161<br>Location: non<br>description: sur 3 ha, plat, clos, ombragé et surveillé,  en plein cœur du vignoble alsacien<br>Adresse: 1 route des vins, 68340 RIQUEWHIR <br>Phone: 03 89 47 90 08<br>Website: www.campingriquewihr.com/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haut Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Avril - Decembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>161.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>sur 3 ha, plat, clos, ombragé et surveillé,  en plein cœur du vignoble alsacien</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>1 route des vins, 68340 RIQUEWHIR </value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 89 47 90 08</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campingriquewihr.com/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.316937,48.162507,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Herrenhaus</name>
+				<description><![CDATA[Departement: Bas Rhin<br>Opening Dates: mi Juin-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 87<br>Location: non<br>description: En pleine verdure dans un beau site naturel.<br>Adresse: 28 rue du Herrenhaus, 67140 Le Hohwald<br>Phone: 03 88 08 30 90<br>Website: http://goo.gl/0IIiJo]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Bas Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>87.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>En pleine verdure dans un beau site naturel.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>28 rue du Herrenhaus, 67140 Le Hohwald</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 88 08 30 90</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/0IIiJo</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.323031399999999,48.4061865,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Rouffach</name>
+				<description><![CDATA[Departement: Haut Rhin<br>Opening Dates: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: non<br>description: à proximité du centre ville et des commerces<br>Adresse: 4 rue de la Piscine, 68250 Rouffach<br>Phone: 03 89 49 78 13<br>Website: http://goo.gl/If0qSJ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haut Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>à proximité du centre ville et des commerces</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>4 rue de la Piscine, 68250 Rouffach</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 89 49 78 13</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/If0qSJ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.295436900000001,47.9561628,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la Vallee Noble 2*</name>
+				<description><![CDATA[Departement: Haut Rhin<br>Opening Dates: mi Mars-mi Novembre<br>Budget €/j: 15-20<br>Emplacements: 200<br>Location: mobilhomes<br>description: au cœur de l’Alsace entre Mulhouse et Colmar<br>Adresse: Rue du Stade ,68570 Osenbach <br><br>Phone: 03 89 47 05 22<br>Website: www.camping-osenbach.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Haut Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Mars-mi Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>200.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>au cœur de l’Alsace entre Mulhouse et Colmar</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue du Stade ,68570 Osenbach 
+</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 89 47 05 22</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-osenbach.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.21982,47.9805863,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Gamsheim</name>
+				<description><![CDATA[Departement: Bas Rhin<br>Opening Dates: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 20<br>Location: non<br>description: à l'arrière d'un beau plan d'eau aménagé avec baignade surveillée<br>Adresse: 10a rue de la Gravière, 67760 GAMBSHEIM<br>Phone: 03 88 96 42 59<br>Website: http://goo.gl/HXCoV4]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Bas Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>à l'arrière d'un beau plan d'eau aménagé avec baignade surveillée</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>10a rue de la Gravière, 67760 GAMBSHEIM</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 88 96 42 59</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/HXCoV4</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.875995600000001,48.68766,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal Molsheim 2*</name>
+				<description><![CDATA[Departement: Bas Rhin<br>Opening Dates: Avril-Octobre<br>Budget €/j: 15-20<br>Emplacements: 95<br>Location: 5 mobilhomes<br>description: Agréable et calme dans un magnifique cadre de verdure de 172 ares.<br>Adresse: 6 rue des Sports, 67120 MOLSHEIM<br>Phone: 03 88 49 82 45<br>Website: www.molsheim.fr/decouvrir/camping-municipal.htm]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Bas Rhin</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>95.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>5 mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Agréable et calme dans un magnifique cadre de verdure de 172 ares.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>6 rue des Sports, 67120 MOLSHEIM</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 88 49 82 45</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.molsheim.fr/decouvrir/camping-municipal.htm</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.5173964,48.560242,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Calque sans titre</name>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

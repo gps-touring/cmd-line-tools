@@ -1,0 +1,678 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>LORRAINE Campings Municipaux</name>
+		<description><![CDATA[Campings municipaux: Vosges, Moselle , Meuse ,Meurthe et Moselle]]></description>
+		<Folder>
+			<name>Calque sans titre</name>
+			<Placemark>
+				<name>Camping Municipal de Metz Plage 3*</name>
+				<description><![CDATA[Departement: Moselle<br>Ouverture: mi Avril - Septembre<br>Budget €/j: 20-25<br>Emplacements: 150<br>Location: non<br>description: Camping au sol herbeux, ombragé, bord de rivière avec pêche à la journée<br>Adresse: Allée de Metz-Plage, 57000 METZ<br>Phone: 03 87 68 26 48<br>Website: http://www.tourisme-metz.com    ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Moselle</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>150</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Camping au sol herbeux, ombragé, bord de rivière avec pêche à la journée</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Allée de Metz-Plage, 57000 METZ</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 87 68 26 48</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.tourisme-metz.com    </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.168394,49.123096000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Violu 2*</name>
+				<description><![CDATA[Departement: Vosges<br>Ouverture: <br>Budget €/j: 10-15<br>Emplacements: <br>Location: <br>description: <br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Vosges</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.085752,48.25417,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPALau Bon accueil 2*</name>
+				<description><![CDATA[Departement: Vosges<br>Ouverture: Avril-mi Novembre<br>Budget €/j: 5-10<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: 36 rue de Lorraine, 88160 Fresse sur Moselle<br>Phone: 03 29 25 08 98<br>Website: www.tourisme-lorraine.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Vosges</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-mi Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>36 rue de Lorraine, 88160 Fresse sur Moselle</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 29 25 08 98</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-lorraine.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.787545,47.87569,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Charny-sur-Meuse 1</name>
+				<description><![CDATA[Departement: Meuse<br>Ouverture: Mai-Septembre<br>Budget €/j: 5-10<br>Emplacements: <br>Location: <br>description: <br>Adresse: le gournier, 55100 CHARNY SUR MEUSE<br>Phone: 04 75 37 35 50<br>Website: www.charny-sur-meuse.fr/public/?code=camping-de-charny ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Meuse</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>le gournier, 55100 CHARNY SUR MEUSE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 37 35 50</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.charny-sur-meuse.fr/public/?code=camping-de-charny </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.363345,49.206641,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Lac Vert 2*</name>
+				<description><![CDATA[Departement: Moselle<br>Ouverture: Maii - Septembre<br>Budget €/j: 15-20<br>Emplacements: 580<br>Location: non<br>description: Complexe sportif de plein air : terrain de football, de tennis et de pétanque et salle de sport couverte<br>Adresse: 31, grande Rue, 57930 MITTERSHEIM<br>Phone: 03 87 07 67 13<br>Website: http://goo.gl/TLvZGG  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Moselle</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Maii - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>580</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Complexe sportif de plein air : terrain de football, de tennis et de pétanque et salle de sport couverte</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>31, grande Rue, 57930 MITTERSHEIM</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 87 07 67 13</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/TLvZGG  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.941796,48.862906,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du Mettey 2*</name>
+				<description><![CDATA[Departement: Vosges<br>Ouverture: reouverture en 2014 relifté<br>Budget €/j: 15-20<br>Emplacements: 87<br>Location: <br>description: <br>Adresse: 88000 VAGNEY<br>Phone: 03 29 62 16 86<br><br>Website: www.ot-vagney.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Vosges</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>reouverture en 2014 relifté</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>87</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>88000 VAGNEY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 29 62 16 86
+</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ot-vagney.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.716075,48.008741,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Le Val-d'Ajol</name>
+				<description><![CDATA[Departement: Vosges<br>Ouverture: <br>Budget €/j: 10-15<br>Emplacements: 48<br>Location: <br>description: <br>Adresse: 823 BIS RUE DES OEUVRES, 88000 VAL D AJOL<br>Phone: 03 29 66 55 17<br>Website: www.ot-remiremont.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Vosges</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>48</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>823 BIS RUE DES OEUVRES, 88000 VAL D AJOL</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 29 66 55 17</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ot-remiremont.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.484068,47.926193,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping les Ilys Hauts 1*</name>
+				<description><![CDATA[Departement: Meuse <br>Ouverture: <br>Budget €/j: 5-10<br>Emplacements: 73<br>Location: <br>description: <br>Adresse: 55110 CONSENVOYE<br>Phone: 03 29 85 86 75<br>Website: www.consenvoye.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Meuse </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>73</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>55110 CONSENVOYE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 29 85 86 75</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.consenvoye.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.282707,49.285723,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal Ramstein Plage 3*</name>
+				<description><![CDATA[Departement: Moselle<br>Ouverture: Avril-Septembre<br>Budget €/j: 20-25<br>Emplacements: 63 + 305 loisirs<br>Location: 12 bungalows<br>description: dans l’enceinte de la Base de loisirs Ramstein-Plage,<br>Adresse: 57930 BAERENTHAL<br>Phone: 03 87 06 50 73<br>Website: www.baerenthal.eu/camping-ramstein-plage   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Moselle</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>63 + 305 loisirs</value>
+					</Data>
+					<Data name='Location'>
+						<value>12 bungalows</value>
+					</Data>
+					<Data name='description'>
+						<value>dans l’enceinte de la Base de loisirs Ramstein-Plage,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>57930 BAERENTHAL</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 87 06 50 73</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.baerenthal.eu/camping-ramstein-plage   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.518425,48.975936,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Puttelange-aux-Lacs</name>
+				<description><![CDATA[Departement: Moselle<br>Ouverture: <br>Budget €/j: 10-15<br>Emplacements: <br>Location: <br>description: <br>Adresse: 57510 Puttelange-aux-Lacs<br>Phone: 03 87 09 48 92<br>Website: http://www.camping57.eu]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Moselle</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>57510 Puttelange-aux-Lacs</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 87 09 48 92</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.camping57.eu</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.903655,49.04983300000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Xonrupt Longemer 2**</name>
+				<description><![CDATA[Departement: Vosges<br>Ouverture: toute l'année<br>Budget €/j: 15-20<br>Emplacements: 300<br>Location: <br>description: <br>Adresse: 121 Route de la PLAGE, 88400 Xonrupt-Longemer<br>Phone: 03 29 63 27 10<br>Website: http://campingxonrupt.jimdo.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Vosges</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>300</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>121 Route de la PLAGE, 88400 Xonrupt-Longemer</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 29 63 27 10</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://campingxonrupt.jimdo.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.931,48.080373,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de DOMREMY la PUCELLE</name>
+				<description><![CDATA[Departement: Vosges<br>Ouverture: <br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: 7 rue principale, 88630 DOMREMY LA PUCELLE<br>Phone: 03.29.06.90.70 <br>Website: www.tourisme-lorraine.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Vosges</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>7 rue principale, 88630 DOMREMY LA PUCELLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03.29.06.90.70 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-lorraine.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.686798,48.446511,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la Vezouze</name>
+				<description><![CDATA[Departement: Meurthe et Moselle<br>Ouverture: <br>Budget €/j: 10-15<br>Emplacements: 55<br>Location: <br>description: <br>Adresse: Route de Cirey, 54450 BLAMONT<br>Phone: 06-07-70-27-39<br>Website: http://campingdelavezouze.wordpress.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Meurthe et Moselle</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>55</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Cirey, 54450 BLAMONT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06-07-70-27-39</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://campingdelavezouze.wordpress.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.83075,48.602041,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Rhodes 1*</name>
+				<description><![CDATA[Departement: Meurthe et Moselle<br>Ouverture: <br>Budget €/j: 10-15<br>Emplacements: 26<br>Location: <br>description: <br>Adresse: 57810 RHODES <br>Phone: 03 87 03 94 00 <br>Website: www.rhodeslorraine.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Meurthe et Moselle</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>26</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>57810 RHODES </value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 87 03 94 00 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.rhodeslorraine.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.898548,48.75839100000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL l oree de la reine</name>
+				<description><![CDATA[Departement: Meurthe et Moselle<br>Ouverture: <br>Budget €/j: 10-15<br>Emplacements: <br>Location: <br>description: <br>Adresse: 42 chemin de Mandres a Bourq, 54470 MANDRES AUX 4 TOURS<br>Phone: 03 83 23 13 85<br>Website: www.tourisme-meurtheetmoselle.fr/fr/fugue,terrain-de-camping/camping-de-l-oree-de-la-reine,798000072]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Meurthe et Moselle</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>42 chemin de Mandres a Bourq, 54470 MANDRES AUX 4 TOURS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 83 23 13 85</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-meurtheetmoselle.fr/fr/fugue,terrain-de-camping/camping-de-l-oree-de-la-reine,798000072</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.855713,48.91167,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Rehaupal</name>
+				<description><![CDATA[Departement: <br>Ouverture: <br>Budget €/j: <br>Emplacements: <br>Location: <br>description: N est plus un camping Municipal - 2013<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value></value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>N est plus un camping Municipal - 2013</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.730328,48.120497,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du Moulin 2</name>
+				<description><![CDATA[Departement: Moselle <br>Ouverture: mi Avril-mi Octobre<br>Budget €/j: 15-20<br>Emplacements: <br>Location: <br>description: <br>Adresse: 54450 ABRESCHWILLER<br>Phone: 03.87.03.75.73<br>Website: www.abreschviller.fr/spip.php?rubrique10]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Moselle </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>54450 ABRESCHWILLER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03.87.03.75.73</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.abreschviller.fr/spip.php?rubrique10</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.098756,48.635887,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

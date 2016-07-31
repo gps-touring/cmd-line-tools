@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name> CORSE Campings Municipaux</name>
+		<description><![CDATA[Campings municipaux en Corse]]></description>
+		<Folder>
+			<name>Corse Campings Municipaux</name>
+			<Placemark>
+				<name>Camping MUNICIPAL OTA PORTO </name>
+				<description><![CDATA[Departement: Corse Sud<br>Ouverture: mi Mai -Septembre<br>Prix €/j: 26.30<br>Emplacements: 300<br>Location: non<br>description: <br>Adresse: Route de la Plage, 20150 PORTO<br>GPS: 42.263304,8.700221<br>Phone: 04 95 26 17 76 <br>Website: www.campingmunicipal-otaporto.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Corse Sud</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai -Septembre</value>
+					</Data>
+					<Data name='Prix €/j'>
+						<value>26.30</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>300</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de la Plage, 20150 PORTO</value>
+					</Data>
+					<Data name='GPS'>
+						<value>42.263304,8.700221</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 95 26 17 76 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campingmunicipal-otaporto.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>8.700861,42.263415,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal SERRA DI SCOPAMÈNE</name>
+				<description><![CDATA[Departement: Corse Sud<br>Ouverture: en cours verification<br>Prix €/j: 8<br>Emplacements: ns<br>Location: non<br>description: <br>Adresse: Alta Rocca, 20127 SERRA DI SCOPAMÈNE<br>GPS: 41.753033,9.098862<br>Phone: 04.95.78.60.13<br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Corse Sud</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>en cours verification</value>
+					</Data>
+					<Data name='Prix €/j'>
+						<value>8</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Alta Rocca, 20127 SERRA DI SCOPAMÈNE</value>
+					</Data>
+					<Data name='GPS'>
+						<value>41.753033,9.098862</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04.95.78.60.13</value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>9.098182,41.753001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal San Gavino 2*</name>
+				<description><![CDATA[Departement: Corse Sud<br>Ouverture: en cours de verification <br>Prix €/j: en cours de verification <br>Emplacements: 35 <br>Location: non<br>description: <br>Adresse: 20170 SAN GAVINO DI CARBINI<br>GPS: <br>Phone: 04 95 78 48 17<br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Corse Sud</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>en cours de verification </value>
+					</Data>
+					<Data name='Prix €/j'>
+						<value>en cours de verification </value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35 </value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>20170 SAN GAVINO DI CARBINI</value>
+					</Data>
+					<Data name='GPS'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 95 78 48 17</value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>9.149723,41.721554,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Zonza 1*</name>
+				<description><![CDATA[Departement: Corse Sud<br>Ouverture: Mai-Septembre<br>Prix €/j: 6<br>Emplacements: 120<br>Location: non<br>description: <br>Adresse: 20124 ZONZA<br>GPS: 41.748679,9.172122<br>Phone: 04 95 78 62 74 <br>Website: www.zonza-saintelucie.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Corse Sud</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Prix €/j'>
+						<value>6</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>120</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>20124 ZONZA</value>
+					</Data>
+					<Data name='GPS'>
+						<value>41.748679,9.172122</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 95 78 62 74 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.zonza-saintelucie.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>9.171267,41.749639,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

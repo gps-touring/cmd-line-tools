@@ -1,0 +1,2015 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>ARDECHE / DROME Campings</name>
+		<description><![CDATA[Campings Municipaux en Ardeche et Drome]]></description>
+		<Folder>
+			<name>Calque sans titre</name>
+			<Placemark>
+				<name>Camping Municipal les Chassieres 2*</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: Avril - mi Octobre<br>Budget €/j: 20-25<br>Emplacements: 164<br>Location: 10 mobilhomes<br>description: AU coeur de la Drome, un muni bien equipe<br>Adresse: 26410 CHATILLON EN DIOIS<br>Phone: 04 75 21 10 30<br>Website: www.camping-chatillonendiois.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril - mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>164.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>10 mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>AU coeur de la Drome, un muni bien equipe</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26410 CHATILLON EN DIOIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 21 10 30</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-chatillonendiois.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.4894300000000005,44.693796,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Colombe </name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: 5 chalets<br>description: calme et ombragé, est situé au coeur d'un petit village<br>Adresse: 26340 AUREL<br>Phone: 04 75 21 70 56 <br>Website: http://goo.gl/IBvH5K]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>5 chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>calme et ombragé, est situé au coeur d'un petit village</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26340 AUREL</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 21 70 56 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/IBvH5K</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.304723,44.694681,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Bouvieres 2*</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 20<br>Location: non<br>description: Calme, ombragé, au bord de la rivière Roubio<br>Adresse: 26460 BOUVIERES<br>Phone: 04 75 53 20 02 <br>Website: http://goo.gl/OEkO4y]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Calme, ombragé, au bord de la rivière Roubio</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26460 BOUVIERES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 53 20 02 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/OEkO4y</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.211146,44.517945,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Jalinier </name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: Mars - 11 Novembre<br>Budget €/j: 10-15<br>Emplacements: 74<br>Location: 2 mobilhomes<br>description: A deux pas des commerces du centre-ville, le camping dispose de 74 emplacements ombragés pour les tentes et caravanes. Pisicine<br><br>Adresse: Quartier du Jalinier, 26170 BUIS LES BARONNIES<br>Phone: 04 75 28 04 96<br>Website: http://goo.gl/XrYmFI]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mars - 11 Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>74.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>2 mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>A deux pas des commerces du centre-ville, le camping dispose de 74 emplacements ombragés pour les tentes et caravanes. Pisicine
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Quartier du Jalinier, 26170 BUIS LES BARONNIES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 28 04 96</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/XrYmFI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.276656,44.274858,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Pont de l Huile</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: mi Juin- mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: non<br>description: Situé au pied du village d’Antraïgues, sur la route d’Aizac.<br>Adresse: Pont de l'Huile, 07530 ANTRAIGUES SUR VOLANE<br>Phone: 04 75 38 70 10<br>Website: http://goo.gl/nARgdt]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Juin- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé au pied du village d’Antraïgues, sur la route d’Aizac.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Pont de l'Huile, 07530 ANTRAIGUES SUR VOLANE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 38 70 10</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/nARgdt</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.351959,44.718441,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la GANDOLE </name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: Mai-Septembre<br>Budget €/j: ns<br>Emplacements: 15<br>Location: non<br>description: situé en borbure de Rivière ( La Dorne); Plan d'eau aménagé l'Eté <br>Adresse: 07160 DORNAS<br>Phone: 04 75 29 23 45<br>Website: www.dornas.fr/page2.html#4]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>15.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>situé en borbure de Rivière ( La Dorne); Plan d'eau aménagé l'Eté </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>07160 DORNAS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 29 23 45</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.dornas.fr/page2.html#4</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.353805,44.853329,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal Lac d ISSARLES 2*</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: mai-15 Septembre<br>Budget €/j: 10-15<br>Emplacements: 180<br>Location: chalets<br>description: Un sentier permet d’accéder à la plage et de faire le tour du lac<br>Adresse: Les Bords du Lac, 07470 LE LAC D ISSARLES<br>Phone: 04 66 46 20 70<br>Website: www.campinglesbordsdulacdissarles.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mai-15 Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>180.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>Un sentier permet d’accéder à la plage et de faire le tour du lac</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Les Bords du Lac, 07470 LE LAC D ISSARLES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 46 20 70</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campinglesbordsdulacdissarles.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.070649,44.823552,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal ARCENS 2**</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: mi-Juin - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 15<br>Location: Mobilhomes<br>description: Best kept secret avec 4 mobil-homes et 2 caravanes à louer.<br><br>Adresse: 07310 ARCENS<br>Phone: 04 75 30 40 72<br>Website: http://goo.gl/dktJfy]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi-Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>15.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>Mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Best kept secret avec 4 mobil-homes et 2 caravanes à louer.
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>07310 ARCENS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 30 40 72</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/dktJfy</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.323817,44.900488,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal RIEU SEPOUX 2*</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: mobilhomes<br>description: à 540 m d’altitude, au coeur de la vallée de la Bourges, à l’entrée du village, à proximité immédiate de la rivière.<br>Adresse: Rieu Sépoux, 07450 BURZET<br>Phone: 04 75 88 09 06<br>Website: http://goo.gl/7yjlPE]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>à 540 m d’altitude, au coeur de la vallée de la Bourges, à l’entrée du village, à proximité immédiate de la rivière.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rieu Sépoux, 07450 BURZET</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 88 09 06</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/7yjlPE</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.248962,44.738351,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal de GOURJATOUX 2*</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: Mai - Septembre<br>Budget €/j: 10-15<br>Emplacements: 25<br>Location: mobilhomes<br>description: Dans un cadre verdoyant en bordure riviere<br>Adresse: 07190 MARCOLS LES EAUX<br>Phone: 04 75 65 63 36<br>Website: http://goo.gl/XwQGTi]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans un cadre verdoyant en bordure riviere</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>07190 MARCOLS LES EAUX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 65 63 36</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/XwQGTi</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.399338,44.813993,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la DUZONNE 2*</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: Avril - Septembre<br>Budget €/j: 15-20<br>Emplacements: 55<br>Location: Mobilhomes/chalets toute l annee<br>description: bordé d'une rivière et d'un plan d'eau avec la piscine en plus<br>Adresse: Le Plan d'Eau, 07440 ALBOUSSIERE<br>Phone: 04 75 58 20 91<br>Website: www.camping-alboussiere.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>55.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>Mobilhomes/chalets toute l annee</value>
+					</Data>
+					<Data name='description'>
+						<value>bordé d'une rivière et d'un plan d'eau avec la piscine en plus</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Plan d'Eau, 07440 ALBOUSSIERE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 58 20 91</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-alboussiere.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.730644,44.943903,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le GRAND PRE 1*</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: Mars-mi Novembre<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: mobilhomes<br>description: Camping ombragé, en bordure de rivière Ardèche<br>Adresse: Le Grand Pré , 07330 BARNAS<br>Phone: 04 75 36 40 12<br>Website: http://goo.gl/gi1Cd9]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mars-mi Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Camping ombragé, en bordure de rivière Ardèche</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Grand Pré , 07330 BARNAS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 36 40 12</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/gi1Cd9</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.168797,44.668165,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL COUCOURON 2**</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: Mai - Septembre<br>Budget €/j: 10-15<br>Emplacements: 85<br>Location: 11 chalets<br>description: Un camping situé au coeur du village, à proximité des commerces et services.<br>Adresse: Le village, 07470 COUCOURON<br>Phone: 04 66 46 13 08<br>Website: www.coucouron.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>85.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>11 chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>Un camping situé au coeur du village, à proximité des commerces et services.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le village, 07470 COUCOURON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 46 13 08</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.coucouron.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.9709140000000005,44.805118,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le PRE du MOULIN 2*</name>
+				<description><![CDATA[Departement: Ardeche <br>Opening Dates: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 70<br>Location: mini chalet<br>description: Situé à 300 mètres du centre du village<br>Adresse: 07520 LALOUVESC<br>Phone: 04 75 67 84 86<br>Website: www.lalouvesc.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche </value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>mini chalet</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé à 300 mètres du centre du village</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>07520 LALOUVESC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 67 84 86</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lalouvesc.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.535637,45.117872,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal LANARCE 2*</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: Mi Juin-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 35<br>Location: 2 mobilhomes<br>description: Muni pur jus avec Location de mobil-homes équipés<br>Adresse: 07660 LANARCE<br>Phone: 04 66 69 47 87<br>Website: http://goo.gl/wlDoFg]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>2 mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Muni pur jus avec Location de mobil-homes équipés</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>07660 LANARCE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 69 47 87</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/wlDoFg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.003959,44.725718,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal BOIS CHABRIER 2*</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: ns<br>Budget €/j: ns<br>Emplacements: 20<br>Location: non<br>description: installé sur la rive droite de la Glueyre, rivière de 1ère catégorie riche en truites.<br>Adresse: 07190 ALBON<br>Phone: 04 75 65 65 81<br>Website: http://goo.gl/D1v37m]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>installé sur la rive droite de la Glueyre, rivière de 1ère catégorie riche en truites.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>07190 ALBON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 65 65 81</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/D1v37m</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.449463,44.831526,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal CHARMES sur Rhone 2*</name>
+				<description><![CDATA[Departement: Ardèche<br>Opening Dates: mi Mars - Octobre<br>Budget €/j: 10-15<br>Emplacements: 20<br>Location: 5 mobilhomes<br>description: camping calme au bord du port de plaisance.<br>Adresse: Quartier de la Grange, 07800 CHARMES SUR RHONE<br>Phone: 04 75 60 96 62<br>Website: http://goo.gl/che54x]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardèche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Mars - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>5 mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>camping calme au bord du port de plaisance.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Quartier de la Grange, 07800 CHARMES SUR RHONE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 60 96 62</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/che54x</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.843254,44.859519,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal PIARRAGEAI 2*</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: Avril - Septembre<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: chalets<br>description: un espace convivial et naturel au bord de la rivière la Daronne<br>Adresse: 1360 route de Brintenas, 07410 ST FELICIEN<br>Phone: 04 75 06 03 05<br>Website: http://campingsaintfelicien.fr/fr/Accueil.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>un espace convivial et naturel au bord de la rivière la Daronne</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>1360 route de Brintenas, 07410 ST FELICIEN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 06 03 05</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://campingsaintfelicien.fr/fr/Accueil.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.626617,45.085157,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal Les Lucs 3*</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: 15 Mars-15 Octobre<br>Budget €/j: 15-20<br>Emplacements: 50<br>Location: non<br>description: 1er prix départemental des campings, construction centre aquatique a proximite<br>Adresse: 26600 TAIN L HERMITAGE<br>Phone: 04 75 08 32 82<br>Website: www.ville-tain.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>15 Mars-15 Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>1er prix départemental des campings, construction centre aquatique a proximite</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26600 TAIN L HERMITAGE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 08 32 82</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-tain.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.843941,45.068429,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le RIEUTORD </name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: Mai- mi Octobre<br>Budget €/j: 10-15<br>Emplacements: 5<br>Location: 3 mobilhomes<br>description: Camping familial, au coeur de la Montagne Ardéchoise,<br><br>Adresse: 07510 USCLADES ET RIEUTORD<br>Phone: 04 75 38 00 48<br>Website: http://goo.gl/Ei76Lo]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai- mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>5.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>3 mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Camping familial, au coeur de la Montagne Ardéchoise,
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>07510 USCLADES ET RIEUTORD</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 38 00 48</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/Ei76Lo</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.159698,44.774113,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal ST MICHEL 2**</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: Mai - Septembre<br>Budget €/j: 15-20<br>Emplacements: 44<br>Location: Mobilhomes, bengalis<br>description: Situé au coeur du Parc National des Monts d'Ardèche,<br>Adresse: 07360 ST MICHEL DE CHABRILLANOUX<br>Phone: 04 75 66 25 13<br>Website: http://www.tourisme-ardeche.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>44.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>Mobilhomes, bengalis</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé au coeur du Parc National des Monts d'Ardèche,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>07360 ST MICHEL DE CHABRILLANOUX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 66 25 13</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.tourisme-ardeche.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.601898,44.838343,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal le BOIS de PRAT 2*</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: Mai- Septembre<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: non<br>description: Situé sur un terrain plat et ombragé à l’entrée du village<br>Adresse: Allée de Prat,07240 VERNOUX EN VIVARAIS<br>Phone: 04 75 58 11 90<br>Website: http://goo.gl/QzqNI7]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai- Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé sur un terrain plat et ombragé à l’entrée du village</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Allée de Prat,07240 VERNOUX EN VIVARAIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 58 11 90</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/QzqNI7</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.643097,44.893823,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal VILLAGE 2*</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: Avril - Septembre<br>Budget €/j: 10-15<br>Emplacements: 70<br>Location: mobilhomes<br>description: Aux portes des gorges de l Ardeche<br>Adresse: Chemin la joyeuse,07700 ST MARTIN D ARDECHE<br>Phone: 04 75 04 65 25<br>Website: www.ot-stmartin-ardeche.com/campings.php]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Aux portes des gorges de l Ardeche</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin la joyeuse,07700 ST MARTIN D ARDECHE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 04 65 25</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ot-stmartin-ardeche.com/campings.php</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.566729,44.293714,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal ZAMENHOLF 2*</name>
+				<description><![CDATA[Departement: Ardeche <br>Opening Dates: Avril- Septembre<br>Budget €/j: 25-30<br>Emplacements: 150<br>Location: non<br>description: ambiance familiale et amicale en bordure de rivierte<br>Adresse: Route de Salavas, 07150 VALLON PONT D ARC<br>Phone: 04 75 88 04 73<br>Website: www.municipalvallon.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche </value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril- Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>150.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>ambiance familiale et amicale en bordure de rivierte</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Salavas, 07150 VALLON PONT D ARC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 88 04 73</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.municipalvallon.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.386635,44.397731,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal SILHAC 2*</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: saison<br>Budget €/j: 5-10<br>Emplacements: 10<br>Location: non<br>description: situé dans une zone rurale. Calme et ensoleillé<br>Adresse: 07240 SILHAC<br>Phone: 04 75 58 11 36<br>Website: http://goo.gl/JTWCRQ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>saison</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>10.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>situé dans une zone rurale. Calme et ensoleillé</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>07240 SILHAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 58 11 36</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/JTWCRQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.607391,44.878255,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal RUOMS 2*</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: mi Avril- mi Septembre<br>Budget €/j: 15-20<br>Emplacements: 100<br>Location: non<br>description: A 200 m du centre ville, en bordure d'Ardèche, camping ombragé.<br>Adresse: 07120 RUOMS<br>Phone: 04 75 93 99 16<br>Website: www.ot-pays-ruomsois.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Avril- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>A 200 m du centre ville, en bordure d'Ardèche, camping ombragé.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>07120 RUOMS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 93 99 16</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ot-pays-ruomsois.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.335823,44.452654,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal AVEN d ORGNAC 2*</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: Juin - Aout<br>Budget €/j: 15-20<br>Emplacements: 120<br>Location: caravanes<br>description: Dans un cadre calme et idéal pour camper à l'ombre, sous les chênes<Piscine<br>Adresse: 07150 ORGNAC L AVEN<br>Phone: 04 75 38 63 68<br>Website: www.orgnacvillage.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juin - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>120.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>caravanes</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans un cadre calme et idéal pour camper à l'ombre, sous les chênes&lt;Piscine</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>07150 ORGNAC L AVEN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 38 63 68</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.orgnacvillage.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.431567,44.312779,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal Pre Bonnefoy</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: Mai-Octobre<br>Budget €/j: 15-20<br>Emplacements: 54<br>Location: Bungalows<br>description: Des randonnées sont possible au départ du camping.<br>Adresse: 07560 MONTPEZAT SOUS BAUZON<br>Phone: 04 75 94 41 29<br>Website: http://goo.gl/Waqt8Q]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>54.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>Bungalows</value>
+					</Data>
+					<Data name='description'>
+						<value>Des randonnées sont possible au départ du camping.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>07560 MONTPEZAT SOUS BAUZON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 94 41 29</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/Waqt8Q</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.207764000000001,44.711427,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal LES CIGALES 2**</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: Avril- Septembre<br>Budget €/j: 15-20<br>Emplacements: 30<br>Location: non<br>description: proximité du coeur du village (200 mètres)<br>Adresse: 26110 STE JALLE<br>Phone: 04 75 27 34 88<br>Website: www.camping.sainte-jalle.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril- Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>proximité du coeur du village (200 mètres)</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26110 STE JALLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 27 34 88</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping.sainte-jalle.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.284424,44.344967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal ST MAURICE / EYGUES 2*</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: mi Mai - Aout<br>Budget €/j: 15-20<br>Emplacements: 45<br>Location: non<br>description: Drome provencale , aire de jux et tennis pour ce camping<br>Adresse: 26110 ST MAURICE SUR EYGUES<br>Phone: 04 75 27 60 61<br>Website: www.saintmauricedrome.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Mai - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>45.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Drome provencale , aire de jux et tennis pour ce camping</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26110 ST MAURICE SUR EYGUES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 27 60 61</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saintmauricedrome.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.009766,44.296333,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal les VERNES 4*</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: Mai - Septembre<br>Budget €/j: 15-20<br>Emplacements: 43<br>Location: non<br>description: situé en bordure du village, offre des emplacements spacieux et ombragés<br>Adresse: Les Descizes, 26600 LA ROCHE DE GLUN<br>Phone: 04 75 84 54 11<br>Website: http://goo.gl/x8v3jI]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>43.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>situé en bordure du village, offre des emplacements spacieux et ombragés</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Les Descizes, 26600 LA ROCHE DE GLUN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 84 54 11</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/x8v3jI</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.848404,45.009962,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal ST AGNAN 2*</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: mi Juin - Mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: non<br>description: calme et la beauté du paysage environnant.<br>Adresse: 26420 ST AGNAN EN VERCORS<br>Phone: 04 75 48 20 67<br>Website: www.saint-agnan-vercors.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Juin - Mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>calme et la beauté du paysage environnant.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26420 ST AGNAN EN VERCORS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 48 20 67</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saint-agnan-vercors.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.431538000000001,44.931813,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal les ISLES de SILON 3*</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: mi Mars-mi Novembre<br>Budget €/j: <br>Emplacements: 81<br>Location: <br>description: <br>Adresse: 26240 ST VALLIER<br>Phone: 04 75 23 22 17<br>Website: www.ladrometourisme.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Mars-mi Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>81.0</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26240 ST VALLIER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 23 22 17</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ladrometourisme.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.817505,45.17816500000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal ST NAZAIRE en ROYANS 3*</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: Mai-Septembre<br>Budget €/j: 15-20<br>Emplacements: 75<br>Location: <br>description: Les Bouveries<br><br><br>Adresse: 26190 ST NAZAIRE EN ROYANS<br>Phone: 04 75 48 41 18<br>Website: www.camping-saint-nazaire-en-royans.com/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>75.0</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Les Bouveries
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26190 ST NAZAIRE EN ROYANS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 48 41 18</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-saint-nazaire-en-royans.com/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.262451,45.059214,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ST JEAN en ROYANS 2**</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 140<br>Location: <br>description: <br>Adresse: 26190 ST JEAN EN ROYANS<br>Phone: 04 75 47 74 60<br>Website: www.camping-saintjeanenroyans.com/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>140.0</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26190 ST JEAN EN ROYANS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 47 74 60</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-saintjeanenroyans.com/)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.284424,45.007535,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal les BIAUX 2*</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: ns<br>Budget €/j: 10-15<br>Emplacements: 21<br>Location: 4 mobilhomes<br>description: Pour des vacances au calme et à 3 minutes des commerces.<br>Adresse: 26560 SEDERON<br>Phone: 06 58 84 69 89<br>Website: http://goo.gl/yPkH4V]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>21.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>4 mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Pour des vacances au calme et à 3 minutes des commerces.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26560 SEDERON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 58 84 69 89</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/yPkH4V</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.535736,44.203866,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal le MOULIN 1*</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: mi Avril - mi Octobre<br>Budget €/j: 10-15<br>Emplacements: 18<br>Location: non<br>description: Petit camping ombragé situé près de la rivière.<br>Adresse: RD 306, 26310 VALDROME<br>Phone: 04 75 21 40 06<br>Website: www.ot-valdrome.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Avril - mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>18.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Petit camping ombragé situé près de la rivière.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>RD 306, 26310 VALDROME</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 21 40 06</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ot-valdrome.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.572815,44.503362,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la MOTTE CHALANCON 3***</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 110<br>Location: <br>description: <br>Adresse: 26470 LA MOTTE CHALANCON<br>Phone: 04 75 27 22 95<br>Website: www.lamottechalancon.com/camping-municipal.html)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>110.0</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26470 LA MOTTE CHALANCON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 27 22 95</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lamottechalancon.com/camping-municipal.html)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.380554,44.48523900000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LORETTE 2**</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 60<br>Location: <br>description: <br>Adresse: 26160 LE POËT-LAVAL<br>Phone: 04 75 91 00 62<br>Website: www.campinglorette.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60.0</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26160 LE POËT-LAVAL</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 91 00 62</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campinglorette.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.015259,44.535675,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les THIBAUDS 2**</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: mi Avril-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 25<br>Location: <br>description: <br>Adresse: 26310 MISCON<br>Phone: 04 75 21 30 47<br>Website: www.camping-miscon.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Avril-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25.0</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26310 MISCON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 21 30 47</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-miscon.fr/)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.52475,44.624686,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE PARC 2**</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: Mai-Septembre<br>Budget €/j: 5-10<br>Emplacements: 33<br>Location: <br>description: <br>Adresse: 26160 PONT DE BARRET<br>Phone: 04 75 90 47 64<br>Website: www.paysdedieulefit.eu]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33.0</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26160 PONT DE BARRET</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 90 47 64</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.paysdedieulefit.eu</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.015259,44.594379,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Aires 2**</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: ns<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: Les Aires, 26510 REMUZAT<br>Phone: 04 75 27 81 43<br>Website: www.remuzat.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40.0</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Les Aires, 26510 REMUZAT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 27 81 43</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.remuzat.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.358582,44.412202,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de JUSTIN 2**</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: mai-debut Septembre<br>Budget €/j: 15-20<br>Emplacements: 175<br>Location: <br>description: <br>Adresse: 26150 DIE<br>Phone: 04 75 22 14 77<br>Website: www.camping-die.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mai-debut Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>175.0</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26150 DIE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 22 14 77</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-die.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.377808,44.750634,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal MONTBRUN les Bains</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: mi Mars-Septembre<br>Budget €/j: 10-15<br>Emplacements: 55<br>Location: 2 mobilhomes<br>description: une vue magnifique sur le village de Montbrun et le Mont Ventoux<br>Adresse: Le Pré des Arbres, 26570 MONTBRUN LES BAINS; <br>Phone: 04 75 28 85 41<br>Website: http://goo.gl/UQPBZl]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Mars-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>55.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>2 mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>une vue magnifique sur le village de Montbrun et le Mont Ventoux</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Pré des Arbres, 26570 MONTBRUN LES BAINS; </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 28 85 41</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/UQPBZl</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.443726,44.172355,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES ECUREUILS 2**</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: mi Juin-Aout<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: 26310 RECOUBEAU JANSAC<br>Phone: 04 75 21 35 97<br>Website: http://site.recoubeau-jansac.fr/index.php/activite/show/categorie/Tourisme-Hebergement/id/60)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Juin-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30.0</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26310 RECOUBEAU JANSAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 21 35 97</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://site.recoubeau-jansac.fr/index.php/activite/show/categorie/Tourisme-Hebergement/id/60)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.413513,44.65107,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal  CHATAIGNIERS 2*</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: ns<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: non<br>description: Deux structures : l'ancien camping et un nouveau comprenant branchements eau, électricité, bloc sanitaire. Snack, Piscine, tennis municipaux attenants.<br>Adresse: 26160 EYZAHUT<br>Phone: 04 75 90 16 35<br>Website: http://goo.gl/JMG05P]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Deux structures : l'ancien camping et un nouveau comprenant branchements eau, électricité, bloc sanitaire. Snack, Piscine, tennis municipaux attenants.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26160 EYZAHUT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 90 16 35</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/JMG05P</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.013199000000001,44.564056,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la ROCHECOURBIERE </name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: Juillet - Aout<br>Budget €/j: ns<br>Emplacements: 30<br>Location: non<br>description: Dans la Drome provencale<br>Adresse: 26230 GRIGNAN <br>Phone: 04 75 46 50 06<br>Website: www.ville-grignan.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juillet - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans la Drome provencale</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26230 GRIGNAN </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 46 50 06</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-grignan.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.899902,44.416126,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal EMILE LOUBET 2*</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: Juillet-Aout<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: non<br>description: sanitaires neufs<br>Adresse: Chemin de la Gallée, 26160 LA BEGUDE DE MAZENC<br>Phone: 04 75 50 62 69<br>Website: www.paysdedieulefit.eu/sejour/campings.htm]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juillet-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>sanitaires neufs</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin de la Gallée, 26160 LA BEGUDE DE MAZENC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 50 62 69</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.paysdedieulefit.eu/sejour/campings.htm</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.934235,44.541548,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal les BRUYERES 2*</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: Mai-Septembre<br>Budget €/j: 15-20<br>Emplacements: 84<br>Location: 2 mobilhomes/ 1 chalet<br>description: Best kept secret pour decouvrir le massif du Vercors<br><br>Adresse: 26420 LA CHAPELLE EN VERCORS<br>Phone: 04 75 48 21 46<br>Website: www.lachapelleenvercors.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>84.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>2 mobilhomes/ 1 chalet</value>
+					</Data>
+					<Data name='description'>
+						<value>Best kept secret pour decouvrir le massif du Vercors
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26420 LA CHAPELLE EN VERCORS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 48 21 46</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lachapelleenvercors.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.421753,44.964798,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal la GRAVELINE 2**</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: Juin - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 33<br>Location: non<br>description: Camping familial, calme et ombragé a la campagne<br>Adresse: La Graveline, 26780 CHATEAUNEUF DU RHONE<br>Phone: 04 75 90 80 96<br>Website: http://goo.gl/RIwWC3]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Camping familial, calme et ombragé a la campagne</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>La Graveline, 26780 CHATEAUNEUF DU RHONE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 90 80 96</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/RIwWC3</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.720345,44.48775,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal les CIGALES 1*</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: mi Avril-Octobre<br>Budget €/j: 15-20<br>Emplacements: 20<br>Location: non<br>description: tarif CCPM pour l'accès à la piscine pendant les heures d'ouvertures.  <br>Adresse: 26450 CLEON D ANDRAN<br>Phone: 04 75 90 12 73<br>Website: www.mairie-cleon-andran.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>mi Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>tarif CCPM pour l'accès à la piscine pendant les heures d'ouvertures.  </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26450 CLEON D ANDRAN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 90 12 73</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie-cleon-andran.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.935608,44.609046,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal Vaure</name>
+				<description><![CDATA[Departement: Ardeche<br>Opening Dates: Mai - Septembre<br>Budget €/j: 10-15<br>Emplacements: 78<br>Location: non<br>description: Proche du centre ville, ombragé et calme.Piscine chauffée<br>Adresse: rue Mathieu Duret , 07100 Annonay<br>Phone: 04 75 33 73 73<br>Website: http://goo.gl/zcLy9L]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Ardeche</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>78.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Proche du centre ville, ombragé et calme.Piscine chauffée</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue Mathieu Duret , 07100 Annonay</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 75 33 73 73</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/zcLy9L</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.672794,45.256552,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal de Tulette 3*</name>
+				<description><![CDATA[Departement: Drome<br>Opening Dates: Paques-Toussaint<br>Budget €/j: 15-20<br>Emplacements: 28<br>Location: non<br>description: à 100 mètres du centre du village et des commerces; à l'extrêmité sud de la Drôme Provençale. Piscine muni a cote<br>Adresse: 141 rue du chateau, 26790 TULETTE<br>Phone: 04 26 51 03 21<br>Website: www.tulette.fr/camping-municipal.php]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Departement'>
+						<value>Drome</value>
+					</Data>
+					<Data name='Opening Dates'>
+						<value>Paques-Toussaint</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>28.0</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>à 100 mètres du centre du village et des commerces; à l'extrêmité sud de la Drôme Provençale. Piscine muni a cote</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>141 rue du chateau, 26790 TULETTE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 26 51 03 21</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tulette.fr/camping-municipal.php</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.933248,44.286994,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

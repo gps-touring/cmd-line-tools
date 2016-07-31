@@ -1,0 +1,3921 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>LANGUEDOC-ROUSSILLON Campings Municipaux</name>
+		<description><![CDATA[Campings Municipaux en Languedoc Roussillon :  Lozere, Gard, Aude, Herault, Pyrénées Orientales<br>]]></description>
+		<Folder>
+			<name>Calque sans titre</name>
+			<Placemark>
+				<name>Camping MUNICIPAL AUMONT AUBRAC </name>
+				<description><![CDATA[Département: Lozère<br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 100<br>Location: ns<br>description: Dans un site ombragé.<br>Adresse: Route du Languedoc,  48130 AUMONT AUBRAC<br>Phone: 04 66 42 88 70<br>Website: www.ot-aumont-aubrac.fr/campings/  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans un site ombragé.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route du Languedoc,  48130 AUMONT AUBRAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 42 88 70</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ot-aumont-aubrac.fr/campings/  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.286521,44.716978,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Chaudeyrac 1*</name>
+				<description><![CDATA[Département: Lozère <br>Ouverture: <br>Budget €/j: <br>Emplacements: <br>Location: <br>description: Damnation! This munis is closed <br><br>Adresse: 48170 CHAUDEYRAC<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Damnation! This munis is closed 
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>48170 CHAUDEYRAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.7604139999999995,44.65913,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la VIGNOGUE </name>
+				<description><![CDATA[Département: Lozère <br>Ouverture: miAvril - Septembre<br>Budget €/j: 10-15<br>Emplacements: 49<br>Location: non<br>description: Calme et repos. Il se situe à proximité du village<br>Adresse: quartier de la Vignogue, 48230 CHANAC <br>Phone: 04 66 48 24 09<br>Website: http://goo.gl/1LPfXn  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>miAvril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>49</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Calme et repos. Il se situe à proximité du village</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>quartier de la Vignogue, 48230 CHANAC </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 48 24 09</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/1LPfXn  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.348556,44.464722,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Chasserades 2*</name>
+				<description><![CDATA[Département: Lozère <br>Ouverture: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: non<br>description: Camping calme pour un séjour agréable et reposant en pleine nature.<br>Adresse: 48250 Chasserades <br>Phone: 04 66 46 01 16 <br>Website: www.lozere-tourisme.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Camping calme pour un séjour agréable et reposant en pleine nature.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>48250 Chasserades </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 46 01 16 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lozere-tourisme.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.827705,44.551579,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la Vallee 2*</name>
+				<description><![CDATA[Département: Lozère <br>Ouverture: mi Juin- mi Septembre<br>Budget €/j: 15-20<br>Emplacements: 50<br>Location: mobilhome/Bungalow<br>description: viaduc de Millau<br>Adresse: Miege riviere, 48500 Canilhac <br>Phone: :(0)4 66 32 91 14 <br>Website: www.camping-vallee-du-lot.com/   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value>mobilhome/Bungalow</value>
+					</Data>
+					<Data name='description'>
+						<value>viaduc de Millau</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Miege riviere, 48500 Canilhac </value>
+					</Data>
+					<Data name='Phone'>
+						<value>:(0)4 66 32 91 14 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-vallee-du-lot.com/   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.144922,44.435496,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Collet de Deze </name>
+				<description><![CDATA[Département: Lozère <br>Ouverture: Juillet-Aout<br>Budget €/j: 10-15<br>Emplacements: 27<br>Location: non<br>description: Aire naturelle en bordure de rivière, plan d'eau ombragé,<br>Adresse: 48160 LE COLLET DE DEZE <br>Phone: 04 66 45 50 14<br>Website: http://goo.gl/F1sezG   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>27</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Aire naturelle en bordure de rivière, plan d'eau ombragé,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>48160 LE COLLET DE DEZE </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 45 50 14</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/F1sezG   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.920724,44.245676,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Bel Air</name>
+				<description><![CDATA[Département: Lozère <br>Ouverture: Juin-Septembre<br>Budget €/j: 10-15<br>Emplacements: 9<br>Location: non<br>description: superbes points de vue entre Mont Aigoual et Mont Lozère<br>Adresse: 48110 Le Pompidou <br>Phone: 04 66 60 32 00<br>Website: www.vacances-cevennes.com    ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>9</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>superbes points de vue entre Mont Aigoual et Mont Lozère</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>48110 Le Pompidou </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 60 32 00</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vacances-cevennes.com    </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.6543920000000005,44.195205,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping  les Prevencheres </name>
+				<description><![CDATA[Département: Lozère <br>Ouverture: <br>Budget €/j: <br>Emplacements: <br>Location: <br>description: Plus un Muni !<br>Adresse: 48800 PREVENCHERES<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Plus un Muni !</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>48800 PREVENCHERES</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.9090300000000004,44.520729,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL RIEUTORT DE RANDON 1* </name>
+				<description><![CDATA[Département: Lozère <br>Ouverture: mi Juin- mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 22<br>Location: no<br>description: Au bord de l eau dans un charmant petit hameau<br>Adresse: 48700 RIEUTORT DE RANDON<br>Phone: 04 66 47 33 31 <br>Website: http://goo.gl/0ndxFW  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>22</value>
+					</Data>
+					<Data name='Location'>
+						<value>no</value>
+					</Data>
+					<Data name='description'>
+						<value>Au bord de l eau dans un charmant petit hameau</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>48700 RIEUTORT DE RANDON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 47 33 31 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/0ndxFW  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.476529,44.63262700000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Serverette</name>
+				<description><![CDATA[Département: Lozère <br>Ouverture: Juillet - Mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 30<br>Location: non<br>description: Au bord de la Truyere, Plan d'eau aménagé<br><br>Adresse: Route deJavols, 48700 SERVERETTE<br>Phone: 04 66 48 30 36 <br>Website: http://goo.gl/oBmXj9  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet - Mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Au bord de la Truyere, Plan d'eau aménagé
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route deJavols, 48700 SERVERETTE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 48 30 36 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/oBmXj9  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.3870940000000003,44.703162,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Besseges</name>
+				<description><![CDATA[Département: Gard<br>Ouverture: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 48<br>Location: 25 mobilhomes<br>description: Situé en plein coeur des Cévennes Gardoises aux frontières de l' Ardèche dans un cadre convivial et familial<br>Adresse: La Plaine,  127 Rue Victor HUGO, 30160 BESSEGES<br>Phone: 04 66 25 13 06 <br>Website: http://camping.besseges.fr/      ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Gard</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>48</value>
+					</Data>
+					<Data name='Location'>
+						<value>25 mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé en plein coeur des Cévennes Gardoises aux frontières de l' Ardèche dans un cadre convivial et familial</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>La Plaine,  127 Rue Victor HUGO, 30160 BESSEGES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 25 13 06 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://camping.besseges.fr/      </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.083331,44.301236,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal Vialas</name>
+				<description><![CDATA[Département: Lozère <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: 10<br>Location: non<br>description: Aire naturelle, Petit camping de village sous les châtaigniers.<br>Adresse: Les Hortals Nojaret, 48220 VIALAS<br>Phone: 04 66 41 05 95<br>Website: http://goo.gl/VdTsqI ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>10</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Aire naturelle, Petit camping de village sous les châtaigniers.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Les Hortals Nojaret, 48220 VIALAS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 41 05 95</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/VdTsqI </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.884718,44.33126200000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal La Laune 3*</name>
+				<description><![CDATA[Département: Gard<br>Ouverture: <br>Budget €/j: <br>Emplacements: <br>Location: <br>description: n est plus un muni<br>Adresse: 30400 VILLENEUVE LES AVIGNON<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Gard</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>n est plus un muni</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>30400 VILLENEUVE LES AVIGNON</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.79948,43.970859,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL St Bauzile 2*</name>
+				<description><![CDATA[Département: Lozère <br>Ouverture: Juillet-Aout<br>Budget €/j: 15-20<br>Emplacements: 50<br>Location: ns<br>description: Campagne verdoyante, aux portes des Gorges du Tarn <br>Adresse: Les Berges du Bramont, 48000 ST BAUZILE<br>Phone: 04 66 47 05 97 <br>Website: www.saint-bauzile.fr/public/?code=camping    ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>Campagne verdoyante, aux portes des Gorges du Tarn </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Les Berges du Bramont, 48000 ST BAUZILE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 47 05 97 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saint-bauzile.fr/public/?code=camping    </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.501978,44.481672,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Pont du Mas</name>
+				<description><![CDATA[Département: Gard<br>Ouverture: Juillet-Aout<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: non<br>description: un muni pur jus avec tarifs sur demande, best kept secret<br>Adresse: route de Besseges, 30450 GENOLHAC<br>Phone: 04 66 61 10 55<br>Website: www.tourismegard.com  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Gard</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>un muni pur jus avec tarifs sur demande, best kept secret</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route de Besseges, 30450 GENOLHAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 61 10 55</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourismegard.com  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.9606140000000005,44.336634,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Garanel 2*</name>
+				<description><![CDATA[Département: Gard<br>Ouverture: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 60<br>Location: ns<br>description: la garrigue, les senteurs celles des pins, ses sonorités celles du chant des cigales!<br>Adresse: Chemin de la Princesse,  30251 SOMMIERES<br>Phone: 04 66 80 33 49 <br>Website: http://goo.gl/S3ESHk ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Gard</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='Location'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>la garrigue, les senteurs celles des pins, ses sonorités celles du chant des cigales!</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin de la Princesse,  30251 SOMMIERES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 80 33 49 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/S3ESHk </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.087842,43.784863,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Vieux Moulin </name>
+				<description><![CDATA[Département: Gard<br>Ouverture: mi Juin- Aout<br>Budget €/j: 10-15<br>Emplacements: 35<br>Location: non<br>description: commune du Parc National des cevennes<br>Adresse: Le Martinet, 30160 PEYREMALE<br>Phone: 04 66 25 02 41<br>Website: http://goo.gl/J0UBSm  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Gard</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin- Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>commune du Parc National des cevennes</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Martinet, 30160 PEYREMALE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 25 02 41</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/J0UBSm  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.057796,44.302814,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Rouquette 2*</name>
+				<description><![CDATA[Département: Gard<br>Ouverture: ns<br>Budget €/j: 15-20<br>Emplacements: 133<br>Location: non<br>description: emplacements pour tentes, caravanes et camping-cars afin de passer un séjour agréable et reposant.<br>Adresse: 30140 MIALET <br>Phone: 04 66 54 18 70<br>Website: www.mialet.net/site/larouquette.htm  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Gard</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>133</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>emplacements pour tentes, caravanes et camping-cars afin de passer un séjour agréable et reposant.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>30140 MIALET </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 54 18 70</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mialet.net/site/larouquette.htm  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.945508,44.110237,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du Pont de l Elze 2*</name>
+				<description><![CDATA[Département: Gard<br>Ouverture: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 36<br>Location: 10 HLL<br>description: Dans la vallée coule le Gardon où il fait bon se baigner !<br>Adresse: Pont de l'Elze, 30940 ST ANDRE DE VALBORGNE<br>Phone: 04 66 60 30 08<br>Website: http://goo.gl/rw3Vj9   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Gard</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>36</value>
+					</Data>
+					<Data name='Location'>
+						<value>10 HLL</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans la vallée coule le Gardon où il fait bon se baigner !</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Pont de l'Elze, 30940 ST ANDRE DE VALBORGNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 60 30 08</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/rw3Vj9   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.6908480000000004,44.149727,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping  La Gambionne </name>
+				<description><![CDATA[Département: Gard<br>Ouverture: <br>Budget €/j: <br>Emplacements: <br>Location: <br>description: N est plus un Muni !<br>Adresse: 30630 GOUDARGUES<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Gard</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>N est plus un Muni !</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>30630 GOUDARGUES</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.468131,44.210742,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Pensiere</name>
+				<description><![CDATA[Département: Gard<br>Ouverture: ns<br>Budget €/j: 15-20<br>Emplacements: 49<br>Location: non<br>description: sans info<br>Adresse: Route de Cassanas, 30750 DOURBIES<br>Phone: (0)4 67 82 72 87<br>Website: http://goo.gl/JQzw13 ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Gard</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>49</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>sans info</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Cassanas, 30750 DOURBIES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(0)4 67 82 72 87</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/JQzw13 </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.449149,44.061162,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL L esperou</name>
+				<description><![CDATA[Département: Gard<br>Ouverture: mi Juin - Septembre<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: non<br>description: Sur un terrain boisé dans un environnement naturel, à deux pas du village<br>Adresse: 30570 L'ESPÉROU<br>Phone: 04 67 81 79 60 <br>Website: www.causses-aigoual-cevennes.org ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Gard</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Sur un terrain boisé dans un environnement naturel, à deux pas du village</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>30570 L'ESPÉROU</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 81 79 60 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.causses-aigoual-cevennes.org </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.546095,44.093025000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Grande Fontaine 1*</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: 15 Juin-Aout<br>Budget €/j: 10-15<br>Emplacements: 21<br>Location: non<br>description: !! MUNI EN COURS DE VERIFICATION !!<br>Adresse: La grande fontaine, 11290 MONTREAL <br>Phone: 04 68 76 20 05<br>Website: www.montreal-aude.fr/hebergement.htm  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>15 Juin-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>21</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>!! MUNI EN COURS DE VERIFICATION !!</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>La grande fontaine, 11290 MONTREAL </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 76 20 05</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.montreal-aude.fr/hebergement.htm  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.142613,43.200593,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Giraille</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: mi Juin -Aout<br>Budget €/j: 15-20<br>Emplacements: 33<br>Location: non<br>description: Dans un cadre de verdure, à proximité du canal du midi,<br>Adresse: Chemin des Fontanilles, 11400 CASTELNAUDARY<br>Phone: 04 68 94 11 28 <br>Website: www.ville-castelnaudary.fr/fr/pag-138481-Camping-Municipal.html    ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin -Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans un cadre de verdure, à proximité du canal du midi,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin des Fontanilles, 11400 CASTELNAUDARY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 94 11 28 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-castelnaudary.fr/fr/pag-138481-Camping-Municipal.html    </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.935503,43.319683,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL DE FONTCOUVERTE</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: miJuin- mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 24<br>Location: non<br>description: Aire naturelle ombragée, en bord de rivière, à 200 m du village.<br>Adresse: le village, 11390 CAUDEBRONDE<br>Phone: 04 68 26 54 43<br>Website: http://goo.gl/PB87pT ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>miJuin- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>24</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Aire naturelle ombragée, en bord de rivière, à 200 m du village.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>le village, 11390 CAUDEBRONDE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 26 54 43</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/PB87pT </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.310455,43.378446,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Courtals 2*</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: miJanvier-mi Decembre<br>Budget €/j: 10-15<br>Emplacements: 29<br>Location: 1 mobilhome<br>description: A proximité du village, des commerces, cours de tennis, terrain de foot. <br>Adresse: Avenue du Stade, 11160 CAUNES MINERVOIS<br>Phone: 04 68 24 04 77 <br>Website: www.mairiedecaunes.fr/camping.asp   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>miJanvier-mi Decembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>29</value>
+					</Data>
+					<Data name='Location'>
+						<value>1 mobilhome</value>
+					</Data>
+					<Data name='description'>
+						<value>A proximité du village, des commerces, cours de tennis, terrain de foot. </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue du Stade, 11160 CAUNES MINERVOIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 24 04 77 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairiedecaunes.fr/camping.asp   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.526684,43.322821,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Trevezel 2*</name>
+				<description><![CDATA[Département: Gard<br>Ouverture: Avril -mi Octobre<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: non<br>description: Au bord de la rivière, ombragé, plan d’eau,<br>Adresse: 30750 TREVES<br>Phone: 04 67 82 74 08<br>Website: www.causses-aigoual-cevennes.org/tourisme/campings/le-trevezel/  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Gard</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril -mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Au bord de la rivière, ombragé, plan d’eau,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>30750 TREVES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 82 74 08</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.causses-aigoual-cevennes.org/tourisme/campings/le-trevezel/  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.390226,44.076364,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la Salle 1*</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: <br>Budget €/j: <br>Emplacements: <br>Location: <br>description: closed<br>Adresse: 11260 ESPERAZA<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>closed</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>11260 ESPERAZA</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.22441,42.932492,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Calcat</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: Mai-mi Octobre<br>Budget €/j: 5-10<br>Emplacements: 19<br>Location: non<br>description: Pas d info sur ce muni ! <br>Adresse: Avenue du stade,, 11340 ESPEZEL<br>Phone: 04 68 20 30 34 <br>Website: http://goo.gl/uD5SDW   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>19</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Pas d info sur ce muni ! </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue du stade,, 11340 ESPEZEL</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 20 30 34 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/uD5SDW   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.020905,42.824176,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL De Fabrezan</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: Juillet-Aout<br>Budget €/j: 5-10<br>Emplacements: 20<br>Location: non<br>description: Une aire naturelle<br>Adresse: Avenue de l'ancienne gare, 11200 Fabrezan<br>Phone: 04 68 27 81 44<br>Website: http://goo.gl/WDnhKp ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Une aire naturelle</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue de l'ancienne gare, 11200 Fabrezan</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 27 81 44</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/WDnhKp </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.700094,43.136616,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Pissevaches 2*</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: Avril-Septembre<br>Budget €/j: 30-35<br>Emplacements: 667<br>Location: non<br>description: Grand marché situé à 1 km du centre de la ville. Promenade en bord de mer.<br>Adresse: Boulevard des Embruns, 11560 ST PIERRE LA MER<br>Phone: 04 68 49 80 79<br>Website: http://goo.gl/lWYB97 ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>30-35</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>667</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Grand marché situé à 1 km du centre de la ville. Promenade en bord de mer.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Boulevard des Embruns, 11560 ST PIERRE LA MER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 49 80 79</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/lWYB97 </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.198609,43.187155,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL l' Espazo</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: mi Juin-mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 30<br>Location: 6 chalets toute l année<br>description: dans un cadre naturel et préservé au coeur des Corbières dans le sud de la France.<br>Adresse: 11360 DURBAN CORBIERES<br>Phone: 04 68 45 06 81<br>Website: www.audetourisme.com   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value>6 chalets toute l année</value>
+					</Data>
+					<Data name='description'>
+						<value>dans un cadre naturel et préservé au coeur des Corbières dans le sud de la France.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>11360 DURBAN CORBIERES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 45 06 81</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.audetourisme.com   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.816727,42.996251,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Barberousse 2*</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: Mai - mi Septembre<br>Budget €/j: 20-25<br>Emplacements: 200<br>Location: non<br>description: A 1,5 km de la plage sauvage ou des chalets sur pilotis.<br>Adresse: route des salins 11430 GRUISSAN<br>Phone: 04 68 75 21 60<br>Website: http://goo.gl/mNqXl9 ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>200</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>A 1,5 km de la plage sauvage ou des chalets sur pilotis.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route des salins 11430 GRUISSAN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 75 21 60</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/mNqXl9 </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.085141,43.102315,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Breil 2*</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: Juin-Septembre<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: non<br>description: sur un terrain ombragé en bordure de la rivière Aude.<br>Adresse: Avenue Salvador Allendé, 11300 LIMOUX<br>Phone: 04 68 31 13 63 <br>Website: www.limoux.fr/fr/monopage.xml?id=293074   )]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>sur un terrain ombragé en bordure de la rivière Aude.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue Salvador Allendé, 11300 LIMOUX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 31 13 63 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.limoux.fr/fr/monopage.xml?id=293074   )</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.222757,43.047346,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BOUCOCERS 2*</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: mi Mars - mi Octobre<br>Budget €/j: 15-20<br>Emplacements: 40<br>Location: non<br>description: peu ombragé !- Passez en mairie Place de la Halle<br><br><br>Adresse: Boucocers,  11220 LAGRASSE<br>Phone: 04 68 43 10 05<br>Website: www.lagrasse.com   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars - mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>peu ombragé !- Passez en mairie Place de la Halle
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Boucocers,  11220 LAGRASSE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 43 10 05</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lagrasse.com   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.623329,43.090454,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Pech d Ay 2*</name>
+				<description><![CDATA[Département: Hérault <br>Ouverture: mi Avril - mi Decembre<br>Budget €/j: 15-20<br>Emplacements: 149<br>Location: non<br>description: 2,5 ha de verdure au bord de l'étang de Thau, proche du port, des plages et du centre ville<br>Adresse: Avenue de la gare, 34540 BALARUC LES BAINS<br>Phone: 04.67.48.50.34 <br>Website: http://goo.gl/Wl7HDv   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril - mi Decembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>149</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>2,5 ha de verdure au bord de l'étang de Thau, proche du port, des plages et du centre ville</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue de la gare, 34540 BALARUC LES BAINS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04.67.48.50.34 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/Wl7HDv   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.683338,43.442294,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Pinède</name>
+				<description><![CDATA[Département: Hérault <br>Ouverture: Juillet-Aout<br>Budget €/j: 10-15<br>Emplacements: 35<br>Location: non<br>description: Un barbecue est aussi spécialement aménagé - Piscine municipale<br><br><br>Adresse: Moulin à Vent, 34290 ALIGNAN DU VENT<br>Phone: 04 67 24 91 12<br>Website: http://alignanenavant.free.fr/  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Un barbecue est aussi spécialement aménagé - Piscine municipale
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Moulin à Vent, 34290 ALIGNAN DU VENT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 24 91 12</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://alignanenavant.free.fr/  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.3395,43.467186,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Tournel 1*</name>
+				<description><![CDATA[Département: Hérault <br>Ouverture: Mai-Septembre<br>Budget €/j: 15-20<br>Emplacements: 63<br>Location: non<br>description: dans le petit village de 3000 habitants<br>Adresse: Avenue de la République, 34310 CAPESTANG<br>Phone: 04 67 93 34 23 <br>Website: www.ville-capestang.fr/#/infos-utiles-oac-camping   )]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>63</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>dans le petit village de 3000 habitants</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue de la République, 34310 CAPESTANG</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 93 34 23 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-capestang.fr/#/infos-utiles-oac-camping   )</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.0386210000000005,43.327066,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Sapinette 3*</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: Avril-Octobre<br>Budget €/j: 20-25<br>Emplacements: 72<br>Location: 23 chalets<br>description: n zone péri urbaine à 750 mètres du centre ancien de Quillan et à 400 mètres des premiers commerces<br><br><br>Adresse: 21 rue rene delpech, 11500 QUILLAN<br>Phone: 04 68 20 13 52<br>Website: www.camping-quillan.fr  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>72</value>
+					</Data>
+					<Data name='Location'>
+						<value>23 chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>n zone péri urbaine à 750 mètres du centre ancien de Quillan et à 400 mètres des premiers commerces
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>21 rue rene delpech, 11500 QUILLAN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 20 13 52</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-quillan.fr  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.175121,42.873637,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Pepieux 1*</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: Juin-Septembre<br>Budget €/j: 10-15<br>Emplacements: 18<br>Location: non<br>description: Baignade au lac de Jouarres à 2 Km, terrain de tennis à 500 m.<br>EN COURS DE VERIF !<br>Adresse: Rue Pasteur, 11700 PEPIEUX<br>Phone: 04 68 91 84 88<br>Website: www.mairie-pepieux.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>18</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Baignade au lac de Jouarres à 2 Km, terrain de tennis à 500 m.
+EN COURS DE VERIF !</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue Pasteur, 11700 PEPIEUX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 91 84 88</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie-pepieux.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.673969,43.298947,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Golfe 2*</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 243<br>Location: cabanons et mobilhomes<br>description: Au coeur de la station, pour des vacances bord de mer<br><br><br>Adresse: 436 Boulevard Francis Vals, 11210 PORT LA NOUVELLE<br>Phone: 04 68 48 08 42 <br>Website: www.portlanouvelle.com  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>243</value>
+					</Data>
+					<Data name='Location'>
+						<value>cabanons et mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Au coeur de la station, pour des vacances bord de mer
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>436 Boulevard Francis Vals, 11210 PORT LA NOUVELLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 48 08 42 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.portlanouvelle.com  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.045316,43.014673,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Claps 2*</name>
+				<description><![CDATA[Département: Hérault <br>Ouverture: Ouvert Toute l année<br>Budget €/j: 15-20<br>Emplacements: 130<br>Location: non<br>description: Un muni ou vous pouvez poser votre caravane ou mobilhome a l'annee<br><br><br>Adresse: pont de tarassac, 34390 MONS<br>Phone: 04 67 97 72 64 <br>Website: www.monslatrivalle.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert Toute l année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>130</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Un muni ou vous pouvez poser votre caravane ou mobilhome a l'annee
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>pont de tarassac, 34390 MONS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 97 72 64 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.monslatrivalle.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.973132,43.562808,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Piboule</name>
+				<description><![CDATA[Département: Hérault <br>Ouverture: Mai - Octobre<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: non<br>description: petit camping calme et familial d'une trentaine d'emplacements mi-ombragés,<br>Adresse: 9 chemin de la Piboule, 34530 MONTAGNAC<br>Phone: 04 67 24 01 31<br>Website: www.pezenas-tourisme.fr   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>petit camping calme et familial d'une trentaine d'emplacements mi-ombragés,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>9 chemin de la Piboule, 34530 MONTAGNAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 24 01 31</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.pezenas-tourisme.fr   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.489039,43.481963,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le GRILLON 2*</name>
+				<description><![CDATA[Département: Hérault <br>Ouverture: Ouvert toute l annee<br>Budget €/j: 15-20<br>Emplacements: 30<br>Location: Chalets/Lodges<br>description: Familial et convivial, les emplacements sont ombrages ou au soleil.<br><br><br>Adresse: place de l eglise, 34190 MONTOULIEU<br>Phone: 04 67 73 79 31 <br>Website: http://camping.montoulieu.fr/ ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert toute l annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value>Chalets/Lodges</value>
+					</Data>
+					<Data name='description'>
+						<value>Familial et convivial, les emplacements sont ombrages ou au soleil.
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>place de l eglise, 34190 MONTOULIEU</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 73 79 31 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://camping.montoulieu.fr/ </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.789103,43.926706,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL CESSENON SUR ORB 2*</name>
+				<description><![CDATA[Département: Hérault <br>Ouverture: 15 Juin-Aout<br>Budget €/j: 15-20<br>Emplacements: 80<br>Location: non<br>description: A quelques mètres de la rivière Orb, avec une plage aménagée à proximité pour la baignade.<br><br><br>Adresse: rue des fleurs, 34460 CESSENON SUR ORB<br>Phone: 04 67 89 53 29 <br>Website: http://goo.gl/TTmaoM  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>15 Juin-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>80</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>A quelques mètres de la rivière Orb, avec une plage aménagée à proximité pour la baignade.
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue des fleurs, 34460 CESSENON SUR ORB</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 89 53 29 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/TTmaoM  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.044828,43.452502,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le lac de Salagou 2*</name>
+				<description><![CDATA[Département: Hérault <br>Ouverture: Ouvert toute l annee<br>Budget €/j: 15-20<br>Emplacements: 338<br>Location: mobilhomes<br>description: camping dans un milieu sauvage et protégé<br><br><br>Adresse: 34800 CLERMONT L HERAULT<br>Phone: 04 67 96 13 13 <br>Website: www.le-salagou.fr/ ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert toute l annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>338</value>
+					</Data>
+					<Data name='Location'>
+						<value>mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>camping dans un milieu sauvage et protégé
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>34800 CLERMONT L HERAULT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 96 13 13 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.le-salagou.fr/ </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.391728,43.646743,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Oliviers 2*</name>
+				<description><![CDATA[Département: Hérault <br>Ouverture: mi Mai- mi Septembre<br>Budget €/j: 15-20<br>Emplacements: 17<br>Location: non<br>description: ideal pour decouvrir l arriere pays,<br><br><br>Adresse: rue des erables, 34370 CREISSAN<br>Phone: 04 67 93 81 85 <br>Website: www.creissan.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>17</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>ideal pour decouvrir l arriere pays,
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue des erables, 34370 CREISSAN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 93 81 85 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.creissan.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.008623,43.375608,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Castelsec 3*</name>
+				<description><![CDATA[Département: Hérault <br>Ouverture: Mai -15 Octobre<br>Budget €/j: 15-20<br>Emplacements: 24<br>Location: chalets / lodges toiles<br>description: Un camping calme qui a gagne une troisieme etoile en 2013<br><br><br>Adresse: parc de loisirs castelsec, 34120 PEZENAS<br>Phone: 04 67 98 04 02 <br>Website: www.camping-gites-herault.com  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai -15 Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>24</value>
+					</Data>
+					<Data name='Location'>
+						<value>chalets / lodges toiles</value>
+					</Data>
+					<Data name='description'>
+						<value>Un camping calme qui a gagne une troisieme etoile en 2013
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>parc de loisirs castelsec, 34120 PEZENAS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 98 04 02 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-gites-herault.com  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.417435,43.453916,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BOSC D'EN ROUG 3*</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: Avril-Septembre<br>Budget €/j: 25-30<br>Emplacements: 638<br>Location: Mobilhomes - Chalets<br>description: un cadre verdoyant à deux pas du centre historique de Saint-Cyprien<br><br>Adresse: 66750 ST CYPRIEN<br>Phone: 04 68 21 23 50 <br>Website: www.camping-saint-cyprien.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>638</value>
+					</Data>
+					<Data name='Location'>
+						<value>Mobilhomes - Chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>un cadre verdoyant à deux pas du centre historique de Saint-Cyprien
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>66750 ST CYPRIEN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 21 23 50 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-saint-cyprien.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.000426,42.623949,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la Plage 3*</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: Mars-Octobre<br>Budget €/j: 35-40<br>Emplacements: 378<br>Location: Mobilhome<br>description: Emplacements et locations avec accès direct à la mer.<br><br>Adresse: Avenue de las lllas, 66470 STE MARIE<br>Phone: 04 68 80 68 59 <br>Website: www.camping-municipal-de-la-plage.com    ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>35-40</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>378</value>
+					</Data>
+					<Data name='Location'>
+						<value>Mobilhome</value>
+					</Data>
+					<Data name='description'>
+						<value>Emplacements et locations avec accès direct à la mer.
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue de las lllas, 66470 STE MARIE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 80 68 59 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-municipal-de-la-plage.com    </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.033664,42.739023,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le bosquet Nogarede</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: Avril-Octobre<br>Budget €/j: 15-20<br>Emplacements: 134<br>Location: non<br>description: A la campagne<br>Adresse: 36 Avenue d' Espagne, 66400 CERET<br>Phone: 04 68 87 26 72 <br>Website: www.tourisme-pyreneesorientales.com  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>134</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>A la campagne</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>36 Avenue d' Espagne, 66400 CERET</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 87 26 72 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-pyreneesorientales.com  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.759027,42.484125,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la Bade 2*</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: Mai-Aout<br>Budget €/j: 15-20<br>Emplacements: 17<br>Location: 2 mobilhomes<br>description: Entre mer et montagnes, camping ombragé en plein terroir des Côtes du Roussillon, <br>Adresse: Rue de la Bade, 66720 CARAMANY<br>Phone: 04 68 84 51 85 <br>Website: http://goo.gl/draqaM ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>17</value>
+					</Data>
+					<Data name='Location'>
+						<value>2 mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Entre mer et montagnes, camping ombragé en plein terroir des Côtes du Roussillon, </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de la Bade, 66720 CARAMANY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 84 51 85 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/draqaM </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.57786,42.735957,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL La Pinede</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: Avril- mi Novembre<br>Budget €/j: 15-20<br>Emplacements: 227<br>Location: non<br>description: Dans un cadre verdoyant et calme. Emplacements camping cars - boulodrome - tennis de table<br>Adresse: Avenue Guy Malé,  66650 BANYULS SUR MER<br>Phone: 04 68 88 32 13 <br>Website: www.banyuls-sur-mer.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril- mi Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>227</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans un cadre verdoyant et calme. Emplacements camping cars - boulodrome - tennis de table</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue Guy Malé,  66650 BANYULS SUR MER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 88 32 13 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.banyuls-sur-mer.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.119216,42.477336,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Sol I Neu 2*</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: Ouvert toute l annee<br>Budget €/j: 15-20<br>Emplacements: 112<br>Location: 3 mobilehomes<br>description: Au coeur des Pyrénées Catalanes dans une ville touristique et calme<br>Adresse: route des pyrenees, 66760 ANGOUSTRINE VILLENEUVE ESCALDES<br>Phone: 04 68 04 66 83 <br>Website: www.camping-angoustrine.fr   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert toute l annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>112</value>
+					</Data>
+					<Data name='Location'>
+						<value>3 mobilehomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Au coeur des Pyrénées Catalanes dans une ville touristique et calme</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route des pyrenees, 66760 ANGOUSTRINE VILLENEUVE ESCALDES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 04 66 83 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-angoustrine.fr   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.956596,42.478206,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Roussillonnais 3*</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: Avril-Octobre<br>Budget €/j: 30-35<br>Emplacements: 731<br>Location: Mobil-homes, chalets, bungalows<br>description: accès direct à la mer.,  animations chaque soir, tous les commerces nécessaires <br>Adresse: Boulevard de la Mer, 66702 ARGELES SUR MER<br>Phone: 04 68 81 10 42 <br>Website: www.leroussillonnais.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>30-35</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>731</value>
+					</Data>
+					<Data name='Location'>
+						<value>Mobil-homes, chalets, bungalows</value>
+					</Data>
+					<Data name='description'>
+						<value>accès direct à la mer.,  animations chaque soir, tous les commerces nécessaires </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Boulevard de la Mer, 66702 ARGELES SUR MER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 81 10 42 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.leroussillonnais.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.043942,42.5683,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL el Moli 3*</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: Juin-Septembre<br>Budget €/j: 25-30<br>Emplacements: 285 <br>Location: caravanes, chalets et mobil-homes.<br>description: dans un cadre calme et verdoyant, a 5km de  la mer<br>Adresse: Bd. Archimède, 66200 ELNE<br>Phone: 04 68 22 08 46<br>Website: http://goo.gl/RqWVcz ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>285 </value>
+					</Data>
+					<Data name='Location'>
+						<value>caravanes, chalets et mobil-homes.</value>
+					</Data>
+					<Data name='description'>
+						<value>dans un cadre calme et verdoyant, a 5km de  la mer</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Bd. Archimède, 66200 ELNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 22 08 46</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/RqWVcz </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.9806640000000004,42.611112,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL La Bastide 1*</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: Ouvert toute l annee<br>Budget €/j: ns<br>Emplacements: 24<br>Location: non<br>description: a la campagne<br>Adresse: Campeilla san pere, 66110 LA BASTIDE <br>Phone: (0)4 68 39 42 81<br>Website: http://goo.gl/A9iXhW  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert toute l annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>24</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>a la campagne</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Campeilla san pere, 66110 LA BASTIDE </value>
+					</Data>
+					<Data name='Phone'>
+						<value>(0)4 68 39 42 81</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/A9iXhW  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.587366,42.546884,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Padraguets 2*</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: Juin-Septembre<br>Budget €/j: 10-15<br>Emplacements: 85<br>Location: non<br>description: Camping ombragé situé à 1km du centre ville et à 5km de la mer.85 emplacements<br><br><br>Adresse: Padraguets Route d'Argelès, 66200 ELNE<br>Phone: 04 68 22 21 59 <br>Website: http://goo.gl/zJFWg2]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>85</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Camping ombragé situé à 1km du centre ville et à 5km de la mer.85 emplacements
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Padraguets Route d'Argelès, 66200 ELNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 22 21 59 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/zJFWg2</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.980964,42.590673,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL CAUDIES DE FENOUILLEDES 1*</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: mi Juin-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 10<br>Location: non<br>description: Centre du village, pré attenant, proximité commerce<br><br>Adresse: 66220 CAUDIES DE FENOUILLEDES<br>Phone: 04 68 59 92 25<br>Website: http://goo.gl/yKF4tL  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>10</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Centre du village, pré attenant, proximité commerce
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>66220 CAUDIES DE FENOUILLEDES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 59 92 25</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/yKF4tL  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.378776,42.811569,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Al Comu</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: Avril-Octobre<br>Budget €/j: 15-20<br>Emplacements: 30<br>Location: non<br>description: Petit camping calme sans animation. Cadre sauvage.Vue sur la mer.<br><br>Adresse: Route de Fourques,66300 LLAURO<br>Phone: 04 68 39 42 08 <br>Website: http://alcomu.monsite-orange.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Petit camping calme sans animation. Cadre sauvage.Vue sur la mer.
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Fourques,66300 LLAURO</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 39 42 08 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://alcomu.monsite-orange.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.753191,42.548465,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Escoumes 2*</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: Mai-Septembre<br>Budget €/j: 15-20<br>Emplacements: 140<br>Location: Mobilhomes<br>description: Entre mer et montagne, au pied du Canigó, Bien ombragé, au bord de l’eau,<br>Adresse: Rue des Escoumes, 66320 VINÇA<br>Phone: (0)4 68 05 84 78<br>Website: www.camping-lac-de-vinca.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>140</value>
+					</Data>
+					<Data name='Location'>
+						<value>Mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Entre mer et montagne, au pied du Canigó, Bien ombragé, au bord de l’eau,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue des Escoumes, 66320 VINÇA</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(0)4 68 05 84 78</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-lac-de-vinca.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.532349,42.64608100000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Tourou</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: Ouvert toute l annee<br>Budget €/j: 15-20<br>Emplacements: 45<br>Location: bungalow/mobilhomes<br>description: aire de stationnement camping-cars<br><br>Adresse: route de las Illas, 66480 MAUREILLAS LAS ILLAS<br>Phone: 04 68 83 23 19<br>Website: http://goo.gl/nMYZdS   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert toute l annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>45</value>
+					</Data>
+					<Data name='Location'>
+						<value>bungalow/mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>aire de stationnement camping-cars
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route de las Illas, 66480 MAUREILLAS LAS ILLAS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 83 23 19</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/nMYZdS   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.807693,42.48596,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Vivier 1*</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: mi Juin - mi Septembre<br>Budget €/j: 15-20<br>Emplacements: 115<br>Location: non<br>description: massif des Albères<br><br>Adresse: 31 rue du stade, 66740 LAROQUE DES ALBERES<br>Phone: 04 68 89 00 93<br>Website: http://goo.gl/WcRjYv   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>115</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>massif des Albères
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>31 rue du stade, 66740 LAROQUE DES ALBERES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 89 00 93</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/WcRjYv   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.9354740000000006,42.526061,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Plaine St Martin 2*</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: Ouvert toute l annee<br>Budget €/j: 15-20<br>Emplacements: 60<br>Location: 18 chalets équipés<br>description: A 357m d altitude, à proximité du centre ville, tout en offrant un cadre reposant,<br><br>Adresse: 66500 PRADES<br>Phone: 04 68 96 29 83 <br>Website: http://goo.gl/XG7wBS ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert toute l annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='Location'>
+						<value>18 chalets équipés</value>
+					</Data>
+					<Data name='description'>
+						<value>A 357m d altitude, à proximité du centre ville, tout en offrant un cadre reposant,
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>66500 PRADES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 96 29 83 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/XG7wBS </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.423043,42.620839,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA RIVIERE 2**</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: Ouvert toute l annee<br>Budget €/j: 15-20<br>Emplacements: 60<br>Location: non<br>description: Tous les matins vers 9 heures le boulanger passe dans le camping.<br><br>Adresse: 66760 PORTE PUYMORENS<br>Phone: 04 68 04 82 20 <br>Website: www.puymorens.fr/le-camping/  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert toute l annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Tous les matins vers 9 heures le boulanger passe dans le camping.
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>66760 PORTE PUYMORENS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 04 82 20 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.puymorens.fr/le-camping/  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.8316539999999997,42.548239,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL MOLITG LES BAINS 1*</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: Avril - Novembre<br>Budget €/j: 15-20<br>Emplacements: 20<br>Location: non<br>description: Ensoleillé et ombragé. Vue splendide sur le Canigou.<br>Adresse: Cami de Cruells 66500 MOLITG LES BAINS<br>Phone: 04 68 05 02 12<br>Website: http://goo.gl/AwrwXE]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Ensoleillé et ombragé. Vue splendide sur le Canigou.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Cami de Cruells 66500 MOLITG LES BAINS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 05 02 12</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/AwrwXE</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.387853,42.646429000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE COLOMBER 2*</name>
+				<description><![CDATA[Département: Pyrénées Orientales <br>Ouverture: Ouvert toute l annee sauf Octobre<br>Budget €/j: 15-20<br>Emplacements: 61<br>Location: 12 mobilhomes<br>description: Calme et ombragé proche des commerces<br><br><br>Adresse: Rue Colonel Fabien, 66130 ILLE SUR TET<br>Phone: 04 68 84 72 40 <br>Website: www.ille-sur-tet.com/index.php/camping2  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert toute l annee sauf Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>61</value>
+					</Data>
+					<Data name='Location'>
+						<value>12 mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Calme et ombragé proche des commerces
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue Colonel Fabien, 66130 ILLE SUR TET</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 84 72 40 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ille-sur-tet.com/index.php/camping2  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.627449,42.671329,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL St Just 3***</name>
+				<description><![CDATA[Département: Cantal<br>Ouverture: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: 15320 Saint-Just <br>Phone: 04 71 73 70 48 <br>Website: http://goo.gl/IdGKU4]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cantal</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>15320 Saint-Just </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 71 73 70 48 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/IdGKU4</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.210969,44.890418,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Meuse 3***</name>
+				<description><![CDATA[Département: Hérault<br>Ouverture: Juin - mi Septembre <br>Budget €/j: 15-20<br>Emplacements: 85<br>Location: oui<br>description: Baignade dans la rivière de l herault à 100 mètres du camping<br><br>Adresse: Chemin de la Meuse, 34150 Gignac<br>Phone: 04 67 57 92 97 <br>Website: www.ville-gignac.com/camping_meuse.shtml   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - mi Septembre </value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>85</value>
+					</Data>
+					<Data name='Location'>
+						<value>oui</value>
+					</Data>
+					<Data name='description'>
+						<value>Baignade dans la rivière de l herault à 100 mètres du camping
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin de la Meuse, 34150 Gignac</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 57 92 97 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-gignac.com/camping_meuse.shtml   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.559055,43.662594,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Nasbinals</name>
+				<description><![CDATA[Département: Lozère<br>Ouverture: mai - Septembre<br>Budget €/j: 10-15<br>Emplacements: 25<br>Location: non<br>description: à 700 m du village<br>Adresse: Route de Saint Urcize, 48 NASBINALS<br>Phone: 04 66 32 51 87<br>Website: www.nasbinals.fr/hotels/camping ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>à 700 m du village</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Saint Urcize, 48 NASBINALS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 32 51 87</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.nasbinals.fr/hotels/camping </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.04038,44.670095,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de LOUPIAN 3*</name>
+				<description><![CDATA[Département: Hérault <br>Ouverture: Avril-Octobre<br>Budget €/j: 15-20<br>Emplacements: 100<br>Location: mobilhomes<br>description: A 500m de l'étang de Thau, à 2km de la plage,<br>Adresse: D158 Route de Meleze, 34140 LOUPIAN<br>Phone: 04 67 43 57 67<br>Website: www.loupian.fr/index.php?page=camping ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value>mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>A 500m de l'étang de Thau, à 2km de la plage,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>D158 Route de Meleze, 34140 LOUPIAN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 43 57 67</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.loupian.fr/index.php?page=camping </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.615017,43.444694,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPALVerterive</name>
+				<description><![CDATA[Département: Pyrénées Orientales<br>Ouverture: Ouvert toute l annee<br>Budget €/j: 15-20<br>Emplacements: 33<br>Location: chalets<br>description: Dans un cadre arboré,en bord de rivière<br>Adresse: Chemin de l Ille, 66260 SAINT LAURENT DE CERVANS <br>Phone: (0)4 68 39 54 64 <br>Website: http://goo.gl/C9KQtO ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Ouvert toute l annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33</value>
+					</Data>
+					<Data name='Location'>
+						<value>chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans un cadre arboré,en bord de rivière</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin de l Ille, 66260 SAINT LAURENT DE CERVANS </value>
+					</Data>
+					<Data name='Phone'>
+						<value>(0)4 68 39 54 64 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/C9KQtO </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.606544,42.388338,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Regambert</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: Mai-Octobre<br>Budget €/j: 5-10<br>Emplacements: 20<br>Location: non<br>description: aire naturelle pres du lac calme, agréable, ensoleillé et confortable. Proximité des commerces.<br>Adresse: Route regambert, 11410 SALLES SUR L HERS<br>Phone: 04 68 60 30 22<br>Website: http://goo.gl/akRhaa ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>aire naturelle pres du lac calme, agréable, ensoleillé et confortable. Proximité des commerces.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route regambert, 11410 SALLES SUR L HERS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 60 30 22</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/akRhaa </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.78618,43.294942,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de BROUILLET 3*</name>
+				<description><![CDATA[Département: Lozère <br>Ouverture: Avril - Septembre<br>Budget €/j: 20-25<br>Emplacements: 165<br>Location: mobihomes<br>description: au carrefour des Gorges du Tarn et de la Jonte dans un petit village sympa petite piscine<br><br>Adresse: La Tière, 48150 LE ROZIER <br>Phone: 05.65.62.63.98<br>Website: www.camping-lerozier.com   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>165</value>
+					</Data>
+					<Data name='Location'>
+						<value>mobihomes</value>
+					</Data>
+					<Data name='description'>
+						<value>au carrefour des Gorges du Tarn et de la Jonte dans un petit village sympa petite piscine
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>La Tière, 48150 LE ROZIER </value>
+					</Data>
+					<Data name='Phone'>
+						<value>05.65.62.63.98</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-lerozier.com   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.20466,44.191805,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le PRADET 2*</name>
+				<description><![CDATA[Département: Lozère <br>Ouverture: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 45<br>Location: no <br>description: Avec un acces plage sur le Tarn, loueurs de canoe kayac.<br>Adresse: route de Millau, 48210 LA MALENE <br>Phone: 04 66 48 58 55<br>Website: www.gorgesdutarn-camping.com  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>45</value>
+					</Data>
+					<Data name='Location'>
+						<value>no </value>
+					</Data>
+					<Data name='description'>
+						<value>Avec un acces plage sur le Tarn, loueurs de canoe kayac.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route de Millau, 48210 LA MALENE </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 48 58 55</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.gorgesdutarn-camping.com  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.31815,44.301017,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL AUX PORTES DU SAUVETERRE" 2**</name>
+				<description><![CDATA[Département: Lozère <br>Ouverture: Mai - Septembre<br>Budget €/j: 15-20<br>Emplacements: 48<br>Location: non<br>description: site du Causse du Sauveterre, en surplomb des Gorges du Tarn,<br>Adresse: Le village, 48 SAINT-ROME-DE-DOLAN <br>Phone: (0)4 66 44 03 81<br>Website: www.saint-rome-de-dolan.com/pagecamping.htm ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>48</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>site du Causse du Sauveterre, en surplomb des Gorges du Tarn,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le village, 48 SAINT-ROME-DE-DOLAN </value>
+					</Data>
+					<Data name='Phone'>
+						<value>(0)4 66 44 03 81</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saint-rome-de-dolan.com/pagecamping.htm </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.215261,44.27307600000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL La Tiere</name>
+				<description><![CDATA[Département: Lozère <br>Ouverture: Juin - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 55<br>Location: non<br>description: le camping est coeur d'un espace qui jouit d'un classement mondial à l'UNESCO<br>Adresse: 48400 FLORAC <br>Phone: (0)4 66 45 04 02<br>Website: http://goo.gl/SMV4Gr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>55</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>le camping est coeur d'un espace qui jouit d'un classement mondial à l'UNESCO</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>48400 FLORAC </value>
+					</Data>
+					<Data name='Phone'>
+						<value>(0)4 66 45 04 02</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/SMV4Gr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.599267,44.308096,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Ferrals les corbieres 2*</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: 15 Juin - Aout<br>Budget €/j: <br>Emplacements: 29<br>Location: <br>description: Sans nouvelles de ce muni - 2014<br><br>Adresse: Avenue du clair matin, 11200 FERRALS-LES-CORBIERES<br>Phone: (0)4 68 27 75 75 <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>15 Juin - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>29</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Sans nouvelles de ce muni - 2014
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue du clair matin, 11200 FERRALS-LES-CORBIERES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(0)4 68 27 75 75 </value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.724223,43.151004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Chemin des Bains 2*</name>
+				<description><![CDATA[Département: Hérault <br>Ouverture: Mars - Octobre<br>Budget €/j: 15-20<br>Emplacements: 132<br>Location: non<br>description: au cœur de la ville avec une guinguette ombragée<br>Adresse: Avenue de Montpelier, 34540 BALARUC LES BAINS <br>Phone: (0)4 67 48 51 48 <br>Website: www.balaruc-les-bains.com   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>132</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>au cœur de la ville avec une guinguette ombragée</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue de Montpelier, 34540 BALARUC LES BAINS </value>
+					</Data>
+					<Data name='Phone'>
+						<value>(0)4 67 48 51 48 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.balaruc-les-bains.com   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.679411,43.445597,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping INTERCOM VAILHES 2*</name>
+				<description><![CDATA[Département: Hérault <br>Ouverture: Avril - Septembre<br>Budget €/j: 20-25<br>Emplacements: ns<br>Location: non<br>description: Au bord du lac de Salagou. Activités nautiques à la base nautique<br>Adresse: Chemin des Vailhes, 34800 LODEVE <br>Phone: (0)4 67 44 25 98 <br>Website: www.campinglesvailhes.com  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Au bord du lac de Salagou. Activités nautiques à la base nautique</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin des Vailhes, 34800 LODEVE </value>
+					</Data>
+					<Data name='Phone'>
+						<value>(0)4 67 44 25 98 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campinglesvailhes.com  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.356366,43.669734,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal CAP LEUCATE 2*</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: Fevrier-Novembre<br>Budget €/j: 20-25<br>Emplacements: 260<br>Location: non<br>description: emplacements pour tentes et caravanes séparés par des haies de végétaux. <br><br>Adresse: Chemin du mouret, 11370 LEUCATE<br>Phone: 04 68 40 01 37<br>Website: http://goo.gl/1jgDXQ  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Fevrier-Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>260</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>emplacements pour tentes et caravanes séparés par des haies de végétaux. 
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin du mouret, 11370 LEUCATE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 40 01 37</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/1jgDXQ  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.051431,42.903398,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Falaise 3*</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: Avril - Septembre<br>Budget €/j: 25-30<br>Emplacements: 393<br>Location: non<br>description: entre Clape et Mer Méditerranée (plage à 200 mètres)<br>Adresse: 8 avenue des vacances, 11100 NARBONNE PLAGE<br>Phone: 04 68 49 80 77<br>Website: http://goo.gl/5ZBCMF ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>393</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>entre Clape et Mer Méditerranée (plage à 200 mètres)</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>8 avenue des vacances, 11100 NARBONNE PLAGE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 49 80 77</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/5ZBCMF </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.162432,43.160239,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de SALLELES d AUDE 1</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: Mai- Septembre<br>Budget €/j: 15-20<br>Emplacements: 15<br>Location: non<br>description: au coeur des vignobles languedociens emplacements spacieux, ensoleillés <br>Adresse: Rue de la Cooperative Agricole, 11590 SALLELES d AUDE<br>Phone: 04 68 48 69 46<br>Website: www.sallelesdaude.fr/Le-camping-Municipal.html      ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai- Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>15</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>au coeur des vignobles languedociens emplacements spacieux, ensoleillés </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de la Cooperative Agricole, 11590 SALLELES d AUDE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 48 69 46</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.sallelesdaude.fr/Le-camping-Municipal.html      </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.955639,43.260323,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Prade 2*</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: Juin- Septembre<br>Budget €/j: 5-10<br>Emplacements: 25<br>Location: bungalows<br>description: Site calme à proximité du village, borne multi-services, aire de jeux, barbecue<br>Adresse: Le village, 11230 SAINTE COLOMBES SUR L HERS<br>Phone: 04 68 69 22 20<br>Website: http://goo.gl/egtqy8   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin- Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25</value>
+					</Data>
+					<Data name='Location'>
+						<value>bungalows</value>
+					</Data>
+					<Data name='description'>
+						<value>Site calme à proximité du village, borne multi-services, aire de jeux, barbecue</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le village, 11230 SAINTE COLOMBES SUR L HERS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 69 22 20</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/egtqy8   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.966166,42.952198,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Pla de Barres 2</name>
+				<description><![CDATA[Département: Pyrénées Orientales<br>Ouverture: Mi Juin<br>Budget €/j: 15-20<br>Emplacements: 162<br>Location: non<br>description: au coeur de la forêt de Barrès, en bordure de la rivière la Têt,<br>Adresse: 66210 MONT LOUIS <br>Phone: 04 68 04 26 04 <br>Website: www.mont-louis.net ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mi Juin</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>162</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>au coeur de la forêt de Barrès, en bordure de la rivière la Têt,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>66210 MONT LOUIS </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 04 26 04 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mont-louis.net </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.129288,42.508046,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les rives du Lac 2</name>
+				<description><![CDATA[Département: Pyrénées Orientales<br>Ouverture: Avril-Octobre<br>Budget €/j: 15-20<br>Emplacements: 158<br>Location: mobilehome/chalet<br>description: en bordure du plan d'eau de Villeneuve de la Raho, <br>Adresse: Chemin des Serres, 66180 VILLENEUVE DE LA RAHO <br>Phone: 04 68 55 83 51<br>Website: www.villeneuve-de-la-raho.fr   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Pyrénées Orientales</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>158</value>
+					</Data>
+					<Data name='Location'>
+						<value>mobilehome/chalet</value>
+					</Data>
+					<Data name='description'>
+						<value>en bordure du plan d'eau de Villeneuve de la Raho, </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin des Serres, 66180 VILLENEUVE DE LA RAHO </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 55 83 51</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.villeneuve-de-la-raho.fr   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.899033,42.637887,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Intercom Les Cigales 2*</name>
+				<description><![CDATA[Département: Hérault <br>Ouverture: mi Avril - Septembre<br>Budget €/j: 20-25<br>Emplacements: 140<br>Location: mobilhomes<br>description: Charmes de cette station sortie du sable dans les années 1970<br>Adresse: allee des pins 34280 La Grande Motte <br>Phone: 04 67 56 50 85<br>Website: www.sivom-etang-or.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>140</value>
+					</Data>
+					<Data name='Location'>
+						<value>mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Charmes de cette station sortie du sable dans les années 1970</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>allee des pins 34280 La Grande Motte </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 56 50 85</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.sivom-etang-or.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.075863,43.567138,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du Pont Vieux</name>
+				<description><![CDATA[Département: Gard<br>Ouverture: mi Juin-Aout<br>Budget €/j: 10-15<br>Emplacements: ns<br>Location: non<br>description: Vaste espace ombragé en bordure de rivière. baignades, pêche, pétanque, aire de service pour camping-car<br>Adresse: 30120 AVEZE<br>Phone: 04.67.81.04.02 <br>Website: http://camping.aveze.fr/  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Gard</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Vaste espace ombragé en bordure de rivière. baignades, pêche, pétanque, aire de service pour camping-car</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>30120 AVEZE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04.67.81.04.02 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://camping.aveze.fr/  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.5990099999999994,43.974966,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Tama 3*</name>
+				<description><![CDATA[Département: Hérault<br>Ouverture: mi-Avril- mi Septembre<br>Budget €/j: 25-30<br>Emplacements: 630<br>Location: mobilhomes<br>description: A l'ombre d'une pinède centenaire en bordure de mer<br>Adresse: rue du Commandant Malet ,34300 AGDE<br>Phone: 04 67 94 79 46 <br>Website: www.camping-latama.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi-Avril- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>630</value>
+					</Data>
+					<Data name='Location'>
+						<value>mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>A l'ombre d'une pinède centenaire en bordure de mer</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue du Commandant Malet ,34300 AGDE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 94 79 46 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-latama.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.442411,43.287328,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la Clape 4*</name>
+				<description><![CDATA[Département: Hérault<br>Ouverture: Avril- mi Septembre<br>Budget €/j: 40-45<br>Emplacements: 450<br>Location: mobilhomes<br>description: Tous les services d'un établissement quatre étoiles<br>Adresse: 2 rue du gouverneur, 34300 AGDE<br>Phone: 04 67 26 41 32 <br>Website: www.camping-laclape.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>40-45</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>450</value>
+					</Data>
+					<Data name='Location'>
+						<value>mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Tous les services d'un établissement quatre étoiles</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>2 rue du gouverneur, 34300 AGDE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 26 41 32 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-laclape.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.520517,43.285141,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Baldy 3*</name>
+				<description><![CDATA[Département: Hérault<br>Ouverture: Juillet- mi Septembre<br>Budget €/j: 25-30<br>Emplacements: 41<br>Location: tiphomes/cottages<br>description: Entre terre et mer, le petit frere des trois autres Muni d Agde<br>Adresse: 74 Route de Sete, 34300 AGDE<br>Phone: 04 67 00 05 50 <br>Website: www.camping-baldy.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>41</value>
+					</Data>
+					<Data name='Location'>
+						<value>tiphomes/cottages</value>
+					</Data>
+					<Data name='description'>
+						<value>Entre terre et mer, le petit frere des trois autres Muni d Agde</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>74 Route de Sete, 34300 AGDE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 00 05 50 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-baldy.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.500648,43.307583,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Verdale 2*</name>
+				<description><![CDATA[Département: Hérault<br>Ouverture: Mars - Octobre<br>Budget €/j: 15-20<br>Emplacements: 72<br>Location: non<br>description: Dans un cadre de verdure et de calme, en plein centre ville<br>Adresse: Blvd Mourcarol, 34240 LAMALOU LES BAINS<br>Phone: (0)4 67 95 86 89 <br>Website: www.lamalou-les-bains.fr  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>72</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans un cadre de verdure et de calme, en plein centre ville</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Blvd Mourcarol, 34240 LAMALOU LES BAINS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(0)4 67 95 86 89 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lamalou-les-bains.fr  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.08395,43.598112,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Tivoli 2*</name>
+				<description><![CDATA[Département: Hérault<br>Ouverture: mi Juin - Aout<br>Budget €/j: 15-20<br>Emplacements: 61<br>Location: non<br>description: En bordure de rivière Hérault, à proximité d'un centre commercial <br>Adresse: 38 rue du Ponteil 34190 LAROQUE<br>Phone: (0)4 67 73 97 28 <br>Website: www.laroque.fr/Camping-Municipal-Le-Tivoli ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>61</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>En bordure de rivière Hérault, à proximité d'un centre commercial </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>38 rue du Ponteil 34190 LAROQUE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>(0)4 67 73 97 28 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.laroque.fr/Camping-Municipal-Le-Tivoli </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.715096,43.92661400000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Valadio 2*</name>
+				<description><![CDATA[Département: Lozère<br>Ouverture: mi Juin - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: non<br>description: A 300 m du bourg,, orienté plein sud, surplombe la rivière " le Grandrieu ", le plan d’eau<br>Adresse: 48600 GRANDRIEU <br>Phone: 04 66 46 31 39<br>Website: www.grandrieu-tourisme.com/camping.htm   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>A 300 m du bourg,, orienté plein sud, surplombe la rivière " le Grandrieu ", le plan d’eau</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>48600 GRANDRIEU </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 46 31 39</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.grandrieu-tourisme.com/camping.htm   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.637912,44.789952,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Altier</name>
+				<description><![CDATA[Département: Lozère<br>Ouverture: Juin - Septembre<br>Budget €/j: 10-15<br>Emplacements: 28<br>Location: 4 chalets HLL, locations ouvertes toute l’année<br>description: Accueil équestre (sur réservation)<br>Adresse: 48 ALTIER en CEVENNES<br>Phone: 04.66.46.81.61 <br>Website: www.altier48.fr  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>28</value>
+					</Data>
+					<Data name='Location'>
+						<value>4 chalets HLL, locations ouvertes toute l’année</value>
+					</Data>
+					<Data name='description'>
+						<value>Accueil équestre (sur réservation)</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>48 ALTIER en CEVENNES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04.66.46.81.61 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.altier48.fr  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.8597630000000005,44.473657,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Luech </name>
+				<description><![CDATA[Département: Gard<br>Ouverture: Juillet-Aout<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: non<br>description: Terrain ombragé bordure riviere<br>Adresse: Palanqui, 30450 CHAMBON<br>Phone: 04 66 61 51 32 <br>Website: www.tourismegard.com  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Gard</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Terrain ombragé bordure riviere</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Palanqui, 30450 CHAMBON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 61 51 32 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourismegard.com  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.005107,44.305201,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Couronne 1*</name>
+				<description><![CDATA[Département: Gard<br>Ouverture: Juin- Septembre<br>Budget €/j: 10-15<br>Emplacements: 11<br>Location: ns<br>description: dans un espace boisé apprécié pour son calme<br>Adresse: Les condamines, 30120 MONTDARDIER<br>Phone: 04 67 81 52 46 <br>Website: http://goo.gl/GDy3Qm  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Gard</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin- Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>11</value>
+					</Data>
+					<Data name='Location'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value>dans un espace boisé apprécié pour son calme</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Les condamines, 30120 MONTDARDIER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 81 52 46 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/GDy3Qm  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.5921,43.926382,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Clos de l Abbaye</name>
+				<description><![CDATA[Département: Gard<br>Ouverture: Juillet - Aout<br>Budget €/j: 5-10<br>Emplacements: 50<br>Location: non<br>description: Particulièrement calme, le camping se situe au coeur de la vallée du Galeizon sur un ancien pré.<br>Adresse: Parc des Sports, 30480 CENDRAS<br>Phone: 04 66 56 87 65 <br>Website: http://goo.gl/ys07NN  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Gard</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Particulièrement calme, le camping se situe au coeur de la vallée du Galeizon sur un ancien pré.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Parc des Sports, 30480 CENDRAS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 56 87 65 </value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/ys07NN  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.056337,44.15336,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Saladelles 2*</name>
+				<description><![CDATA[Département: Hérault <br>Ouverture: mi Avril - Septembre<br>Budget €/j: 20-25<br>Emplacements: 364<br>Location: mobilhomes<br>description: Vacances bord de mer a prix Muni<br>Adresse: Avenue Grassion Cibrand, 34280 CARNON <br>Phone: 04 67 68 23 71<br>Website: http://www.sivom-etang-or.fr/  )]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>364</value>
+					</Data>
+					<Data name='Location'>
+						<value>mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Vacances bord de mer a prix Muni</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue Grassion Cibrand, 34280 CARNON </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 68 23 71</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.sivom-etang-or.fr/  )</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.9947100000000004,43.550523,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal les Terrasses du Jaur 2*</name>
+				<description><![CDATA[Département: Hérault <br>Ouverture: 15 Mai - 30 Septembre<br>Budget €/j: 10-15<br>Emplacements: 24<br>Location: 6 Mobilhomes<br>description: Charmant muni à petits prix, accès direct à la rivière, Voie Verte, grands emplacements ombragés, location vélos, WIFI, nombreuses activités <br>Adresse: Chemin de Notre Dame 34390 PREMIAN<br>Phone: 04 67 97 27 85<br>Website: http://camping-premian.fr/     ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hérault </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>15 Mai - 30 Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>24</value>
+					</Data>
+					<Data name='Location'>
+						<value>6 Mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Charmant muni à petits prix, accès direct à la rivière, Voie Verte, grands emplacements ombragés, location vélos, WIFI, nombreuses activités </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin de Notre Dame 34390 PREMIAN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 67 97 27 85</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://camping-premian.fr/     </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.830138,43.521917,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL a l Ombre des Micouliers 4*</name>
+				<description><![CDATA[Département: Aude<br>Ouverture: mi Juin - mi Septembre<br>Budget €/j: 25-30<br>Emplacements: 70<br>Location: bungali<br>description: Implanté aux abords de la ville et de ses commerces<br><br><br>Adresse: Chemin de la Lande11800 TRÈBES<br>Phone: 04 68 78 61 75 <br>Website: www.audecamping.com/villetrebes.htm   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aude</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value>bungali</value>
+					</Data>
+					<Data name='description'>
+						<value>Implanté aux abords de la ville et de ses commerces
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin de la Lande11800 TRÈBES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 68 78 61 75 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.audecamping.com/villetrebes.htm   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.441325,43.206802,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Graviere</name>
+				<description><![CDATA[Département: Lozère <br>Ouverture: Mai -Septembre<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: non<br>description: ombragé , Le camping est accessible sans réservation, Nouveau 2015 : aire camping car<br>Adresse: 48600 AUROUX<br>Phone: 04 66 69 55 17<br>Website: http://www.auroux.eu/infosPratiques.asp ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Lozère </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai -Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>ombragé , Le camping est accessible sans réservation, Nouveau 2015 : aire camping car</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>48600 AUROUX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 66 69 55 17</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.auroux.eu/infosPratiques.asp </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.723958,44.752631,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Directions from Camping MUNICIPAL les Terrasses du Jaur 2* to Camping MUNICIPAL les Terrasses du Jaur 2*</name>
+			<Placemark>
+				<name>Directions from Camping MUNICIPAL les Terrasses du Jaur 2* to Camping MUNICIPAL les Terrasses du Jaur 2*</name>
+				<styleUrl>#line-1267FF-5-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>2.83006,43.52188,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Terrasses du Jaur 2*</name>
+				<description><![CDATA[D176E11, 34390 Prémian, France]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.8300639,43.5218758,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Terrasses du Jaur 2*</name>
+				<description><![CDATA[D176E11, 34390 Prémian, France]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.8300639,43.5218758,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Directions from Camping MUNICIPAL St Just 3*** to Camping MUNICIPAL Serverette 1*</name>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-1267FF-5-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>5</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-1267FF-5-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF6712</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-1267FF-5-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-1267FF-5-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-1267FF-5-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

@@ -1,0 +1,4505 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>CENTRE I Campings Municipaux</name>
+		<description><![CDATA[Campings Municipaux dans le Loiret, Indre, Cher, Loir & Cher]]></description>
+		<Folder>
+			<name>Calque sans titre</name>
+			<Placemark>
+				<name>Camping MUNICIPAL ONZAIN 2**</name>
+				<description><![CDATA[Département: Loir & Cher<br>Ouverture: Mai - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 63<br>Location: <br>description: <br>Adresse: Rue des robiniers, 41150 ONZAIN<br>Phone: 02 54 20 85 15<br>Website: www.onzain.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>63</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue des robiniers, 41150 ONZAIN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 20 85 15</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.onzain.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.18618,47.491805,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL G MARCHAND 1*</name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: mi Juin - Aout<br>Budget €/j: 10-15<br>Emplacements: 35<br>Location: <br>description: <br>Adresse: 152 Chemin de la Roche, 45140 ST JEAN DE RUELLE<br>Phone: 02 38 88 39 39<br>Website: www.ville-saintjeandelaruelle.fr/connaitre-ville/saint-jean-la-ruelle-etc/le-cadre-vie/le-camping-municipal-gaston-marchand_53.html!article=88 )]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>152 Chemin de la Roche, 45140 ST JEAN DE RUELLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 38 88 39 39</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-saintjeandelaruelle.fr/connaitre-ville/saint-jean-la-ruelle-etc/le-cadre-vie/le-camping-municipal-gaston-marchand_53.html!article=88 )</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.861957,47.895017,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL PLANCHEROTTE 2**</name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: Avril - Octobre<br>Budget €/j: 10-15<br>Emplacements: 60<br>Location: <br>description: <br>Adresse: 45720 COULLONS <br>Phone: 02 38 29 20 42<br>Website: www.coullons.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>45720 COULLONS </value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 38 29 20 42</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.coullons.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.501106,47.598408,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les PATURES 2**</name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: mi Mai -Septembre<br>Budget €/j: 15-20<br>Emplacements: 54<br>Location: <br>description: <br>Adresse: 45430 CHECY<br>Phone: 02 38 91 13 27<br>Website: www.checy.fr/checy-cote-mairie/les-equipements/camping/le-camping-municipal-les-patures_42.html!article=72 ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai -Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>54</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>45430 CHECY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 38 91 13 27</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.checy.fr/checy-cote-mairie/les-equipements/camping/le-camping-municipal-les-patures_42.html!article=72 </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.027578,47.887802,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le DONJON 2**</name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: Juin -<br>Budget €/j: 15-20<br>Emplacements: 38<br>Location: <br>description: <br>Adresse: Allée du Château, 45270 BELLEGARDE<br>Phone: 02 38 90 25 37<br>Website: www.bellegarde-45.fr/Rub_337/Tourisme-Culture/Camping-municipal-du-Donjon.html ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin -</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>38</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Allée du Château, 45270 BELLEGARDE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 38 90 25 37</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.bellegarde-45.fr/Rub_337/Tourisme-Culture/Camping-municipal-du-Donjon.html </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.440424,47.983502,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les PRES BAS 2**</name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: Avril - Octobre<br>Budget €/j: 10-15<br>Emplacements: 20<br>Location: <br>description: <br>Adresse: 12 rue de Sully, 45620 ISDES<br>Phone: 02 38 29 10 82<br>Website: /www.isdes.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>12 rue de Sully, 45620 ISDES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 38 29 10 82</value>
+					</Data>
+					<Data name='Website'>
+						<value>/www.isdes.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.25636,47.674534,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du PERRAY 2*</name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: Avril - Octobre<br>Budget €/j: 10-15<br>Emplacements: 70<br>Location: <br>description: <br>Adresse: Place gaston Lempereur, 45210 FERRIERES<br>Phone: 06 71 43 25 95<br>Website: www.ferrieresengatinais.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Place gaston Lempereur, 45210 FERRIERES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 71 43 25 95</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ferrieresengatinais.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.7850770000000002,48.090335,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du CANAL 2**</name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: Mai - Octobre<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: Route de Bonny, 45630 BEAULIEU SUR LOIRE<br>Phone: 02 38 35 32 16<br>Website: www.beaulieu-sur-loire.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Bonny, 45630 BEAULIEU SUR LOIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 38 35 32 16</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.beaulieu-sur-loire.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.795162,47.589147,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du Val de Flux 2**</name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: mi Avril - Aout<br>Budget €/j: 10-15<br>Emplacements: 200<br>Location: <br>description: <br>Adresse: Val de Flux, 45190 BEAUGENCY<br>Phone: 02 38 44 50 39<br>Website: www.beaugency.fr/decouvrir-beaugency/camping-val-de-flux.html ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>200</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Val de Flux, 45190 BEAUGENCY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 38 44 50 39</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.beaugency.fr/decouvrir-beaugency/camping-val-de-flux.html </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.63765,47.776713,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Rene COEFFIER</name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: Avril - Septembre<br>Budget €/j: 5-10<br>Emplacements: 33<br>Location: <br>description: <br>Adresse: 45360 CERNOY EN BERRY<br>Phone: 02 38 31 47 02<br>Website: www.tourismeloiret.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>45360 CERNOY EN BERRY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 38 31 47 02</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourismeloiret.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.664185,47.532038,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE les FARNAULTS </name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: Avril - Septembre<br>Budget €/j: 5-10<br>Emplacements: 12<br>Location: <br>description: <br>Adresse: 8 route de Cerdon, 45600 VILLEMURLIN<br>Phone: 06 98 02 27 68<br>Website: www.villemurlin.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>12</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>8 route de Cerdon, 45600 VILLEMURLIN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 98 02 27 68</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.villemurlin.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.340088,47.676484,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL SENNELY 2**</name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: mi Mars - <br>Budget €/j: 5-10<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: 45240 SENNELY<br>Phone: 02.38.45.86.32<br>Website: www.sennely.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars - </value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>45240 SENNELY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02.38.45.86.32</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.sennely.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.150574,47.677871,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL MONTBOUY 1*</name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: ns<br>Location: <br>description: out of business<br><br><br>Adresse: 45230 MONTBOUY<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>out of business
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>45230 MONTBOUY</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.8186800000000005,47.862701,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL OLIVET 2**</name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: Avril - mi Octobre<br>Budget €/j: 20-25<br>Emplacements: 80<br>Location: <br>description: <br>Adresse: Rue du Pont Bouchet, 45160 OLIVET<br>Phone: 02 38 63 53 94<br>Website: www.camping-olivet.org]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>80</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue du Pont Bouchet, 45160 OLIVET</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 38 63 53 94</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-olivet.org</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.933594,47.855560000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL SCEAUX du GATINET </name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 10<br>Location: <br>description: <br>Adresse: 45490 SCEAUX DU GATINAIS<br>Phone: 02 38 87 40 27<br>Website: /www.tourismeloiret.com/fr/180/6/4/HPACEN0450100093/sit/detail/se-loger/camping-municipal-sceleen/reloadform/1#.UYliLKLp38k ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>10</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>45490 SCEAUX DU GATINAIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 38 87 40 27</value>
+					</Data>
+					<Data name='Website'>
+						<value>/www.tourismeloiret.com/fr/180/6/4/HPACEN0450100093/sit/detail/se-loger/camping-municipal-sceleen/reloadform/1#.UYliLKLp38k </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.598267,48.101929,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les PARURES 1*</name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: Mars - mi OCtobre<br>Budget €/j: 10-15<br>Emplacements: 20<br>Location: <br>description: <br>Adresse: 45220 TRIGUERES<br>Phone: 02 38 94 00 23<br>Website: www.trigueres.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars - mi OCtobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>45220 TRIGUERES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 38 94 00 23</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.trigueres.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.992401,47.939347,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ROBINSON 3***</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: mi Mars - mi Novembre<br>Budget €/j: 15-20<br>Emplacements: 116<br>Location: <br>description: <br>Adresse: 26, boulevard de l'Industrie, 18000 BOURGES<br>Phone: 02 48 20 16 85<br>Website: www.ville-bourges.fr/site/patrimoine-tourisme_camping-municipal]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars - mi Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>116</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>26, boulevard de l'Industrie, 18000 BOURGES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 20 16 85</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-bourges.fr/site/patrimoine-tourisme_camping-municipal</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.395148,47.072343,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Paulin Roulin1*</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: Avril - mi Octobre<br>Budget €/j: 5-10<br>Emplacements: 12<br>Location: <br>description: <br>Adresse: 18300 CREZANCY EN SANCERRE<br>Phone: 02 48 79 03 94<br>Website: www.tourisme-sancerre.com/main.php?p=16&id=365&cat=4&lang=fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>12</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>18300 CREZANCY EN SANCERRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 79 03 94</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-sancerre.com/main.php?p=16&amp;id=365&amp;cat=4&amp;lang=fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.742462,47.302516,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL L'ARRACHIS 2**</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: Juin - Septembre<br>Budget €/j: 10-15<br>Emplacements: 20<br>Location: <br>description: <br>Adresse: Route de Vierzon, 18380 ENNORDRES<br>Phone: 02 48 58 06 82<br>Website: www.ennordres.fr/tourisme-et-loisir.html#camping]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Vierzon, 18380 ENNORDRES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 58 06 82</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ennordres.fr/tourisme-et-loisir.html#camping</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.377682,47.426461,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Lignieres</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: Avril - Septembre<br>Budget €/j: ns<br>Emplacements: 35<br>Location: <br>description: <br>Adresse: Rue de l'Ange Blanc, 18160 LIGNIERES<br>Phone: 02 48 60 00 18 or 02 48 60 03 67<br>Website: www.lignieres-en-berry.fr/lignieres-camping-4.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de l'Ange Blanc, 18160 LIGNIERES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 60 00 18 or 02 48 60 03 67</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lignieres-en-berry.fr/lignieres-camping-4.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.174263,46.754211,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE BOUT DU PONT 1*</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: Avril - mi Octobre<br>Budget €/j: 5-10<br>Emplacements: 49<br>Location: <br>description: <br>Adresse: Le bout du pont, 18700 MENETREOL SUR SAULDRE<br>Phone: 02 48 58 04 30<br>Website: www.tourisme-sauldre-sologne.com/fr/5-sejourner/67-campings/25-camping-municipal-menetreol/1-description.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>49</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le bout du pont, 18700 MENETREOL SUR SAULDRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 58 04 30</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-sauldre-sologne.com/fr/5-sejourner/67-campings/25-camping-municipal-menetreol/1-description.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.307816,47.447129,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL NEUVY SUR BARANGEON 1*</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: Avril - Septembre<br>Budget €/j: 5-10<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: 18330 NEUVY SUR BARANGEON<br>Phone: 02 48 52 95 20<br>Website: www.neuvy-sur-barangeon.fr/spip.php?article109]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>18330 NEUVY SUR BARANGEON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 52 95 20</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.neuvy-sur-barangeon.fr/spip.php?article109</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.25769,47.309034,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ST AMBROIX 1*</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: ns<br>Location: <br>description: out of business <br><br>Adresse: 18290 ST AMBROIX<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>out of business 
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>18290 ST AMBROIX</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.120361,46.93151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES BERGEROLLES 1*</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: ns<br>Location: <br>description: out of business<br><br><br>Adresse: 18360 VESDUN<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>out of business
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>18360 VESDUN</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.430725,46.538082,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE DE LA SAULDRE</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: ns<br>Location: <br>description: <br>Adresse: 18260 VAILLY SUR SAULDRE<br>Phone: 02 48 73 83 79<br>Website: http://goo.gl/L4JOQL]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>18260 VAILLY SUR SAULDRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 73 83 79</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/L4JOQL</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.650452,47.45688,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les PLATANES 1*</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: Mai - Septembre<br>Budget €/j: 5-10<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: 18200 BRUERE ALLICHAMPS<br>Phone: 02 48 61 06 69<br>Website: www.bruere-allichamps.fr/camping_de_bruere/detail/village-203.html ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>18200 BRUERE ALLICHAMPS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 61 06 69</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.bruere-allichamps.fr/camping_de_bruere/detail/village-203.html </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.433472,46.769028,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL L'ETANG MERLIN 4****</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: Mai - Septembre<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: Route de Vicq Exemplet, 18370 CHATEAUMEILLANT<br>Phone: 02 48 61 31 38<br>Website: www.chateaumeillant-tourisme.fr/bienvenue.htm]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Vicq Exemplet, 18370 CHATEAUMEILLANT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 61 31 38</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.chateaumeillant-tourisme.fr/bienvenue.htm</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.193832,46.565942,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le PETIT BOIS 2**</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: Mai - Octobre<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: Route des Aix, 18250 HENRICHEMONT<br>Phone: 02 48 26 70 04<br>Website: www.henrichemont.fr/Hebergement.18.html ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route des Aix, 18250 HENRICHEMONT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 26 70 04</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.henrichemont.fr/Hebergement.18.html </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.525482,47.302516,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES AIX D ANGILLON 1*</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: 10<br>Location: <br>description: Ferme pour mises aux normes <br>Adresse: ,18220 LES AIX D ANGILLON<br>Phone: 02 48 64 41 55<br>Website: www.lesaixdangillon.fr/mairie-les-aix-d-angillon-camping-136.html ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>10</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Ferme pour mises aux normes </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>,18220 LES AIX D ANGILLON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 64 41 55</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lesaixdangillon.fr/mairie-les-aix-d-angillon-camping-136.html </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.568054,47.193445,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les PINS 2**</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: Avril - Septembre<br>Budget €/j: 5-10<br>Emplacements: 100<br>Location: <br>description: <br>Adresse: Route de Salbris, 18330 NANCAY<br>Phone: 02 48 51 81 80<br>Website: /www.nancay.a3w.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Salbris, 18330 NANCAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 51 81 80</value>
+					</Data>
+					<Data name='Website'>
+						<value>/www.nancay.a3w.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.17804,47.349989,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA ROCHE 3***</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: Avril - Septembre<br>Budget €/j: 10-15<br>Emplacements: 120<br>Location: <br>description: <br>Adresse: Chemin de la Roche, 18200 ST AMAND MONTROND<br>Phone: 02 48 96 09 36<br>Website: www.st-amand-tourisme.com/preparer-votre-sejour/camping.html ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>120</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin de la Roche, 18200 ST AMAND MONTROND</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 96 09 36</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.st-amand-tourisme.com/preparer-votre-sejour/camping.html </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.489777,46.710678,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BELLON 3***</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: Avril - Septembre<br>Budget €/j: 10-15<br>Emplacements: 100<br>Location: <br>description: <br>Adresse: Route de Bellon, 18100 VIERZON<br>Phone: 02 48 75 49 10<br>Website: www.officedetourismedevierzon.com/loger/?p=campings]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Bellon, 18100 VIERZON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 75 49 10</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.officedetourismedevierzon.com/loger/?p=campings</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.080708,47.208433,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL STE MONTAINE 1*</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 30<br>Location: non<br>description: <br>Adresse: 18700 STE MONTAINE<br>Phone: <br>Website: http://goo.gl/nlIR1g]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>18700 STE MONTAINE</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/nlIR1g</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.323608,47.491225,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Goufre 2**</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 20<br>Location: <br>description: <br>Adresse: 18350 BLET<br>Phone: 02 48 74 71 04<br>Website: www.cdcpaysnerondes.com/communes/blet]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>18350 BLET</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 74 71 04</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.cdcpaysnerondes.com/communes/blet</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.730103,46.893985,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL CULAN 2**</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: ns<br>Location: <br>description: out of business <br><br><br>Adresse: 18270 CULAN<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>out of business 
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>18270 CULAN</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.340088,46.554611,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL GRACAY 2**</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: Avril - Aout<br>Budget €/j: 10-15<br>Emplacements: 49<br>Location: <br>description: <br>Adresse: 18310 GRACAY<br>Phone: 02 48 51 24 14<br>Website: www.officedetourismedevierzon.com/loger/?p=campings]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>49</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>18310 GRACAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 51 24 14</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.officedetourismedevierzon.com/loger/?p=campings</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.845703,47.140227,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ROBINSON 3***</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: Mai - Septembre<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: 18150 LA GUERCHE SUR L AUBOIS<br>Phone: 02 48 74 18 86<br>Website: www.laguerche-aubois.fr/hebergements-loisirs/page.asp?num=27 ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>18150 LA GUERCHE SUR L AUBOIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 74 18 86</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.laguerche-aubois.fr/hebergements-loisirs/page.asp?num=27 </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.949829,46.949325,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL MEHUN SUR YEVRE 2**</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: Mai - Septembre<br>Budget €/j: 10-15<br>Emplacements: 35<br>Location: <br>description: <br>Adresse: Avenue Châtelet, 18500 MEHUN SUR YEVRE<br>Phone: 02 48 57 44 51<br>Website: www.ville-mehun-sur-yevre.fr/Le-camping]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue Châtelet, 18500 MEHUN SUR YEVRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 57 44 51</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-mehun-sur-yevre.fr/Le-camping</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.213745,47.144897,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE CHAMP DE FOIRE 1*</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: Juin - Septembre<br>Budget €/j: 10-15<br>Emplacements: 10<br>Location: non<br>description: <br>Adresse: 18370 PREVERANGES<br>Phone: 02 48 56 46 77<br>Website: http://goo.gl/mWyzUr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>10</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>18370 PREVERANGES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 56 46 77</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/mWyzUr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.256317,46.429339,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL SIDIAILLES 2**</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: 35<br>Location: <br>description: <br>Adresse: 18270 SIDIAILLES<br>Phone: 02 48 56 63 27<br>Website: http://www.sidiailles.com/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>18270 SIDIAILLES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 56 63 27</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.sidiailles.com/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.318115,46.504064,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Les Plantes 2**</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: Avril - Octobre<br>Budget €/j: 5-10<br>Emplacements: 35<br>Location: <br>description: <br>Adresse: 18110 ST MARTIN D AUXIGNY<br>Phone: 02 48 64 50 58<br>Website: /www.st-martin-auxigny.org/camping-les-plantes-602956.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>18110 ST MARTIN D AUXIGNY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 64 50 58</value>
+					</Data>
+					<Data name='Website'>
+						<value>/www.st-martin-auxigny.org/camping-les-plantes-602956.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.416134,47.203126,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les GERMAINS 2**</name>
+				<description><![CDATA[Département: Cher <br>Ouverture: Toute l'année<br>Budget €/j: 5-10<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: Route des Coutures, 18240 BELLEVILLE SUR LOIRE<br>Phone: 02 48 72 39 49<br>Website: www.bellevillesurloire.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route des Coutures, 18240 BELLEVILLE SUR LOIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 72 39 49</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.bellevillesurloire.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.8516390000000005,47.494937,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL COURVILLE SUR EURE 2**</name>
+				<description><![CDATA[Département: Eure<br>Ouverture: Mai - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 67<br>Location: <br>description: <br>Adresse: Rue de Thiers , 28190 COURVILLE SUR EURE<br>Phone: 02 37 18 07 90<br>Website: www.courville-sur-eure.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Eure</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>67</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de Thiers , 28190 COURVILLE SUR EURE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 37 18 07 90</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.courville-sur-eure.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.242142,48.44264,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du MOULIN a TAN 2*</name>
+				<description><![CDATA[Département: Eure & Loir<br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 111<br>Location: <br>description: <br>Adresse: Rue de Chollet, 28200 CHATEAUDUN<br>Phone: 02 37 45 05 34<br>Website: www.tourisme-chateaudun.fr/camping-suite-p137.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Eure &amp; Loir</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>111</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de Chollet, 28200 CHATEAUDUN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 37 45 05 34</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-chateaudun.fr/camping-suite-p137.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.328402,48.075842,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL La Goguerie</name>
+				<description><![CDATA[Département: Eure & Loir<br>Ouverture: Avril - Octobre<br>Budget €/j: ns<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: Aunay-des-Guiniers, 28330 AUTHON DU PERCHE<br>Phone: 02 37 49 03 41<br>Website: http://goo.gl/KA2IQM]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Eure &amp; Loir</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Aunay-des-Guiniers, 28330 AUTHON DU PERCHE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 37 49 03 41</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/KA2IQM</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.885429,48.20236700000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du PONT de PIERRE 2**</name>
+				<description><![CDATA[Département: Eure & Loir<br>Ouverture: Mai-Septembre<br>Budget €/j: 5-10<br>Emplacements: 75<br>Location: <br>description: <br>Adresse: 4 bis des Lilas, 28290 ARROU<br>Phone: 02 37 97 02 13<br>Website: www.arrou.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Eure &amp; Loir</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>75</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>4 bis des Lilas, 28290 ARROU</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 37 97 02 13</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.arrou.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.123352,48.096426,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL MORANCEZ 2**</name>
+				<description><![CDATA[Département: Eure & Loir<br>Ouverture: FERME 2014 <br>Budget €/j: ns<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: 28630 MORANCEZ<br>Phone: 02 37 30 02 80<br>Website: www.morancez.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Eure &amp; Loir</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>FERME 2014 </value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>28630 MORANCEZ</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 37 30 02 80</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.morancez.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.490364,48.400032,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL TOURY 2**</name>
+				<description><![CDATA[Département: Eure & Loir<br>Ouverture: mi Avril - mi Octobre<br>Budget €/j: 10-15<br>Emplacements: 10<br>Location: <br>description: <br>Adresse: Rue de Boissay, 28310 TOURY<br>Phone: 02 37 90 50 60<br>Website: www.ville-toury.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Eure &amp; Loir</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril - mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>10</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de Boissay, 28310 TOURY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 37 90 50 60</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-toury.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.9291309999999997,48.194472,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE PRE DE L'EGLISE 3*</name>
+				<description><![CDATA[Département: Eure & Loir<br>Ouverture: Avril - Septembre<br>Budget €/j: 10-15<br>Emplacements: 45<br>Location: <br>description: <br>Adresse: 28380 ST REMY SUR AVRE<br>Phone: 02 37 48 93 87<br>Website: www.ville-st-remy-sur-avre.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Eure &amp; Loir</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>45</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>28380 ST REMY SUR AVRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 37 48 93 87</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-st-remy-sur-avre.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.245575,48.747134,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL DE LA RHONE </name>
+				<description><![CDATA[Département: Eure & Loir<br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: 28400 SOUANCE AU PERCHE<br>Phone: 02 37 29 15 62<br>Website: http://goo.gl/Qd5mkp]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Eure &amp; Loir</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>28400 SOUANCE AU PERCHE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 37 29 15 62</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/Qd5mkp</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.854874,48.267198,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES VIENNES </name>
+				<description><![CDATA[Département: Eure & Loir<br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: Rue des Viennes, 28400 NOGENT LE ROTROU<br>Phone: 02 37 52 80 51<br>Website: http://goo.gl/oFcFzy]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Eure &amp; Loir</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue des Viennes, 28400 NOGENT LE ROTROU</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 37 52 80 51</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/oFcFzy</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.8177090000000001,48.324471,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES CHENES </name>
+				<description><![CDATA[Département: Indre<br>Ouverture: ns<br>Budget €/j: 15-20<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: Route de Lucay, 36600 VALENCAY<br>Phone: 02 54 00 03 92<br>Website: www.valencay.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Lucay, 36600 VALENCAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 00 03 92</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.valencay.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.569672,47.161708,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL STE SEVERE SUR INDRE 2**</name>
+				<description><![CDATA[Département: Indre<br>Ouverture: Avril -Octobre<br>Budget €/j: ns<br>Emplacements: 20<br>Location: <br>description: <br>Adresse: Route de l'Auvergne, 36160 STE SEVERE SUR INDRE<br>Phone: 02 54 30 50 28<br>Website: www.camping-berry-ste-severe.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril -Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>20</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de l'Auvergne, 36160 STE SEVERE SUR INDRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 30 50 28</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-berry-ste-severe.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.068992,46.488968,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL L'ILLON 2**</name>
+				<description><![CDATA[Département: Indre<br>Ouverture: Juin-Septembre<br>Budget €/j: 5-10<br>Emplacements: 90<br>Location: <br>description: <br>Adresse: Rue de l'Image, 36800 ST GAULTIER<br>Phone: 02 54 47 11 22<br>Website: http://www.mairie-saintgaultier.fr/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>90</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de l'Image, 36800 ST GAULTIER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 47 11 22</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.mairie-saintgaultier.fr/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.420712,46.633923,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL REUILLY 2*</name>
+				<description><![CDATA[Département: Indre<br>Ouverture: Mai -mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 35<br>Location: <br>description: <br>Adresse: Rue des Ponts, 36260 REUILLY<br>Phone: 02.54.27.58.61<br>Website: www.reuilly.fr/restauration-et-hebergements-229-fra.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai -mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue des Ponts, 36260 REUILLY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02.54.27.58.61</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.reuilly.fr/restauration-et-hebergements-229-fra.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.050066,47.085436,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL SOLANGE SAND 2*</name>
+				<description><![CDATA[Département: Indre<br>Ouverture: mi Mars - mi Octobre<br>Budget €/j: 10-15<br>Emplacements: 70<br>Location: <br>description: <br>Adresse: 2 Rue du Pont, 36400 MONTGIVRAY<br>Phone: 02 54 06 10 36<br>Website: www.berryprovince.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars - mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>2 Rue du Pont, 36400 MONTGIVRAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 06 10 36</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.berryprovince.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.9792989999999997,46.601956,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL CHAMP DE LA CURE 2*</name>
+				<description><![CDATA[Département: Indre<br>Ouverture: Avril -Septembre<br>Budget €/j: 5-10<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: 36220 MERIGNY<br>Phone: 02 54 37 42 71<br>Website: http://merigny.pagesperso-orange.fr/hebergement.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril -Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>36220 MERIGNY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 37 42 71</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://merigny.pagesperso-orange.fr/hebergement.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.9269710000000001,46.628693,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES GRANDES ILES 2*</name>
+				<description><![CDATA[Département: Indre<br>Ouverture: mi Juin- miSeptembre<br>Budget €/j: 5-10<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: 36220 TOURNON ST MARTIN<br>Phone: 02 54 37 88 86<br>Website: www.tournonstmartin.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin- miSeptembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>36220 TOURNON ST MARTIN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 37 88 86</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tournonstmartin.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.9530640000000001,46.72856600000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL DE FOUGERES 3***</name>
+				<description><![CDATA[Département: Indre<br>Ouverture: Avril - Octobre<br>Budget €/j: 15-20<br>Emplacements: 150<br>Location: <br>description: <br>Adresse: 36190 ST PLANTAIRE<br>Phone: 02 54 47 20 01 <br>Website: www.saint-plantaire.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>150</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>36190 ST PLANTAIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 47 20 01 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saint-plantaire.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.662261,46.461408,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE SAUZELLES</name>
+				<description><![CDATA[Département: Indre<br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: ns<br>Location: <br>description: <br>Adresse: 36220 SAUZELLES<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>36220 SAUZELLES</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.005249,46.660747,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de l Arpent 2*</name>
+				<description><![CDATA[Département: Indre<br>Ouverture: Juin - Septembre<br>Budget €/j: 5-10<br>Emplacements: 15<br>Location: <br>description: <br>Adresse: route de Montipouret, 36230 MERS SUR INDRE<br>Phone: 02 54 31 06 52<br>Website: www.mers-sur-indre.fr/index.php/camping]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>15</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route de Montipouret, 36230 MERS SUR INDRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 31 06 52</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mers-sur-indre.fr/index.php/camping</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.8820950000000003,46.656977,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA FOULQUETIERE 2*</name>
+				<description><![CDATA[Département: Indre<br>Ouverture: Avril - mi Octobre<br>Budget €/j: 5-10<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: 36360 LUCAY LE MALE<br>Phone: 02 54 40 43 31<br>Website: http://goo.gl/FuTsC8]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>36360 LUCAY LE MALE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 40 43 31</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/FuTsC8</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.438007,47.125980000000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA PISCINE 2**</name>
+				<description><![CDATA[Département: Indre<br>Ouverture: miJuin  - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 35<br>Location: <br>description: <br>Adresse: 36110 LEVROUX<br>Phone: 02 54 35 70 54<br>Website: www.ville-levroux.fr/pages/03sebaladeralevroux/pageselogeretserestaurer.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>miJuin  - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>36110 LEVROUX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 35 70 54</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-levroux.fr/pages/03sebaladeralevroux/pageselogeretserestaurer.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.60881,46.98118900000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les TAUPEAUX 2**</name>
+				<description><![CDATA[Département: Indre<br>Ouverture: Juin-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: 37 rte reuilly, 36100 ISSOUDUN<br>Phone: 02 54 03 11 68<br>Website: www.issoudun.fr/tourisme-a-issoudun/ou-manger-ou-dormir.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>37 rte reuilly, 36100 ISSOUDUN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 03 11 68</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.issoudun.fr/tourisme-a-issoudun/ou-manger-ou-dormir.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.9903280000000003,46.960632,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES NUGIRAS 3*</name>
+				<description><![CDATA[Département: Indre<br>Ouverture: Toute l'année<br>Budget €/j: 10-15<br>Emplacements: 180<br>Location: <br>description: <br>Adresse: Route de Messant Chambon, 36270 EGUZON CHANTOME<br>Phone: 02 54 47 45 22<br>Website: www.campingmunicipal-eguzon.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>180</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Messant Chambon, 36270 EGUZON CHANTOME</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 47 45 22</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campingmunicipal-eguzon.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.582718,46.442115,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA MENETRIE </name>
+				<description><![CDATA[Département: Indre<br>Ouverture: mi Mai-mi Septembre<br>Budget €/j: ns<br>Emplacements: 45<br>Location: <br>description: <br>Adresse: Rue du Moulin de la Grange, 36700 CHATILLON SUR INDRE<br>Phone: 02 54 38 75 44<br>Website: www.chatillon-sur-indre.fr/camping.php]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>45</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue du Moulin de la Grange, 36700 CHATILLON SUR INDRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 38 75 44</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.chatillon-sur-indre.fr/camping.php</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.174335,46.992548,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES VIEUX CHENES 3*</name>
+				<description><![CDATA[Département: Indre<br>Ouverture: Mai-Septembre<br>Budget €/j: 5-10<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: 36310 CHAILLAC<br>Phone: 02 54 25 61 39<br>Website: www.chaillac36.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>36310 CHAILLAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 25 61 39</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.chaillac36.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.29776,46.43123200000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA QUINTAINE 2*</name>
+				<description><![CDATA[Département: Indre<br>Ouverture: Toute l'année<br>Budget €/j: 5-10<br>Emplacements: 26<br>Location: <br>description: <br>Adresse: 36370 BELABRE<br>Phone: 02 54 37 61 80<br>Website: www.ville-belabre.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>26</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>36370 BELABRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 37 61 80</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-belabre.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.157684,46.550597,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE CAMP DU CHATEAU 2**</name>
+				<description><![CDATA[Département: Indre<br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: 36290 AZAY LE FERRON<br>Phone: 02 54 39 21 91 <br>Website: /www.coeurdebrenne.fr/a-voir-a-faire/ou-dormir/hotellerie-de-plein-air]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>36290 AZAY LE FERRON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 39 21 91 </value>
+					</Data>
+					<Data name='Website'>
+						<value>/www.coeurdebrenne.fr/a-voir-a-faire/ou-dormir/hotellerie-de-plein-air</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.06842,46.851269,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE PRE DE LA CURE</name>
+				<description><![CDATA[Département: Indre<br>Ouverture: mi Avril - Octobre<br>Budget €/j: ns<br>Emplacements: ns<br>Location: <br>description: <br>Adresse: 36700 ARPHEUILLES<br>Phone: 02 54 38 42 17<br>Website: www.berryprovince.com/dormir-et-reserver/vous-recherchez-un-hebergement/aire-naturelle-municipale-le-pre-de-la-cure-arpheuilles]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>36700 ARPHEUILLES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 38 42 17</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.berryprovince.com/dormir-et-reserver/vous-recherchez-un-hebergement/aire-naturelle-municipale-le-pre-de-la-cure-arpheuilles</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.278191,46.90032,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL L'ETANG 1*</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: 16<br>Location: <br>description: Tél: 02 54 80 74 38<br>SITE WEB (http://www.saint-agil.com/)<br>Adresse: 41170 ST AGIL<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>16</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Tél: 02 54 80 74 38
+SITE WEB (http://www.saint-agil.com/)</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>41170 ST AGIL</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.9283449999999999,48.034019,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES CHATAIGNIERS 2**</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: Avril -mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 70<br>Location: <br>description: Tél: 02 54 97 67 26<br>SITE WEB (http://campingleschataigniers.e-monsite.com/album/)<br>Adresse: Bd Kléber Lousteau, 41130 SELLES SUR CHER<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril -mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Tél: 02 54 97 67 26
+SITE WEB (http://campingleschataigniers.e-monsite.com/album/)</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Bd Kléber Lousteau, 41130 SELLES SUR CHER</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.560059,47.273639,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL DU CHENE 2**</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: Toute l'année<br>Budget €/j: 10-15<br>Emplacements: 27<br>Location: <br>description: Tél: 02 54 96 52 31<br>SITE WEB (http://www.campinglechene.fr/)<br>Adresse: Route de Billy, 41200 PRUNIERS EN SOLOGNE<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>27</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Tél: 02 54 96 52 31
+SITE WEB (http://www.campinglechene.fr/)</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Billy, 41200 PRUNIERS EN SOLOGNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.672668,47.322069,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA VARENNE 2**</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: Avril -Septembre<br>Budget €/j: 10-15<br>Emplacements: 70<br>Location: <br>description: Tél: 02 54 83 68 52<br>SITE WEB (http://www.neung-sur-beuvron.fr/camping_accueil.html)<br>Adresse: 41210 NEUNG SUR BEUVRON<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril -Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Tél: 02 54 83 68 52
+SITE WEB (http://www.neung-sur-beuvron.fr/camping_accueil.html)</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>41210 NEUNG SUR BEUVRON</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.809998,47.533893,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA VARENNE 2**</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: Varenne, 41160 MOREE<br>Phone: <br>Website: www.cc-haut-vendomois.com/communes/moree/index.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Varenne, 41160 MOREE</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value>www.cc-haut-vendomois.com/communes/moree/index.</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.226907,47.902505,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES RECLUSAGES 3***</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: Mai - Septembre<br>Budget €/j: 10-15<br>Emplacements: 120<br>Location: <br>description: <br>Adresse: Avenue des Reclusages, 41800 MONTOIRE SUR LE LOIR<br>Phone: 02 54 85 02 53<br>Website: www.mairie-montoire.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>120</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue des Reclusages, 41800 MONTOIRE SUR LE LOIR</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 85 02 53</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie-montoire.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.863113,47.746249,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL CELLETTES 2**</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: mi Mai -mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 80<br>Location: <br>description: <br>Adresse: 41120 CELLETTES<br>Phone: 02 54 70 48 41<br>Website: www.cellettes41.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai -mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>80</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>41120 CELLETTES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 70 48 41</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.cellettes41.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.381531,47.527866,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AIRE NATURELLE MUNICIPALE VERNOU en SOLOGNE</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: ns<br>Location: <br>description: <br>Adresse: 41230 VERNOU EN SOLOGNE<br>Phone: 02 54 98 20 22<br>Website: www.vernou-en-sologne.com/aire-naturelle-de-repos-de-vernou-en-sologne.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>41230 VERNOU EN SOLOGNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 98 20 22</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vernou-en-sologne.com/aire-naturelle-de-repos-de-vernou-en-sologne.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.686401,47.491225,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL MONTHOU SUR CHER 2**</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 25<br>Location: <br>description: <br>Adresse: 41400 MONTHOU SUR CHER<br>Phone: 02 54 71 53 85<br>Website: www.monthousurcher.fr/ou-s-heberger.php]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>41400 MONTHOU SUR CHER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 71 53 85</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.monthousurcher.fr/ou-s-heberger.php</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.296387,47.340684,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL VAL ROSE 2**</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: Mai - Aout<br>Budget €/j: 5-10<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: Rue de Val Rose, 41320 MENNETOU SUR CHER<br>Phone: 02 54 98 01 19<br>Website: http://mennetousurcher.free.fr/racine/francais/pages/05_gite/05_campings.htm]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de Val Rose, 41320 MENNETOU SUR CHER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 98 01 19</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://mennetousurcher.free.fr/racine/francais/pages/05_gite/05_campings.htm</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.862183,47.265252,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>C MUNICIPAL HOUSSAY 1*</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: ns<br>Location: <br>description: out of business <br><br><br>Adresse: 41800 HOUSSAY<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>out of business 
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>41800 HOUSSAY</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.939331,47.748558,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE COSSON 2**</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: Avril -mi Octobre<br>Budget €/j: 10-15<br>Emplacements: 60<br>Location: <br>description: <br>Adresse: 41220 CROUY SUR COSSON<br>Phone: 02 54 87 08 81<br>Website: www.coeur-val-de-loire.com/sejour-loir-et-cher/detail.asp?type=&idoi=41AACAM100052]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril -mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>41220 CROUY SUR COSSON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 87 08 81</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.coeur-val-de-loire.com/sejour-loir-et-cher/detail.asp?type=&amp;idoi=41AACAM100052</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.609497,47.643186,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL CHOUE 1*</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: ns<br>Budget €/j: 5-10<br>Emplacements: 30<br>Location: <br>description: <br>Adresse: 41170 CHOUE<br>Phone: 02 54 80 92 28<br>Website: www.choue.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>41170 CHOUE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 80 92 28</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.choue.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.9297180000000002,47.993598,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE GUE 3**</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: mi Avril - Septembre<br>Budget €/j: 15-20<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: Route de Couddes, 41700 CHEMERY<br>Phone: 02 54 32 97 40<br>Website: www.camping-le-gue.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de Couddes, 41700 CHEMERY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 32 97 40</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-le-gue.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.475408,47.344268,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL CHAUMONT SUR LOIRE 2**</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: Mai - Septembre<br>Budget €/j: 10-15<br>Emplacements: 150<br>Location: <br>description: <br>Adresse: La Grosse Grève, 41150 CHAUMONT SUR LOIRE<br>Phone: 02 54 20 95 22<br>Website: www.camping-chaumont-sur-loire.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>150</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>La Grosse Grève, 41150 CHAUMONT SUR LOIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 20 95 22</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-chaumont-sur-loire.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.192703,47.477304,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES SAULES 2**</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: Mai - Aout<br>Budget €/j: 15-20<br>Emplacements: 80<br>Location: <br>description: <br>Adresse: rue des ponts, 41320 CHATRES SUR CHER<br>Phone: 02 54 98 04 55<br>Website: www.chatressurcher.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>80</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue des ponts, 41320 CHATRES SUR CHER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 98 04 55</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.chatressurcher.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.907501,47.262456,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE PETIT MONT-EN-JONC 1*</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: Juin - Septembre<br>Budget €/j: 8-10<br>Emplacements: 22<br>Location: <br>description: <br>Adresse: 41230 SOINGS EN SOLOGNE<br>Phone: 02 54 98 73 28<br>Website: www.soingsensologne.fr/fr/information/37668/camping-mont-jonc]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>8-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>22</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>41230 SOINGS EN SOLOGNE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 98 73 28</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.soingsensologne.fr/fr/information/37668/camping-mont-jonc</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.5271,47.411362,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL SARGE SUR BRAYE 2**</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: Mai - Septembre<br>Budget €/j: 5-10<br>Emplacements: 47<br>Location: <br>description: <br>Adresse: 41170 SARGE SUR BRAYE<br>Phone: 02 54 72 73 17<br>Website: www.coeur-val-de-loire.com/detail.asp?type=campings&idoi=41AACAM100018]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>47</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>41170 SARGE SUR BRAYE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 72 73 17</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.coeur-val-de-loire.com/detail.asp?type=campings&amp;idoi=41AACAM100018</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.85556,47.926465,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL PRUNAY CASSEREAU 2**</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 25<br>Location: <br>description: <br>Adresse: Les Rochelles, 41310 PRUNAY CASSEREAU<br>Phone: 02 54 82 32 81<br>Website: www.prunay-cassereau.fr/fr/tourisme]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Les Rochelles, 41310 PRUNAY CASSEREAU</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 82 32 81</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.prunay-cassereau.fr/fr/tourisme</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.9283449999999999,47.691277,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>C MUNICIPAL LE PORT 2**</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: ns<br>Location: <br>description: out of business<br><br><br>Adresse: 41140 NOYERS SUR CHER<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>out of business
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>41140 NOYERS SUR CHER</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.40625,47.276434,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BELLE VUE 2**</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 100<br>Location: <br>description: <br>Adresse: Avenue de la Loire, 41500 MUIDES SUR LOIRE<br>Phone: 02.54.87.50.08 <br>Website: www.muides.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue de la Loire, 41500 MUIDES SUR LOIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02.54.87.50.08 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.muides.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.529846,47.669087,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL l ETOURNEAU 1*</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: mi Avril-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 90<br>Location: <br>description: <br>Adresse: Route vieille de Tours, 41400 MONTRICHARD<br>Phone: 02 54 32 10 16<br>Website: www.montrichard.fr/index.php?option=com_content&view=article&id=130&Itemid=101]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>90</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route vieille de Tours, 41400 MONTRICHARD</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 32 10 16</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.montrichard.fr/index.php?option=com_content&amp;view=article&amp;id=130&amp;Itemid=101</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.188583,47.34394100000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL La Grosse Motte 2**</name>
+				<description><![CDATA[Département: Loir & Cher <br>Ouverture: Mai - Septembre<br>Budget €/j: 10-15<br>Emplacements: 54<br>Location: <br>description: <br>Adresse: Parc loisir leo Lagrangeb, 37160 DESCARTES<br>Phone: 02 47 59 85 90<br>Website: www.ville-descartes.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loir &amp; Cher </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>54</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Parc loisir leo Lagrangeb, 37160 DESCARTES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 59 85 90</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-descartes.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.697117,46.96953500000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Ligueil 2*</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 36<br>Location: 2 mobilhomes<br>description: en plein milieu de la base de loisirs , piscine<br>Adresse: Avenue Léon Bion, 37240 LIGUEIL<br>Phone: 02 47 59 61 72<br>Website: http://goo.gl/r1Rj3V  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>36</value>
+					</Data>
+					<Data name='Location'>
+						<value>2 mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>en plein milieu de la base de loisirs , piscine</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue Léon Bion, 37240 LIGUEIL</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 59 61 72</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/r1Rj3V  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.823288,47.044393,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Ile de la Claise 1*</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: Mai-mi Septembre<br>Budget €/j: 5-10 TARIFS 2011<br>Emplacements: 33<br>Location: non<br>description: ns<br>Adresse: 37160 ABILLY<br>Phone: 02 47 59 78 01<br>Website: www.abilly37.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10 TARIFS 2011</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>ns</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>37160 ABILLY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 59 78 01</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.abilly37.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.725956,46.939832,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la Bardiere 2*</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: Juin-Septembre<br>Budget €/j: 15-20<br>Emplacements: 52<br>Location: non<br>description: Terrain de camping sur les bords de l'Indre à 500m de la Loire. Le château de la Belle au Bois Dormant- le château d'Ussé.<br>Adresse: rue principale, 37420 RIGNY USSE<br>Phone: 02 47 95 55 85<br>Website: http://goo.gl/FZbkfL]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>52</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Terrain de camping sur les bords de l'Indre à 500m de la Loire. Le château de la Belle au Bois Dormant- le château d'Ussé.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue principale, 37420 RIGNY USSE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 95 55 85</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/FZbkfL</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.296631,47.247543,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL RICHELIEU 2*</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 33<br>Location: non<br>description: face au parc de Richelieu dans un cadre agréable et ombragé.<br>Adresse: 6, avenue Schaafheim , 37120 RICHELIEU<br>Phone: 02 47 58 15 02<br>Website: http://office.tourisme-richelieu.fr/campings.php ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>face au parc de Richelieu dans un cadre agréable et ombragé.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>6, avenue Schaafheim , 37120 RICHELIEU</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 58 15 02</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://office.tourisme-richelieu.fr/campings.php </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.320749,47.008119,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL des PATIS 2*</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: Mai-  Septembre<br>Budget €/j: 10-15<br>Emplacements: 64<br>Location: non<br>description: Un muni pur jus a seulement 4km d Amboise<br>Adresse: 37530 NAZELLES NEGRON<br>Phone: 02 47 57 71 07<br>Website: www.nazellesnegron.fr/camping.php       ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-  Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>64</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Un muni pur jus a seulement 4km d Amboise</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>37530 NAZELLES NEGRON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 57 71 07</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.nazellesnegron.fr/camping.php       </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.958557,47.409503,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le MOULIN 1*</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: ns<br>Location: <br>description: out of business<br><br><br>Adresse: 37110 VILLEDOMER<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>out of business
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>37110 VILLEDOMER</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.892639,47.54131,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Bourgueil 3*</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: mi Mai-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 88<br>Location: non<br>description: Jouxtant le plan d'eau du parc Capitaine, emplacements de 100m², délimités par des haies de troènes<br>Adresse: 31 Av general de Gaulle, 37140 BOURGUEIL<br>Phone: 02 47 97 85 62<br>Website: www.bourgueil.fr/camping  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>88</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Jouxtant le plan d'eau du parc Capitaine, emplacements de 100m², délimités par des haies de troènes</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>31 Av general de Gaulle, 37140 BOURGUEIL</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 97 85 62</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.bourgueil.fr/camping  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.169945,47.273173,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Vauchevrier 2*</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: Mai-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 80<br>Location: non<br>description: Dans un écrin de verdure, en bord de rivière et à deux pas du centre-ville. Piscine intercommunale<br>Adresse: Rue de Vauchevrier , 37110 CHATEAU RENAULT<br>Phone: 02 47 29 54 43<br>Website: www.ville-chateau-renault.fr/Camping-municipal-Gite-d-etape.html    ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>80</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans un écrin de verdure, en bord de rivière et à deux pas du centre-ville. Piscine intercommunale</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de Vauchevrier , 37110 CHATEAU RENAULT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 29 54 43</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ville-chateau-renault.fr/Camping-municipal-Gite-d-etape.html    </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.9070590000000001,47.592041,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL MARANS 2**</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: Avril - Septembre<br>Budget €/j: ns<br>Emplacements: 65<br>Location: non<br>description: Val de Loire., dans l'enceinte du parc Robert Guignard, <br>Adresse: Rue de Toizelet, 37800 STE MAURE DE TOURAINE<br>Phone: 02 47 65 44 93<br>Website: www.tourisme-saintemauredetouraine.fr/campings.html ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>65</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Val de Loire., dans l'enceinte du parc Robert Guignard, </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de Toizelet, 37800 STE MAURE DE TOURAINE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 65 44 93</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-saintemauredetouraine.fr/campings.html </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.624847,47.102849,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE GRAND PRESSIGNY 2**</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: Toute l'année<br>Budget €/j: 5-10<br>Emplacements: 35<br>Location: 2 chalets<br>description: dans un cadre verdoyant, spacieux, calme et ombragé, au bord de l' «Aigronne »<br>Adresse: Croix Marron, 37350 LE GRAND PRESSIGNY<br>Phone: 02 47 94 90 37<br>Website: http://goo.gl/7v6Hh0]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35</value>
+					</Data>
+					<Data name='Location'>
+						<value>2 chalets</value>
+					</Data>
+					<Data name='description'>
+						<value>dans un cadre verdoyant, spacieux, calme et ombragé, au bord de l' «Aigronne »</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Croix Marron, 37350 LE GRAND PRESSIGNY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 94 90 37</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/7v6Hh0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.807495,46.912751,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LANGEAIS 2*</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: Juin -mi Septembre<br>Budget €/j: 15-20<br>Emplacements: 90<br>Location: non<br>description: Dans le cadre agréable du Parc des Loisirs et de son plan d’eau<br>Adresse: 152 Route de Tours, 37130 LANGEAIS<br>Phone: 02 47 96 85 80<br>Website: www.langeais.fr  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin -mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>90</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Dans le cadre agréable du Parc des Loisirs et de son plan d’eau</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>152 Route de Tours, 37130 LANGEAIS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 96 85 80</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.langeais.fr  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.4195400000000001,47.33137700000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Bords de Creuse 1*</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: mi Juin - Aout<br>Budget €/j: 10-15<br>Emplacements: 130<br>Location: non<br>description: situé en bord de Creuse. Parcours de randonnées pédestres, Pêche<br>Adresse: Rue de la Baignade, 37290 YZEURES SUR CREUSE<br>Phone: 02 47 94 66 70<br>Website: http://goo.gl/aAXY1J  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>130</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>situé en bord de Creuse. Parcours de randonnées pédestres, Pêche</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de la Baignade, 37290 YZEURES SUR CREUSE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 94 66 70</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/aAXY1J  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.870667,46.781255,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Des BORDS De LOIRE</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: Juillet - Aout<br>Budget €/j: 10-15<br>Emplacements: 100<br>Location: non<br>description: calme et sérénité, verdure, le plaisir de la plage et celui de la pêche.<br>Adresse: Ile Bourdon, 37140 CHOUZE SUR LOIRE<br>Phone: 02 47 95 10 10<br>Website: www.chouze-sur-loire.fr/TOURISME/camping.html  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>calme et sérénité, verdure, le plaisir de la plage et celui de la pêche.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Ile Bourdon, 37140 CHOUZE SUR LOIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 95 10 10</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.chouze-sur-loire.fr/TOURISME/camping.html  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.11261000000000002,47.230527,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Fontaine des Pres</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: Juin - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 53<br>Location: non<br>description: Camping ombragé, non gardé en permanence.<br>Adresse: 37150 CHENONCEAUX<br>Phone: 02 47 23 90 13<br>Website: www.chenonceaux-blere-tourisme.com/campings.php ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>53</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Camping ombragé, non gardé en permanence.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>37150 CHENONCEAUX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 23 90 13</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.chenonceaux-blere-tourisme.com/campings.php </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.066017,47.33137700000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL VILLAINES LES ROCHERS</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: Juin - mi Septembre<br>Budget €/j: 5-10<br>Emplacements: 33<br>Location: non<br>description: dans le village de l'osier et de la vannerie, Villaines les Rochers<br>Adresse: Rue de l'Eglise, 37190 VILLAINES LES ROCHERS<br>Phone: 02 47 45 43 08<br>Website: http://goo.gl/hh5AkG ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>dans le village de l'osier et de la vannerie, Villaines les Rochers</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue de l'Eglise, 37190 VILLAINES LES ROCHERS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 45 43 08</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/hh5AkG </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.505371,47.208374,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA CHAPELLE SUR LOIRE 1*</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: Mai-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 22<br>Location: non<br>description: 100% pur Muni : impératif de venir en Mairie pour qu'une clé des sanitaires vous soit remise!<br>Adresse: Rue Fernand Obligy, 37140 LA CHAPELLE SUR LOIRE<br>Phone: 02 47 97 33 91<br>Website: www.la-chapelle-sur-loire.fr/pages/services7.php  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>22</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>100% pur Muni : impératif de venir en Mairie pour qu'une clé des sanitaires vous soit remise!</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue Fernand Obligy, 37140 LA CHAPELLE SUR LOIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 97 33 91</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.la-chapelle-sur-loire.fr/pages/services7.php  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.222473,47.249407,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL L'ILE D'OR 2**</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: mi Juin- Septembre<br>Budget €/j: 10-15<br>Emplacements: 291<br>Location: Tente aménagée<br>description: Iedal pour visiter les chateaux et Piscine d'été de l'Ile d'Or, tarifs 2015 "spécial campeur"<br>Adresse: Parc de l'Ile d'Or37400 AMBOISE<br>Phone: 02 47 57 23 37<br>Website: www.camping-amboise.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin- Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>291</value>
+					</Data>
+					<Data name='Location'>
+						<value>Tente aménagée</value>
+					</Data>
+					<Data name='description'>
+						<value>Iedal pour visiter les chateaux et Piscine d'été de l'Ile d'Or, tarifs 2015 "spécial campeur"</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Parc de l'Ile d'Or37400 AMBOISE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 57 23 37</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-amboise.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.985401,47.416865,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE SABOT 3*</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: Avril - Octobre<br>Budget €/j: 15-20<br>Emplacements: 330<br>Location: non<br>description: Au vert et proche de tellement de châteaux aussi intéressants, a visiter !<br>Adresse: rue du Stade, 37190 AZAY LE RIDEAU<br>Phone: 02 47 45 42 72<br>Website: www.azaylerideau.fr/la-ville/camping-municipal-le-sabot.html    ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>330</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Au vert et proche de tellement de châteaux aussi intéressants, a visiter !</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue du Stade, 37190 AZAY LE RIDEAU</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 45 42 72</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.azaylerideau.fr/la-ville/camping-municipal-le-sabot.html    </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.469666,47.258728,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Bléré Plage la Gâtine</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: Avril - mi Octobre<br>Budget €/j: 15-20<br>Emplacements: 210<br>Location: Tentes / Caravanes<br>description: sur les bords du Cher, le camping de Bléré Plage la Gâtine est une étape idéale pour la visite des châteaux au cœur de la Touraine<br>Adresse: Rue du Commandant Lemaitre, 37150 BLERE<br>Phone: 02 47 57 92 60<br>Website: http://blereplage.free.fr/CampingBlere.htm   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>210</value>
+					</Data>
+					<Data name='Location'>
+						<value>Tentes / Caravanes</value>
+					</Data>
+					<Data name='description'>
+						<value>sur les bords du Cher, le camping de Bléré Plage la Gâtine est une étape idéale pour la visite des châteaux au cœur de la Touraine</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue du Commandant Lemaitre, 37150 BLERE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 47 57 92 60</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://blereplage.free.fr/CampingBlere.htm   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.9963230000000001,47.328352,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Pierre Sicard 2*</name>
+				<description><![CDATA[Département: Cher<br>Ouverture: Juin - Aout<br>Budget €/j: 10-15<br>Emplacements: ns<br>Location: <br>description: <br>Adresse: route des ponts, 18120 PREUILLY <br>Phone: 02 48 51 30 08<br>Website: www.vals-cher-arnon.fr/commune-preuilly-10.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Cher</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route des ponts, 18120 PREUILLY </value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 48 51 30 08</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vals-cher-arnon.fr/commune-preuilly-10.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.191772,47.098175,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la LANCIERE 2**</name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: mi Avril -Septembre<br>Budget €/j: 10-15<br>Emplacements: 55<br>Location: <br>description: <br>Adresse: 45230 CHATILLON COLIGNY<br>Phone: 02 38 96 02 33<br>Website: www.chatillon-coligny.fr/camping.html ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril -Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>55</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>45230 CHATILLON COLIGNY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 38 96 02 33</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.chatillon-coligny.fr/camping.html </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.849579,47.827908,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL L AMITIE 3**</name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: Toute l'année<br>Budget €/j: 10-15<br>Emplacements: 100<br>Location: <br>description: <br>Adresse: Nouan-sur-Loire, 41220 Saint-Laurent-Nouan<br>Phone: 02 54 87 01 52<br>Website: www.campingdelamitie.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Nouan-sur-Loire, 41220 Saint-Laurent-Nouan</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 54 87 01 52</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campingdelamitie.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.558599,47.68703,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL des Bords de l Eur 3*</name>
+				<description><![CDATA[Département: Eure & Loir <br>Ouverture: ns<br>Budget €/j: 15-20<br>Emplacements: 96<br>Location: <br>description: <br>Adresse: 9 rue de Launay, 28630 CHARTRES<br>Phone: 02 37 28 79 43<br>Website: www.camping-de-chartres.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Eure &amp; Loir </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>96</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>9 rue de Launay, 28630 CHARTRES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 37 28 79 43</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-de-chartres.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.507187,48.446967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les eaux Vives</name>
+				<description><![CDATA[Département: Eure & Loir <br>Ouverture: Mars - Octobre<br>Budget €/j: 10-15<br>Emplacements: 87<br>Location: <br>description: <br>Adresse: 1 rue des cordeliers, 28260 ANET <br>Phone: 02 37 41 42 67<br>Website: www.camping-anet.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Eure &amp; Loir </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>87</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>1 rue des cordeliers, 28260 ANET </value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 37 41 42 67</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-anet.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.450195,48.859294000000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Port</name>
+				<description><![CDATA[Département: Loiret <br>Ouverture: ns<br>Budget €/j: 15-20<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: 45730 SAINT BENOIT SUR LOIRE<br>Phone: 02 38 35 77 19 <br>Website: www.onlycamp.fr/leport/index.php ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>45730 SAINT BENOIT SUR LOIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02 38 35 77 19 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.onlycamp.fr/leport/index.php </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.323608,47.803931,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL l ecluse des Combles 2*</name>
+				<description><![CDATA[Département: Loiret<br>Ouverture: Mai - Octobre<br>Budget €/j: 15-20<br>Emplacements: 52<br>Location: <br>description: <br>Adresse: 45630 CHATILLON SUR LOIRE<br>Phone: 06 32 07 83 45<br>Website: www.chatillon-sur-loire.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Loiret</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>52</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>45630 CHATILLON SUR LOIRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 32 07 83 45</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.chatillon-sur-loire.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.750015,47.591925,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal du Parc</name>
+				<description><![CDATA[Département: Indre et Loire<br>Ouverture: ns<br>Budget €/j: 10-15 tarifs 2011 !<br>Emplacements: 33<br>Location: non<br>description: Situé dans le parc des loisirs, à deux pas du centre ville , pres des chateaux pour visite<br>Adresse: 5, route de Langeais; 37130 Cinq-Mars-la-Pile<br>Phone: 02-47-96-40-96<br>Website: http://goo.gl/Mz6dBn]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Indre et Loire</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15 tarifs 2011 !</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>33</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé dans le parc des loisirs, à deux pas du centre ville , pres des chateaux pour visite</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>5, route de Langeais; 37130 Cinq-Mars-la-Pile</value>
+					</Data>
+					<Data name='Phone'>
+						<value>02-47-96-40-96</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/Mz6dBn</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>0.46417240000000004,47.3458019,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

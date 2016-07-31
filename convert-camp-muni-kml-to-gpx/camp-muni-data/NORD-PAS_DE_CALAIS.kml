@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>NORD-PAS DE CALAIS: Campings Municipaux</name>
+		<description><![CDATA[Campings Municipaux  dans le Nord Pas de Calais ! <br><br>]]></description>
+		<Folder>
+			<name>Calque sans titre</name>
+			<Placemark>
+				<name>Camping MUNICIPAL le Gardon</name>
+				<description><![CDATA[..,.. EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - 30 emplacements<br>Ouvert toute l annee<br>345 rue d en bas d Hebecourt<br>62870 SAULCHOY<br>Tél: 03 21 86 01 73<br>GPS 50.350417,1.840547<br>VOIR LE SITE (http://www.canche-authie.fr/hebergements/campings/1-etoile/camping-municipal-le-gardon/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.839652,50.349486,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le VERT BOCAGE 2**</name>
+				<description><![CDATA[..,.. EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - 50 emplacements<br>Ouvert ns<br>62140 GRIGNY<br>Tél: 03 21 81 67 71 <br>VOIR LE SITE (http://www.cc-hesdinois.fr/spip.php?article80)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.060623,50.38313,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la PINEDE 3***</name>
+				<description><![CDATA[21,27 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) <br>Pas de Calais - 112 emplacements<br>Ouvert Mi Fevrier-Novembre<br>route departementale 940<br>62630 ETAPLES<br>Tél: 03 21 94 34 51 <br>GPS 50.531925,1.625498<br>VOIR LE SITE (http://www.etaples-tourisme.com/www/fr/accueil/hebergement__restauration/camping.aspx)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.624303,50.532689,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la FALAISE 3***</name>
+				<description><![CDATA[23,90 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - 352 emplacements<br>Ouvert Avril - mi Novembre<br>Rue Charles Cazin<br>62224 EQUIHEN PLAGE<br>Tél: 03 21 31 22 61<br>GPS 50.671102,1.575247<br>VOIR LE SITE (http://www.camping-equihen-plage.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.571217,50.670884,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la WARENNE 1*</name>
+				<description><![CDATA[N est plus! EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - emplacements<br> 62360 ST ETIENNE AU MONT]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.602631,50.666437,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les PEUPLIERS</name>
+				<description><![CDATA[10,00 EUR/jour Tarifs non mis a jour<br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - 100 emplacements<br>Ouvert ns<br>rue de la vieille canche<br>62140 BOUIN PLUMOISON<br>Tél: 03 21 86 44 80 <br>GPS 50.38484,2.000581<br>SITE WEB (http://www.bouin-plumoison.fr/le_camping_049.htm)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.000499,50.384949,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL des ETANGS 1*</name>
+				<description><![CDATA[..,.. EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) <br>Pas de Calais - 115 emplacements<br>Ouvert ns<br>Rue du Marais<br>62990 CONTES <br>GPS 50.407971,1.955949<br>Tél: 03 21 06 94 60<br>VOIR LE SITE (http://www.cc-hesdinois.fr/spip.php?article80)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.9555660000000001,50.407642,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du Domaine de la Biette 2*</name>
+				<description><![CDATA[16,00 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - 17 emplacements<br>Ouvert Mai -Octobre<br>Chaussée Brunehaut<br>62460 DIVION<br>Tél: 03 21 62 15 88<br>GPS 50.468568,2.498034<br>VOIR LE SITE (http://www.tourisme-bethune-bruay.fr/camping-du-domaine-de-la-biette/divion/tabid/4696/offreid/6d7cf43a-2885-40c5-94e3-9101e5f79397/detail.aspx)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.497888,50.468773,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le GRAND MARAIS 1*</name>
+				<description><![CDATA[Camping residentiel EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement ) Pas de Calais - 30 emplacements<br>Ouvert toute l annee<br>Chemin du Préhaut<br>62860 ECOURT ST QUENTIN<br>Tél: 03 21 73 50 00 <br>SITE WEB (http://www.ecourt-saint-quentin.fr/tarifs.html)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>3.081107,50.252913,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL OLYMPIC 3***</name>
+				<description><![CDATA[18,00 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - 89 emplacements<br>Ouvert Mars - Octobre<br>Rue de la Libération<br>62930 WIMEREUX<br>Tél: 03 21 32 45 63<br>GPS 50.761287,1.607841<br>VOIR LE SITE (http://www.ville-wimereux.fr/campingmunicipal/index.html)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.608467,50.761083,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Violaines </name>
+				<description><![CDATA[9,72 EUR/jour<br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - 13 emplacements<br>ouvert ns<br>rue de l etang<br>62138 VIOLAINES<br>Tél: 03 20 29 41 25 <br>GPS 50.550294,2.766985<br>VOIR LE SITE (http://www.tourisme-bethune-bruay.fr/camping-municipal-de-violaines/violaines/tabid/4422/offreid/703157c4-d24d-4fc1-8f76-bab6ff3e0203/detail.aspx)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.7672030000000003,50.550403,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la SABLIERE 2**</name>
+				<description><![CDATA[15,00 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - 80 emplacements<br>Ouvert Avril-Septembre<br>Rue du 8 Mai<br>62490 TORTEQUESNE<br>Tél: 03 21 24 14 94 <br>GPS 50.290258,3.049432<br>SITE WEB (http://www.tortequesne.fr/tourisme_20.php?ID=109)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>3.049994,50.290546,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL CALAIS 2**</name>
+				<description><![CDATA[Attention - Changements en coursPas de Calais - 245 emplacements<br>Avenue Raymond Poincaré<br>62100 CALAIS<br><br>SITE WEB (http://www.calais.fr/Camping-Municipal-de-Calais#.U1uY4vmSzig)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.84536,50.965184,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le MONT ST FRIEUX 3*** </name>
+				<description><![CDATA[22,90 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - 52 emplacements<br>Ouvert Avril-Octobre<br>21, rue de la Mer<br>62187 DANNES<br>Tél: 03 21 33 24 76 <br>GPS 50.588686,1.61018<br>VOIR LE SITE (http://www.commune-de-dannes.com/pages/campingpag.html)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.609905,50.589408,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL PLOUVAIN 2**</name>
+				<description><![CDATA[15,00 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - 5 emplacements passage<br>ouvert ns<br>62860 PLOUVAIN<br>mairie@plouvain.fr <br>SITE WEB (http://www.plouvain.fr/camping-tarifs.html)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.925797,50.30513,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA SOURCE 2**</name>
+				<description><![CDATA[19,20 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) <br>Pas de Calais - 400 emplacements<br>Ouvert mi Mars- mi Novembre<br>3 rue de la source<br>62179 WISSANT<br>Tél: 03 21 35 92 46 <br>GPS 50.881268,1.65537<br>VERS LE SITE (http://www.ville-wissant.fr)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.653314,50.880632,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la SAPINNIERE 2**</name>
+				<description><![CDATA[15,50 EUR/jour Tarifs non mis a jour<br>En cours de verification<br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - 100 emplacements<br>Ouvert ns<br>62140 LABROYE<br>Fax: 03 21 86 94 79<br>GPS 50.234236,2.106067<br>VOIR LE SITE (http://www.cc-hesdinois.fr)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.996293,50.277136,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la Source 3***</name>
+				<description><![CDATA[16,25 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - 116 emplacements<br>Ouvert toute l annee<br>62990 BEAURAINVILLE<br>Tél: 03 21 81 40 71<br>GPS ns<br>VOIR LE SITE (http://www.beaurainville.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.900034,50.422888,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les PEUPLIERS 3***</name>
+				<description><![CDATA[11,70 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - 82 emplacements<br>Ouvert ns<br>22 Rue du Cheval<br>62390 AUXI LE CHATEAU<br>Tél: 03 21 41 10 79<br>GPS 50.234236,2.106067<br>VOIR LE SITE (http://www.ville-auxilechateau.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.106586,50.234113,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les AJONCS 2**</name>
+				<description><![CDATA[18,30 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) <br>Pas de Calais - 180 emplacements<br>Ouvert Avril-Octobre<br>Rue du Marais<br>62164 AUDRESSELLES<br>Tél: 03 21 32 97 40<br>GPS 50.819642,1.597134<br>VOIR LE SITE (http://www.les-ajoncs.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.5980820000000002,50.820144,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du BRULE 3*</name>
+				<description><![CDATA[10,00 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement ) Pas de Calais - 19 emplacements<br>Ouvert toute l annee<br>rue des promenades<br>62190 LILLERS<br>Tél: 03 21 02 33 06<br>GPS 50.564853,2.491232<br>VOIR LE SITE (http://www.mairie-lillers.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.491407,50.564649,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la Vallee de L'HOGNEAU 1*</name>
+				<description><![CDATA[12,00 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Nord - 59 emplacements<br>Ouvert ns<br>Rue de la Place<br>59570 BELLIGNIES<br>Tél: 03 27 63 16 01 <br>GPS 50.325409,3.770324<br>SITE WEB (http://www.tourisme-nord.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>3.7706709999999997,50.325642,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les DUNES 4****</name>
+				<description><![CDATA[22,50 EUR/jour tarifs non mis a jour<br>(Budget moyen indicatif pour 2p + emplacement + electricité) Nord - 550 emplacements<br>Ouvert toute l annee<br>rue des dunes<br>59123 BRAY DUNES<br>Tél: 03 28 26 61 54 <br>GPS 51.066859,2.493632<br>VERS LE SITE (http://www.bray-dunes.fr/tourisme/campings/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.493339,51.067453,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la BOISSELLERIE 2** </name>
+				<description><![CDATA[15,00 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Nord - 60 emplacements<br>Rue de La Place<br>59740 FELLERIES <br>GPS 50.143225,4.028741<br>Tél: 03 27 59 06 50 <br>SITE WEB (http://www.tourisme-nord.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>4.027519,50.142503,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la LYS 2**</name>
+				<description><![CDATA[10,50 EUR/jour Tarifs a verifier<br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - 50 emplacements<br>Ouvert Avril-mi Novembre<br>Rue du fort Gassion<br>62120 AIRE SUR LA LYS<br>Tél: 03 21 95 40 40 <br>GPS 50.644331,2.4039<br>VOIR LE SITE (http://www.ville-airesurlalys.fr/hebergement.htm)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.403989,50.644208000000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BEAUSEJOUR 4*</name>
+				<description><![CDATA[18,00 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - 150 emplacements<br>Ouvert Avril-Octobre<br>Rue Michelet<br>62510 ARQUES<br>Tél: 03 21 88 53 66<br>GPS 50.745241,2.30689<br>VERS LE SITE (http://www.camping-arques.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.306871,50.745200000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de la CANCHE 1*</name>
+				<description><![CDATA[10,80 EUR/jour Tarifs non mis a jour<br>(Budget moyen indicatif pour 2p + emplacement + electricité) <br>en cours de verificationPas de Calais - 135 emplacements<br>Ouvert ns<br>Le Petit Marais<br>62140 AUBIN ST VAAST<br>Tél: 03 21 86 86 98 <br>VOIR LE SITE (http://www.cc-hesdinois.fr)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.009125,50.419019,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le MUSEE 3***</name>
+				<description><![CDATA[20,30 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) <br>Pas de Calais - 155 emplacements<br>Ouvert Avril - Octobre<br>route du musee<br>62179 AUDINGHEN<br>Tél: 03 21 32 97 22 <br>GPS 50.843535,1.599967<br>VERS LE SITE (http://audinghen-capgrisnez.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.6010430000000002,50.842872,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le CLAIR de LUNE 3*</name>
+				<description><![CDATA[15,10 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Nord - 90 emplacements<br>Ouvert Avril-Septembre<br>212, route de Mons<br>59600 MAUBEUGE <br>GPS 50.295604,3.976545<br>Tél: 03 27 62 25 48 <br>SITE WEB (http://www.tourisme-nord.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>3.976471,50.295632,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les BISELLES 3***</name>
+				<description><![CDATA[17,90 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Nord - 200 emplacements<br>Ouvert Avril-Octobre<br>chemin des bizelles<br>59151 ARLEUX <br>GPS 50.273639,3.105844<br>Tél: 03 27 89 52 36 <br>SITE WEB (http://www.arleux.fr/office-de-tourisme/camping-municipal.html)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>3.105376,50.273283,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les TROIS CLOCHERS 3*</name>
+				<description><![CDATA[14,50 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Nord - 50 emplacements<br>Ouvert Avril-mi Octobre<br>77, rue Jean Goude<br>59400 CAMBRAI <br>GPS 50.175703,3.21543<br>Tel 03 27 70 91 64<br><br>SITE WEB (http://www.tourisme-cambrai.fr/?id_categorie=190&commune=23&motclefs=&fonction=rubrique&id=209&etape=1)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>3.215421,50.175785,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le vert Feuillage </name>
+				<description><![CDATA[20,40 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Nord - 94 emplacements<br>Ouvert ? - mi Septembre<br>59134 HERLIES<br>Tél: 06.21.60.37.86<br>GPS ns<br>VOIR LE SITE (http://www.herlies.fr/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.853012,50.578004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du SOLREZIS 2**</name>
+				<description><![CDATA[20,00 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Nord - 36 emplacements<br>Ouvert Avril-Septembre<br>Rue Léo Lagrange<br>59740 SOLRE LE CHATEAU<br>Tél: 03 27 56 12 95 <br>GPS ns<br>SITE WEB (http://www.tourisme-avesnois.com/sejourner/hebergements/campings/482236-camping-municipal-le-solrezis)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>4.09186,50.182013,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BECQUEREL 1*</name>
+				<description><![CDATA[en cours de verification EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement ) Pas de Calais - 134 emplacements<br>Ouvertns<br>62860 ECOURT ST QUENTIN<br>Tél: 03 21 73 50 00 <br>SITE WEB (http://www.ecourt-saint-quentin.fr/tarifs.html)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>3.073533,50.251253,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL des AULNAIES 1*</name>
+				<description><![CDATA[....EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - 92 emplacements<br>Pour Mobilhomes a l annee seulement!<br>Ouvert mi Mars-mi Novembre<br>Allee des Etangs<br>62170 BRIMEUX <br>GPS 50.440042,1.846812<br>Tel: 03 21 06 07 95.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.847334,50.440425,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du Haut Pont</name>
+				<description><![CDATA[..,.. EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Pas de Calais - 5 emplacements<br>Ouvert Avril-Septembre<br>Rue du Haut Pont <br> 62870 DOURIEZ<br>Tél: 03.21.86.33.35<br>GPS 50.340394,1.848357<br>VOIR LE SITE (http://www.canche-authie.fr/hebergements/campings/1-etoile/camping-municipal-du-haut-pont/)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>1.8768169999999997,50.32845,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Etangs 3*</name>
+				<description><![CDATA[15,00 EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Nord - emplacements<br>Ouvert April - Octobre<br>100 rue des Etangs<br>59610 FOURMIES <br>GPS 50.005891,4.061784<br>Tél: 03 27 60 04 32 <br>SITE WEB (http://www.mairie-fourmies.fr/spip.php?article107)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>4.061508,50.006001000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Vauban 2*</name>
+				<description><![CDATA[.... EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + electricité) Nord - 84 emplacements<br>Ouvert ....<br>avenue vauban<br>59380 BERGUES<br>Tél: 03.28.68.65.25<br>VERS LE SITE (http://bergues.stationverte.com/fr/bougez/bergues/camping-vauban_s26_t191025_61.html)]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.434008,50.972468,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

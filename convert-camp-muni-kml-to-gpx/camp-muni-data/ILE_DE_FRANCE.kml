@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name> ILE DE FRANCE  Campings Municipaux</name>
+		<description><![CDATA[Campings municipaux en Ile de France<br><br>]]></description>
+		<Folder>
+			<name>Calque sans titre</name>
+			<Placemark>
+				<name>Camping MUNICIPAL JOEL TEINTURIER 3***</name>
+				<description><![CDATA[out of businessIle de France - emplacements<br>Route de St-Martin-Des-Champs<br>77320 LA FERTE GAUCHER]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>3.314009,48.782098,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL PARC LE VAL D'ESSONNE 1*</name>
+				<description><![CDATA[10,00 EUR/jour Tarifs non mis a jour<br>Ile de France - 10 emplacements<br>OPEN Avril-Octobre<br>Chemin des Marais<br>91760 ITTEVILLE<br>Tél: 01 64 93 35 19<br>VOIR LE SITE (http://www.tourisme-essonne.com/fr/hebergements-location-de-salles/campings-en-essonne/fiche-tourisme/camping-caravaning-parc-du-val-dessonne/ )]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.364335,48.50944,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL SAMOREAU 1*</name>
+				<description><![CDATA[13,35 EUR/jour <br>Ile de France - 50 emplacements<br>OPEN Avril-Octobre<br>Rue de l'eglise<br>77210 SAMOREAU<br>Tél: 01 64 23 72 25<br>VERS LE SITE (http://www.samoreau.fr/la-mairie/camping/ )]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.74935,48.422665,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de Tancrou 1*</name>
+				<description><![CDATA[Temporairement Fermé EUR/jour <br>(Budget moyen indicatif pour 2p + emplacement + électricité)Ile de France - emplacements<br><br>77 TANCROU]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>3.046119,48.999808,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL St GERMAIN LAVAL</name>
+				<description><![CDATA[9,90 EUR/jour Ile de France - 113 emplacements<br>Ouvert 15 Mars- 15Octobre<br>lieu dit la pras<br>77130 ST GERMAIN LAVAL<br>Tél: 04 77 65 44 35<br>VERS LE SITE (http://www.st-germain-laval.fr/index.php?page=camping-municipal )]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<Point>
+					<coordinates>2.983475,48.397753,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

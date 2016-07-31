@@ -1,0 +1,2692 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>PACA - Campings Municipaux</name>
+		<description><![CDATA[Campings Municipaux <br>Bouches du Rhone, Vaucluse, Var, Alpes Maritimes, Alpes de haute Provence, Hautes Alpes<br><br>]]></description>
+		<Folder>
+			<name>Calque sans titre</name>
+			<Placemark>
+				<name>Camping MUNICIPAL les Chalottes 2*</name>
+				<description><![CDATA[Département: Vaucluse <br>Ouverture: Paques- mi Septembre<br>Budget €/j: 15-20<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: La Jaumiere, 84220 MURS<br>Phone: 04 90 72 60 84 <br>Website: www.communedemurs-vaucluse.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vaucluse </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Paques- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>La Jaumiere, 84220 MURS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 90 72 60 84 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.communedemurs-vaucluse.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.243418,43.95098,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Tour d Aigues 2*</name>
+				<description><![CDATA[Département: Vaucluse <br>Ouverture: mi juin - Aout<br>Budget €/j: 10-15<br>Emplacements: ns<br>Location: <br>description: <br>Adresse: Rue Georges Rouard, 84240 LA TOUR D AIGUES<br>Phone: 04 90 07 41 08 <br>Website: www.sourireduluberon.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vaucluse </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi juin - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue Georges Rouard, 84240 LA TOUR D AIGUES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 90 07 41 08 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.sourireduluberon.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.551529,43.728421,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Arquet 3*</name>
+				<description><![CDATA[Département: Bouches du Rhone <br>Ouverture: ns<br>Budget €/j: ns<br>Emplacements: ns<br>Location: <br>description: N est plus un MUNI<br><br><br> <br>Adresse: 13500 MARTIGUES<br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Bouches du Rhone </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>N est plus un MUNI
+
+
+ </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>13500 MARTIGUES</value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.057359,43.33051600000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Pinede 2*</name>
+				<description><![CDATA[Département: Vaucluse <br>Ouverture: mi Mars-Octobre<br>Budget €/j: 15-20<br>Emplacements: 121<br>Location: <br>description: <br>Adresse: Chemin de la Sablière, 84410 BEDOIN<br>Phone: 04 90 65 61 03<br>Website: http://bedoin.reseaudescommunes.fr/fr/information/29810/camping-municipal]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vaucluse </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>121</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin de la Sablière, 84410 BEDOIN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 90 65 61 03</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://bedoin.reseaudescommunes.fr/fr/information/29810/camping-municipal</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.17544,44.123316,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Bellerive 2*</name>
+				<description><![CDATA[Département: Vaucluse <br>Ouverture: Mobilhomes toute l annee<br>Budget €/j: 15-20<br>Emplacements: 52<br>Location: <br>description: <br>Adresse: 54 chemin de la Ribière, 84170 MONTEUX <br>Phone: 04 90 66 81 88<br>Website: www.provenceguide.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vaucluse </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mobilhomes toute l annee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>52</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>54 chemin de la Ribière, 84170 MONTEUX </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 90 66 81 88</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.provenceguide.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.000067,44.039602,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Peupliers 2*</name>
+				<description><![CDATA[Département: Vaucluse <br>Ouverture: Mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: 80<br>Location: <br>description: <br>Adresse: Place Pierre Bonnet, 84150 JONQUIERES<br>Phone: 04 90 70 67 09 <br>Website: www.jonquieres.fr/tourisme-et-terroir/camping-municipal]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vaucluse </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>80</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Place Pierre Bonnet, 84150 JONQUIERES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 90 70 67 09 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.jonquieres.fr/tourisme-et-terroir/camping-municipal</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.900932,44.116923,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ROQUEFIGUIER 2*</name>
+				<description><![CDATA[Département: Vaucluse <br>Ouverture: Mars-Octobre<br>Budget €/j: 10-15<br>Emplacements: 64<br>Location: <br>description: <br>Adresse: 120 chemin des moulins, Roquefiguier , 84190 BEAUMES DE VENISE<br>Phone: 04 90 62 95 07 <br>Website: www.ot-beaumesdevenise.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vaucluse </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>64</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>120 chemin des moulins, Roquefiguier , 84190 BEAUMES DE VENISE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 90 62 95 07 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ot-beaumesdevenise.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.033412,44.122315,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Azur et merveilles 2**</name>
+				<description><![CDATA[Département: Alpes Maritimes<br>Ouverture: Avril - Octobre<br>Budget €/j: 25-30<br>Emplacements: 40<br>Location: <br>description: 650, promenade G.-Clémenceau<br>06540 BREIL SUR ROYA<br>Tél: 04 93 62 47 04<br>www.camping-azur-merveilles.com/<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes Maritimes</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>650, promenade G.-Clémenceau
+06540 BREIL SUR ROYA
+Tél: 04 93 62 47 04
+www.camping-azur-merveilles.com/</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.5181890000000005,43.941695,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Fontan</name>
+				<description><![CDATA[Département: Alpes Maritimes<br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 38<br>Location: <br>description: Quartier Barbanin<br>06540 FONTAN<br>Tél: 04 50 93 50 01<br>www.fontan-tourisme.com/le-camping.html )<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes Maritimes</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>38</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Quartier Barbanin
+06540 FONTAN
+Tél: 04 50 93 50 01
+www.fontan-tourisme.com/le-camping.html )</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.55456,44.005171,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Sospel</name>
+				<description><![CDATA[Département: Alpes Maritimes<br>Ouverture: Juillet-Aout<br>Budget €/j: 15-20<br>Emplacements: 31<br>Location: <br>description: Stade emmanuel Donato<br>06380 SOSPEL<br>Tél: 04 93 04 33 17<br>www.sospel-tourisme.com/hebergements/item/camping-municipal-sospel.html )<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes Maritimes</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>31</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Stade emmanuel Donato
+06380 SOSPEL
+Tél: 04 93 04 33 17
+www.sospel-tourisme.com/hebergements/item/camping-municipal-sospel.html )</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.443141,43.878802,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Galetas 2*</name>
+				<description><![CDATA[Département: Var<br>Ouverture: Avril- mi Octobre<br>Budget €/j: 15-20<br>Emplacements: 350<br>Location: non<br>description: Situé à 7km du village sur les plus belles plages du lac,<br>Adresse: 83630 AIGUINES<br>Phone: 04 94 70 20 48<br>Website: www.wix.com/campinglegaletas/campinglegaletas#  !]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Var</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril- mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>350</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé à 7km du village sur les plus belles plages du lac,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>83630 AIGUINES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 94 70 20 48</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.wix.com/campinglegaletas/campinglegaletas#  !</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.242852,43.798761,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL St Sauveur sur Tinee 2*</name>
+				<description><![CDATA[Département: Alpes Maritimes<br>Ouverture: mi Juin - mi Septembre<br>Budget €/j: ns<br>Emplacements: ns<br>Location: <br>description: CD 30<br>06420 ST SAUVEUR SUR TINEE<br>Tél: 04 93 02 03 20<br>www.saintsauveursurtinee.fr/index.php?id=1155 )<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes Maritimes</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>CD 30
+06420 ST SAUVEUR SUR TINEE
+Tél: 04 93 02 03 20
+www.saintsauveursurtinee.fr/index.php?id=1155 )</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.106931,44.088556,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL l' Eouviere Verte 2*</name>
+				<description><![CDATA[Département: Var<br>Ouverture: mi Juin - mi Septembre<br>Budget €/j: 15-20<br>Emplacements: 199<br>Location: non<br>description: Situé au bord du lac, Sur 14 hectares de végétation provençale, plage et de la base nautique (100m<br>Adresse: RD 471 , 83630 ARTIGNOSC SUR VERDON<br>Phone: 04 94 80 71 06<br>Website: www.artignosc-sur-verdon.fr/ ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Var</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>199</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé au bord du lac, Sur 14 hectares de végétation provençale, plage et de la base nautique (100m</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>RD 471 , 83630 ARTIGNOSC SUR VERDON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 94 80 71 06</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.artignosc-sur-verdon.fr/ </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.09591,43.724715,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Grasse 2*</name>
+				<description><![CDATA[Département: <br>Ouverture: ns<br>Budget €/j: <br>Emplacements: <br>Location: <br>description: CLOSED / FERME EUR/jour <br><br><br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value></value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>CLOSED / FERME EUR/jour 
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.93203,43.647256,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPALValberg 2**</name>
+				<description><![CDATA[Département: Alpes Maritimes<br>Ouverture: mi Avril- Octobre<br>Budget €/j: 10-15<br>Emplacements: 13<br>Location: <br>description: CD29<br>06470 PEONE<br>Tél: 04 93 02 59 89<br>www.valberg.com/hebergement-ete/camping-valberg-ete.html#/hebergement-ete/camping-valberg-ete/hebergement_campings-camping-municipal-de-peone-valberg_706a049c5b0e9e536505c31ac15bdbb1.html )<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes Maritimes</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril- Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>13</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>CD29
+06470 PEONE
+Tél: 04 93 02 59 89
+www.valberg.com/hebergement-ete/camping-valberg-ete.html#/hebergement-ete/camping-valberg-ete/hebergement_campings-camping-municipal-de-peone-valberg_706a049c5b0e9e536505c31ac15bdbb1.html )</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.906742,44.116215,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ST JACQUES 1*</name>
+				<description><![CDATA[Département: Alpes Maritimes<br>Ouverture: Mai -Septembre<br>Budget €/j: 10-15<br>Emplacements: 35<br>Location: <br>description: <br>Adresse: Quartier Saint Jacques,06430 TENDE<br>Phone: 04 93 04 76 08<br>Website: www.tendemerveilles.com/hebergements-restaurations/item/camping-municipal-saint-jacques-tende.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes Maritimes</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai -Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>35</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Quartier Saint Jacques,06430 TENDE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 93 04 76 08</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tendemerveilles.com/hebergements-restaurations/item/camping-municipal-saint-jacques-tende.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.593784000000001,44.08795500000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Saint michel 2*</name>
+				<description><![CDATA[Département: Alpes Maritimes<br>Ouverture: Avril- mi Octobre<br>Budget €/j: ns<br>Emplacements: 131<br>Location: <br>description: <br>Adresse: route des ciappes, 06500 MENTON<br>Phone: 04 93 35 81 23<br>Website: www.hotelmenton.fr/hotel-menton/Menton-Camping-Saint-Michel.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes Maritimes</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril- mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>131</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route des ciappes, 06500 MENTON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 93 35 81 23</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.hotelmenton.fr/hotel-menton/Menton-Camping-Saint-Michel.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.498157999999999,43.77984,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Valdeblore 2*</name>
+				<description><![CDATA[Département: Alpes Maritimes<br>Ouverture: Toute l'année<br>Budget €/j: 15-20<br>Emplacements: 124<br>Location: <br>description: <br>Adresse: Saint Dalmas, 06420 VALDEBLORE<br>Phone: 04.93.02.78.85<br>Website: www.colmiane.com/hebergement_detail.asp?page_numero=172&saison=et%E9]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes Maritimes</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>124</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Saint Dalmas, 06420 VALDEBLORE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04.93.02.78.85</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.colmiane.com/hebergement_detail.asp?page_numero=172&amp;saison=et%E9</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>7.2101,44.070644,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Ruisses 2*</name>
+				<description><![CDATA[Département: Var<br>Ouverture: Mars - Octobre<br>Budget €/j: 20-25<br>Emplacements: 299<br>Location: non<br>description: A la sortie des gorges du Verdon, en bordure du lac de Sainte-Croix,<br>Adresse: 83630 LES SALLES SUR VERDON<br>Phone: 04 98 10 28 15<br>Website: www.campinglesruisses.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Var</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>299</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>A la sortie des gorges du Verdon, en bordure du lac de Sainte-Croix,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>83630 LES SALLES SUR VERDON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 98 10 28 15</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campinglesruisses.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.213198,43.782063,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Les Pouverels</name>
+				<description><![CDATA[Département: Var<br>Ouverture: Avril - Octobre<br>Budget €/j: 15-20<br>Emplacements: 40<br>Location: Tentes Lodges - NEW 2015<br>description: Au coeur d’une forêt de pins, à 500m du village et au calme<br>Adresse: chemin des Pouverels, 83570 COTIGNAC<br>Phone: 04 94 04 71 91<br>Website: www.mairiecotignac.fr   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Var</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value>Tentes Lodges - NEW 2015</value>
+					</Data>
+					<Data name='description'>
+						<value>Au coeur d’une forêt de pins, à 500m du village et au calme</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>chemin des Pouverels, 83570 COTIGNAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 94 04 71 91</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairiecotignac.fr   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.148728,43.536766,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du grand Jardin </name>
+				<description><![CDATA[Département: Var<br>Ouverture: Fevrier - Novembre<br>Budget €/j: 15-20<br>Emplacements: 19<br>Location: Bungalow<br>description: dans un esprit familial et convivial <br>Adresse: La Condamine, 83570 CORRENS<br>Phone: 06 17 83 48 21<br>Website: www.campingdecorrens.com/ ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Var</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Fevrier - Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>19</value>
+					</Data>
+					<Data name='Location'>
+						<value>Bungalow</value>
+					</Data>
+					<Data name='description'>
+						<value>dans un esprit familial et convivial </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>La Condamine, 83570 CORRENS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>06 17 83 48 21</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campingdecorrens.com/ </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.080868,43.48418900000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Cabasse 1*</name>
+				<description><![CDATA[Département: Var<br>Ouverture: mi Juin - mi Septembre<br>Budget €/j: ns<br>Emplacements: 50<br>Location: <br>description: Fermeture temporaire 2014<br><br><br>Adresse: pont de lissole, 83340 CABASSE<br>Phone: 04 98 05 12 80<br>Website: www.mairie-cabasse.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Var</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Fermeture temporaire 2014
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>pont de lissole, 83340 CABASSE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 98 05 12 80</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie-cabasse.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.221588,43.425824,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de St Roch 2*</name>
+				<description><![CDATA[Département: Var<br>Ouverture: Mai - mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 38<br>Location: non<br>description: site en terrasses ombragé et calme<br>Adresse: 83610 COLLOBRIERES<br>Phone: 04 94 48 08 00<br>Website: www.collobrieres-tourisme.com/index2.php?l_p=25 ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Var</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>38</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>site en terrasses ombragé et calme</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>83610 COLLOBRIERES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 94 48 08 00</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.collobrieres-tourisme.com/index2.php?l_p=25 </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.310401,43.238622,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Verdon 2*</name>
+				<description><![CDATA[Département: Var<br>Ouverture: Juillet - Aout<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: <br>description: LE CAMPING SERA FERME POUR LA SAISON 2015.<br>Adresse: Rue St André, 83560 VINON SUR VERDON<br>Phone: 07-89-72-76-85<br>Website: www.vinon-sur-verdon.fr ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Var</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>LE CAMPING SERA FERME POUR LA SAISON 2015.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue St André, 83560 VINON SUR VERDON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>07-89-72-76-85</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vinon-sur-verdon.fr </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.81357,43.728468,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Pontet 2*</name>
+				<description><![CDATA[Département: Var<br>Ouverture: Mai - Octobre<br>Budget €/j: 10-15<br>Emplacements: 100<br>Location: non<br>description: Provence, dans l arriere pays, Bord de lac ou de plan d'eau 2 km<br>Adresse: 83840 COMPS SUR ARTUBY<br>Phone: 04 94 76 91 40<br>Website: www.artuby-verdon.fr/fr/Hotellerie_Plein_Air.aspx ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Var</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Provence, dans l arriere pays, Bord de lac ou de plan d'eau 2 km</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>83840 COMPS SUR ARTUBY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 94 76 91 40</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.artuby-verdon.fr/fr/Hotellerie_Plein_Air.aspx </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.498585,43.714263,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Notre Dame 3*</name>
+				<description><![CDATA[Département: Var<br>Ouverture: Toute l'année<br>Budget €/j: 10-15<br>Emplacements: 50<br>Location: mobilhomes<br>description: A proximité des Gorges du Verdon,<br>Adresse: quartier Notre Dame, 83840 LA ROQUE ESCLAPON<br>Phone: 04 94 76 83 18 <br>Website: https://sites.google.com/site/laroqueesclapon/sejourner/se-loger ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Var</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value>mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>A proximité des Gorges du Verdon,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>quartier Notre Dame, 83840 LA ROQUE ESCLAPON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 94 76 83 18 </value>
+					</Data>
+					<Data name='Website'>
+						<value>https://sites.google.com/site/laroqueesclapon/sejourner/se-loger </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.626215,43.723103,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BOTTAI 2**</name>
+				<description><![CDATA[Département: Bouches du Rhone<br>Ouverture: Juillet - Aout<br>Budget €/j: 10-15<br>Emplacements: 80<br>Location: <br>description: <br>Adresse: Plage de Bottai, 13110 PORT DE BOUC<br>Phone: 04 42 06 26 64<br>Website: www.portdebouc.fr/port-d-attache/tourisme/se-restaurer-se-loger.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Bouches du Rhone</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet - Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>80</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Plage de Bottai, 13110 PORT DE BOUC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 42 06 26 64</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.portdebouc.fr/port-d-attache/tourisme/se-restaurer-se-loger.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.974446,43.417401,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL St ETIENNE du GRES 2**</name>
+				<description><![CDATA[Département: Bouches du Rhone<br>Ouverture: Toute l'année<br>Budget €/j: 20-25<br>Emplacements: 48<br>Location: <br>description: <br>Adresse: Avenue du Docteur Barberin, 13103 ST ETIENNE DU GRES<br>Phone: 04 90 49 00 03<br>Website: www.campingalpilles.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Bouches du Rhone</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>48</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue du Docteur Barberin, 13103 ST ETIENNE DU GRES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 90 49 00 03</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campingalpilles.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.716997,43.786122,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les ROMARINS 3***</name>
+				<description><![CDATA[Département: Bouches du Rhone<br>Ouverture: mi Mars - mi Octobre<br>Budget €/j: 25-30<br>Emplacements: 145<br>Location: <br>description: <br>Adresse: Route de St Rémy de Provence, 13520 MAUSSANE LES ALPILLES<br>Phone: 04 90 54 33 60<br>Website: www.maussane.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Bouches du Rhone</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars - mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>25-30</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>145</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de St Rémy de Provence, 13520 MAUSSANE LES ALPILLES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 90 54 33 60</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.maussane.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.810810000000001,43.722808,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les PINS 3***</name>
+				<description><![CDATA[Département: Bouches du Rhone<br>Ouverture: Avril- mi Septembre<br>Budget €/j: 20-25<br>Emplacements: 170<br>Location: <br>description: <br>Adresse: Rue Michelet, 13990 FONTVIEILLE<br>Phone: 04 90 54 78 69<br>Website: www.fontvieille-provence.com/office-de-tourisme-fontvieille/camping.php]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Bouches du Rhone</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>170</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue Michelet, 13990 FONTVIEILLE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 90 54 78 69</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.fontvieille-provence.com/office-de-tourisme-fontvieille/camping.php</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.718574,43.724025,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Marindole 2**</name>
+				<description><![CDATA[Département: Bouches du Rhone<br>Ouverture: Juin -Septembre<br>Budget €/j: 10-15<br>Emplacements: 190<br>Location: <br>description: <br>Adresse: Avenue des Pins, 13110 PORT DE BOUC<br>Phone: 04 42 06 26 89<br>Website: www.portdebouc.fr/port-d-attache/tourisme/se-restaurer-se-loger.html ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Bouches du Rhone</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin -Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>190</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue des Pins, 13110 PORT DE BOUC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 42 06 26 89</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.portdebouc.fr/port-d-attache/tourisme/se-restaurer-se-loger.html </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.979103,43.423206,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES EYGOIRES 3**</name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: Juin-mi Aout<br>Budget €/j: 20-25<br>Emplacements: 300<br>Location: <br>description: <br>Adresse: D954 oute de Sauze du Lac, 05160 SAVINES LE LAC<br>Phone: 04 92 44 20 48<br>Website: www.savinois.com/fiche-presentation_camping-46-FR-K-LESEYGOIR-ETE-HEBERGEMENT.html ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-mi Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>300</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>D954 oute de Sauze du Lac, 05160 SAVINES LE LAC</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 44 20 48</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.savinois.com/fiche-presentation_camping-46-FR-K-LESEYGOIR-ETE-HEBERGEMENT.html </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.387155,44.519352,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL SAINTE CATHERINE 2**</name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: Toute l'année<br>Budget €/j: 10-15<br>Emplacements: 25<br>Location: <br>description: <br>Adresse: 05150 ROSANS<br>Phone: 04 92 66 68 38<br>Website: www.rosans.com/?codepage=hebergements_zoom&type_HEB=CMP&idH=35]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>05150 ROSANS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 66 68 38</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.rosans.com/?codepage=hebergements_zoom&amp;type_HEB=CMP&amp;idH=35</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.470977,44.389084,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES DEUX GLACIERS 2**</name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: Toute l'année<br>Budget €/j: 15-20<br>Emplacements: 70<br>Location: <br>description: <br>Adresse: Le Casset, 05220 LE MONETIER LES BAINS<br>Phone: 07 89 56 58 77<br>Website: www.monetier.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Le Casset, 05220 LE MONETIER LES BAINS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>07 89 56 58 77</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.monetier.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.494336,44.981526,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE GOURET 2**</name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: Juin - Septembre<br>Budget €/j: 10-15<br>Emplacements: 160<br>Location: <br>description: <br>Adresse: 05470 AIGUILLES<br>Phone: 04 92 46 74 61<br>Website: www.aiguilles.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>160</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>05470 AIGUILLES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 46 74 61</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.aiguilles.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.869137,44.780556,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES AUCHES 2**</name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: Toute l'année<br>Budget €/j: 10-15<br>Emplacements: 70<br>Location: <br>description: <br>Adresse: Les Auches / Le pre, 05250 ST ETIENNE EN DEVOLUY<br>Phone: 04 92 58 84<br>Website: www.ledevoluy.com/ete/fr/rechercher-hebergements/hebergement/Camping-Les-Auches.html]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Les Auches / Le pre, 05250 ST ETIENNE EN DEVOLUY</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 58 84</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.ledevoluy.com/ete/fr/rechercher-hebergements/hebergement/Camping-Les-Auches.html</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.948496,44.683362,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CAMPING MUNICIPAL L'ILE 3*</name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: Mai -Septembre<br>Budget €/j: 20-25<br>Emplacements: 100<br>Location: <br>description: <br>Adresse: Ile Basse, 05600 ST CREPIN<br>Phone: 04 92 45 13 31<br>Website: http://camping.saintcrepin.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai -Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Ile Basse, 05600 ST CREPIN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 45 13 31</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://camping.saintcrepin.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.60274,44.70471700000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL DES ALBERTS 2**</name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: toute l'année<br>Budget €/j: 20-25<br>Emplacements: 170<br>Location: <br>description: <br>Adresse: Les Alberts Chemin Départemental, 05100 MONTGENEVRE<br>Phone: 04 92 21 16 11<br>Website: www.montgenevre.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>170</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Les Alberts Chemin Départemental, 05100 MONTGENEVRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 21 16 11</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.montgenevre.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.683142,44.930871,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Chardonnet </name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: ns<br>Location: <br>description: <br>Adresse: 05120 RISTOLAS <br>Phone: 04 92 46 87 79<br>Website: www.camping-queyras.com/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>05120 RISTOLAS </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 46 87 79</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-queyras.com/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.95735,44.774402,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL ARSINE </name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: mi Juin -mi Septembre<br>Budget €/j: ns<br>Emplacements: 40<br>Location: <br>description: <br>Adresse: 05480 VILLAR D ARENE<br>Phone: 04 76 79 90 55<br>Website: www.hautes-alpes.net]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin -mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>05480 VILLAR D ARENE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 76 79 90 55</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.hautes-alpes.net</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.363219,45.031523,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE CHENE 2*</name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: mi Mai-Septembre<br>Budget €/j: 15-20<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: Quartier le Chene, 05130 TALLARD<br>Phone: 04 92 54 10 14<br>Website: http://camping-lechene.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Quartier le Chene, 05130 TALLARD</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 54 10 14</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://camping-lechene.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.05027,44.455181,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL DE L ISCLE 2**</name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: toute l'année<br>Budget €/j: 15-20<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: Quartier de l'Iscle, 05160 REALLON<br>Phone: 04 92 44 27 08<br>Website: http://reallon.pays-sud.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Quartier de l'Iscle, 05160 REALLON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 44 27 08</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://reallon.pays-sud.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.338178000000001,44.606327,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du Lac LES ISCLES 3***</name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: Avril - Octobre<br>Budget €/j: 15-20<br>Emplacements: 166<br>Location: <br>description: <br>Adresse: 05600 EYGLIERS<br>Phone: 04 92 45 14 18<br>Website: www.iscles.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>166</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>05600 EYGLIERS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 45 14 18</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.iscles.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.609392,44.677595,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping  LA VANDELLE 2**</name>
+				<description><![CDATA[Département: <br>Ouverture: <br>Budget €/j: <br>Emplacements: <br>Location: <br>description: n est plus 100% muni!<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value></value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>n est plus 100% muni!</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.830994,43.860277,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA FONTAINE 2**</name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: mi Mai- mi Septembre<br>Budget €/j: 15-20<br>Emplacements: 80<br>Location: <br>description: <br>Adresse: 05600 REOTIER<br>Phone: 04 92 45 16 84<br>Website: www.camping-reotier.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>80</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>05600 REOTIER</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 45 16 84</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-reotier.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.603942,44.674543,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LE FREYSSINET 2*</name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: ns<br>Budget €/j: <br>Emplacements: 40<br>Location: <br>description: Fermeture 2013 et reouverture en attente<br><br> <br>Adresse: 05340 PELVOUX<br>Phone: 04 92 23 37 83<br>Website: www.mairie-pelvoux.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value></value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>40</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Fermeture 2013 et reouverture en attente
+
+ </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>05340 PELVOUX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 23 37 83</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie-pelvoux.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.407776,44.910359,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA CLAPIERE 4****</name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: Toute l'année<br>Budget €/j: 15-20<br>Emplacements: 370<br>Location: <br>description: Avenue du Lac Le Plan d'Eau<br>05200 EMBRUN<br>Tél: 04 92 43 01 83<br>www.camping-embrun-clapiere.com/)<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Toute l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>370</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Avenue du Lac Le Plan d'Eau
+05200 EMBRUN
+Tél: 04 92 43 01 83
+www.camping-embrun-clapiere.com/)</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.476097,44.550601,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA GARENNE 2**</name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: Juin -Septembre / Mobilhome tte l'année<br>Budget €/j: 15-20<br>Emplacements: 200<br>Location: <br>description: 05200 CROTS<br>Tél: 04 92 43 11 93<br>GPS 44.53855,6.45356<br>www.lagarenne-crots.com/<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin -Septembre / Mobilhome tte l'année</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>200</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>05200 CROTS
+Tél: 04 92 43 11 93
+GPS 44.53855,6.45356
+www.lagarenne-crots.com/</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.454039,44.538672,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LA BAIE SAINT MICHEL 3***</name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: Juin - Octobre<br>Budget €/j: 15-20<br>Emplacements: 102<br>Location: <br>description: Baie St Michel<br>05230 CHORGES <br>Tél: 04 92 50 67 72<br>GPS 44.526841,6.332458<br>www.baiestmichel.com/<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>102</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Baie St Michel
+05230 CHORGES 
+Tél: 04 92 50 67 72
+GPS 44.526841,6.332458
+www.baiestmichel.com/</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.332417,44.526887,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL L'ISCLE 1*</name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: mi Juin- mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 75<br>Location: <br>description: 05350 CHATEAU VILLE VIEILLE<br>Tél: 04 92 46 76 21<br>www.chateauvillevieille.com/camping.html)<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin- mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>75</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>05350 CHATEAU VILLE VIEILLE
+Tél: 04 92 46 76 21
+www.chateauvillevieille.com/camping.html)</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.801395000000001,44.758071,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cammping MUNICIPAL LES MOUTETS 1*</name>
+				<description><![CDATA[Département: Hautes Alpes <br>Ouverture: Juillet-Septembre<br>Budget €/j: 10-15<br>Emplacements: 60<br>Location: <br>description: 05600 CEILLAC<br>Tél: 04 92 45 17 89<br>www.ceillac.com/)<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juillet-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>60</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>05600 CEILLAC
+Tél: 04 92 45 17 89
+www.ceillac.com/)</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.778221,44.667432,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES ISCLES 2**</name>
+				<description><![CDATA[Département: Alpes de Haute Provence<br>Ouverture: Avril - mi Octobre<br>Budget €/j: 15-20<br>Emplacements: 184<br>Location: <br>description: Ouvert Avril-15 Octobre<br>04170 ST ANDRE LES ALPES<br>Tél: 04 92 89 02 29<br>http://www.camping-les-iscles.com/<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes de Haute Provence</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - mi Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>184</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Ouvert Avril-15 Octobre
+04170 ST ANDRE LES ALPES
+Tél: 04 92 89 02 29
+http://www.camping-les-iscles.com/</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.507726,43.960789,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL CARAJUAN 2**</name>
+				<description><![CDATA[Département: Alpes de Haute Provence<br>Ouverture: mi Avril - Octobre<br>Budget €/j: 15-20<br>Emplacements: 100<br>Location: <br>description: Carajuan<br>04120 ROUGON<br>Tél: 04 92 83 70 94<br>http://camping-gorgesduverdon-carajuan-rougon.com/<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes de Haute Provence</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Carajuan
+04120 ROUGON
+Tél: 04 92 83 70 94
+http://camping-gorgesduverdon-carajuan-rougon.com/</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.437516,43.795292,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES ROCHES 2**</name>
+				<description><![CDATA[Département: Alpes de Haute Provence<br>Ouverture: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 189<br>Location: <br>description: route du lac<br>04500 STE CROIX DE VERDON<br>Tél: 04 92 77 78 99<br>http://stecroixduverdon-tourisme.fr/campings/camping-municipal-les-roches/<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes de Haute Provence</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>189</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>route du lac
+04500 STE CROIX DE VERDON
+Tél: 04 92 77 78 99
+http://stecroixduverdon-tourisme.fr/campings/camping-municipal-les-roches/</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.150563,43.756806,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL BEL ISCLE 2**</name>
+				<description><![CDATA[Département: Alpes de Haute Provence<br>Ouverture: Avril-Octobre<br>Budget €/j: 10-15<br>Emplacements: 70<br>Location: <br>description: 04530 ST PAUL SUR UBAYE<br>Tél: 04 92 84 38 31<br>www.haute-ubaye.com)<br>Adresse: <br>Phone: <br>Website: ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes de Haute Provence</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>04530 ST PAUL SUR UBAYE
+Tél: 04 92 84 38 31
+www.haute-ubaye.com)</value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.756935,44.516828,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL LES PRES-HAUTS 4*</name>
+				<description><![CDATA[Département: Alpes de Haute Provence<br>Ouverture: Avril-Septembre<br>Budget €/j: 20-25<br>Emplacements: 140<br>Location: <br>description: Tél: <br><br><br>Adresse: 44 chemin des pres Hauts, 04200 SISTERON<br>Phone: 04 92 61 19 69<br>Website: www.camping-sisteron.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes de Haute Provence</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>20-25</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>140</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Tél: 
+
+</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>44 chemin des pres Hauts, 04200 SISTERON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 61 19 69</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-sisteron.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.936222,44.215063,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal REVEST du BION 1*</name>
+				<description><![CDATA[Département: Alpes de Haute Provence<br>Ouverture: Avril- Octobre<br>Budget €/j: 10-15<br>Emplacements: 25<br>Location: <br>description: <br>Adresse: 04150 REVEST DU BION<br>Phone: 04 92 77 22 26<br>Website: http://revestdubion.pagesperso-orange.fr/camping.htm]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes de Haute Provence</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril- Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>04150 REVEST DU BION</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 77 22 26</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://revestdubion.pagesperso-orange.fr/camping.htm</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.548096000000001,44.079693,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les LAVANDES 1*</name>
+				<description><![CDATA[Département: Alpes de Haute Provence<br>Ouverture: mi Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 70<br>Location: <br>description: <br>Adresse: Chemin des Touires, 04410 PUIMOISSON<br>Phone: 04 92 74 54 01<br>Website: www.tourisme-alpes-haute-provence.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes de Haute Provence</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Chemin des Touires, 04410 PUIMOISSON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 74 54 01</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.tourisme-alpes-haute-provence.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.132345000000001,43.87024,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Pinede 2**</name>
+				<description><![CDATA[Département: Alpes de Haute Provence<br>Ouverture: mi Mai-Septembre<br>Budget €/j: 15-20<br>Emplacements: 50<br>Location: <br>description: <br>Adresse: Rue clovis Picon, 04190 LES MEES<br>Phone: 04 92 34 33 89<br>Website: www.lesmees-tourisme04.com/hebergements/campings]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes de Haute Provence</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>50</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue clovis Picon, 04190 LES MEES</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 34 33 89</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lesmees-tourisme04.com/hebergements/campings</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.979052,44.028387,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Le Mousserein </name>
+				<description><![CDATA[Département: Alpes de Haute Provence<br>Ouverture: Mai -Septembre<br>Budget €/j: 10-15<br>Emplacements: 17<br>Location: <br>description: <br>Adresse: 04250 LA MOTTE DU CAIRE <br>Phone: 04.92.68.32.81<br>Website: www.lamotteducaire.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes de Haute Provence</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai -Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>17</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>04250 LA MOTTE DU CAIRE </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04.92.68.32.81</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.lamotteducaire.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.034863,44.340593,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la JAVIE 1*</name>
+				<description><![CDATA[Département: Alpes de Haute Provence<br>Ouverture: ns<br>Budget €/j: 10-15<br>Emplacements: 26<br>Location: non<br>description: Petit Muni, accueil de camping-car<br>Adresse: route de prads, 04420 LA JAVIE<br>Phone: 04 92 34 91 76<br>Website: www.alpes-haute-provence.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes de Haute Provence</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>ns</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>26</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>Petit Muni, accueil de camping-car</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route de prads, 04420 LA JAVIE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 34 91 76</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.alpes-haute-provence.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.354775,44.171693,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Grand Canyon</name>
+				<description><![CDATA[Département: Alpes de Haute Provence<br>Ouverture: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 100<br>Location: non<br>description: au coeur des gorges du Verdon,<br>Adresse: route de castallane, 04120 LA PALUD SUR VERDON<br>Phone: 04 92 77 38 13<br>Website: www.camping.lapaludsurverdon.com   ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes de Haute Provence</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>100</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>au coeur des gorges du Verdon,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>route de castallane, 04120 LA PALUD SUR VERDON</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 77 38 13</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping.lapaludsurverdon.com   </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.347909,43.780328,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du DEFENDS 2**</name>
+				<description><![CDATA[Département: Alpes de Haute Provence<br>Ouverture: mi Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: <br>Location: <br>description: <br>Adresse: Route de St Trinit , 84390 SAULT<br>Phone: 04.90.64.07.18<br>Website: www.mairie-sault-84.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Alpes de Haute Provence</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de St Trinit , 84390 SAULT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04.90.64.07.18</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.mairie-sault-84.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.425208,44.102996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Intercommunal Le Bregoux 2**</name>
+				<description><![CDATA[Département: Vaucluse<br>Ouverture: Mars - Octobre<br>Budget €/j: 15-20<br>Emplacements: 164<br>Location: <br>description: <br>Adresse: 410 chemin du Vas, 84 810 AUBIGNAN<br>Phone: 04 90 62 62 50<br>Website: www.camping-lebregoux.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vaucluse</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mars - Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>164</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>410 chemin du Vas, 84 810 AUBIGNAN</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 90 62 62 50</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-lebregoux.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.027618,44.098434,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping a la FERME les Coccinelles</name>
+				<description><![CDATA[Département: <br>Ouverture: <br>Budget €/j: 10-15<br>Emplacements: <br>Location: <br>description: Camping à la ferme, locations de caravanes et d’appartements meublés. Cadre calme en bordure de rivière et de la Via Domitia. <br>Adresse: <br>Phone: <br>Website: http://camping04.monsite-orange.fr]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value></value>
+					</Data>
+					<Data name='Ouverture'>
+						<value></value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value></value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value>Camping à la ferme, locations de caravanes et d’appartements meublés. Cadre calme en bordure de rivière et de la Via Domitia. </value>
+					</Data>
+					<Data name='Adresse'>
+						<value></value>
+					</Data>
+					<Data name='Phone'>
+						<value></value>
+					</Data>
+					<Data name='Website'>
+						<value>http://camping04.monsite-orange.fr</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.867954,43.940444,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Intercommunal la Durance 3*</name>
+				<description><![CDATA[Département: Vaucluse<br>Ouverture: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 125<br>Location: <br>description: <br>Adresse: 495 Avenue Boscodomini, 84300 CAVAILLON <br>Phone: 04 90 71 11 78<br>Website: www.camping-durance.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vaucluse</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>125</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>495 Avenue Boscodomini, 84300 CAVAILLON </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 90 71 11 78</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-durance.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.037832,43.820982,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Queyrades 2*</name>
+				<description><![CDATA[Département: Vaucluse<br>Ouverture: Avril-Aout<br>Budget €/j: 15-20<br>Emplacements: ns<br>Location: <br>description: <br>Adresse: Route de vaison la Romaine, 84190 VACQUEYRAS<br>Phone: 04 90 12 39 02 <br>Website: www.vacqueyras.tm.fr/spip.php?rubrique42]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vaucluse</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Aout</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Route de vaison la Romaine, 84190 VACQUEYRAS</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 90 12 39 02 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vacqueyras.tm.fr/spip.php?rubrique42</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>4.986377,44.143337,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL de l Izoard 2*</name>
+				<description><![CDATA[Département: Hautes Alpes<br>Ouverture: mi Juin - mi Septembre<br>Budget €/j: 15-20<br>Emplacements: 75<br>Location: <br>description: <br>Adresse: 05350 ARVIEUX<br>Phone: 04 92 46 79 15 <br>Website: www.arvieux-izoard.com/campings.html ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Juin - mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>75</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>05350 ARVIEUX</value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 46 79 15 </value>
+					</Data>
+					<Data name='Website'>
+						<value>www.arvieux-izoard.com/campings.html </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.716981,44.79916500000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Saint James 2*</name>
+				<description><![CDATA[Département: Hautes Alpes<br>Ouverture: Juin - Septembre<br>Budget €/j: 15-20<br>Emplacements: 114<br>Location: <br>description: <br>Adresse: Saint James, 05380 Châteauroux-les-Alpes <br>Phone: 04 92 43 43 78<br>Website: http://www.sudrafting.fr/camping_rabioux.html ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Hautes Alpes</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>114</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Saint James, 05380 Châteauroux-les-Alpes </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 92 43 43 78</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.sudrafting.fr/camping_rabioux.html </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>6.545405,44.620196,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Royères du Prieuré 2*</name>
+				<description><![CDATA[Département: Vaucluse<br>Ouverture: Avril- Octobre<br>Budget €/j: 15-20<br>Emplacements: 75<br>Location: <br>description: <br>Adresse: 52 chemin de la Combe St Pierre, 84660 MAUBEC <br>Phone: 04 90 76 50 34<br>Website: www.campingmaubec-luberon.com]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Vaucluse</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril- Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>75</value>
+					</Data>
+					<Data name='Location'>
+						<value></value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>52 chemin de la Combe St Pierre, 84660 MAUBEC </value>
+					</Data>
+					<Data name='Phone'>
+						<value>04 90 76 50 34</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.campingmaubec-luberon.com</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>5.132214,43.839859,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Untitled layer</name>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

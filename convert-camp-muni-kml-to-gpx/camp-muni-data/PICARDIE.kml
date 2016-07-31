@@ -1,0 +1,606 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>PICARDIE Camping Municipaux</name>
+		<description><![CDATA[Campings municipaux en Picardie, départements de l'Oise, Somme , l'Aisne]]></description>
+		<Folder>
+			<name>Calque sans titre</name>
+			<Placemark>
+				<name>Camping Municipal Vadencourt</name>
+				<description><![CDATA[Département: Aisne<br>Ouverture: mai-Septembre<br>Budget €/j: 10-15<br>Emplacements: ns<br>Location: non<br>description: au coeur de la vallée de l’Oise,<br>Adresse: rue de Bovalon02120 VADENCOURT<br>Phone: 03 87 07 67 13<br>Website: www.vadencourt.com/page4.html    ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aisne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>au coeur de la vallée de l’Oise,</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue de Bovalon02120 VADENCOURT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 87 07 67 13</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.vadencourt.com/page4.html    </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.577731,49.928074,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal le Velodrome 2**</name>
+				<description><![CDATA[Département: Somme<br>Ouverture: Avril-Octobre<br>Budget €/j: 15-20<br>Emplacements: 75<br>Location: non<br>description: dans un écrin de verdure, à proximité des étangs<br>Adresse: Avenue Henry Dunand80300 ALBERT<br>Phone: 03 64 62 22 53<br>Website: www.camping-albert.com ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Somme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>75</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>dans un écrin de verdure, à proximité des étangs</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue Henry Dunand80300 ALBERT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 64 62 22 53</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-albert.com </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.656202,50.011738,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal du Mail 2**</name>
+				<description><![CDATA[Département: Aisne<br>Ouverture: toute lannee<br>Budget €/j: 15-20<br>Emplacements: 117<br>Location: non<br>description: sur les bords de l'Aisne <br>Adresse: Avenue du mail 02200 Soissons<br>Phone: 03 23 74 52 69<br>Website: http://goo.gl/7KgzVd]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aisne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>toute lannee</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>117</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>sur les bords de l'Aisne </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Avenue du mail 02200 Soissons</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 23 74 52 69</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/7KgzVd</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.349457,49.384161,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal ONIVAL 2*</name>
+				<description><![CDATA[Département: Somme<br>Ouverture: mi Avril-mi Septembre<br>Budget €/j: 10-15<br>Emplacements: 243<br>Location: non<br>description: accés direct sur la mer.<br>Adresse: 80460 WOIGNARUE<br>Phone: 03 22 60 40 08<br>Website: http://goo.gl/bXa30j]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Somme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Avril-mi Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>243</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>accés direct sur la mer.</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>80460 WOIGNARUE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 22 60 40 08</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/bXa30j</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.4580920000000002,50.11191,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal les Aillots 2*</name>
+				<description><![CDATA[Département: Somme<br>Ouverture: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 52<br>Location: non<br>description: à proximité d'équipements sportifs (court de tennis, terrain de foot, boulodrome...)<br>Adresse: Rue des Verolles80960 SAINT BLIMONT<br>Phone: 03 22 30 62 55<br>Website: http://aillots.akeonet.com/]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Somme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>52</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>à proximité d'équipements sportifs (court de tennis, terrain de foot, boulodrome...)</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue des Verolles80960 SAINT BLIMONT</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 22 30 62 55</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://aillots.akeonet.com/</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.572375,50.117544,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal les Portes de la Baie de Somme 2*</name>
+				<description><![CDATA[Département: Somme<br>Ouverture: Avril-Septembre<br>Budget €/j: 15-20<br>Emplacements: 66<br>Location: mobilhomes<br>description: Point de départ idéal pour visiter Abbeville<br>Adresse: Rue du Marais talsac, 80132 Mareuil Caubert<br>Phone: 03 22 31 62 37<br>Website: www.camping-lesportesdelabaiedesomme.com/  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Somme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>66</value>
+					</Data>
+					<Data name='Location'>
+						<value>mobilhomes</value>
+					</Data>
+					<Data name='description'>
+						<value>Point de départ idéal pour visiter Abbeville</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue du Marais talsac, 80132 Mareuil Caubert</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 22 31 62 37</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-lesportesdelabaiedesomme.com/  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.8233439999999999,50.079534,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPALE de Ribemont </name>
+				<description><![CDATA[Département: Aisne <br>Ouverture: Mai-Septembre<br>Budget €/j: 5-10<br>Emplacements: 25<br>Location: non<br>description: <br>Adresse: 02240 Ribemont <br>Phone: 03 23 63 71 30<br>Website: http://mairieribemont.free.fr )]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aisne </value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Mai-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>5-10</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>25</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>02240 Ribemont </value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 23 63 71 30</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://mairieribemont.free.fr )</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.460693,49.791904,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Marais 3*</name>
+				<description><![CDATA[Département: Somme<br>Ouverture: Avril-Octobre<br>Budget €/j: 15-20<br>Emplacements: 30<br>Location: non<br>description: dans le cadre verdoyant de la Vallée de l'Amboise dans un site naturel de qualité<br>Adresse: 24 bis rue du 11 Novembre, 80460 PENDE<br>Phone: 03 22 26 90 29<br>Website: (http://www.tourisme-baiedesomme.fr/fr/9-hebergement/HPAPIC0800010546-le-marais.html   )]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Somme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>dans le cadre verdoyant de la Vallée de l'Amboise dans un site naturel de qualité</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>24 bis rue du 11 Novembre, 80460 PENDE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 22 26 90 29</value>
+					</Data>
+					<Data name='Website'>
+						<value>(http://www.tourisme-baiedesomme.fr/fr/9-hebergement/HPAPIC0800010546-le-marais.html   )</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.587701,50.16112,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL du Marais 2*</name>
+				<description><![CDATA[Département: Somme<br>Ouverture: Avril-Octobre<br>Budget €/j: 10-15<br>Emplacements: 10 de passage<br>Location: ns<br>description: <br>Adresse: 1 rue du Marais80115 QUERRIEU<br>Phone: 03 22 40 16 09<br>Website: http://goo.gl/wX4fAe]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Somme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>10 de passage</value>
+					</Data>
+					<Data name='Location'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>1 rue du Marais80115 QUERRIEU</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 22 40 16 09</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://goo.gl/wX4fAe</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.430648,49.937555,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL la Peupleraie 2*</name>
+				<description><![CDATA[Département: Somme<br>Ouverture: mi Mars-mi Novembre<br>Budget €/j: 10-15<br>Emplacements: ns<br>Location: Mobilhome<br>description: Situé dans la Vallée de la Somme, dans un écran de verdure et d'eau<br>Adresse: 80510 LONG<br>Phone: 03 22 31 84 27<br>Website: http://www.long.fr   )]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Somme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>mi Mars-mi Novembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>ns</value>
+					</Data>
+					<Data name='Location'>
+						<value>Mobilhome</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé dans la Vallée de la Somme, dans un écran de verdure et d'eau</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>80510 LONG</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 22 31 84 27</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.long.fr   )</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>1.979578,50.038951,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL Marais de la Fontaine</name>
+				<description><![CDATA[Département: Aisne<br>Ouverture: Avril - Septembre<br>Budget €/j: 10-15<br>Emplacements: 26<br>Location: ns<br>description: <br>Adresse: Rue Vauban02800 LA FERE <br>Phone: 03 23 56 82 94<br>Website: http://www.ville-lafere.fr/?Tourisme )]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aisne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>26</value>
+					</Data>
+					<Data name='Location'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue Vauban02800 LA FERE </value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 23 56 82 94</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.ville-lafere.fr/?Tourisme )</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.3623530000000006,49.666253000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal de Loeuilly 2*</name>
+				<description><![CDATA[Département: Somme<br>Ouverture: Avril - Septembre<br>Budget €/j: 15-20<br>Emplacements: 70<br>Location: non<br>description: verdoyant et calme disposant d'emplacements semi-ombragés et délimités <br>Adresse: Rue du marais, 80160 Loeuilly<br>Phone: 03 22 38 13 88<br>Website: www.camping-loeuilly.com/  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Somme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril - Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>15-20</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>70</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>verdoyant et calme disposant d'emplacements semi-ombragés et délimités </value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Rue du marais, 80160 Loeuilly</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 22 38 13 88</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.camping-loeuilly.com/  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.167354,49.772812,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL les Marais de l Ancre 1*</name>
+				<description><![CDATA[Département: Somme<br>Ouverture: Avril-Octobre<br>Budget €/j: ns<br>Emplacements: 30 de passage<br>Location: Parcelles a l'année<br>description: Situé dans un cadre verdoyant<br>Adresse: rue du marais, 80800 RIBEMONT SUR ANCRE<br>Phone: 03 22 40 61 63<br>Website: http://www.somme-tourisme.com/  ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Somme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Avril-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>30 de passage</value>
+					</Data>
+					<Data name='Location'>
+						<value>Parcelles a l'année</value>
+					</Data>
+					<Data name='description'>
+						<value>Situé dans un cadre verdoyant</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>rue du marais, 80800 RIBEMONT SUR ANCRE</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 22 40 61 63</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.somme-tourisme.com/  </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.562518,49.956301,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping MUNICIPAL le Port</name>
+				<description><![CDATA[Département: Somme<br>Ouverture: Janvier-Octobre<br>Budget €/j: ns<br>Emplacements: 54<br>Location: ns<br>description: <br>Adresse: Place du Port,, 80240 BRAY SUR SOMME<br>Phone: 03 22 76 25 11<br>Website: http://www.ville-braysursomme.fr/  )]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Somme</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Janvier-Octobre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>ns</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>54</value>
+					</Data>
+					<Data name='Location'>
+						<value>ns</value>
+					</Data>
+					<Data name='description'>
+						<value></value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Place du Port,, 80240 BRAY SUR SOMME</value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 22 76 25 11</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.ville-braysursomme.fr/  )</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>2.724609,49.936472,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camping Municipal Saint Quentin</name>
+				<description><![CDATA[Département: Aisne<br>Ouverture: Juin-Septembre<br>Budget €/j: 10-15<br>Emplacements: 54<br>Location: non<br>description: En bordure du canal et non loin du domaine du Parc d'Isle. Piscine a proximité<br>Adresse: Boulevard Jean Bouin , 02100 SAINT-QUENTIN <br>Phone: 03 23 06 94 19<br>Website: www.saint-quentin.fr/51-camping.htm    ]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+					<Data name='Département'>
+						<value>Aisne</value>
+					</Data>
+					<Data name='Ouverture'>
+						<value>Juin-Septembre</value>
+					</Data>
+					<Data name='Budget €/j'>
+						<value>10-15</value>
+					</Data>
+					<Data name='Emplacements'>
+						<value>54</value>
+					</Data>
+					<Data name='Location'>
+						<value>non</value>
+					</Data>
+					<Data name='description'>
+						<value>En bordure du canal et non loin du domaine du Parc d'Isle. Piscine a proximité</value>
+					</Data>
+					<Data name='Adresse'>
+						<value>Boulevard Jean Bouin , 02100 SAINT-QUENTIN </value>
+					</Data>
+					<Data name='Phone'>
+						<value>03 23 06 94 19</value>
+					</Data>
+					<Data name='Website'>
+						<value>www.saint-quentin.fr/51-camping.htm    </value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>3.3099213,49.8553609,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Calque sans titre</name>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
