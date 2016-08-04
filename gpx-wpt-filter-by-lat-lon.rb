@@ -1,10 +1,13 @@
 require 'nokogiri'
+require 'pp'
 
 # Reads GPX file passed into stdin.
 
 # ARGUMENTS:
 # 1. Min/max latitudes, separated by a comma (no spaces)
 # 2. Min/max longitudes, separated by a comma (no spaces)
+# OPTIONALly:
+# repeat 1, 2 again, to include another area in the output.
 
 # RESULT:
 # Filteres GPX file will be written to stdout (containing only <wpt> elements)
@@ -12,12 +15,39 @@ require 'nokogiri'
 # Example usage:
 #     ruby <this_file.rb> 48.5,48.8 -3.3,-4.1
 
-($lat_min, $lat_max) = ARGV[0].split(",").map{|x| x.to_f}.sort
-($lon_min, $lon_max) = ARGV[1].split(",").map{|x| x.to_f}.sort
+class MinMax
+  attr_reader :min, :max
+  def initialize(minmax)	# e.g. "1.4,-0.7" NO SPACE around comma (will be sorted for you!)
+    (@min, @max) = minmax.split(",").map{|x| x.to_f}.sort
+  end
+  def contains(x)
+    x > min && x <= max
+  end
+  def to_s
+    "[#{min},#{max}]"
+  end
+end
+class Bounds
+  attr_reader :lat_mm, :lon_mm
+  def initialize(lat, lon)
+    (@lat_mm, @lon_mm) = MinMax.new(lat), MinMax.new(lon)
+  end
+  def contains(lat, lon)
+    lat_mm.contains(lat) && lon_mm.contains(lon)
+  end
+  def to_s
+    "lat: #{lat_mm}, lon: #{lon_mm}"
+  end
+end
+
+bounds = []
+raise "Expected even number of arguments, they come in pairs: 'lat_bounds lon_bounds'\ne.g. '47.283,47.979  0.730,3.187 46.313,47.283  2.7,7.333'" unless ARGV.size.even?
+while (ARGV.size != 0)
+  bounds.push(Bounds.new(ARGV.shift, ARGV.shift))
+end
 
 $stderr.puts "Filtering for waypoints within the following bounding box"
-$stderr.puts "Latitude: [#{$lat_min}, #{$lat_max}]"
-$stderr.puts "Longitude: [#{$lon_min}, #{$lon_max}]"
+$stderr.puts bounds
 
 # Function for generating xml (used here for html).
 def xml(ele, attr = {})
@@ -41,14 +71,12 @@ puts xml(:gpx,
     total_in += 1
     lat = x.attributes["lat"].value.to_f
     lon = x.attributes["lon"].value.to_f
-    $lat_min <= lat && lat <= $lat_max && $lon_min <= lon && lon <= $lon_max
+    bounds.map{|b|
+      b.contains(lat, lon)
+    }.reduce {|a, b| a || b}	# any b contains(lat lon), using logical OR
   }
   .map {|x| 
     total_out += 1
-    #x["foo"] = "bar"
-    #foo = Nokogiri::XML::Text.new("bar", doc)
-    #x.add_child(foo)
-    #x.add_child("<foo>bar</foo>")
     sym = x.at_css("sym") 
     if sym
       #$stderr.puts "Yeah #{x.css("sym").size}" 
