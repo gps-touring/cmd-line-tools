@@ -19,32 +19,33 @@ require 'pp'
 # All of the above can have annotations
 #
 $type = {}
+class String
+def capfirst
+  self[0].upcase + self[1..-1]
+end
+end
 class Super
   def initialize(x)
     @node = x
     @attr = x.attributes	# Hash of attributes, indexed by attr name.
-    #@children = []
     @docs = x.xpath("xsd:annotation").map {|x| Annotation.new(x)}
-    puts "DOCS: #{annotations}"
-    #x.attribute_nodes.each {|c|
-      #puts "#{c.name}: #{c.value}"
-    #}
-    #if false 
-      #x.children.each {|c|
-	#puts c.name
-	#if $element_class_map[c.name]
-	  #@children << $element_class_map[c.name].new(c)
-	#else
-	  #$stderr.puts "WARNING(in #{x.name}): element \"#{c.name}\" could not be parsed"
-	#end
-      #}
-     #end
+    $stderr.puts "DOCS: #{annotations}"
   end
   def name
     @attr["name"] ?  @attr["name"].value : ""
   end
   def type
     @attr["type"] ? @attr["type"].value : ""
+  end
+  def ruby_class_name
+    $stderr.puts "name: #{name}"
+    $stderr.puts "type: #{type}"
+    name.capfirst
+  end
+  def ruby_class_ref
+    $stderr.puts "name: #{name}"
+    $stderr.puts "type: #{type}"
+    type.capfirst
   end
   def annotations
     @docs.map{|x| x.docs}.join("\n")
@@ -53,13 +54,13 @@ end
 class Attribute < Super
   def initialize(x)
     super
-    puts "Attribute.initialize #{name} #{type}"
+    $stderr.puts "Attribute.initialize #{name} #{type}"
   end
 end
 class Element < Super
   def initialize(x)
     super
-    puts "Element.initialize #{name} #{type}"
+    $stderr.puts "Element.initialize #{name} #{type}"
   end
 end
 class SimpleType < Super
@@ -67,7 +68,7 @@ class SimpleType < Super
     super
     @restrictions = x.xpath("xsd:restriction").map{|x| Restriction.new(x)}
     $type[name] = self
-    puts "SimpleType.initialize #{name}"
+    $stderr.puts "SimpleType.initialize #{name}"
   end
 end
 class ComplexType < Super
@@ -76,7 +77,18 @@ class ComplexType < Super
     @attributes = x.xpath("xsd:attribute").map{|x| Attribute.new(x) }
     @elements = x.xpath("xsd:sequence/xsd:element").map{|x| Element.new(x) }
     $type[name] = self
-    puts "ComplexType.initialize #{name}, #{@attributes.size} attributes, #{@elements.size} elements"
+    $stderr.puts "ComplexType.initialize #{name}, #{@attributes.size} attributes, #{@elements.size} elements"
+  end
+  def to_ruby_class
+    return <<END
+    class #{ruby_class_name}
+      @@attrs = {#{@attributes.map {|a| "\"#{a.name}\" => \"#{a.type}\""}.join(", ")}}
+      @@eles = {#{@elements.map {|a| "\"#{a.name}\" => \"#{a.type}\""}.join(", ")}}
+      def self.parse(x)
+        XmlP::Parser.parse(x, @@attrs, @@eles)
+      end
+    end
+END
   end
 end
 class Annotation < Super
@@ -84,33 +96,76 @@ class Annotation < Super
   def initialize(x)
     #super
     @docs = x.xpath("xsd:documentation").text
-    puts "Annotation.initialize #{@docs}"
+    $stderr.puts "Annotation.initialize #{@docs}"
   end
 end
 class Restriction < Super
   def initialize(x)
     #super
     @base = x.attributes["base"]
-    puts "Restriction.initialize #{@base}"
+    $stderr.puts "Restriction.initialize #{@base}"
   end
 end
 
 class XsdParser
-  def initialize(xsd_io)
-    doc = File.open("gpx1_1.xsd") { |f| Nokogiri::XML(f) { |cfg| cfg.noblanks } }
+  def initialize(xsd)
+    doc = File.open(xsd) { |f| Nokogiri::XML(f) { |cfg| cfg.noblanks } }
     @root_elements = doc.root.xpath("xsd:element").map { |x| Element.new(x) }
+    raise "Expected exactly on root element in XSD" unless @root_elements.size == 1
+    @root_element = @root_elements.first
     @complex_types = doc.root.xpath("xsd:complexType").map { |x| ComplexType.new(x) }
     @simple_types = doc.root.xpath("xsd:simpleType").map { |x| SimpleType.new(x) }
     @annotations = doc.root.xpath("xsd:annotation").map { |x| Annotation.new(x) }
 
-    pp @complex_types.map {|x| x.name }
-    pp @simple_types.map {|x| x.name }
-    pp @root_elements.map {|x| x.name }
-    pp @annotations.map {|x| x.docs }
+    #pp(@complex_types.map {|x| x.name }, $stderr)
+    #pp(@simple_types.map {|x| x.name }, $stderr)
+    #pp(@root_elements.map {|x| x.name }, $stderr)
+    #pp(@annotations.map {|x| x.docs }, $stderr)
+  end
+
+  def to_ruby
+    return <<END
+require 'nokogiri'
+require 'pp'
+module XmlP
+  class Types
+#{complex_classes}
+  end
+#{parser_class}
+res = XmlP::Parser.new(ARGV[0])
+end
+END
+  end
+  private
+  def complex_classes
+    @complex_types.map {|x| x.to_ruby_class }.join("\n")
+  end
+  def parser_class
+    return <<END
+    class Parser
+      def initialize(xml_file)
+        doc = File.open(xml_file) { |f| Nokogiri::XML(f) { |cfg| cfg.noblanks } }
+	root_element_name = "#{@root_element.name}"
+	root_element_class_name = "#{@root_element.ruby_class_ref}"
+	XmlP::Types::#{@root_element.ruby_class_ref}.parse(doc.root)
+
+	pp doc.root
+	pp doc.root.name
+	root = doc.xpath("/#{@root_elements.first.name}")
+	pp root
+        puts "Parser"
+	puts "#{@root_elements.first.name}"
+	puts "#{@root_elements.first.type}"
+      end
+      def self.parse(x, attrs, eles)
+      end
+    end
+END
   end
 end
-xsd_p = XsdParser.new(File.open("gpx1_1.xsd"))
-
+#xsd_p = XsdParser.new(File.open("gpx1_1.xsd"))
+xsd_p = XsdParser.new(ARGV[0])
+puts xsd_p.to_ruby
 
 #pp doc.xpath("//xsd:complexType[@name]").map {|x| x.name}
 #pp doc.xpath("//*[@name]").map {|x| "#{x.name} #{x['name']}"}
