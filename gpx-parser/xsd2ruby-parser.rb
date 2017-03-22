@@ -82,12 +82,19 @@ class ComplexType < Super
   def to_ruby_class
     return <<END
     class #{ruby_class_name}
+    #XmlP::Parser::@@class_map["#{name}"] = #{ruby_class_name}
       @@attrs = {#{@attributes.map {|a| "\"#{a.name}\" => \"#{a.type}\""}.join(", ")}}
       @@eles = {#{@elements.map {|a| "\"#{a.name}\" => \"#{a.type}\""}.join(", ")}}
       def self.parse(x)
+        $stderr.puts "#{ruby_class_name}.parse"
         XmlP::Parser.parse(x, @@attrs, @@eles)
       end
     end
+END
+  end
+  def class_map_defn
+    return <<END
+      @@class_map["#{name}"] = XmlP::Types::#{ruby_class_name}
 END
   end
 end
@@ -143,21 +150,41 @@ END
   def parser_class
     return <<END
     class Parser
+      @@class_map = {}
+    #{"\n" + @complex_types.map {|x| x.class_map_defn }.join()}
       def initialize(xml_file)
         doc = File.open(xml_file) { |f| Nokogiri::XML(f) { |cfg| cfg.noblanks } }
+	#pp doc.root
 	root_element_name = "#{@root_element.name}"
 	root_element_class_name = "#{@root_element.ruby_class_ref}"
-	XmlP::Types::#{@root_element.ruby_class_ref}.parse(doc.root)
+	$stderr.puts "expected root element name: " + root_element_name
+	$stderr.puts "actual root element nme: " + doc.root.name
 
-	pp doc.root
-	pp doc.root.name
+	if doc.root.name == root_element_name
+	  XmlP::Types::#{@root_element.ruby_class_ref}.parse(doc.root)
+	else
+	  $stderr.puts "Expected root element " + root_element_name + ", found " + doc.root.name.name
+	end
+
+	#$stderr.puts "doc.root.name: " + doc.root.name
 	root = doc.xpath("/#{@root_elements.first.name}")
-	pp root
-        puts "Parser"
-	puts "#{@root_elements.first.name}"
-	puts "#{@root_elements.first.type}"
+	#pp root
+        #puts "Parser"
+	#puts "#{@root_elements.first.name}"
+	#puts "#{@root_elements.first.type}"
       end
       def self.parse(x, attrs, eles)
+        $stderr.puts "XmlP.Parser.parse"
+        #pp x.attributes
+        pp x.children.map {|x| x.name  }
+	x.children.each {|x|
+	  
+	  if @@class_map[eles[x.name]]
+	    @@class_map[eles[x.name]].parse(x)
+	  else
+	    $stderr.puts x.name + " not found in class_map"
+	  end
+	}
       end
     end
 END
