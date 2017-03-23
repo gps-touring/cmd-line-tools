@@ -47,6 +47,11 @@ class Super
     $stderr.puts "type: #{type}"
     type.capfirst
   end
+  def class_map_defn
+    return <<END
+      @@class_map["#{name}"] = XmlP::Types::#{ruby_class_name}
+END
+  end
   def annotations
     @docs.map{|x| x.docs}.join("\n")
   end
@@ -66,9 +71,25 @@ end
 class SimpleType < Super
   def initialize(x)
     super
-    @restrictions = x.xpath("xsd:restriction").map{|x| Restriction.new(x)}
+    restrictions = x.xpath("xsd:restriction").map{|x| Restriction.new(x)}
+    raise "Expected exactly one restriction for #{name}" unless restrictions.size == 1
+    @restriction = restrictions.first
     $type[name] = self
     $stderr.puts "SimpleType.initialize #{name}"
+  end
+  def to_ruby_class
+    return <<END
+    class #{ruby_class_name}
+      attr_reader :res
+      def initialize(whatever)
+        @res = whatever
+      end
+      def self.parse(x)
+        $stderr.puts "#{ruby_class_name}.parse"
+	new(XmlP::Parser.parse_simple_type(x, #{@restriction.to_ruby_structure}))
+      end
+    end
+END
   end
 end
 class ComplexType < Super
@@ -82,19 +103,18 @@ class ComplexType < Super
   def to_ruby_class
     return <<END
     class #{ruby_class_name}
-    #XmlP::Parser::@@class_map["#{name}"] = #{ruby_class_name}
       @@attrs = {#{@attributes.map {|a| "\"#{a.name}\" => \"#{a.type}\""}.join(", ")}}
       @@eles = {#{@elements.map {|a| "\"#{a.name}\" => \"#{a.type}\""}.join(", ")}}
+      # TODO - beware name class with res and an element or attribute
+      attr_reader :res
+      def initialize(whatever)
+        @res = whatever
+      end
       def self.parse(x)
         $stderr.puts "#{ruby_class_name}.parse"
-        XmlP::Parser.parse(x, @@attrs, @@eles)
+        new(XmlP::Parser.parse_complex_type(x, @@attrs, @@eles))
       end
     end
-END
-  end
-  def class_map_defn
-    return <<END
-      @@class_map["#{name}"] = XmlP::Types::#{ruby_class_name}
 END
   end
 end
@@ -111,6 +131,9 @@ class Restriction < Super
     #super
     @base = x.attributes["base"]
     $stderr.puts "Restriction.initialize #{@base}"
+  end
+  def to_ruby_structure
+    return "{\"type\" => \"#{@base}\"}"
   end
 end
 
@@ -137,9 +160,11 @@ require 'pp'
 module XmlP
   class Types
 #{complex_classes}
+#{simple_classes}
   end
 #{parser_class}
 res = XmlP::Parser.new(ARGV[0])
+pp res
 end
 END
   end
@@ -147,44 +172,59 @@ END
   def complex_classes
     @complex_types.map {|x| x.to_ruby_class }.join("\n")
   end
+  def simple_classes
+    @simple_types.map {|x| x.to_ruby_class }.join("\n")
+  end
   def parser_class
     return <<END
     class Parser
       @@class_map = {}
     #{"\n" + @complex_types.map {|x| x.class_map_defn }.join()}
+    #{"\n" + @simple_types.map {|x| x.class_map_defn }.join()}
+      attr_reader :res
       def initialize(xml_file)
+        @res = {}
         doc = File.open(xml_file) { |f| Nokogiri::XML(f) { |cfg| cfg.noblanks } }
-	#pp doc.root
 	root_element_name = "#{@root_element.name}"
-	root_element_class_name = "#{@root_element.ruby_class_ref}"
-	$stderr.puts "expected root element name: " + root_element_name
-	$stderr.puts "actual root element nme: " + doc.root.name
+	#root_element_class_name = "#{@root_element.ruby_class_ref}"
+	#$stderr.puts "expected root element name: " + root_element_name
+	#$stderr.puts "actual root element nme: " + doc.root.name
 
 	if doc.root.name == root_element_name
-	  XmlP::Types::#{@root_element.ruby_class_ref}.parse(doc.root)
+	  res[doc.root.name] = XmlP::Types::#{@root_element.ruby_class_ref}.parse(doc.root)
 	else
 	  $stderr.puts "Expected root element " + root_element_name + ", found " + doc.root.name.name
 	end
 
-	#$stderr.puts "doc.root.name: " + doc.root.name
-	root = doc.xpath("/#{@root_elements.first.name}")
-	#pp root
-        #puts "Parser"
-	#puts "#{@root_elements.first.name}"
-	#puts "#{@root_elements.first.type}"
       end
-      def self.parse(x, attrs, eles)
-        $stderr.puts "XmlP.Parser.parse"
-        #pp x.attributes
+      def self.parse_complex_type(x, attrs, eles)
+        $stderr.puts "XmlP.Parser.parse_complex_type"
+	res = Hash.new {|h, k| h[k] = [] }
+	x.attributes.each {|k, v|
+	  $stderr.puts v.name
+	  $stderr.puts v.value
+	  if @@class_map[attrs[v.name]]
+	    res[v.name] << @@class_map[attrs[v.name]].parse(v.value)
+	  else
+	    $stderr.puts v.name + " not found in class_map"
+	  end
+
+	}
         pp x.children.map {|x| x.name  }
 	x.children.each {|x|
 	  
 	  if @@class_map[eles[x.name]]
-	    @@class_map[eles[x.name]].parse(x)
+	    res[x.name] << @@class_map[eles[x.name]].parse(x)
 	  else
 	    $stderr.puts x.name + " not found in class_map"
 	  end
 	}
+	res
+      end
+      def self.parse_simple_type(x, restriction)
+        $stderr.puts "XmlP.Parser.parse_simple_type"
+        pp x
+        pp restriction
       end
     end
 END
