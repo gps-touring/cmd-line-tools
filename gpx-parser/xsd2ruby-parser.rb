@@ -48,9 +48,7 @@ class Super
     type.capfirst
   end
   def class_map_defn
-    return <<END
-      @@class_map["#{name}"] = XmlP::Types::#{ruby_class_name}
-END
+    return "\"#{name}\" => XmlP::Types::#{ruby_class_name}"
   end
   def annotations
     @docs.map{|x| x.docs}.join("\n")
@@ -146,26 +144,31 @@ class XsdParser
     @complex_types = doc.root.xpath("xsd:complexType").map { |x| ComplexType.new(x) }
     @simple_types = doc.root.xpath("xsd:simpleType").map { |x| SimpleType.new(x) }
     @annotations = doc.root.xpath("xsd:annotation").map { |x| Annotation.new(x) }
-
-    #pp(@complex_types.map {|x| x.name }, $stderr)
-    #pp(@simple_types.map {|x| x.name }, $stderr)
-    #pp(@root_elements.map {|x| x.name }, $stderr)
-    #pp(@annotations.map {|x| x.docs }, $stderr)
   end
 
   def to_ruby
     return <<END
 require 'nokogiri'
 require 'pp'
+require_relative './parser-utils.rb'
 module XmlP
   class Types
 #{complex_classes}
 #{simple_classes}
   end
-#{parser_class}
-res = XmlP::Parser.new(ARGV[0])
-pp res
+  class #{@root_element.ruby_class_ref}
+    class Parser
+      def self.parse(filename)
+	root_name = "#{@root_element.name}"
+	root_type = XmlP::Types::#{@root_element.ruby_class_ref}
+	type_map = #{class_map_defn}
+	XmlP::Parser.new(filename, root_name, root_type, type_map)
+      end
+    end
+  end
 end
+res = XmlP::#{@root_element.ruby_class_ref}::Parser.parse(ARGV[0])
+pp res
 END
   end
   private
@@ -175,62 +178,12 @@ END
   def simple_classes
     @simple_types.map {|x| x.to_ruby_class }.join("\n")
   end
-  def parser_class
-    return <<END
-    class Parser
-      @@class_map = {}
-    #{"\n" + @complex_types.map {|x| x.class_map_defn }.join()}
-    #{"\n" + @simple_types.map {|x| x.class_map_defn }.join()}
-      attr_reader :res
-      def initialize(xml_file)
-        @res = {}
-        doc = File.open(xml_file) { |f| Nokogiri::XML(f) { |cfg| cfg.noblanks } }
-	root_element_name = "#{@root_element.name}"
-	#root_element_class_name = "#{@root_element.ruby_class_ref}"
-	#$stderr.puts "expected root element name: " + root_element_name
-	#$stderr.puts "actual root element nme: " + doc.root.name
-
-	if doc.root.name == root_element_name
-	  res[doc.root.name] = XmlP::Types::#{@root_element.ruby_class_ref}.parse(doc.root)
-	else
-	  $stderr.puts "Expected root element " + root_element_name + ", found " + doc.root.name.name
-	end
-
-      end
-      def self.parse_complex_type(x, attrs, eles)
-        $stderr.puts "XmlP.Parser.parse_complex_type"
-	res = Hash.new {|h, k| h[k] = [] }
-	x.attributes.each {|k, v|
-	  $stderr.puts v.name
-	  $stderr.puts v.value
-	  if @@class_map[attrs[v.name]]
-	    res[v.name] << @@class_map[attrs[v.name]].parse(v.value)
-	  else
-	    $stderr.puts v.name + " not found in class_map"
-	  end
-
-	}
-        pp x.children.map {|x| x.name  }
-	x.children.each {|x|
-	  
-	  if @@class_map[eles[x.name]]
-	    res[x.name] << @@class_map[eles[x.name]].parse(x)
-	  else
-	    $stderr.puts x.name + " not found in class_map"
-	  end
-	}
-	res
-      end
-      def self.parse_simple_type(x, restriction)
-        $stderr.puts "XmlP.Parser.parse_simple_type"
-        pp x
-        pp restriction
-      end
-    end
-END
+  def class_map_defn
+    return "{
+          #{(@complex_types + @simple_types).map{|x| x.class_map_defn}.join(",\n          ")}
+        }"
   end
 end
-#xsd_p = XsdParser.new(File.open("gpx1_1.xsd"))
 xsd_p = XsdParser.new(ARGV[0])
 puts xsd_p.to_ruby
 
