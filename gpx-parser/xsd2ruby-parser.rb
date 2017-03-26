@@ -18,7 +18,6 @@ require 'pp'
 # Simple types have restrictions (includes the underlying type)
 # All of the above can have annotations
 #
-$type = {}
 class String
 def capfirst
   self[0].upcase + self[1..-1]
@@ -29,7 +28,7 @@ class Super
     @node = x
     @attr = x.attributes	# Hash of attributes, indexed by attr name.
     @docs = x.xpath("xsd:annotation").map {|x| Annotation.new(x)}
-    $stderr.puts "DOCS: #{annotations}"
+    #$stderr.puts "DOCS: #{annotations}"
   end
   def name
     @attr["name"] ?  @attr["name"].value : ""
@@ -38,18 +37,34 @@ class Super
     @attr["type"] ? @attr["type"].value : ""
   end
   def ruby_class_name
-    $stderr.puts "name: #{name}"
-    $stderr.puts "type: #{type}"
+    #$stderr.puts "name: #{name}"
+    #$stderr.puts "type: #{type}"
     name.capfirst
   end
   def ruby_class_ref
-    $stderr.puts "name: #{name}"
-    $stderr.puts "type: #{type}"
+    #$stderr.puts "name: #{name}"
+    #$stderr.puts "type: #{type}"
     type.capfirst
   end
   def class_map_defn
     return "\"#{name}\" => XmlP::Types::#{ruby_class_name}"
   end
+  def min_occurs
+    $stderr.puts "Super.min_occurs"
+    begin
+      @attr["minOccurs"].value.to_i
+    rescue
+      1
+    end
+  end 
+  def max_occurs
+    begin
+      v = @attr["maxOccurs"].value
+      v == "unbounded" ? "Float::INFINITY" : v.to_i
+    rescue
+      1
+    end
+  end 
   def annotations
     @docs.map{|x| x.docs}.join("\n")
   end
@@ -57,13 +72,13 @@ end
 class Attribute < Super
   def initialize(x)
     super
-    $stderr.puts "Attribute.initialize #{name} #{type}"
+    #$stderr.puts "Attribute.initialize #{name} #{type}"
   end
 end
 class Element < Super
   def initialize(x)
     super
-    $stderr.puts "Element.initialize #{name} #{type}"
+    #$stderr.puts "Element.initialize #{name} #{type}"
   end
 end
 class SimpleType < Super
@@ -72,8 +87,7 @@ class SimpleType < Super
     restrictions = x.xpath("xsd:restriction").map{|x| Restriction.new(x)}
     raise "Expected exactly one restriction for #{name}" unless restrictions.size == 1
     @restriction = restrictions.first
-    $type[name] = self
-    $stderr.puts "SimpleType.initialize #{name}"
+    #$stderr.puts "SimpleType.initialize #{name}"
   end
   def to_ruby_class
     return <<END
@@ -83,7 +97,7 @@ class SimpleType < Super
         @res = whatever
       end
       def self.parse(x)
-        $stderr.puts "#{ruby_class_name}.parse"
+        #$stderr.puts "#{ruby_class_name}.parse"
 	new(XmlP::Parser.parse_simple_type(x, #{@restriction.to_ruby_structure}))
       end
     end
@@ -95,21 +109,22 @@ class ComplexType < Super
     super
     @attributes = x.xpath("xsd:attribute").map{|x| Attribute.new(x) }
     @elements = x.xpath("xsd:sequence/xsd:element").map{|x| Element.new(x) }
-    $type[name] = self
-    $stderr.puts "ComplexType.initialize #{name}, #{@attributes.size} attributes, #{@elements.size} elements"
+    #$stderr.puts "ComplexType.initialize #{name}, #{@attributes.size} attributes, #{@elements.size} elements"
   end
   def to_ruby_class
     return <<END
     class #{ruby_class_name}
-      @@attrs = {#{@attributes.map {|a| "\"#{a.name}\" => \"#{a.type}\""}.join(", ")}}
-      @@eles = {#{@elements.map {|a| "\"#{a.name}\" => \"#{a.type}\""}.join(", ")}}
+      @@attrs = {#{@attributes.map {|a| "\"#{a.name}\" => {type: \"#{a.type}\"}"}.join(", ")}}
+      @@eles = {
+        #{@elements.map {|a| "\"#{a.name}\" => {type: \"#{a.type}\", minOccurs: #{a.min_occurs}, maxOccurs: #{a.max_occurs}}"}.join(",\n        ")}
+      }
       # TODO - beware name class with res and an element or attribute
       attr_reader :res
       def initialize(whatever)
         @res = whatever
       end
       def self.parse(x)
-        $stderr.puts "#{ruby_class_name}.parse"
+        #$stderr.puts "#{ruby_class_name}.parse"
         new(XmlP::Parser.parse_complex_type(x, @@attrs, @@eles))
       end
     end
@@ -121,14 +136,14 @@ class Annotation < Super
   def initialize(x)
     #super
     @docs = x.xpath("xsd:documentation").text
-    $stderr.puts "Annotation.initialize #{@docs}"
+    #$stderr.puts "Annotation.initialize #{@docs}"
   end
 end
 class Restriction < Super
   def initialize(x)
     #super
     @base = x.attributes["base"]
-    $stderr.puts "Restriction.initialize #{@base}"
+    #$stderr.puts "Restriction.initialize #{@base}"
   end
   def to_ruby_structure
     return "{\"type\" => \"#{@base}\"}"
@@ -201,4 +216,3 @@ puts xsd_p.to_ruby
   #end
 #}
 
-#puts $type.keys

@@ -14,33 +14,47 @@ module XmlP
 
     end
     def self.parse_complex_type(x, attrs, eles)
-      $stderr.puts "XmlP.Parser.parse_complex_type"
+      #$stderr.puts "XmlP.Parser.parse_complex_type"
       res = Hash.new {|h, k| h[k] = [] }
       x.attributes.each {|k, v|
-	$stderr.puts v.name
-	$stderr.puts v.value
-	if @@class_map[attrs[v.name]]
-	  res[v.name] << @@class_map[attrs[v.name]].parse(v.value)
-	else
+	#$stderr.puts v.name
+	#$stderr.puts v.value
+	begin
+	  res[v.name] << @@class_map[attrs[v.name][:type]].parse(v.value)
+	rescue
 	  $stderr.puts v.name + " not found in class_map"
 	end
+	#if @@class_map[attrs[v.name][:type]]
+	  #res[v.name] << @@class_map[attrs[v.name][:type]].parse(v.value)
+	#else
+	  #$stderr.puts v.name + " not found in class_map"
+	#end
 
       }
-      pp x.children.map {|x| x.name  }
+      #pp x.children.map {|x| x.name  }
       x.children.each {|x|
-
-	if @@class_map[eles[x.name]]
-	  res[x.name] << @@class_map[eles[x.name]].parse(x)
-	else
+	begin
+	  res[x.name] << @@class_map[eles[x.name][:type]].parse(x)
+	rescue
 	  $stderr.puts x.name + " not found in class_map"
 	end
+
+	#if @@class_map[eles[x.name][:type]]
+	  #res[x.name] << @@class_map[eles[x.name][:type]].parse(x)
+	#else
+	  #$stderr.puts x.name + " not found in class_map"
+	#end
       }
       res
     end
     def self.parse_simple_type(x, restriction)
-      $stderr.puts "XmlP.Parser.parse_simple_type"
-      pp x
-      pp restriction
+      case restriction['type']
+      when "xsd:decimal"
+	x.to_f
+      else
+	$stderr.puts "No code to handle simpletype #{restriction['type']}"
+	x
+      end
     end
   end
 end
