@@ -50,7 +50,7 @@ class Super
     return "\"#{name}\" => XmlP::Types::#{ruby_class_name}"
   end
   def min_occurs
-    $stderr.puts "Super.min_occurs"
+    #$stderr.puts "Super.min_occurs"
     begin
       @attr["minOccurs"].value.to_i
     rescue
@@ -93,12 +93,10 @@ class SimpleType < Super
     return <<END
     class #{ruby_class_name}
       attr_reader :res
-      def initialize(whatever)
-        @res = whatever
-      end
-      def self.parse(x)
-        #$stderr.puts "#{ruby_class_name}.parse"
-	new(XmlP::Parser.parse_simple_type(x, #{@restriction.to_ruby_structure}))
+      def initialize(xml_node)
+        #$stderr.puts "#{ruby_class_name}.initialize"
+        @xml_node = xml_node
+        @res = XmlP::Parser.parse_simple_type(xml_node, #{@restriction.to_ruby_structure})
       end
     end
 END
@@ -120,12 +118,10 @@ class ComplexType < Super
       }
       # TODO - beware name class with res and an element or attribute
       attr_reader :res
-      def initialize(whatever)
-        @res = whatever
-      end
-      def self.parse(x)
-        #$stderr.puts "#{ruby_class_name}.parse"
-        new(XmlP::Parser.parse_complex_type(x, @@attrs, @@eles))
+      def initialize(xml_node)
+        #$stderr.puts "#{ruby_class_name}.initialize"
+        @xml_node = xml_node
+        @res = XmlP::Parser.parse_complex_type(xml_node, @@attrs, @@eles)
       end
     end
 END

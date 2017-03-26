@@ -7,7 +7,7 @@ module XmlP
       doc = File.open(xml_file) { |f| Nokogiri::XML(f) { |cfg| cfg.noblanks } }
 
       if doc.root.name == root_element_name
-	res[doc.root.name] = root_element_class.parse(doc.root)
+	@res[doc.root.name] = root_element_class.new(doc.root)
       else
 	$stderr.puts "Expected root element " + root_element_name + ", found " + doc.root.name.name
       end
@@ -20,12 +20,12 @@ module XmlP
 	#$stderr.puts v.name
 	#$stderr.puts v.value
 	begin
-	  res[v.name] << @@class_map[attrs[v.name][:type]].parse(v.value)
+	  res[v.name] << @@class_map[attrs[v.name][:type]].new(v.value)
 	rescue
 	  $stderr.puts v.name + " not found in class_map"
 	end
 	#if @@class_map[attrs[v.name][:type]]
-	  #res[v.name] << @@class_map[attrs[v.name][:type]].parse(v.value)
+	  #res[v.name] << @@class_map[attrs[v.name][:type]].new(v.value)
 	#else
 	  #$stderr.puts v.name + " not found in class_map"
 	#end
@@ -34,17 +34,18 @@ module XmlP
       #pp x.children.map {|x| x.name  }
       x.children.each {|x|
 	begin
-	  res[x.name] << @@class_map[eles[x.name][:type]].parse(x)
+	  res[x.name] << @@class_map[eles[x.name][:type]].new(x)
 	rescue
 	  $stderr.puts x.name + " not found in class_map"
 	end
 
 	#if @@class_map[eles[x.name][:type]]
-	  #res[x.name] << @@class_map[eles[x.name][:type]].parse(x)
+	  #res[x.name] << @@class_map[eles[x.name][:type]].new(x)
 	#else
 	  #$stderr.puts x.name + " not found in class_map"
 	#end
       }
+      pp res.keys
       res
     end
     def self.parse_simple_type(x, restriction)
