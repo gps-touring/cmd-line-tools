@@ -28,7 +28,7 @@ class Super
   def initialize(x)
     @node = x
     @attr = x.attributes	# Hash of attributes, indexed by attr name.
-    @docs = x.xpath("xsd:annotation").map {|x| Annotation.new(x)}
+    @docs = x.xpath("xsd:annotation", 'xsd' => 'http://www.w3.org/2001/XMLSchema').map {|x| Annotation.new(x)}
     $stderr.puts "DOCS: #{annotations}"
   end
   def name
@@ -69,7 +69,7 @@ end
 class SimpleType < Super
   def initialize(x)
     super
-    restrictions = x.xpath("xsd:restriction").map{|x| Restriction.new(x)}
+    restrictions = x.xpath("xsd:restriction", 'xsd' => 'http://www.w3.org/2001/XMLSchema').map{|x| Restriction.new(x)}
     raise "Expected exactly one restriction for #{name}" unless restrictions.size == 1
     @restriction = restrictions.first
     $type[name] = self
@@ -93,8 +93,8 @@ end
 class ComplexType < Super
   def initialize(x)
     super
-    @attributes = x.xpath("xsd:attribute").map{|x| Attribute.new(x) }
-    @elements = x.xpath("xsd:sequence/xsd:element").map{|x| Element.new(x) }
+    @attributes = x.xpath("xsd:attribute", 'xsd' => 'http://www.w3.org/2001/XMLSchema').map{|x| Attribute.new(x) }
+    @elements = x.xpath("xsd:sequence/xsd:element", 'xsd' => 'http://www.w3.org/2001/XMLSchema').map{|x| Element.new(x) }
     $type[name] = self
     $stderr.puts "ComplexType.initialize #{name}, #{@attributes.size} attributes, #{@elements.size} elements"
   end
@@ -120,7 +120,7 @@ class Annotation < Super
   attr_reader :docs
   def initialize(x)
     #super
-    @docs = x.xpath("xsd:documentation").text
+    @docs = x.xpath("xsd:documentation", 'xsd' => 'http://www.w3.org/2001/XMLSchema').text
     $stderr.puts "Annotation.initialize #{@docs}"
   end
 end
@@ -138,12 +138,12 @@ end
 class XsdParser
   def initialize(xsd)
     doc = File.open(xsd) { |f| Nokogiri::XML(f) { |cfg| cfg.noblanks } }
-    @root_elements = doc.root.xpath("xsd:element").map { |x| Element.new(x) }
+    @root_elements = doc.root.xpath("xsd:element", 'xsd' => 'http://www.w3.org/2001/XMLSchema').map { |x| Element.new(x) }
     raise "Expected exactly on root element in XSD" unless @root_elements.size == 1
     @root_element = @root_elements.first
-    @complex_types = doc.root.xpath("xsd:complexType").map { |x| ComplexType.new(x) }
-    @simple_types = doc.root.xpath("xsd:simpleType").map { |x| SimpleType.new(x) }
-    @annotations = doc.root.xpath("xsd:annotation").map { |x| Annotation.new(x) }
+    @complex_types = doc.root.xpath("xsd:complexType", 'xsd' => 'http://www.w3.org/2001/XMLSchema').map { |x| ComplexType.new(x) }
+    @simple_types = doc.root.xpath("xsd:simpleType", 'xsd' => 'http://www.w3.org/2001/XMLSchema').map { |x| SimpleType.new(x) }
+    @annotations = doc.root.xpath("xsd:annotation", 'xsd' => 'http://www.w3.org/2001/XMLSchema').map { |x| Annotation.new(x) }
   end
 
   def to_ruby

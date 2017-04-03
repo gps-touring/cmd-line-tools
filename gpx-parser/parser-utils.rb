@@ -1,4 +1,17 @@
+require 'nokogiri'
 module XmlP
+  class XsdTypes
+    def self.parse(x, type)
+      return
+      case type
+      when "xsd:decimal"
+	x.to_f
+      else
+	$stderr.puts "Warning: not XsdTypes for #{type}"
+	x
+      end
+    end
+  end
   class Parser
     attr_reader :res
     def initialize(xml_file, root_element_name, root_element_class, class_map)
@@ -39,8 +52,11 @@ module XmlP
     end
     def self.parse_simple_type(x, restriction)
       $stderr.puts "XmlP.Parser.parse_simple_type"
+
       pp x
       pp restriction
+      XmlP::XsdTypes.parse(x, restriction["type"])
+
     end
   end
 end
