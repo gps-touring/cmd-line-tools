@@ -91,11 +91,12 @@ class SimpleType < Super
   end
   def to_ruby_class
     return <<END
-    class #{ruby_class_name}
-      attr_reader :res
+    class #{ruby_class_name} < XmlP::Parser::SimpleType
+      #attr_reader :res
+      @@foo = #{@restriction.to_ruby_structure}
       def initialize(xml_node)
         #$stderr.puts "#{ruby_class_name}.initialize"
-        @xml_node = xml_node
+	super
         @res = XmlP::Parser.parse_simple_type(xml_node, #{@restriction.to_ruby_structure})
       end
     end
@@ -107,12 +108,19 @@ class ComplexType < Super
     super
     @attributes = x.xpath("xsd:attribute").map{|x| Attribute.new(x) }
     @elements = x.xpath("xsd:sequence/xsd:element").map{|x| Element.new(x) }
+    all_names = (@attributes + @elements).map {|x| x.name}
+    if all_names.size != all_names.uniq.size
+      raise "Some elements and attributes have the same name, breaking assumptions of this code generator: #{all_names.join(';')}"
+    end
+    $stderr.puts all_names.join(';')
     #$stderr.puts "ComplexType.initialize #{name}, #{@attributes.size} attributes, #{@elements.size} elements"
   end
   def to_ruby_class
     return <<END
-    class #{ruby_class_name}
-      @@attrs = {#{@attributes.map {|a| "\"#{a.name}\" => {type: \"#{a.type}\"}"}.join(", ")}}
+    class #{ruby_class_name} < XmlP::Parser::ComplexType
+      @@attrs = {
+        #{@attributes.map {|a| "\"#{a.name}\" => {type: \"#{a.type}\"}"}.join(",\n        ")}
+      }
       @@eles = {
         #{@elements.map {|a| "\"#{a.name}\" => {type: \"#{a.type}\", minOccurs: #{a.min_occurs}, maxOccurs: #{a.max_occurs}}"}.join(",\n        ")}
       }
@@ -120,8 +128,7 @@ class ComplexType < Super
       attr_reader :res
       def initialize(xml_node)
         #$stderr.puts "#{ruby_class_name}.initialize"
-        @xml_node = xml_node
-        @res = XmlP::Parser.parse_complex_type(xml_node, @@attrs, @@eles)
+	super(xml_node, @@eles, @@attrs)
       end
     end
 END
@@ -179,6 +186,7 @@ module XmlP
   end
 end
 res = XmlP::#{@root_element.ruby_class_ref}::Parser.parse(ARGV[0])
+res.root.get_element("#{@root_element.name}")
 pp res
 END
   end

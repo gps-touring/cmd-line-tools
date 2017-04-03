@@ -1,6 +1,6 @@
 module XmlP
   class Parser
-    attr_reader :res
+    attr_reader :res,:root
     def initialize(xml_file, root_element_name, root_element_class, class_map)
       @res = {}
       @@class_map = class_map
@@ -8,6 +8,7 @@ module XmlP
 
       if doc.root.name == root_element_name
 	@res[doc.root.name] = root_element_class.new(doc.root)
+	@root = @res[root_element_name]
       else
 	$stderr.puts "Expected root element " + root_element_name + ", found " + doc.root.name.name
       end
@@ -55,6 +56,40 @@ module XmlP
       else
 	$stderr.puts "No code to handle simpletype #{restriction['type']}"
 	x
+      end
+    end
+    class ComplexType
+      def initialize(xml_node, eles, attrs)
+        @xml_node = xml_node
+	@eles = eles
+	@attrs = attrs
+	@res = nil # to become obsolete
+
+	# @at, @el hahses hold references to other XmlP::Parser objects
+	# Each reference is populated when it is accessed.
+	# Until then, it does not appear in the hash at all.
+	# @at is a hash from attriute name string to XmlP::Parser object
+	# @el is a hash from element name string to XmlP::Parser object
+
+	@at = {}
+	# There can be more than one element of each name (subject to maxOccurs restriction)
+	@el = Hash.new {|h, k| h[k] = [] }
+	$stderr.puts "ComplexType @el init"
+      end
+      def get_element(n)
+	if !@el.include?(n)
+	  $stderr.puts "get_element (\"#{n}\")"
+	  pp @xml_node
+
+	end
+	raise "Assertion failure" unless @el.include?(n)
+	@el[n]
+      end
+    end
+    class SimpleType
+      def initialize(xml_node)
+        @xml_node = xml_node
+	@res = nil
       end
     end
   end
