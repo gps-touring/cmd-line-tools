@@ -18,7 +18,6 @@ require 'pp'
 # Simple types have restrictions (includes the underlying type)
 # All of the above can have annotations
 #
-$type = {}
 class String
 def capfirst
   self[0].upcase + self[1..-1]
@@ -29,7 +28,8 @@ class Super
     @node = x
     @attr = x.attributes	# Hash of attributes, indexed by attr name.
     @docs = x.xpath("xsd:annotation", 'xsd' => 'http://www.w3.org/2001/XMLSchema').map {|x| Annotation.new(x)}
-    $stderr.puts "DOCS: #{annotations}"
+    #@docs = x.xpath("xsd:annotation").map {|x| Annotation.new(x)}
+    #$stderr.puts "DOCS: #{annotations}"
   end
   def name
     @attr["name"] ?  @attr["name"].value : ""
@@ -38,18 +38,34 @@ class Super
     @attr["type"] ? @attr["type"].value : ""
   end
   def ruby_class_name
-    $stderr.puts "name: #{name}"
-    $stderr.puts "type: #{type}"
+    #$stderr.puts "name: #{name}"
+    #$stderr.puts "type: #{type}"
     name.capfirst
   end
   def ruby_class_ref
-    $stderr.puts "name: #{name}"
-    $stderr.puts "type: #{type}"
+    #$stderr.puts "name: #{name}"
+    #$stderr.puts "type: #{type}"
     type.capfirst
   end
   def class_map_defn
     return "\"#{name}\" => XmlP::Types::#{ruby_class_name}"
   end
+  def min_occurs
+    #$stderr.puts "Super.min_occurs"
+    begin
+      @attr["minOccurs"].value.to_i
+    rescue
+      1
+    end
+  end 
+  def max_occurs
+    begin
+      v = @attr["maxOccurs"].value
+      v == "unbounded" ? "Float::INFINITY" : v.to_i
+    rescue
+      1
+    end
+  end 
   def annotations
     @docs.map{|x| x.docs}.join("\n")
   end
@@ -57,13 +73,13 @@ end
 class Attribute < Super
   def initialize(x)
     super
-    $stderr.puts "Attribute.initialize #{name} #{type}"
+    #$stderr.puts "Attribute.initialize #{name} #{type}"
   end
 end
 class Element < Super
   def initialize(x)
     super
-    $stderr.puts "Element.initialize #{name} #{type}"
+    #$stderr.puts "Element.initialize #{name} #{type}"
   end
 end
 class SimpleType < Super
@@ -72,19 +88,17 @@ class SimpleType < Super
     restrictions = x.xpath("xsd:restriction", 'xsd' => 'http://www.w3.org/2001/XMLSchema').map{|x| Restriction.new(x)}
     raise "Expected exactly one restriction for #{name}" unless restrictions.size == 1
     @restriction = restrictions.first
-    $type[name] = self
-    $stderr.puts "SimpleType.initialize #{name}"
+    #$stderr.puts "SimpleType.initialize #{name}"
   end
   def to_ruby_class
     return <<END
-    class #{ruby_class_name}
-      attr_reader :res
-      def initialize(whatever)
-        @res = whatever
-      end
-      def self.parse(x)
-        $stderr.puts "#{ruby_class_name}.parse"
-	new(XmlP::Parser.parse_simple_type(x, #{@restriction.to_ruby_structure}))
+    class #{ruby_class_name} < XmlP::Parser::SimpleType
+      #attr_reader :res
+      @@foo = #{@restriction.to_ruby_structure}
+      def initialize(xml_node)
+        #$stderr.puts "#{ruby_class_name}.initialize"
+	super
+        @res = XmlP::Parser.parse_simple_type(xml_node, #{@restriction.to_ruby_structure})
       end
     end
 END
@@ -95,22 +109,30 @@ class ComplexType < Super
     super
     @attributes = x.xpath("xsd:attribute", 'xsd' => 'http://www.w3.org/2001/XMLSchema').map{|x| Attribute.new(x) }
     @elements = x.xpath("xsd:sequence/xsd:element", 'xsd' => 'http://www.w3.org/2001/XMLSchema').map{|x| Element.new(x) }
-    $type[name] = self
-    $stderr.puts "ComplexType.initialize #{name}, #{@attributes.size} attributes, #{@elements.size} elements"
+    #$type[name] = self
+    #@attributes = x.xpath("xsd:attribute").map{|x| Attribute.new(x) }
+    #@elements = x.xpath("xsd:sequence/xsd:element").map{|x| Element.new(x) }
+    all_names = (@attributes + @elements).map {|x| x.name}
+    if all_names.size != all_names.uniq.size
+      raise "Some elements and attributes have the same name, breaking assumptions of this code generator: #{all_names.join(';')}"
+    end
+    $stderr.puts all_names.join(';')
+    #$stderr.puts "ComplexType.initialize #{name}, #{@attributes.size} attributes, #{@elements.size} elements"
   end
   def to_ruby_class
     return <<END
-    class #{ruby_class_name}
-      @@attrs = {#{@attributes.map {|a| "\"#{a.name}\" => \"#{a.type}\""}.join(", ")}}
-      @@eles = {#{@elements.map {|a| "\"#{a.name}\" => \"#{a.type}\""}.join(", ")}}
+    class #{ruby_class_name} < XmlP::Parser::ComplexType
+      @@attrs = {
+        #{@attributes.map {|a| "\"#{a.name}\" => {type: \"#{a.type}\"}"}.join(",\n        ")}
+      }
+      @@eles = {
+        #{@elements.map {|a| "\"#{a.name}\" => {type: \"#{a.type}\", minOccurs: #{a.min_occurs}, maxOccurs: #{a.max_occurs}}"}.join(",\n        ")}
+      }
       # TODO - beware name class with res and an element or attribute
       attr_reader :res
-      def initialize(whatever)
-        @res = whatever
-      end
-      def self.parse(x)
-        $stderr.puts "#{ruby_class_name}.parse"
-        new(XmlP::Parser.parse_complex_type(x, @@attrs, @@eles))
+      def initialize(xml_node)
+        #$stderr.puts "#{ruby_class_name}.initialize"
+	super(xml_node, @@eles, @@attrs)
       end
     end
 END
@@ -121,14 +143,15 @@ class Annotation < Super
   def initialize(x)
     #super
     @docs = x.xpath("xsd:documentation", 'xsd' => 'http://www.w3.org/2001/XMLSchema').text
-    $stderr.puts "Annotation.initialize #{@docs}"
+    #@docs = x.xpath("xsd:documentation").text
+    #$stderr.puts "Annotation.initialize #{@docs}"
   end
 end
 class Restriction < Super
   def initialize(x)
     #super
     @base = x.attributes["base"]
-    $stderr.puts "Restriction.initialize #{@base}"
+    #$stderr.puts "Restriction.initialize #{@base}"
   end
   def to_ruby_structure
     return "{\"type\" => \"#{@base}\"}"
@@ -168,6 +191,7 @@ module XmlP
   end
 end
 res = XmlP::#{@root_element.ruby_class_ref}::Parser.parse(ARGV[0])
+res.root.get_element("#{@root_element.name}")
 pp res
 END
   end
@@ -201,4 +225,3 @@ puts xsd_p.to_ruby
   #end
 #}
 
-#puts $type.keys
