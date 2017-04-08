@@ -23,6 +23,10 @@ def capfirst
   self[0].upcase + self[1..-1]
 end
 end
+def genref
+  caller_line = caller.first.split(":")[1]
+  "# Code generated at #{__FILE__}:#{caller_line}  "
+end
 class Super
   def initialize(x)
     @node = x
@@ -92,6 +96,7 @@ class SimpleType < Super
   end
   def to_ruby_class
     return <<END
+    #{genref}
     class #{ruby_class_name} < XmlP::Parser::SimpleType
       #attr_reader :res
       @@foo = #{@restriction.to_ruby_structure}
@@ -121,6 +126,7 @@ class ComplexType < Super
   end
   def to_ruby_class
     return <<END
+    #{genref}
     class #{ruby_class_name} < XmlP::Parser::ComplexType
       @@attrs = {
         #{@attributes.map {|a| "\"#{a.name}\" => {type: \"#{a.type}\"}"}.join(",\n        ")}
@@ -161,6 +167,13 @@ end
 class XsdParser
   def initialize(xsd)
     doc = File.open(xsd) { |f| Nokogiri::XML(f) { |cfg| cfg.noblanks } }
+    $stderr.puts "doc.root: #{doc.root.name}"	# Expect doc.root.name to be "schema"
+    @schema = doc.root
+    #puts "doc.xpath schema:"
+    #@schema = doc.xpath("xsd:schema", 'xsd' => 'http://www.w3.org/2001/XMLSchema')
+    #pp @schema
+    #puts "------"
+    #raise "STOP"
     @root_elements = doc.root.xpath("xsd:element", 'xsd' => 'http://www.w3.org/2001/XMLSchema').map { |x| Element.new(x) }
     raise "Expected exactly on root element in XSD" unless @root_elements.size == 1
     @root_element = @root_elements.first
@@ -171,6 +184,7 @@ class XsdParser
 
   def to_ruby
     return <<END
+#{genref}
 require 'nokogiri'
 require 'pp'
 require_relative './parser-utils.rb'
@@ -179,6 +193,7 @@ module XmlP
 #{complex_classes}
 #{simple_classes}
   end
+  #{genref}
   class #{@root_element.ruby_class_ref}
     class Parser
       def self.parse(filename)
@@ -190,6 +205,7 @@ module XmlP
     end
   end
 end
+#{genref}
 res = XmlP::#{@root_element.ruby_class_ref}::Parser.parse(ARGV[0])
 res.root.get_element("#{@root_element.name}")
 pp res
