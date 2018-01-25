@@ -10,4 +10,4 @@ nwk = GpsTouring::Network.new(ARGV)
 #puts nwk.logical_graphs
 puts nwk.logical_graphs_gpx
 $stderr.puts "WARNING: There are #{nwk.logical_graphs.size} separate graphs - the routes/tracks are not fully connected" unless nwk.logical_graphs.size == 1
-nwk.logical_edges.each {|e| puts e }
+#nwk.logical_edges.each {|e| puts e }

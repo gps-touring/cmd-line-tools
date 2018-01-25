@@ -27,6 +27,20 @@ module GpsTouring
       }
       @logical_edges = make_edges
       @logical_graphs = make_graphs
+
+      sanity_check
+    end
+    def sanity_check
+      points.values.each {|p| p.sanity_check}
+    end
+    def logical_nodes
+      # If a NetworkPoint has exactly two links, then it is interior to a simple sequence of points:
+      # One line is to bo to the previous point, one to go to the next. That's all.
+      #
+      # A NetworkPoint with one link is an end point.
+      # A NetworkPoint with more than two links is a 'junction'.
+      # logical_nodes are these end points and junctions.
+      @points.values.find_all {|point| point.link_count != 2}
     end
     def logical_graphs_gpx
       Nokogiri::XML::Builder.new {|xml|
@@ -72,7 +86,7 @@ module GpsTouring
       # NetworkPoints that have exactly 2 links are in the middle of a 'chain' of points, 
       # so they are not the start of a LogicalEdge.
       # All other points are the start of a LogicalEdge:
-      @points.values.find_all {|point| point.link_count != 2}.map {|point|
+      logical_nodes.map {|point|
 	# Create new LogicalEdge from p in the direction of link
 	point.links.map{|link| LogicalEdge.new(point, link)}
       }.flatten
