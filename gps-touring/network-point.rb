@@ -2,11 +2,11 @@ module GpsTouring
 class NetworkPoint
   TORADIANS = Math::PI / 180;
   R = 6371000; # metres
-  attr_reader :links, :edges
+  attr_reader :links, :logical_edges
   def initialize
     @wpts = []
     @links = []
-    @edges = []
+    @logical_edges = []
   end
   def distance_m(p)
     # Uses Haversine - more accurate over short distances.
@@ -35,8 +35,8 @@ class NetworkPoint
     @links << p unless @links.include?(p)
   end
   def add_edge(e)
-    e.from === self || raise("Bug - expected all edges are from this point")
-    @edges << e
+    e.from === self || raise("Bug - expected all logical_edges are from this point")
+    @logical_edges << e
   end
   def link_count
     @links.size

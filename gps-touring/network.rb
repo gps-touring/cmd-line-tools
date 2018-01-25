@@ -8,7 +8,7 @@ module GpsTouring
     # A Network is the container for all of the waypionts read in from GPX files.
     # It has a Hash indexed by the lat/long of the waypoint so that points with identical lat/long
     # are regarded as being co-located, and can have links to 1, 2, 3,... more points 
-    attr_reader :points, :edges, :logical_graphs
+    attr_reader :points, :logical_edges, :logical_graphs
     def initialize(gpx_files)
       @points = Hash.new {|h, k| h[k] = NetworkPoint.new}
       gpx_files.each {|f|
@@ -25,7 +25,7 @@ module GpsTouring
 	  process_wpts(rte.css('rtept'))
 	}
       }
-      @edges = make_edges
+      @logical_edges = make_edges
       @logical_graphs = make_graphs
     end
     def logical_graphs_gpx
@@ -79,14 +79,14 @@ module GpsTouring
     end
     def make_graphs
       # returns an array of LogicalGraphs
-      # Each member of the array is a complete list of connected edges
+      # Each member of the array is a complete list of connected logical_edges
       logical_graphs = []
-      remaining_edges = edges
-      # while there are still edges that have not been included in a LogicalGraph:
+      remaining_edges = logical_edges
+      # while there are still logical_edges that have not been included in a LogicalGraph:
       while e = remaining_edges.first
-	# Grow the graph to included all (transitively) connected edges
+	# Grow the graph to included all (transitively) connected logical_edges
 	logical_graphs << LogicalGraph.new(e.from)
-	remaining_edges = remaining_edges - logical_graphs.last.edges
+	remaining_edges = remaining_edges - logical_graphs.last.logical_edges
       end
       logical_graphs
     end
