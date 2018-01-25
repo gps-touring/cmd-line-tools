@@ -19,12 +19,26 @@ module GpsTouring
     def sanity_check
       # Check invariants
       [
+	# If this point is not linked to exactly 2 others, then logical edges start from here:
 	link_count == 2 || @logical_edges.size > 0,
+
+	# If this point is not linked to exactly 2 others, then theres a logical edge for each point linked to:
 	link_count == 2 || @links.size == @logical_edges.size,
+
+	# If this point is linked to exactly 2 others, then no logical edges start here:
 	link_count != 2 || @logical_edges.size == 0,
-	@wpts.map{|w| [w['lat'], w['lon']]}.uniq.size == 1
+
+	# If no logical edge starts here, then this point links to exactly 2 others:
+	@logical_edges != 0 || link_count == 2,
+
+	# All GPX waypoints for this point have identical lat and lon:
+	@wpts.map{|w| [w['lat'], w['lon']]}.uniq.size == 1,
+
+	# All points linked to have different lat/long:
+	@links.size == @links.map {|p| p.geoloc}.uniq.size
+
       ].each_with_index {|success, index|
-	raise "Invariant[#{index}] failed" unless success
+	raise "Invariant[#{index}] failed (index starts at 0)" unless success
       }
     end
     def distance_m(p)
@@ -68,6 +82,9 @@ module GpsTouring
     end
     def lon
       @wpts.first['lon']
+    end
+    def geoloc
+      [lat, lon]
     end
     def to_gpx(xml)
       xml.trkpt(lat: lat, lon: lon) {

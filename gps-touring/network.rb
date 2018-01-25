@@ -25,8 +25,8 @@ module GpsTouring
 	  process_wpts(rte.css('rtept'))
 	}
       }
-      @logical_edges = make_edges
-      @logical_graphs = make_graphs
+      @logical_edges = make_logical_edges
+      @logical_graphs = make_logical_graphs
 
       sanity_check
     end
@@ -82,7 +82,7 @@ module GpsTouring
 	@points[wpt2key(wpt2)].add_link_to(@points[wpt2key(wpt1)])
       end
     end
-    def make_edges
+    def make_logical_edges
       # NetworkPoints that have exactly 2 links are in the middle of a 'chain' of points, 
       # so they are not the start of a LogicalEdge.
       # All other points are the start of a LogicalEdge:
@@ -91,7 +91,7 @@ module GpsTouring
 	point.links.map{|link| LogicalEdge.new(point, link)}
       }.flatten
     end
-    def make_graphs
+    def make_logical_graphs
       # returns an array of LogicalGraphs
       # Each member of the array is a complete list of connected logical_edges
       logical_graphs = []

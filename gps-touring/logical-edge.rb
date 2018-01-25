@@ -1,11 +1,12 @@
 
 module GpsTouring
   class LogicalEdge
-    attr_reader :from, :to, :hops, :distance_metres
+    attr_reader :from, :to, :first_link, :hops, :distance_metres
     def initialize(point, link)
       @hops = 1
       @distance_metres = 0
       @from = point
+      @first_link = link
       while link.link_count == 2
 	@distance_metres += point.distance_m(link)
 	next_links = link.links - [point]
