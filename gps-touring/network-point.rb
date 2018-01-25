@@ -1,10 +1,27 @@
 module GpsTouring
 class NetworkPoint
+  TORADIANS = Math::PI / 180;
+  R = 6371000; # metres
   attr_reader :links, :edges
   def initialize
     @wpts = []
     @links = []
     @edges = []
+  end
+  def distance_m(p)
+    # Uses Haversine - more accurate over short distances.
+    selfLatRad = self.lat.to_f * TORADIANS;
+    pLatRad = p.lat.to_f * TORADIANS;
+    latDiffRad = (p.lat.to_f - self.lat.to_f) * TORADIANS;
+    lonDiffRad = (p.lon.to_f - self.lon.to_f) * TORADIANS;
+
+    a = Math.sin(latDiffRad / 2) * Math.sin(latDiffRad / 2) +
+      Math.cos(selfLatRad) * Math.cos(pLatRad) *
+      Math.sin(lonDiffRad / 2) * Math.sin(lonDiffRad / 2);
+    c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+
+    #console.log("Point.distanceTo: " + R * c + " metres");
+    return R * c;
   end
   def add_wpt(wpt)
     @wpts << wpt
