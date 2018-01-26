@@ -1,6 +1,8 @@
+require_relative "network-points-array"
 
 module GpsTouring
   class LogicalEdge
+    include NetworkPointsArray
     attr_reader :from, :to, :first_link, :hops, :distance_metres
     def initialize(point, link)
       @hops = 1
@@ -31,18 +33,15 @@ module GpsTouring
       @to = link
       @from.add_edge(self)
     end
+    def points
+      [from, to]
+    end
     def to_s
       "#{@from.to_s} - #{@to.to_s}. hops: #{@hops}; dist: #{distance_metres}m"
     end
     def name
       # Some string to identify this edge - used, perhaps in filenames, so no spaces
       "#{@from.lat},#{@from.lon}-#{@to.lat},#{@to.lon}"
-    end
-    def to_gpx(xml)
-      xml.trkseg {
-	from.to_gpx(xml)
-	to.to_gpx(xml)
-      }
     end
   end
 end

@@ -55,7 +55,7 @@ module GpsTouring
       #}.to_xml
       GPX::Builder.new {|xml|
 	logical_graphs.each {|graph|
-	  graph.to_gpx(xml)
+	  graph.to_gpx_trk(xml)
 	}
       }.to_xml
     end

@@ -22,11 +22,11 @@ module GpsTouring
       "GRAPH: #{@logical_edges.map {|e| e}.join("\n")}"
       #"GRAPH:"
     end
-    def to_gpx(xml)
+    def to_gpx_trk(xml)
       xml.trk {
 	xml.name("graph")
 	logical_edges.each {|e|
-	  e.to_gpx(xml)
+	  e.to_gpx_trkseg(xml)
 	}
       }
     end

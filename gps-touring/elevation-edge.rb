@@ -59,7 +59,6 @@ module GpsTouring
 	link = next_links.first
       end
       @points << link
-      #@from.add_elevation_edge(self)
       #$stderr.puts @points.map {|p| "(#{p.lat}, #{p.lon}, #{p.ele})"}.join(", ")
     end
     def add_point(p)
@@ -74,12 +73,5 @@ module GpsTouring
     def to_s
       "#{@logical_edge.from.to_s} - #{@logical_edge.to.to_s}. ascent: #{@ascent}; descent: #{@descent}; dist: #{distance_metres}m"
     end
-    #def to_gpx(xml)
-      #raise("to_gpx Needs modifying for ElevationEdge!")
-      #xml.trkseg {
-	#logical_edge.from.to_gpx(xml)
-	#logical_edge.to.to_gpx(xml)
-      #}
-    #end
   end
 end

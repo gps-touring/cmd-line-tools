@@ -116,13 +116,13 @@ module GpsTouring
     def geoloc
       [lat, lon]
     end
-    def to_gpx(xml)
+    def to_gpx_trkpt(xml)
       xml.trkpt(lat: lat, lon: lon) {
 	xml.name(name) if name
 	xml.ele(ele)
       }
     end
-    def to_rtept(xml)
+    def to_gpx_rtept(xml)
       xml.rtept(lat: lat, lon: lon) {
 	xml.name(name) if name
 	xml.ele(ele)
