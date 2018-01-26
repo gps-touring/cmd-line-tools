@@ -24,12 +24,12 @@ module GpsTouring
 	    #count  << :a
 	  end
 	  if next_ele >= @points.last.ele + ignore_diff
-	    @points << link
+	    add_point(link)
 	    #count  << :b
 	  end
 	  if next_ele <= last_point_of_interest.ele - ignore_diff
-	    @points << last_point_of_interest unless @points.last === last_point_of_interest
-	    @points << link
+	    add_point(last_point_of_interest) unless @points.last === last_point_of_interest
+	    add_point(link)
 	    last_point_of_interest = link
 	    state = :dec
 	    #count  << :c
@@ -40,11 +40,11 @@ module GpsTouring
 	    last_point_of_interest = link
 	  end
 	  if next_ele <= @points.last.ele - ignore_diff
-	    @points << link
+	    add_point(link)
 	  end
 	  if next_ele >= last_point_of_interest.ele + ignore_diff
-	    @points << last_point_of_interest unless @points.last === last_point_of_interest
-	    @points << link
+	    add_point(last_point_of_interest) unless @points.last === last_point_of_interest
+	    add_point(link)
 	    last_point_of_interest = link
 	    state = :inc
 	  end
@@ -58,6 +58,15 @@ module GpsTouring
       @points << link
       @from.add_elevation_edge(self)
       #$stderr.puts @points.map {|p| "(#{p.lat}, #{p.lon}, #{p.ele})"}.join(", ")
+    end
+    def add_point(p)
+      raise("Algotithm error: adding same point twice in a row to an ElevationEdge") if p === @points.last
+      if p.ele > @points.last.ele
+	@ascent += p.ele - @points.last.ele
+      else
+	@descent += @points.last.ele - p.ele
+      end
+      @points << p
     end
     def to_s
       "#{@from.to_s} - #{@to.to_s}. ascent: #{@ascent}; descent: #{@descent}; dist: #{distance_metres}m"

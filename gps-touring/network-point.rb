@@ -58,6 +58,22 @@ module GpsTouring
 
       return R * c;
     end
+    def to_point_array(link, to)
+      $stderr.puts "NetworkPoint#to_point_array - method untested!"
+      # Creates an array of points from this point up to and including the point 'to', 
+      # the first step is taken to the point 'link'
+      raise("Usage error - link param is bad") unless links.include?(link)
+      points = [self, link]
+      prev = self
+      while link != to
+	onward_links = link.links - [prev]
+	raise("Usage error - to_point_array called inappropriately") unless onward_links.size == 1
+	prev = link
+	link = onward_links.first
+	points << link
+      end
+      points
+    end
     def add_wpt(wpt)
       @wpts << wpt
     end
