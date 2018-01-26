@@ -16,7 +16,7 @@ module GpsTouring
       # In other words, never if links.size == 2 (which means the point is in the interior of a route, one link goes backwards, the other forewards)
       @logical_edges = []
 
-      @elevation_edges = []
+      #@elevation_edges = []
     end
     def sanity_check
       # Check invariants
@@ -89,9 +89,9 @@ module GpsTouring
       e.from === self || raise("Bug - expected all logical_edges are from this point")
       @logical_edges << e
     end
-    def add_elevation_edge(e)
-      @elevation_edges << e
-    end
+    #def add_elevation_edge(e)
+      #@elevation_edges << e
+    #end
     def link_count
       @links.size
     end
@@ -108,15 +108,24 @@ module GpsTouring
       return @ele if defined? @ele
       @ele = @wpts.map {|wpt| wpt.at_css('ele')}.compact.map{|s| s.text.to_f}.first || 0.0
     end
+    def name
+      return @name if defined? @name
+      names = @wpts.map {|w| n = w.at_css('name'); n || nil}.compact
+      @name = names.empty? ? nil : names.join('|')
+    end
     def geoloc
       [lat, lon]
     end
     def to_gpx(xml)
       xml.trkpt(lat: lat, lon: lon) {
-	name = @wpts.map {|w| n = w.at_css('name'); n || nil}.compact
-	unless name.empty?
-	  xml.name(name.join('|'))
-	end
+	xml.name(name) if name
+	xml.ele(ele)
+      }
+    end
+    def to_rtept(xml)
+      xml.rtept(lat: lat, lon: lon) {
+	xml.name(name) if name
+	xml.ele(ele)
       }
     end
   end

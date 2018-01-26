@@ -3,6 +3,7 @@ require_relative 'logical-graph'
 require_relative 'logical-edge'
 require_relative 'elevation-edge'
 require_relative 'network-point'
+require_relative 'gpx-builder'
 
 module GpsTouring
   class Network
@@ -27,7 +28,7 @@ module GpsTouring
 	}
       }
       @logical_edges = make_logical_edges
-      @elevation_edges = make_elevation_edges
+      #@elevation_edges = make_elevation_edges
       @logical_graphs = make_logical_graphs
 
       sanity_check
@@ -45,11 +46,16 @@ module GpsTouring
       @points.values.find_all {|point| point.link_count != 2}
     end
     def logical_graphs_gpx
-      Nokogiri::XML::Builder.new {|xml|
-	xml.gpx(xmlns: "http://www.topografix.com/GPX/1/1", version: "1.1") {
-	  logical_graphs.each {|graph|
-	    graph.to_gpx(xml)
-	  }
+      #Nokogiri::XML::Builder.new {|xml|
+	#xml.gpx(xmlns: "http://www.topografix.com/GPX/1/1", version: "1.1") {
+	  #logical_graphs.each {|graph|
+	    #graph.to_gpx(xml)
+	  #}
+	#}
+      #}.to_xml
+      GPX::Builder.new {|xml|
+	logical_graphs.each {|graph|
+	  graph.to_gpx(xml)
 	}
       }.to_xml
     end
@@ -93,12 +99,11 @@ module GpsTouring
 	point.links.map{|link| LogicalEdge.new(point, link)}
       }.flatten
     end
-    def make_elevation_edges
-      # Similar to make_logical_edges ...
-      logical_nodes.map {|point|
-	point.links.map{|link| ElevationEdge.new(point, link)}
-      }.flatten
-    end
+    #def make_elevation_edges
+      #logical_edges.map {|edge|
+	#ElevationEdge.new(edge)
+      #}
+    #end
     def make_logical_graphs
       # returns an array of LogicalGraphs
       # Each member of the array is a complete list of connected logical_edges

@@ -34,6 +34,10 @@ module GpsTouring
     def to_s
       "#{@from.to_s} - #{@to.to_s}. hops: #{@hops}; dist: #{distance_metres}m"
     end
+    def name
+      # Some string to identify this edge - used, perhaps in filenames, so no spaces
+      "#{@from.lat},#{@from.lon}-#{@to.lat},#{@to.lon}"
+    end
     def to_gpx(xml)
       xml.trkseg {
 	from.to_gpx(xml)
