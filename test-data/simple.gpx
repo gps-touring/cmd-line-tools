@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" version="1.0" creator="ViewRanger - http://www.viewranger.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+  <rte>
+    <name><![CDATA[Test gpx-to-logical-graph]]></name>
+    <rtept lat="52.269703" lon="-7.137475"></rtept>
+    <rtept lat="52.271488" lon="-7.141938"></rtept>
+    <rtept lat="52.272750" lon="-7.146573"></rtept>
+    <rtept lat="52.272751" lon="-7.146573"></rtept>
+    <rtept lat="52.271488" lon="-7.141938"></rtept>
+    <rtept lat="52.273483" lon="-7.150435"></rtept>
+  </rte>
+</gpx>
