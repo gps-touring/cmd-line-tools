@@ -1,6 +1,7 @@
 require 'nokogiri'
 require_relative 'logical-graph'
 require_relative 'logical-edge'
+require_relative 'elevation-edge'
 require_relative 'network-point'
 
 module GpsTouring
@@ -26,6 +27,7 @@ module GpsTouring
 	}
       }
       @logical_edges = make_logical_edges
+      @elevation_edges = make_elevation_edges
       @logical_graphs = make_logical_graphs
 
       sanity_check
@@ -89,6 +91,12 @@ module GpsTouring
       logical_nodes.map {|point|
 	# Create new LogicalEdge from p in the direction of link
 	point.links.map{|link| LogicalEdge.new(point, link)}
+      }.flatten
+    end
+    def make_elevation_edges
+      # Similar to make_logical_edges ...
+      logical_nodes.map {|point|
+	point.links.map{|link| ElevationEdge.new(point, link)}
       }.flatten
     end
     def make_logical_graphs

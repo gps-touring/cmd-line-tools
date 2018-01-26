@@ -15,6 +15,8 @@ module GpsTouring
       # or those that are at a junction.
       # In other words, never if links.size == 2 (which means the point is in the interior of a route, one link goes backwards, the other forewards)
       @logical_edges = []
+
+      @elevation_edges = []
     end
     def sanity_check
       # Check invariants
@@ -71,6 +73,9 @@ module GpsTouring
       e.from === self || raise("Bug - expected all logical_edges are from this point")
       @logical_edges << e
     end
+    def add_elevation_edge(e)
+      @elevation_edges << e
+    end
     def link_count
       @links.size
     end
@@ -78,10 +83,14 @@ module GpsTouring
       @wpts.first.to_s
     end
     def lat
-      @wpts.first['lat']
+      @lat ||= @wpts.first['lat']
     end
     def lon
-      @wpts.first['lon']
+      @lon ||= @wpts.first['lon']
+    end
+    def ele
+      return @ele if defined? @ele
+      @ele = @wpts.map {|wpt| wpt.at_css('ele')}.compact.map{|s| s.text.to_f}.first || 0.0
     end
     def geoloc
       [lat, lon]
