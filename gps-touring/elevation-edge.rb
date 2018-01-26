@@ -11,30 +11,30 @@ module GpsTouring
       @points = [point]
       ele = point.ele
       last_point_of_interest = point
-      $stderr.puts ele
+      #$stderr.puts ele
       state = :inc
 
       while link.link_count == 2
 	@distance_metres += point.distance_m(link)
 	next_ele = link.ele
-	count = []
+	#count = []
 	if state == :inc
 	  if next_ele > last_point_of_interest.ele
 	    last_point_of_interest = link
-	    count  << :a
+	    #count  << :a
 	  end
 	  if next_ele >= @points.last.ele + ignore_diff
 	    @points << link
-	    count  << :b
+	    #count  << :b
 	  end
 	  if next_ele <= last_point_of_interest.ele - ignore_diff
 	    @points << last_point_of_interest unless @points.last === last_point_of_interest
 	    @points << link
 	    last_point_of_interest = link
 	    state = :dec
-	    count  << :c
+	    #count  << :c
 	  end
-	  raise("Bugger: #{count.to_s}") if count.size > 1 && count.include?(:c)
+	  #raise("Bugger: #{count.to_s}") if count.size > 1 && count.include?(:c)
 	else
 	  if next_ele < last_point_of_interest.ele
 	    last_point_of_interest = link
@@ -57,7 +57,7 @@ module GpsTouring
       @to = link
       @points << link
       @from.add_elevation_edge(self)
-      $stderr.puts @points.map {|p| "(#{p.lat}, #{p.lon}, #{p.ele})"}.join(", ")
+      #$stderr.puts @points.map {|p| "(#{p.lat}, #{p.lon}, #{p.ele})"}.join(", ")
     end
     def to_s
       "#{@from.to_s} - #{@to.to_s}. ascent: #{@ascent}; descent: #{@descent}; dist: #{distance_metres}m"
