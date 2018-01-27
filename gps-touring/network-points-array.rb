@@ -2,7 +2,9 @@ require_relative "gpx-builder"
 
 module GpsTouring
   module NetworkPointsArray
-    # Can be included in any class which defines a points method to return an array of GpsModule::NetworkPoint objects
+    # Can be included in any class which defines 
+    # - a points method to return an array of GpsModule::NetworkPoint objects
+    # - a logical_edge method to return the logicaledge represented by th epoints
     def to_gpx
       GpsTouring::GPX::Builder.new {|xml| to_gpx_rte(xml) }.to_xml
     end
@@ -46,6 +48,25 @@ module GpsTouring
     def to_gpx_name(xml)
       xml.name gpx_name
     end
+    def to_gradient_csv
+      prev = nil
+      points.zip(original_cummulative_distances).map{|z|
+	res = nil
+	if prev
+	  res = [
+	    prev[0].ele, 
+	    z[0].ele, 
+	    prev[1].round(1), 
+	    z[1].round(1), 
+	    z[0].ele - prev[0].ele, 
+	    (z[1] - prev[1]).round(0), 
+	    ((z[0].ele - prev[0].ele)/(z[1] - prev[1])*100).round(1)
+	  ].join(',')
+	end
+	prev = z
+	res
+      }.join("\n")
+    end
 
     def name
       # Some string to identify this edge - used, perhaps in filenames, so no spaces
@@ -55,7 +76,7 @@ module GpsTouring
       total = 0.0
       prev = points.first
       points.each {|p| 
-	total += p.distance_m(prev)
+	total += prev.distance_m(p)
 	prev = p
       }
       total
@@ -80,6 +101,28 @@ module GpsTouring
 	ele = p.ele
       }
       total
+    end
+    def original_cummulative_distances
+      # Returns an array the same size as points, 
+      # with cummulative distances based on the distances
+      # calculated between the original GPX waypoints.
+      cumm = []
+      total = 0.0
+      prev = nil
+      original = OriginalEdge.new(logical_edge)
+      index = 0
+      original.points.each {|p|
+	if prev
+	  total += prev.distance_m(p)
+	end
+	prev = p
+	if p === points[index]
+	  cumm << total
+	  index += 1
+	end
+      }
+      raise "Bad array size" unless cumm.size == points.size
+      cumm
     end
   end
 end
