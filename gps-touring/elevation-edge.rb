@@ -3,16 +3,14 @@ require_relative "network-points-array"
 module GpsTouring
   class ElevationEdge
     include NetworkPointsArray
-    # TODO delete this ascent/descent/dist shite from here, and move it to methods of NetworkPointsArray
-    attr_reader :logical_edge, :points, :total_ascent, :total_descent, :distance_metres
+    attr_reader :logical_edge, :points
     def initialize(logical_edge, metres = 2)
       point = logical_edge.from
       link = logical_edge.first_link
       @logical_edge = logical_edge
       @distance_metres = 0
-      @ascent = 0
-      @descent = 0
       @points = [point]
+      #$stderr.puts point
       ele = point.ele
       last_point_of_interest = point
       #$stderr.puts ele
@@ -58,20 +56,18 @@ module GpsTouring
 	point = link
 	link = next_links.first
       end
-      @points << link
+      add_point(link)
+      @points.freeze
+      raise("Expected to start at beginning of LogicalEdge") unless @points.first === logical_edge.from
+      raise("Expected to reach end of LogicalEdge") unless link === logical_edge.to
       #$stderr.puts @points.map {|p| "(#{p.lat}, #{p.lon}, #{p.ele})"}.join(", ")
     end
     def add_point(p)
       raise("Algotithm error: adding same point twice in a row to an ElevationEdge") if p === @points.last
-      if p.ele > @points.last.ele
-	@ascent += p.ele - @points.last.ele
-      else
-	@descent += @points.last.ele - p.ele
-      end
       @points << p
     end
     def to_s
-      "#{@logical_edge.from.to_s} - #{@logical_edge.to.to_s}. ascent: #{@ascent}; descent: #{@descent}; dist: #{distance_metres}m"
+      "#{@logical_edge.from.to_s} - #{@logical_edge.to.to_s}. ascent: tbd; descent: tbd; dist: tbd"
     end
   end
 end
