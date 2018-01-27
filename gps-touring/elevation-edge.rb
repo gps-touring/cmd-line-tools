@@ -3,11 +3,12 @@ require_relative "network-points-array"
 module GpsTouring
   class ElevationEdge
     include NetworkPointsArray
-    attr_reader :logical_edge, :points
+    attr_reader :logical_edge, :points, :metres
     def initialize(logical_edge, metres = 2)
+      @logical_edge = logical_edge
+      @metres = metres
       point = logical_edge.from
       link = logical_edge.first_link
-      @logical_edge = logical_edge
       @points = [point]
       #$stderr.puts point
       ele = point.ele
@@ -62,6 +63,9 @@ module GpsTouring
     end
     def to_s
       "#{@logical_edge.from.to_s} - #{@logical_edge.to.to_s}. ascent: tbd; descent: tbd; dist: tbd"
+    end
+    def gpx_name
+      name + " Smoothed out elevation diffs less than #{metres}m"
     end
   end
 end

@@ -37,9 +37,8 @@ module GpsTouring
     def to_s
       "#{@from.to_s} - #{@to.to_s}. hops: #{@hops}"
     end
-    def name
-      # Some string to identify this edge - used, perhaps in filenames, so no spaces
-      "#{@from.lat},#{@from.lon}-#{@to.lat},#{@to.lon}"
+    def gpx_name
+      name + " Logical Edge"
     end
   end
 end

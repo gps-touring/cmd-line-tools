@@ -23,8 +23,8 @@ OptionParser.new do |opts|
   end
 end.parse!
 
-pp options
-pp ARGV
+#pp options
+#pp ARGV
 
 nwk = GpsTouring::Network.new(ARGV)
 nwk.logical_edges.each {|edge|

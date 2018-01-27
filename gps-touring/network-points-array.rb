@@ -8,6 +8,7 @@ module GpsTouring
     end
     def to_gpx_rte(xml)
       xml.rte {|xml|
+	to_gpx_name(xml)
 	to_gpx_desc(xml)
 	to_gpx_rtepts(xml)
       }
@@ -33,6 +34,8 @@ module GpsTouring
       ele_gain = metres_up - metres_down
       data = [
 	["distance", (metres_distance/1000.0).round(2), "km"],
+	["start ele", points.first.ele, "m"],
+	["end ele", points.last.ele, "m"],
 	["ascent", metres_up, "m"],
 	["descent", metres_down, "m"],
 	["height gained", ele_gain, "m"],
@@ -40,7 +43,14 @@ module GpsTouring
       ]
       xml.desc data.map {|x| "#{x[0]}: #{x[1,2].join}"}.join("; ")
     end
+    def to_gpx_name(xml)
+      xml.name gpx_name
+    end
 
+    def name
+      # Some string to identify this edge - used, perhaps in filenames, so no spaces
+      "#{points.first.lat},#{points.first.lon}-#{points.last.lat},#{points.last.lon}"
+    end
     def metres_distance
       total = 0.0
       prev = points.first
