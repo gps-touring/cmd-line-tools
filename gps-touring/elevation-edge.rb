@@ -8,35 +8,29 @@ module GpsTouring
       point = logical_edge.from
       link = logical_edge.first_link
       @logical_edge = logical_edge
-      @distance_metres = 0
       @points = [point]
       #$stderr.puts point
       ele = point.ele
       last_point_of_interest = point
       #$stderr.puts ele
-      state = :inc
+      # Somewhat arbitrary initialization:
+      state = link.ele > point.ele ? :inc : :dec
 
       while link.link_count == 2
-	@distance_metres += point.distance_m(link)
 	next_ele = link.ele
-	#count = []
 	if state == :inc
 	  if next_ele > last_point_of_interest.ele
 	    last_point_of_interest = link
-	    #count  << :a
 	  end
 	  if next_ele >= @points.last.ele + metres
 	    add_point(link)
-	    #count  << :b
 	  end
 	  if next_ele <= last_point_of_interest.ele - metres
 	    add_point(last_point_of_interest) unless @points.last === last_point_of_interest
 	    add_point(link)
 	    last_point_of_interest = link
 	    state = :dec
-	    #count  << :c
 	  end
-	  #raise("Bugger: #{count.to_s}") if count.size > 1 && count.include?(:c)
 	else
 	  if next_ele < last_point_of_interest.ele
 	    last_point_of_interest = link

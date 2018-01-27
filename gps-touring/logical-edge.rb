@@ -3,14 +3,12 @@ require_relative "network-points-array"
 module GpsTouring
   class LogicalEdge
     include NetworkPointsArray
-    attr_reader :from, :to, :first_link, :hops, :distance_metres
+    attr_reader :from, :to, :first_link, :hops
     def initialize(point, link)
       @hops = 1
-      @distance_metres = 0
       @from = point
       @first_link = link
       while link.link_count == 2
-	@distance_metres += point.distance_m(link)
 	next_links = link.links - [point]
 	unless next_links.size == 1
 	  $stderr.puts "point:"
@@ -37,7 +35,7 @@ module GpsTouring
       [from, to]
     end
     def to_s
-      "#{@from.to_s} - #{@to.to_s}. hops: #{@hops}; dist: #{distance_metres}m"
+      "#{@from.to_s} - #{@to.to_s}. hops: #{@hops}"
     end
     def name
       # Some string to identify this edge - used, perhaps in filenames, so no spaces
