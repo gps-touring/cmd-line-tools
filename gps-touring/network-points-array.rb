@@ -30,7 +30,15 @@ module GpsTouring
       }
     end
     def to_gpx_desc(xml)
-      xml.desc "distance: #{(metres_distance/1000.0).round(2)}km; ascent: #{metres_up}m; descent: #{metres_down}m; points: #{points.size}"
+      ele_gain = metres_up - metres_down
+      data = [
+	["distance", (metres_distance/1000.0).round(2), "km"],
+	["ascent", metres_up, "m"],
+	["descent", metres_down, "m"],
+	["height gained", ele_gain, "m"],
+	["points", points.size, ""]
+      ]
+      xml.desc data.map {|x| "#{x[0]}: #{x[1,2].join}"}.join("; ")
     end
 
     def metres_distance

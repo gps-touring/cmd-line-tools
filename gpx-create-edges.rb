@@ -7,7 +7,7 @@ Opts = Struct.new(:outdir, :metres) do
   #Opts methods go here
 end
 
-DefaultMetres = 2.0
+DefaultMetres = nil
 options = Opts.new(nil, DefaultMetres)
 
 OptionParser.new do |opts|
@@ -28,9 +28,17 @@ pp ARGV
 
 nwk = GpsTouring::Network.new(ARGV)
 nwk.logical_edges.each {|edge|
-  smoothed = GpsTouring::ElevationEdge.new(edge, options.metres)
-  filename = "#{edge.name}-smoothed-#{options.metres}.gpx"
-  Dir.chdir(options.outdir) do
-    File.open(filename, "w") {|f| f.write(smoothed.to_gpx)}
+  if options.metres.nil?
+    original = GpsTouring::OriginalEdge.new(edge)
+    filename = "#{edge.name}-original.gpx"
+    Dir.chdir(options.outdir) do
+      File.open(filename, "w") {|f| f.write(original.to_gpx)}
+    end
+  else
+    smoothed = GpsTouring::ElevationEdge.new(edge, options.metres)
+    filename = "#{edge.name}-smoothed-#{options.metres}.gpx"
+    Dir.chdir(options.outdir) do
+      File.open(filename, "w") {|f| f.write(smoothed.to_gpx)}
+    end
   end
 }

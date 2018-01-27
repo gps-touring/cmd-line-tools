@@ -1,6 +1,7 @@
 require 'nokogiri'
 require_relative 'logical-graph'
 require_relative 'logical-edge'
+require_relative 'original-edge'
 require_relative 'elevation-edge'
 require_relative 'network-point'
 require_relative 'gpx-builder'

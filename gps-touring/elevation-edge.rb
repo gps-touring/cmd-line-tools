@@ -53,7 +53,7 @@ module GpsTouring
       add_point(link)
       @points.freeze
       raise("Expected to start at beginning of LogicalEdge") unless @points.first === logical_edge.from
-      raise("Expected to reach end of LogicalEdge") unless link === logical_edge.to
+      raise("Expected to reach end of LogicalEdge") unless @points.last === logical_edge.to
       #$stderr.puts @points.map {|p| "(#{p.lat}, #{p.lon}, #{p.ele})"}.join(", ")
     end
     def add_point(p)
