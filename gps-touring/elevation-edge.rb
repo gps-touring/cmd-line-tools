@@ -58,7 +58,7 @@ module GpsTouring
       #$stderr.puts @points.map {|p| "(#{p.lat}, #{p.lon}, #{p.ele})"}.join(", ")
     end
     def add_point(p)
-      raise("Algotithm error: adding same point twice in a row to an ElevationEdge") if p === @points.last
+      raise("Algotithm error: adding same point twice in a row to an ElevationEdge: #{p}") if p === @points.last
       @points << p
     end
     def to_s

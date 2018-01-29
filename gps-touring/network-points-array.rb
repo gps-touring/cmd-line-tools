@@ -51,7 +51,9 @@ module GpsTouring
     def to_gradient_csv
       prev = nil
       points.zip(original_cummulative_distances).map{|z|
-	res = nil
+	# There's one fewer elements in the result than in the points
+	# and this first nil element will be removed by compacting the array
+	res = nil 
 	if prev
 	  res = [
 	    prev[0].ele, 
@@ -65,7 +67,7 @@ module GpsTouring
 	end
 	prev = z
 	res
-      }.join("\n")
+      }.compact.join("\n")
     end
 
     def name
