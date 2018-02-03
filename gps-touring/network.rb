@@ -97,7 +97,7 @@ module GpsTouring
       # All other points are the start of a LogicalEdge:
       logical_nodes.map {|point|
 	# Create new LogicalEdge from p in the direction of link
-	point.links.map{|link| LogicalEdge.new(point, link)}
+	point.links.map{|link| LogicalEdge.new(point, link, logical_nodes)}
       }.flatten
     end
     #def make_elevation_edges

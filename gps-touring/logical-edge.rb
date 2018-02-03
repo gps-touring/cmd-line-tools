@@ -4,12 +4,13 @@ module GpsTouring
   class LogicalEdge
     include NetworkPointsArray
     attr_reader :from, :to, :first_link, :hops, :logical_edge
-    def initialize(point, link)
+    def initialize(point, link, logical_nodes)
       @hops = 1
       @from = point
       @first_link = link
       @logical_edge = self
-      while link.link_count == 2
+      #while link.link_count == 2
+      while !logical_nodes.include? link
 	next_links = link.links - [point]
 	unless next_links.size == 1
 	  $stderr.puts "point:"
