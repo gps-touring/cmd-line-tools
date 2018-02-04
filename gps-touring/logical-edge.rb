@@ -10,7 +10,8 @@ module GpsTouring
       @first_link = link
       @logical_edge = self
       #while link.link_count == 2
-      while !logical_nodes.include? link
+      #while !logical_nodes.include? link
+      while ! link.logical_node?
 	next_links = link.links - [point]
 	unless next_links.size == 1
 	  $stderr.puts "point:"

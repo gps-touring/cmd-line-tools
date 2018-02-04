@@ -29,13 +29,43 @@ module GpsTouring
 	}
       }
       @logical_edges = make_logical_edges
-      #@elevation_edges = make_elevation_edges
       @logical_graphs = make_logical_graphs
 
       sanity_check
     end
     def sanity_check
       points.values.each {|p| p.sanity_check}
+    end
+    def set_calling_points(gpx_file)
+      doc = Nokogiri::XML(File.open(gpx_file), &:noblanks)
+      wpts = doc.css('wpt')
+      wpts.each {|wpt|
+	key = wpt2key(wpt)
+	pre_existing_points = nil
+	unless @points.has_key? key
+	  # There's no NetworkPoint with the same lat/lon as this wpt.
+	  # So we need to find the nearest one, and link to that.
+	  # So we remember the points we have before adding this wpt:
+	  pre_existing_points = @points.values.dup
+	end
+	calling_point = @points[key].add_calling_point(wpt)
+	if pre_existing_points
+	  nearest_point = find_nearest_point(calling_point, pre_existing_points)
+	  calling_point.add_link_to(nearest_point)
+	end
+      }
+    end
+    def find_nearest_point(to_p, from_points)
+      min_dist = Float::INFINITY
+      nearest_point = nil
+      from_points.each {|p|
+	dist = p.distance_m(to_p)
+	if dist < min_dist
+	  nearest_point = p
+	  min_dist = dist
+	end
+      }
+      nearest_point
     end
     def logical_nodes
       # If a NetworkPoint has exactly two links, then it is interior to a simple sequence of points:
@@ -47,13 +77,6 @@ module GpsTouring
       @points.values.find_all {|point| point.link_count != 2}
     end
     def logical_graphs_gpx
-      #Nokogiri::XML::Builder.new {|xml|
-	#xml.gpx(xmlns: "http://www.topografix.com/GPX/1/1", version: "1.1") {
-	  #logical_graphs.each {|graph|
-	    #graph.to_gpx(xml)
-	  #}
-	#}
-      #}.to_xml
       GPX::Builder.new {|xml|
 	logical_graphs.each {|graph|
 	  graph.to_gpx_trk(xml)
@@ -72,6 +95,8 @@ module GpsTouring
       [wpt['lat'], wpt['lon']]
     end
     def process_wpts(wpts)
+      # add a saquence of waypoints that are part of a sequence 
+      # (from a <trkseg>,or <rte>)
       curr_wpt = nil
       wpts.each {|wpt|
 	add_point(wpt)
@@ -100,11 +125,6 @@ module GpsTouring
 	point.links.map{|link| LogicalEdge.new(point, link, logical_nodes)}
       }.flatten
     end
-    #def make_elevation_edges
-      #logical_edges.map {|edge|
-	#ElevationEdge.new(edge)
-      #}
-    #end
     def make_logical_graphs
       # returns an array of LogicalGraphs
       # Each member of the array is a complete list of connected logical_edges

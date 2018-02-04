@@ -2,7 +2,7 @@ module GpsTouring
   class NetworkPoint
     TORADIANS = Math::PI / 180;
     R = 6371000; # metres
-    attr_reader :links, :logical_edges
+    attr_reader :links, :logical_edges, :calling_point
     def initialize
       # wpts are all of the GPX waypoints (objects from Nokogiri) which have lat/lon that exactly match this NetworkPoint
       @wpts = []
@@ -16,7 +16,7 @@ module GpsTouring
       # In other words, never if links.size == 2 (which means the point is in the interior of a route, one link goes backwards, the other forewards)
       @logical_edges = []
 
-      #@elevation_edges = []
+      @calling_point = false
     end
     def sanity_check
       # Check invariants
@@ -27,8 +27,8 @@ module GpsTouring
 	# If this point is not linked to exactly 2 others, then theres a logical edge for each point linked to:
 	link_count == 2 || @links.size == @logical_edges.size,
 
-	# If this point is linked to exactly 2 others, then no logical edges start here:
-	link_count != 2 || @logical_edges.size == 0,
+	# If this point is linked to exactly 2 others, then no logical edges start here, unless it is a calling_point:
+	link_count != 2 || (@logical_edges.size == 0 || @calling_point),
 
 	# If no logical edge starts here, then this point links to exactly 2 others:
 	@logical_edges != 0 || link_count == 2,
@@ -42,6 +42,9 @@ module GpsTouring
       ].each_with_index {|success, index|
 	raise "Invariant[#{index}] failed (index starts at 0)" unless success
       }
+    end
+    def logical_node?
+      @calling_point || link_count != 2
     end
     def distance_m(p)
       # Distance in metres
@@ -76,6 +79,15 @@ module GpsTouring
     end
     def add_wpt(wpt)
       @wpts << wpt
+      self
+    end
+    def add_calling_point(wpt)
+      # if this NetworkPoint currently has no wpts, then it has been freshly
+      # created for this calling point. So we need to attach it to the 
+      # nearest NetworkPoint that already exists
+      @wpts << wpt
+      @calling_point = true
+      self
     end
     def add_link_to(p)
       return if p === self
@@ -89,9 +101,6 @@ module GpsTouring
       e.from === self || raise("Bug - expected all logical_edges are from this point")
       @logical_edges << e
     end
-    #def add_elevation_edge(e)
-      #@elevation_edges << e
-    #end
     def link_count
       @links.size
     end
