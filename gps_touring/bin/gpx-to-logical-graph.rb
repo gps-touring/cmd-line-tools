@@ -1,5 +1,5 @@
 require 'pp'
-require_relative 'gps-touring/network'
+require 'gps_touring'
 
 # Takes a set of GPS tracks/routes and produces a logical graph.
 # The logical graph is a GPX file with all points missed out unless they are end points or junctions.

@@ -1,4 +1,4 @@
-require_relative "gpx-builder"
+require_relative "gpx/builder"
 
 module GpsTouring
   module NetworkPointsArray

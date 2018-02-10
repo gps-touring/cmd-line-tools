@@ -1,10 +1,10 @@
 require 'nokogiri'
-require_relative 'logical-graph'
-require_relative 'logical-edge'
-require_relative 'original-edge'
-require_relative 'elevation-edge'
-require_relative 'network-point'
-require_relative 'gpx-builder'
+require_relative 'logical_graph'
+require_relative 'logical_edge'
+require_relative 'original_edge'
+require_relative 'elevation_edge'
+require_relative 'network_point'
+require_relative 'gpx/builder'
 
 module GpsTouring
   class Network

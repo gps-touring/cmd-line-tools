@@ -1,0 +1,8 @@
+require 'gps_touring/network_point'
+require 'gps_touring/elevation_edge'
+require 'gps_touring/logical_edge'
+require 'gps_touring/original_edge'
+require 'gps_touring/logical_graph'
+require 'gps_touring/network'
+require 'gps_touring/gpx/builder'
+require 'gps_touring/network_points_array'

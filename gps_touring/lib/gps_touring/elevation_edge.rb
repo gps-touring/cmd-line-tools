@@ -1,4 +1,4 @@
-require_relative "network-points-array"
+require_relative 'network_points_array'
 
 module GpsTouring
   class ElevationEdge

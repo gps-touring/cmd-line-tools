@@ -1,4 +1,4 @@
-require_relative "network-points-array"
+require_relative "network_points_array"
 
 # An OriginalEdge has all of the waypoints tagen from the originalGPX files.
 

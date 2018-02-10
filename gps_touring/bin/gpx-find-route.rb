@@ -1,7 +1,7 @@
 require 'optparse'
 require 'fileutils'
 require 'pp'
-require_relative 'gps-touring/network'
+require 'gps_touring'
 
 Opts = Struct.new(:outdir, :waypoints, :metres) do
   #Opts methods go here
