@@ -83,8 +83,7 @@ module GpsTouring
     end
     def add_calling_point(wpt)
       # if this NetworkPoint currently has no wpts, then it has been freshly
-      # created for this calling point. So we need to attach it to the 
-      # nearest NetworkPoint that already exists
+      # created for this calling point.
       @wpts << wpt
       @calling_point = true
       self

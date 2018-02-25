@@ -20,12 +20,12 @@ module GpsTouring
 	trks.each {|trk|
 	  trksegs = trk.css('trkseg')
 	  trksegs.each {|trkseg|
-	    process_wpts(trkseg.css('trkpt'))
+	    add_waypoint_sequence(trkseg.css('trkpt'))
 	  }
 	}
 	rtes = doc.css('rte')
 	rtes.each {|rte|
-	  process_wpts(rte.css('rtept'))
+	  add_waypoint_sequence(rte.css('rtept'))
 	}
       }
       @logical_edges = make_logical_edges
@@ -37,6 +37,9 @@ module GpsTouring
       points.values.each {|p| p.sanity_check}
     end
     def set_calling_points(gpx_file)
+      # Returns sequence of NetworkPoints corresponding to these
+      # calling points:
+      network_points = []
       doc = Nokogiri::XML(File.open(gpx_file), &:noblanks)
       wpts = doc.css('wpt')
       wpts.each {|wpt|
@@ -49,11 +52,13 @@ module GpsTouring
 	  pre_existing_points = @points.values.dup
 	end
 	calling_point = @points[key].add_calling_point(wpt)
+	network_points << calling_point
 	if pre_existing_points
 	  nearest_point = find_nearest_point(calling_point, pre_existing_points)
 	  calling_point.add_link_to(nearest_point)
 	end
       }
+      network_points
     end
     def find_nearest_point(to_p, from_points)
       min_dist = Float::INFINITY
@@ -94,7 +99,7 @@ module GpsTouring
       # key for the @points hash:
       [wpt['lat'], wpt['lon']]
     end
-    def process_wpts(wpts)
+    def add_waypoint_sequence(wpts)
       # add a saquence of waypoints that are part of a sequence 
       # (from a <trkseg>,or <rte>)
       curr_wpt = nil

@@ -27,4 +27,5 @@ end.parse!
 
 
 nwk = GpsTouring::Network.new(ARGV)
-nwk.set_calling_points(options.waypoints)
+calling_network_points = nwk.set_calling_points(options.waypoints)
+#puts "foo"
