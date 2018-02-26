@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer http://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="49.9239785" lon="14.6183289">
+  <ele>438.7</ele>
+  <name>49.9239785,14.6183289</name>
+  <desc>00320, 251 69 Petříkov, Czechia</desc>
+</wpt>
+<wpt lat="49.7656858" lon="14.7609769">
+  <ele>448.0</ele>
+  <name>49.7656858,14.7609769</name>
+  <desc>111, 256 01 Struhařov, Czechia</desc>
+</wpt>
+<wpt lat="49.727987" lon="14.7772237">
+  <ele>420.2</ele>
+  <name>Postupice</name>
+</wpt>
+<trk>
+  <name>00320 - 111</name>
+  <desc>29.7 km, 0:54</desc>
+  <trkseg>
+    <trkpt lat="49.92398" lon="14.61833">
+      <ele>438.684</ele>
+	  <name>A</name>
+    </trkpt>
+    <trkpt lat="49.76569" lon="14.76098">
+      <ele>448.012</ele>
+	  <name>B</name>
+    </trkpt>
+  </trkseg>
+</trk>
+<trk>
+  <name>111 - Postupice</name>
+  <desc>5.6 km, 0:13</desc>
+  <trkseg>
+    <trkpt lat="49.76569" lon="14.76098">
+      <ele>448.012</ele>
+	  <name>B bis</name>
+    </trkpt>
+    <trkpt lat="49.72806" lon="14.77724">
+      <ele>419.857</ele>
+	  <name>C</name>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>
