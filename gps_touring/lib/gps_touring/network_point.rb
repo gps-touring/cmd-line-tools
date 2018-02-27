@@ -1,8 +1,9 @@
+require 'pp'
 module GpsTouring
   class NetworkPoint
     TORADIANS = Math::PI / 180;
     R = 6371000; # metres
-    attr_reader :links, :logical_edges, :calling_point
+    attr_reader :wpts, :links, :logical_edges, :calling_point
     def initialize
       # wpts are all of the GPX waypoints (objects from Nokogiri) which have lat/lon that exactly match this NetworkPoint
       @wpts = []
@@ -34,7 +35,7 @@ module GpsTouring
 	@logical_edges != 0 || link_count == 2,
 
 	# All GPX waypoints for this point have identical lat and lon:
-	@wpts.map{|w| [w['lat'], w['lon']]}.uniq.size == 1,
+	@wpts.map{|w| [w['lat'].to_f, w['lon'].to_f]}.uniq.size == 1,
 
 	# All points linked to have different lat/long:
 	@links.size == @links.map {|p| p.geoloc}.uniq.size
@@ -49,10 +50,10 @@ module GpsTouring
     def distance_m(p)
       # Distance in metres
       # Uses Haversine - more accurate over short distances.
-      selfLatRad = self.lat.to_f * TORADIANS;
-      pLatRad = p.lat.to_f * TORADIANS;
-      latDiffRad = (p.lat.to_f - self.lat.to_f) * TORADIANS;
-      lonDiffRad = (p.lon.to_f - self.lon.to_f) * TORADIANS;
+      selfLatRad = self.lat * TORADIANS;
+      pLatRad = p.lat * TORADIANS;
+      latDiffRad = (p.lat - self.lat) * TORADIANS;
+      lonDiffRad = (p.lon - self.lon) * TORADIANS;
 
       a = Math.sin(latDiffRad / 2) * Math.sin(latDiffRad / 2) +
 	Math.cos(selfLatRad) * Math.cos(pLatRad) *
@@ -106,11 +107,17 @@ module GpsTouring
     def to_s
       @wpts.first.to_s
     end
+    def lat_s
+      @lat_s ||= @wpts.first['lat']
+    end
+    def lon_s
+      @lon_s ||= @wpts.first['lon']
+    end
     def lat
-      @lat ||= @wpts.first['lat']
+      @lat ||= @wpts.first['lat'].to_f
     end
     def lon
-      @lon ||= @wpts.first['lon']
+      @lon ||= @wpts.first['lon'].to_f
     end
     def ele
       return @ele if defined? @ele
@@ -118,20 +125,23 @@ module GpsTouring
     end
     def name
       return @name if defined? @name
-      names = @wpts.map {|w| n = w.at_css('name'); n || nil}.compact
+      names = @wpts.map {|w|
+	n = w.at_css('name')
+	n && n.text
+      }.compact.sort.uniq
       @name = names.empty? ? nil : names.join('|')
     end
     def geoloc
       [lat, lon]
     end
     def to_gpx_trkpt(xml)
-      xml.trkpt(lat: lat, lon: lon) {
+      xml.trkpt(lat: lat_s, lon: lon_s) {
 	xml.name(name) if name
 	xml.ele(ele)
       }
     end
     def to_gpx_rtept(xml)
-      xml.rtept(lat: lat, lon: lon) {
+      xml.rtept(lat: lat_s, lon: lon_s) {
 	xml.name(name) if name
 	xml.ele(ele)
       }

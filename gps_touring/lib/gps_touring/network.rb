@@ -100,7 +100,7 @@ module GpsTouring
     private
     def wpt2key(wpt)
       # key for the @points hash:
-      [wpt['lat'], wpt['lon']]
+      [wpt['lat'].to_f, wpt['lon'].to_f]
     end
     def add_waypoint_sequence(wpts)
       # add a saquence of waypoints that are part of a sequence 

@@ -72,7 +72,7 @@ module GpsTouring
 
     def name
       # Some string to identify this edge - used, perhaps in filenames, so no spaces
-      "#{points.first.lat},#{points.first.lon}-#{points.last.lat},#{points.last.lon}"
+      "#{points.first.lat_s},#{points.first.lon_s}-#{points.last.lat_s},#{points.last.lon_s}"
     end
     def metres_distance
       total = 0.0
