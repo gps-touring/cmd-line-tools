@@ -72,6 +72,9 @@ module GpsTouring
       }
       nearest_point
     end
+    def find_route(calling_points)
+      # calling_points are NetworkPoints
+    end
     def logical_nodes
       # If a NetworkPoint has exactly two links, then it is interior to a simple sequence of points:
       # One line is to bo to the previous point, one to go to the next. That's all.
