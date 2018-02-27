@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer http://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="53.900679" lon="-2.4988069">
+		<ele>174.4</ele>
+		<name>Cow Ark, Clitheroe</name>
+	</wpt>
+	<wpt lat="53.9495734" lon="-2.4631636">
+		<ele>148.3</ele>
+		<name>Newton-in-Bowland, Clitheroe</name>
+	</wpt>
+</gpx>
