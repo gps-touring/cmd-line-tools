@@ -19,14 +19,18 @@ module GpsTouring
 
       @calling_point = false
     end
+    def self.wpt2key(wpt)
+      # key for the @points hash:
+      [wpt['lat'].to_f, wpt['lon'].to_f]
+    end
     def sanity_check
       # Check invariants
       [
 	# If this point is not linked to exactly 2 others, then logical edges start from here:
-	link_count == 2 || @logical_edges.size > 0,
+	#link_count == 2 || @logical_edges.size > 0,
 
 	# If this point is not linked to exactly 2 others, then theres a logical edge for each point linked to:
-	link_count == 2 || @links.size == @logical_edges.size,
+	#link_count == 2 || @links.size == @logical_edges.size,
 
 	# If this point is linked to exactly 2 others, then no logical edges start here, unless it is a calling_point:
 	link_count != 2 || (@logical_edges.size == 0 || @calling_point),
@@ -46,6 +50,9 @@ module GpsTouring
     end
     def logical_node?
       @calling_point || link_count != 2
+    end
+    def key
+      self.class.wpt2key(wpts.first)
     end
     def distance_m(p)
       # Distance in metres
@@ -88,6 +95,10 @@ module GpsTouring
       @wpts << wpt
       @calling_point = true
       self
+    end
+    def add_bidirectional_link(p)
+      self.add_link_to(p)
+      p.add_link_to(self)
     end
     def add_link_to(p)
       return if p === self

@@ -12,6 +12,17 @@ module GpsTouring
       #while link.link_count == 2
       #while !logical_nodes.include? link
       while ! link.logical_node?
+	unless link.links.include?(point)
+	  $stderr.puts "point:"
+	  $stderr.puts point
+	  $stderr.puts "link:"
+	  $stderr.puts link
+	  $stderr.puts "link.links:"
+	  $stderr.puts link.links.each{|x| $stderr.puts x}
+	  $stderr.puts "link.links.size:"
+	  $stderr.puts link.links.size
+	  raise "point is expected to be in link.links"
+	end
 	next_links = link.links - [point]
 	unless next_links.size == 1
 	  $stderr.puts "point:"
@@ -26,7 +37,7 @@ module GpsTouring
 	  $stderr.puts next_links
 	  $stderr.puts next_links.size
 	end
-	raise "point is expected to be in link.links" unless next_links.size == 1
+	raise "Unexpected branch - why wasn't this a logical_node?" unless next_links.size == 1
 	point = link
 	link = next_links.first
 	@hops += 1

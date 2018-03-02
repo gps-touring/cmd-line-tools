@@ -11,7 +11,7 @@ module GpsTouring
     # A Network is the container for all of the waypionts read in from GPX files.
     # It has a Hash indexed by the lat/long of the waypoint so that points with identical lat/long
     # are regarded as being co-located, and can have links to 1, 2, 3,... more points 
-    attr_reader :points, :logical_edges, :logical_graphs
+    attr_reader :points#, :logical_edges, :logical_graphs
     def initialize(gpx_files)
       @points = Hash.new {|h, k| h[k] = NetworkPoint.new}
       gpx_files.each {|f|
@@ -28,10 +28,16 @@ module GpsTouring
 	  add_waypoint_sequence(rte.css('rtept'))
 	}
       }
-      @logical_edges = make_logical_edges
-      @logical_graphs = make_logical_graphs
+      #@logical_edges = make_logical_edges
+      #@logical_graphs = make_logical_graphs
 
       sanity_check
+    end
+    def logical_edges
+      make_logical_edges
+    end
+    def logical_graphs
+      make_logical_graphs
     end
     def sanity_check
       points.values.each {|p| p.sanity_check}
@@ -54,8 +60,11 @@ module GpsTouring
 	calling_point = @points[key].add_calling_point(wpt)
 	network_points << calling_point
 	if pre_existing_points
-	  nearest_point = find_nearest_point(calling_point, pre_existing_points)
-	  calling_point.add_link_to(nearest_point)
+	  $stderr.puts "Adding link to unconnected calling point:"
+	  $stderr.puts calling_point
+	  nearest_point_in_dup_set = find_nearest_point(calling_point, pre_existing_points)
+	  nearest_point = @points[nearest_point_in_dup_set.key]
+	  calling_point.add_bidirectional_link(nearest_point)
 	end
       }
       network_points
@@ -77,12 +86,13 @@ module GpsTouring
     end
     def logical_nodes
       # If a NetworkPoint has exactly two links, then it is interior to a simple sequence of points:
-      # One line is to bo to the previous point, one to go to the next. That's all.
+      # One line is to go to the previous point, one to go to the next. That's all.
       #
       # A NetworkPoint with one link is an end point.
       # A NetworkPoint with more than two links is a 'junction'.
       # logical_nodes are these end points and junctions.
-      @points.values.find_all {|point| point.link_count != 2}
+      # Calling Points are also logical nodes.
+      @points.values.find_all {|point| point.link_count != 2 || point.calling_point}
     end
     def logical_graphs_gpx
       GPX::Builder.new {|xml|
@@ -97,11 +107,12 @@ module GpsTouring
       }
       puts logical_graphs
     end
-    private
     def wpt2key(wpt)
       # key for the @points hash:
-      [wpt['lat'].to_f, wpt['lon'].to_f]
+      NetworkPoint.wpt2key(wpt)
+      #[wpt['lat'].to_f, wpt['lon'].to_f]
     end
+    private
     def add_waypoint_sequence(wpts)
       # add a saquence of waypoints that are part of a sequence 
       # (from a <trkseg>,or <rte>)

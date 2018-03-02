@@ -13,9 +13,13 @@ class BasicRouteFinding < Test::Unit::TestCase
   end
   def test1
     calling_network_points = nwk.set_calling_points("basic-route-finding/calling-points.gpx")
+    File.open("basic-route-finding/logical-graph.gpx", "w") {|f| f.write(nwk.logical_graphs_gpx)}
     logical_nodes = nwk.logical_nodes
     puts "logical_nodes: #{logical_nodes.size}"
-    puts "logical_graphs: #{nwk.logical_graphs.size}"
+    puts logical_nodes.map {|n|
+      "Logical Node #{n.class}: #{n.object_id}\n" + n.to_s
+    }.join("\n")
+    #puts "logical_graphs: #{nwk.logical_graphs.size}"
     assert_equal(1, nwk.logical_graphs.size, "Graph should be connected")
 
     pp logical_nodes.map {|n| n.name}

@@ -13,6 +13,7 @@
   <desc>9.3 km, 0:35</desc>
   <trkseg>
     <trkpt lat="53.86992" lon="-2.39213">
+		<name>Clitheroe</name>
       <ele>86.948</ele>
     </trkpt>
     <trkpt lat="53.86997" lon="-2.3921">
