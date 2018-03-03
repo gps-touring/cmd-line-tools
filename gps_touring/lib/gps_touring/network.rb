@@ -131,8 +131,7 @@ module GpsTouring
       if wpt1 && wpt2
 	@points.has_key?(wpt2key(wpt1)) || raise("@points has no key for wpt1")
 	@points.has_key?(wpt2key(wpt2)) || raise("@points has no key for wpt2")
-	@points[wpt2key(wpt1)].add_link_to(@points[wpt2key(wpt2)])
-	@points[wpt2key(wpt2)].add_link_to(@points[wpt2key(wpt1)])
+	@points[wpt2key(wpt1)].add_bidirectional_link(@points[wpt2key(wpt2)])
       end
     end
     def make_logical_edges
