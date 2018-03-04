@@ -3,7 +3,7 @@ module GpsTouring
   class NetworkPoint
     TORADIANS = Math::PI / 180;
     R = 6371000; # metres
-    attr_reader :wpts, :links, :calling_point
+    attr_reader :wpts, :links
     def initialize
       # wpts are all of the GPX waypoints (objects from Nokogiri) which have lat/lon that exactly match this NetworkPoint
       @wpts = []
@@ -12,7 +12,6 @@ module GpsTouring
       # i.e. adjacent <rtept> or <trkpt> elements in the <rte> or <trkseg> gps data:
       @links = []
 
-      @calling_point = false
     end
     def self.wpt2key(wpt)
       # key for the @points hash:
@@ -30,9 +29,6 @@ module GpsTouring
       ].each_with_index {|success, index|
 	raise "Invariant[#{index}] failed (index starts at 0)" unless success
       }
-    end
-    def logical_node?
-      @calling_point || link_count != 2
     end
     def key
       self.class.wpt2key(wpts.first)
@@ -70,13 +66,6 @@ module GpsTouring
     end
     def add_wpt(wpt)
       @wpts << wpt
-      self
-    end
-    def add_calling_point(wpt)
-      # if this NetworkPoint currently has no wpts, then it has been freshly
-      # created for this calling point.
-      @wpts << wpt
-      @calling_point = true
       self
     end
     def add_bidirectional_link(p)

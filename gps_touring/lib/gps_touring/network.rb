@@ -13,6 +13,11 @@ module GpsTouring
     attr_reader :points
     def initialize(gpx_files)
       @points = Hash.new {|h, k| h[k] = NetworkPoint.new}
+
+      # Keep track of which points are calling points
+      # Use a Hash for efficiency of querying:
+      @calling_points = {}
+
       gpx_files.each {|f|
 	doc = Nokogiri::XML(File.open(f), &:noblanks)
 	trks = doc.css('trk')
@@ -54,7 +59,8 @@ module GpsTouring
 	  # So we remember the points we have before adding this wpt:
 	  pre_existing_points = @points.values.dup
 	end
-	calling_point = @points[key].add_calling_point(wpt)
+	calling_point = @points[key].add_wpt(wpt)
+	@calling_points[calling_point] = true
 	network_points << calling_point
 	if pre_existing_points
 	  $stderr.puts "Adding link to unconnected calling point:"
@@ -89,7 +95,7 @@ module GpsTouring
       # A NetworkPoint with more than two links is a 'junction'.
       # logical_nodes are these end points and junctions.
       # Calling Points are also logical nodes.
-      @points.values.find_all {|point| point.link_count != 2 || point.calling_point}
+      @points.values.find_all {|point| point.link_count != 2 || @calling_points[point]}
     end
     def logical_graphs_gpx
       GPX::Builder.new {|xml|
@@ -135,8 +141,11 @@ module GpsTouring
       # returns an array of LogicalGraphs
       logical_graphs = []
       remaining_nodes = logical_nodes
+
       while n = remaining_nodes.first
-	g = LogicalGraph.new(n)
+	rem_nodes_hash = Hash[remaining_nodes.map{|n| [n, true]}]
+	node_test = lambda{|n| rem_nodes_hash[n]}
+	g = LogicalGraph.new(n, node_test)
 	logical_graphs << g
 	remaining_nodes = remaining_nodes - g.nodes
       end

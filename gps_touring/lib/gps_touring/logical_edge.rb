@@ -4,12 +4,14 @@ module GpsTouring
   class LogicalEdge
     include NetworkPointsArray
     attr_reader :from, :to, :first_link, :hops, :logical_edge
-    def initialize(point, link)
+    def initialize(point, link, node_test)
       @hops = 1
       @from = point
       @first_link = link
       @logical_edge = self
-      while ! link.logical_node?
+      # Keep following the next link until we hit another Node
+      # (based on calling node_test):
+      while ! node_test.call(link)
 	unless link.links.include?(point)
 	  $stderr.puts "point:"
 	  $stderr.puts point
@@ -19,7 +21,7 @@ module GpsTouring
 	  $stderr.puts link.links.each{|x| $stderr.puts x}
 	  $stderr.puts "link.links.size:"
 	  $stderr.puts link.links.size
-	  raise "point is expected to be in link.links"
+	  raise "Software bug: Found link between NetworkPoints that is not bidirectional"
 	end
 	next_links = link.links - [point]
 	unless next_links.size == 1
@@ -34,8 +36,8 @@ module GpsTouring
 	  $stderr.puts "next_links:"
 	  $stderr.puts next_links
 	  $stderr.puts next_links.size
+	  raise "Calling error: point #{link} should be a logical node because it does not provide just one onward link to follow"
 	end
-	raise "Unexpected branch - why wasn't this a logical_node?" unless next_links.size == 1
 	point = link
 	link = next_links.first
 	@hops += 1
