@@ -140,19 +140,31 @@ module GpsTouring
       # All other points are the start of a LogicalEdge:
       logical_nodes.map {|point|
 	# Create new LogicalEdge from p in the direction of link
-	point.links.map{|link| LogicalEdge.new(point, link, logical_nodes)}
+	point.links.map{|link| LogicalEdge.new(point, link)}
       }.flatten
     end
+    #def make_logical_graphs
+      ## returns an array of LogicalGraphs
+      ## Each member of the array is a complete list of connected logical_edges
+      #logical_graphs = []
+      #remaining_edges = logical_edges
+      ## while there are still logical_edges that have not been included in a LogicalGraph:
+      #while e = remaining_edges.first
+	## Grow the graph to included all (transitively) connected logical_edges
+	#logical_graphs << LogicalGraph.new(e.from)
+	#remaining_edges = remaining_edges - logical_graphs.last.logical_edges
+      #end
+      #logical_graphs
+    #end
     def make_logical_graphs
       # returns an array of LogicalGraphs
       # Each member of the array is a complete list of connected logical_edges
       logical_graphs = []
-      remaining_edges = logical_edges
-      # while there are still logical_edges that have not been included in a LogicalGraph:
-      while e = remaining_edges.first
-	# Grow the graph to included all (transitively) connected logical_edges
-	logical_graphs << LogicalGraph.new(e.from)
-	remaining_edges = remaining_edges - logical_graphs.last.logical_edges
+      remaining_nodes = logical_nodes
+      while n = remaining_nodes.first
+	g = LogicalGraph.new(n)
+	logical_graphs << g
+	remaining_nodes = remaining_nodes - g.nodes
       end
       logical_graphs
     end
