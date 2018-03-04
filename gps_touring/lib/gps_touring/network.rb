@@ -1,6 +1,5 @@
 require 'nokogiri'
 require_relative 'logical_graph'
-require_relative 'logical_edge'
 require_relative 'original_edge'
 require_relative 'elevation_edge'
 require_relative 'network_point'
@@ -11,7 +10,7 @@ module GpsTouring
     # A Network is the container for all of the waypionts read in from GPX files.
     # It has a Hash indexed by the lat/long of the waypoint so that points with identical lat/long
     # are regarded as being co-located, and can have links to 1, 2, 3,... more points 
-    attr_reader :points#, :logical_edges, :logical_graphs
+    attr_reader :points
     def initialize(gpx_files)
       @points = Hash.new {|h, k| h[k] = NetworkPoint.new}
       gpx_files.each {|f|
@@ -28,13 +27,11 @@ module GpsTouring
 	  add_waypoint_sequence(rte.css('rtept'))
 	}
       }
-      #@logical_edges = make_logical_edges
-      #@logical_graphs = make_logical_graphs
 
       sanity_check
     end
     def logical_edges
-      make_logical_edges
+      logical_graphs.map {|g|g.edges }.flatten
     end
     def logical_graphs
       make_logical_graphs
@@ -134,31 +131,8 @@ module GpsTouring
 	@points[wpt2key(wpt1)].add_bidirectional_link(@points[wpt2key(wpt2)])
       end
     end
-    def make_logical_edges
-      # NetworkPoints that have exactly 2 links are in the middle of a 'chain' of points, 
-      # so they are not the start of a LogicalEdge.
-      # All other points are the start of a LogicalEdge:
-      logical_nodes.map {|point|
-	# Create new LogicalEdge from p in the direction of link
-	point.links.map{|link| LogicalEdge.new(point, link)}
-      }.flatten
-    end
-    #def make_logical_graphs
-      ## returns an array of LogicalGraphs
-      ## Each member of the array is a complete list of connected logical_edges
-      #logical_graphs = []
-      #remaining_edges = logical_edges
-      ## while there are still logical_edges that have not been included in a LogicalGraph:
-      #while e = remaining_edges.first
-	## Grow the graph to included all (transitively) connected logical_edges
-	#logical_graphs << LogicalGraph.new(e.from)
-	#remaining_edges = remaining_edges - logical_graphs.last.logical_edges
-      #end
-      #logical_graphs
-    #end
     def make_logical_graphs
       # returns an array of LogicalGraphs
-      # Each member of the array is a complete list of connected logical_edges
       logical_graphs = []
       remaining_nodes = logical_nodes
       while n = remaining_nodes.first

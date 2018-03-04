@@ -41,7 +41,6 @@ module GpsTouring
 	@hops += 1
       end
       @to = link
-      @from.add_edge(self)
     end
     def points
       [from, to]

@@ -3,7 +3,7 @@ module GpsTouring
   class NetworkPoint
     TORADIANS = Math::PI / 180;
     R = 6371000; # metres
-    attr_reader :wpts, :links, :logical_edges, :calling_point
+    attr_reader :wpts, :links, :calling_point
     def initialize
       # wpts are all of the GPX waypoints (objects from Nokogiri) which have lat/lon that exactly match this NetworkPoint
       @wpts = []
@@ -11,11 +11,6 @@ module GpsTouring
       # links are NetworkPoints reachable by a single hop 
       # i.e. adjacent <rtept> or <trkpt> elements in the <rte> or <trkseg> gps data:
       @links = []
-
-      # logical_edges are defined only for Points that are at the end of a sequence of points, 
-      # or those that are at a junction.
-      # In other words, never if links.size == 2 (which means the point is in the interior of a route, one link goes backwards, the other forewards)
-      @logical_edges = []
 
       @calling_point = false
     end
@@ -26,18 +21,6 @@ module GpsTouring
     def sanity_check
       # Check invariants
       [
-	# If this point is not linked to exactly 2 others, then logical edges start from here:
-	#link_count == 2 || @logical_edges.size > 0,
-
-	# If this point is not linked to exactly 2 others, then theres a logical edge for each point linked to:
-	#link_count == 2 || @links.size == @logical_edges.size,
-
-	# If this point is linked to exactly 2 others, then no logical edges start here, unless it is a calling_point:
-	link_count != 2 || (@logical_edges.size == 0 || @calling_point),
-
-	# If no logical edge starts here, then this point links to exactly 2 others:
-	@logical_edges != 0 || link_count == 2,
-
 	# All GPX waypoints for this point have identical lat and lon:
 	@wpts.map{|w| [w['lat'].to_f, w['lon'].to_f]}.uniq.size == 1,
 
@@ -107,10 +90,6 @@ module GpsTouring
       # and here we would have self == q
       # In this case q must be treated as the end of an edge - i.e. it will have just one link.
       @links << p unless @links.include?(p)
-    end
-    def add_edge(e)
-      e.from === self || raise("Bug - expected all logical_edges are from this point")
-      @logical_edges << e
     end
     def link_count
       @links.size
