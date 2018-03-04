@@ -23,7 +23,7 @@ class BasicRouteFinding < Test::Unit::TestCase
     assert_equal(1, nwk.logical_graphs.size, "Graph should be connected")
 
     nwk.logical_graphs.each {|g|
-      g.node_edges.each{|n, es|
+      g.edges_from_node.each{|n, es|
 	es.each{|e|
 	  assert_equal(n, e.from, "Edges from a node have their from attriute set to that same node")
 	}
