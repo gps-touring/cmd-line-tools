@@ -29,4 +29,7 @@ end.parse!
 nwk = GpsTouring::Network.new(ARGV)
 calling_network_points = nwk.set_calling_points(options.waypoints)
 route = nwk.find_route(calling_network_points, GpsTouring::EdgeCost.by_distance_only)
-#puts "foo"
+
+Dir.chdir(options.outdir) do
+  File.open("route.gpx", "w") {|f| f.write(GpsTouring::LogicalPath.new(route).to_gpx)}
+end
