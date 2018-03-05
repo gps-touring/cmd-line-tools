@@ -54,6 +54,6 @@ class BasicRouteFinding < Test::Unit::TestCase
       assert_instance_of(GpsTouring::LogicalEdge, e)
     }
     #pp route.map {|e| e.to_s}
-    File.open("basic-route-finding/output/route.gpx", "w") {|f| f.write(GpsTouring::LogicalPath.new(route).to_gpx)}
+    File.open("basic-route-finding/output/route.gpx", "w") {|f| f.write(GpsTouring::Path.new(route).to_gpx)}
   end
 end

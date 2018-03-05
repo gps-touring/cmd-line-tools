@@ -1,12 +1,12 @@
 
-# A LogicalPath is a sequence of connected LogicalEdges
+# A Path is a sequence of connected LogicalEdges
 # which never visit the same LogicalNode twice
 #
 
 module GpsTouring
-  class LogicalPath < Array
+  class Path < Array
     def initialize(edges)
-      # A LogicalPath is an Array (i.e. sequence) of edges
+      # A Path is an Array (i.e. sequence) of edges
       concat edges
     end
     def cost(edge_cost)
@@ -18,7 +18,7 @@ module GpsTouring
 	  xml.name("Path")
 	  each {|e|
 	    orig = OriginalEdge.new(e)
-	    #puts "LogicalPath - Orig points: #{orig.points.size}"
+	    #puts "Path - Orig points: #{orig.points.size}"
 
 	    orig.to_gpx_trkseg(xml)
 	  }

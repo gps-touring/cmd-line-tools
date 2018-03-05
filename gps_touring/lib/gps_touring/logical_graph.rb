@@ -16,7 +16,7 @@ module GpsTouring
       # A path is a sequence of edges
       @acyclic_paths = edges.map {|e| grow([e]) }.
 	inject([], :+).
-	map {|p| LogicalPath.new(p)}
+	map {|p| Path.new(p)}
 
 
     end
