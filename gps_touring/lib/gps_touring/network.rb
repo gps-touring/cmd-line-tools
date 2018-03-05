@@ -63,8 +63,8 @@ module GpsTouring
 	@calling_points[calling_point] = true
 	network_points << calling_point
 	if pre_existing_points
-	  $stderr.puts "Adding link to unconnected calling point:"
-	  $stderr.puts calling_point
+	  #$stderr.puts "Adding link to unconnected calling point:"
+	  #$stderr.puts calling_point
 	  nearest_point_in_dup_set = find_nearest_point(calling_point, pre_existing_points)
 	  nearest_point = @points[nearest_point_in_dup_set.key]
 	  calling_point.add_bidirectional_link(nearest_point)
@@ -84,8 +84,43 @@ module GpsTouring
       }
       nearest_point
     end
-    def find_route(calling_points)
+    def find_route(calling_points, edge_cost_method)
       # calling_points are NetworkPoints
+      errors = 0
+      calling_points.each {|cp|
+	unless logical_nodes.include? cp
+	  $stderr.puts "Software error: Calling point #{cp.to_s} is not one of the Network'slogicalnodes"
+	  errors += 1
+	end
+      }
+      raise "Abandon due to error" if errors > 0
+      graph = logical_graph(calling_points.first, logical_nodes)
+      calling_points.each {|cp|
+	unless graph.nodes.include? cp
+	  $stderr.puts "Calling point #{cp.to_s} is not in the same LogicalGraph as the starting point #{calling_points.first}"
+	  errors += 1
+	end
+      }
+      raise "Abandon due to error" if errors > 0
+
+      # pre-calculate edge costs for each edge, to save
+      # costly repetitive calculations:
+      edge_cost = Hash[graph.edges.map {|e| 
+	[e, edge_cost_method.call(e)]
+      }]
+      (0...calling_points.size-1).map {|i|
+	from = calling_points[i]
+	to = calling_points[i+1]
+	cheapest_path = graph.paths(from, to).map {|p|
+	  [p, p.cost(edge_cost)]
+	}.
+	# Sort by ascending code
+	sort {|a, b| a.last <=> b.last}.
+	# Get cheapest [path, cost] array
+	first.
+	# Get just the path:
+	first
+      }.flatten
     end
     def logical_nodes
       # If a NetworkPoint has exactly two links, then it is interior to a simple sequence of points:
@@ -143,13 +178,18 @@ module GpsTouring
       remaining_nodes = logical_nodes
 
       while n = remaining_nodes.first
-	rem_nodes_hash = Hash[remaining_nodes.map{|n| [n, true]}]
-	node_test = lambda{|n| rem_nodes_hash[n]}
-	g = LogicalGraph.new(n, node_test)
+	g = logical_graph(n, remaining_nodes)
 	logical_graphs << g
 	remaining_nodes = remaining_nodes - g.nodes
       end
       logical_graphs
+    end
+    def logical_graph(node, nodes)
+      # Return the LogicalGraph containing node where other
+      # nodes in the graph are in the array nodes
+      nodes_hash = Hash[nodes.map{|n| [n, true]}]
+      node_test = lambda{|n| nodes_hash[n]}
+      LogicalGraph.new(node, node_test)
     end
   end
 end

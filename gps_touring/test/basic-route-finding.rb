@@ -13,12 +13,12 @@ class BasicRouteFinding < Test::Unit::TestCase
   end
   def test1
     calling_network_points = nwk.set_calling_points("basic-route-finding/calling-points.gpx")
-    File.open("basic-route-finding/logical-graph.gpx", "w") {|f| f.write(nwk.logical_graphs_gpx)}
+    File.open("basic-route-finding/output/logical-graph.gpx", "w") {|f| f.write(nwk.logical_graphs_gpx)}
     logical_nodes = nwk.logical_nodes
     puts "logical_nodes: #{logical_nodes.size}"
-    puts logical_nodes.map {|n|
-      "Logical Node #{n.class}: #{n.object_id}\n" + n.to_s
-    }.join("\n")
+    #puts logical_nodes.map {|n|
+      #"Logical Node #{n.class}: #{n.object_id}\n" + n.to_s
+    #}.join("\n")
     #puts "logical_graphs: #{nwk.logical_graphs.size}"
     assert_equal(1, nwk.logical_graphs.size, "Graph should be connected")
 
@@ -46,5 +46,14 @@ class BasicRouteFinding < Test::Unit::TestCase
     #pp logical_nodes.map {|n| n.name}
     assert_include(logical_nodes.map {|n| n.name}, "Cow Ark, Clitheroe", "Calling points should be logical nodes")
     assert_include(logical_nodes.map {|n| n.name}, "Newton-in-Bowland, Clitheroe", "Calling points should be logical nodes")
+
+    edge_cost_method = GpsTouring::EdgeCost.by_distance_only
+    #edge_cost_method = GpsTouring::EdgeCost.by_ascent_only
+    route = nwk.find_route(calling_network_points, edge_cost_method)
+    route.each {|e|
+      assert_instance_of(GpsTouring::LogicalEdge, e)
+    }
+    #pp route.map {|e| e.to_s}
+    File.open("basic-route-finding/output/route.gpx", "w") {|f| f.write(GpsTouring::LogicalPath.new(route).to_gpx)}
   end
 end

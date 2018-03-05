@@ -14,8 +14,16 @@ module GpsTouring
 
       # All paths through the graph that don't visit the same node twice.
       # A path is a sequence of edges
-      @acyclic_paths = edges.map {|e| grow([e])}.inject([], :+)
+      @acyclic_paths = edges.map {|e| grow([e]) }.
+	inject([], :+).
+	map {|p| LogicalPath.new(p)}
 
+
+    end
+    def paths(from, to)
+      acyclic_paths.find_all {|p|
+	p.first.from == from && p.last.to == to
+      }
     end
     def to_s
       "GRAPH: #{@edges.map {|e| e}.join("\n")}"
@@ -47,7 +55,7 @@ module GpsTouring
       # without visiting the same node twice:
       next_edges.
 	reject{|e| already_visited.include? e.to}.
-	each {|e| res += grow(eseq.dup.push(e)) }
+	each {|e| res += grow(eseq + [e]) }
 
       res
     end
