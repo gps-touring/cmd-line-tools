@@ -89,7 +89,7 @@ module GpsTouring
       errors = 0
       calling_points.each {|cp|
 	unless logical_nodes.include? cp
-	  $stderr.puts "Software error: Calling point #{cp.to_s} is not one of the Network'slogicalnodes"
+	  $stderr.puts "Software error: Calling point #{cp.to_s} is not one of the Network's logicalnodes"
 	  errors += 1
 	end
       }
@@ -103,24 +103,8 @@ module GpsTouring
       }
       raise "Abandon due to error" if errors > 0
 
-      # pre-calculate edge costs for each edge, to save
-      # costly repetitive calculations:
-      edge_cost = Hash[graph.edges.map {|e| 
-	[e, edge_cost_method.call(e)]
-      }]
-      (0...calling_points.size-1).map {|i|
-	from = calling_points[i]
-	to = calling_points[i+1]
-	cheapest_path = graph.paths(from, to).map {|p|
-	  [p, p.cost(edge_cost)]
-	}.
-	# Sort by ascending code
-	sort {|a, b| a.last <=> b.last}.
-	# Get cheapest [path, cost] array
-	first.
-	# Get just the path:
-	first
-      }.flatten
+      Route.new(graph, calling_points, edge_cost_method)
+
     end
     def logical_nodes
       # If a NetworkPoint has exactly two links, then it is interior to a simple sequence of points:

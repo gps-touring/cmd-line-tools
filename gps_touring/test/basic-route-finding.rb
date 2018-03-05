@@ -50,10 +50,13 @@ class BasicRouteFinding < Test::Unit::TestCase
     edge_cost_method = GpsTouring::EdgeCost.by_distance_only
     #edge_cost_method = GpsTouring::EdgeCost.by_ascent_only
     route = nwk.find_route(calling_network_points, edge_cost_method)
-    route.each {|e|
-      assert_instance_of(GpsTouring::LogicalEdge, e)
+    route.each {|es|
+      es.each {|e|
+	assert_instance_of(GpsTouring::LogicalEdge, e)
+      }
     }
-    #pp route.map {|e| e.to_s}
-    File.open("basic-route-finding/output/route.gpx", "w") {|f| f.write(GpsTouring::Path.new(route).to_gpx)}
+    File.open("basic-route-finding/output/route.gpx", "w") {|f| 
+      f.write(route.to_gpx)
+    }
   end
 end

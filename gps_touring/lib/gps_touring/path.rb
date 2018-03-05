@@ -25,6 +25,22 @@ module GpsTouring
 	}
       }.to_xml
     end
+    def to_gpx_name(xml)
+      xml.name name
+    end
+    def name
+      "#{first.from.name} - #{last.to.name}"
+    end
+#    def group_by_nodes(nodes)
+#      # Returns an array of arrays of edges such that
+#      # for each member array A,
+#      #   A[i].from belongs to nodes if and only if A[i] is A.first
+#      #   A[i].to   belongs to nodes if and only if A[i] is A.last
+#      # This is useful for paritioning a Path by calling points
+#      raise "Bad params to Path.group_path" unless nodes.include? first.from
+#      raise "Bad params to Path.group_path" unless nodes.include? last.to
+#      chunk_while {|e, f| ! nodes.include? e.to}.to_a
+#    end
   end
 end
 
