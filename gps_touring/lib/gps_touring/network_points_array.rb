@@ -4,7 +4,7 @@ module GpsTouring
   module NetworkPointsArray
     # Can be included in any class which defines 
     # - a points method to return an array of GpsModule::NetworkPoint objects
-    # - a logical_edge method to return the logicaledge represented by th epoints
+    # - a logical_edge method to return the logicaledge represented by the points
     def to_gpx
       GpsTouring::GPX::Builder.new {|xml| to_gpx_rte(xml) }.to_xml
     end
@@ -48,9 +48,10 @@ module GpsTouring
     def to_gpx_name(xml)
       xml.name gpx_name
     end
-    def to_gradient_csv
+    def to_gradient_csv(original_points = points)
       prev = nil
-      points.zip(original_cummulative_distances).map{|z|
+      cumm_dists = cumm_distances_using_original_points(original_points)
+      points.zip(cumm_dists).map{|z|
 	# There's one fewer elements in the result than in the points
 	# and this first nil element will be removed by compacting the array
 	res = nil 
@@ -68,6 +69,30 @@ module GpsTouring
 	prev = z
 	res
       }.compact.join("\n")
+    end
+    def cumm_distances_using_original_points(orig_pts)
+      # Precondition: points is a subset of orig_pts in the following sense:
+      # Points is contained in orig_pts (as a set), AND
+      # they are in the same order.
+      #
+      # Returns an array of cummulative distances between points
+      # where the distances are calculated based on orig_pts. 
+      cumm = []
+      total = 0.0
+      prev = nil
+      index = 0
+      orig_pts.each {|p|
+	if prev
+	  total += prev.distance_m(p)
+	end
+	prev = p
+	if p === points[index]
+	  cumm << total
+	  index += 1
+	end
+      }
+      raise "Bad array size" unless cumm.size == points.size
+      cumm
     end
 
     def name
@@ -103,28 +128,6 @@ module GpsTouring
 	ele = p.ele
       }
       total
-    end
-    def original_cummulative_distances
-      # Returns an array the same size as points, 
-      # with cummulative distances based on the distances
-      # calculated between the original GPX waypoints.
-      cumm = []
-      total = 0.0
-      prev = nil
-      original = OriginalEdge.new(logical_edge)
-      index = 0
-      original.points.each {|p|
-	if prev
-	  total += prev.distance_m(p)
-	end
-	prev = p
-	if p === points[index]
-	  cumm << total
-	  index += 1
-	end
-      }
-      raise "Bad array size" unless cumm.size == points.size
-      cumm
     end
   end
 end

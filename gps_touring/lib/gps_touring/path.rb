@@ -5,9 +5,23 @@
 
 module GpsTouring
   class Path < Array
+    # To make avilablethe methods from NetworkPoinsArray,
+    # we need to define two instance methods:
+    #   points
+    #   logical_edge
+    include NetworkPointsArray
+
     def initialize(edges)
       # A Path is an Array (i.e. sequence) of edges
       concat edges
+    end
+    def points
+      #map {|e| e.points}.flatten
+      # Concatenate the poins from each edge in order:
+      map {|e| e.points}.inject([], :+)
+    end
+    def logical_edge
+      raise "NO - the plan to provide a logical_edge for a Path is flawed."
     end
     def cost(edge_cost)
       map {|e| edge_cost[e]}.inject(0, :+)
