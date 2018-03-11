@@ -96,8 +96,11 @@ module GpsTouring
     end
 
     def name
-      # Some string to identify this edge - used, perhaps in filenames, so no spaces
-      "#{points.first.lat_s},#{points.first.lon_s}-#{points.last.lat_s},#{points.last.lon_s}"
+      "#{points.first.name} - #{points.last.name}"
+    end
+    def fname
+      # Name to be used when constructing filenames about this point
+      "#{points.first.fname}-#{points.last.fname}"
     end
     def metres_distance
       total = 0.0

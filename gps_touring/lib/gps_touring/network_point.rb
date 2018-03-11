@@ -110,6 +110,10 @@ module GpsTouring
       }.compact.sort.uniq
       @name = names.empty? ? nil : names.join('|')
     end
+    def fname
+      # Name to be used when constructing filenames about this point
+      (name || "#{lat},#{lon}").gsub(/\s/, "_")
+    end
     def geoloc
       [lat, lon]
     end
