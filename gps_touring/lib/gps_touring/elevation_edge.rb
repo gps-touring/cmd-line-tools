@@ -3,13 +3,12 @@ require_relative 'network_points_array'
 module GpsTouring
   class ElevationEdge
     include NetworkPointsArray
-    attr_reader :logical_edge, :points, :metres
+    attr_reader :points, :metres
     def initialize(logical_edge, metres = 2)
       # Create an elevationEdgecorresponding to the given LogicalEdge
       # Each point in the created ElevationEdge will be taken from  the
       # original set of NetworkPoints, but points with variations less than 'metres'
       # will be omitted. 
-      @logical_edge = logical_edge
       @metres = metres
       original = OriginalEdge.new(logical_edge)
       @points = [logical_edge.from]
@@ -54,9 +53,6 @@ module GpsTouring
     def add_point(p)
       raise("Algotithm error: adding same point twice in a row to an ElevationEdge: #{p}") if p === @points.last
       @points << p
-    end
-    def to_s
-      "#{@logical_edge.from.to_s} - #{@logical_edge.to.to_s}. ascent: tbd; descent: tbd; dist: tbd"
     end
     def gpx_name
       name + " Smoothed out elevation diffs less than #{metres}m"

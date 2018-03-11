@@ -1,9 +1,12 @@
 # A route is a sequence of paths.
 # For example there may be one sequence of paths between each pair of calling points
+# Whereas a Path may not visit the same LogicalNode twice,
+# a route may do so.
 
 
 module GpsTouring
-  class Route < Array
+  class Route < Array # Array members are Paths
+    include NetworkPointsArray
     def initialize(graph, calling_points, edge_cost_method)
       # pre-calculate edge costs for each edge, to save
       # costly repetitive calculations:
@@ -24,6 +27,9 @@ module GpsTouring
 	# Get just the path:
 	first
       }
+    end
+    def points
+      map {|path| path.points}.inject([], :+)
     end
     def to_gpx
       GPX::Builder.new {|xml|

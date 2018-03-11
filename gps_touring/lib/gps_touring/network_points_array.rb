@@ -4,7 +4,6 @@ module GpsTouring
   module NetworkPointsArray
     # Can be included in any class which defines 
     # - a points method to return an array of GpsModule::NetworkPoint objects
-    # - a logical_edge method to return the logicaledge represented by the points
     def to_gpx
       GpsTouring::GPX::Builder.new {|xml| to_gpx_rte(xml) }.to_xml
     end

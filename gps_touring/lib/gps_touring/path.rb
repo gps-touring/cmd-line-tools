@@ -1,14 +1,13 @@
 
 # A Path is a sequence of connected LogicalEdges
-# which never visit the same LogicalNode twice
-#
+# which never visit the same LogicalNode twice.
+# TODO - verify that this means that a Path never visits 
+# the same NetworkPoint twice
 
 module GpsTouring
-  class Path < Array
-    # To make avilablethe methods from NetworkPoinsArray,
-    # we need to define two instance methods:
-    #   points
-    #   logical_edge
+  class Path < Array	# Array members are LogicalEdges
+    # To make avilable the methods from NetworkPointsArray,
+    # we need to define the instance method: #points
     include NetworkPointsArray
 
     def initialize(edges)
@@ -16,12 +15,8 @@ module GpsTouring
       concat edges
     end
     def points
-      #map {|e| e.points}.flatten
       # Concatenate the poins from each edge in order:
       map {|e| e.points}.inject([], :+)
-    end
-    def logical_edge
-      raise "NO - the plan to provide a logical_edge for a Path is flawed."
     end
     def cost(edge_cost)
       map {|e| edge_cost[e]}.inject(0, :+)

@@ -5,11 +5,10 @@ require_relative "network_points_array"
 module GpsTouring
   class OriginalEdge
     include NetworkPointsArray
-    attr_reader :logical_edge, :points
+    attr_reader :points
     def initialize(logical_edge)
       point = logical_edge.from
       link = logical_edge.first_link
-      @logical_edge = logical_edge
       @points = [point]
       while link != logical_edge.to
 	raise("Badly defined logicalEdge") unless link.links.size == 2

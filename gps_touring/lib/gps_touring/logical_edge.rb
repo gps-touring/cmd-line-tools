@@ -3,12 +3,11 @@ require_relative "network_points_array"
 module GpsTouring
   class LogicalEdge
     include NetworkPointsArray
-    attr_reader :from, :to, :first_link, :hops, :logical_edge
+    attr_reader :from, :to, :first_link, :hops
     def initialize(point, link, node_test)
       @hops = 1
       @from = point
       @first_link = link
-      @logical_edge = self
       # Keep following the next link until we hit another Node
       # (based on calling node_test):
       while ! node_test.call(link)
