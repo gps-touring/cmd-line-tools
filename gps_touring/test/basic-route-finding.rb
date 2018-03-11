@@ -5,7 +5,7 @@ require 'gps_touring'
 class BasicRouteFinding < Test::Unit::TestCase
   attr_reader :nwk
   def setup
-    gpx_files = Dir.glob("basic-route-finding/*.gpx")
+    gpx_files = Dir.glob("basic-route-finding/network/*.gpx")
     @nwk = GpsTouring::Network.new(gpx_files)
   end
   def teardown

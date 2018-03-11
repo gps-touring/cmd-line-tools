@@ -9,7 +9,8 @@ class BasicNetwork < Test::Unit::TestCase
     #puts "teardown"
   end
   def test1
-    nwk = GpsTouring::Network.new(["basic-network/route.gpx"])
+    gpx_files = Dir.glob("basic-network/network/*.gpx")
+    nwk = GpsTouring::Network.new(gpx_files)
 
     assert_equal(2, nwk.logical_nodes.size, "Check number of logical nodes")
     assert_kind_of(GpsTouring::NetworkPoint, nwk.logical_nodes.first)
