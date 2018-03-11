@@ -28,14 +28,14 @@ end.parse!
 
 nwk = GpsTouring::Network.new(ARGV)
 nwk.logical_edges.each {|edge|
-  original = GpsTouring::OriginalEdge.new(edge)
+  original = edge.original_edge
   if options.metres.nil?
     filename = "#{edge.fname}-original-gradients.csv"
     Dir.chdir(options.outdir) do
       File.open(filename, "w") {|f| f.write(original.to_gradient_csv)}
     end
   else
-    smoothed = GpsTouring::ElevationEdge.new(edge, options.metres)
+    smoothed = original.elevation_edge(options.metres)
     filename = "#{edge.fname}-smoothed-gradients-#{options.metres}.csv"
     Dir.chdir(options.outdir) do
       File.open(filename, "w") {|f|

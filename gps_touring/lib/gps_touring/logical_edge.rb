@@ -46,9 +46,13 @@ module GpsTouring
     def points
       [from, to]
     end
+    def original_edge
+      OriginalEdge.new(self)
+    end
     def to_s
       "#{@from.to_s} - #{@to.to_s}. hops: #{@hops}"
     end
+
     def gpx_name
       name + " Logical Edge"
     end

@@ -7,6 +7,9 @@ module GpsTouring
     def to_gpx
       GpsTouring::GPX::Builder.new {|xml| to_gpx_rte(xml) }.to_xml
     end
+    def elevation_edge(metres = 2)
+      ElevationEdge.new(points, metres)
+    end
     def to_gpx_rte(xml)
       xml.rte {|xml|
 	to_gpx_name(xml)

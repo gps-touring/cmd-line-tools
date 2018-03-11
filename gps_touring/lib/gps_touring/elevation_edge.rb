@@ -4,23 +4,22 @@ module GpsTouring
   class ElevationEdge
     include NetworkPointsArray
     attr_reader :points, :metres
-    def initialize(logical_edge, metres = 2)
-      # Create an elevationEdgecorresponding to the given LogicalEdge
+    def initialize(orig_pts, metres = 2)
+      # Create an elevationEdge corresponding to the original points
       # Each point in the created ElevationEdge will be taken from  the
       # original set of NetworkPoints, but points with variations less than 'metres'
       # will be omitted. 
       @metres = metres
-      original = OriginalEdge.new(logical_edge)
-      @points = [logical_edge.from]
-      local_min = original.points.first
-      local_max = original.points.first
+      @points = [orig_pts.first]
+      local_min = orig_pts.first
+      local_max = orig_pts.first
 
       # We're either in the process of increasing or decreasing in elevation
       # - that's captured by the state variable.
       # Somewhat arbitrary initialization:
-      state = original.points[1].ele > original.points[0].ele ? :inc : :dec
+      state = orig_pts[1].ele > orig_pts[0].ele ? :inc : :dec
 
-      original.points.each do |p|
+      orig_pts.each do |p|
 	if state == :inc
 	  if p.ele > local_max.ele
 	    local_max = p
@@ -47,15 +46,16 @@ module GpsTouring
 	  end
 	end
       end
-      add_point(logical_edge.to) unless @points.last === logical_edge.to 
+      add_point(orig_pts.last) unless @points.last === orig_pts.last 
       @points.freeze
-    end
-    def add_point(p)
-      raise("Algotithm error: adding same point twice in a row to an ElevationEdge: #{p}") if p === @points.last
-      @points << p
     end
     def gpx_name
       name + " Smoothed out elevation diffs less than #{metres}m"
+    end
+    private
+    def add_point(p)
+      raise("Algotithm error: adding same point twice in a row to an ElevationEdge: #{p}") if p === @points.last
+      @points << p
     end
   end
 end

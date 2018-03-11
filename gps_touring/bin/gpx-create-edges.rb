@@ -28,14 +28,14 @@ end.parse!
 
 nwk = GpsTouring::Network.new(ARGV)
 nwk.logical_edges.each {|edge|
+  original = edge.original_edge
   if options.metres.nil?
-    original = GpsTouring::OriginalEdge.new(edge)
     filename = "#{edge.name}-original.gpx"
     Dir.chdir(options.outdir) do
       File.open(filename, "w") {|f| f.write(original.to_gpx)}
     end
   else
-    smoothed = GpsTouring::ElevationEdge.new(edge, options.metres)
+    smoothed = original.elevation_edge(options.metres)
     filename = "#{edge.name}-smoothed-#{options.metres}.gpx"
     Dir.chdir(options.outdir) do
       File.open(filename, "w") {|f| f.write(smoothed.to_gpx)}
