@@ -30,8 +30,13 @@ nwk = GpsTouring::Network.new(ARGV)
 calling_network_points = nwk.set_calling_points(options.waypoints)
 route = nwk.find_route(calling_network_points, GpsTouring::EdgeCost.by_distance_only)
 
+route_smoothed = route.elevation_edge(options.metres)
+
 Dir.chdir(options.outdir) do
   File.open("route.gpx", "w") {|f| 
     f.write(route.to_gpx)
+  }
+  File.open("smoothed.gpx", "w") {|f|
+    f.write(GpsTouring::GPX::Builder.new {|xml| route_smoothed.to_gpx_rte(xml)}.to_xml)
   }
 end

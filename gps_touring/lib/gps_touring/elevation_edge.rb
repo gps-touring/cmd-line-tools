@@ -11,42 +11,12 @@ module GpsTouring
       # will be omitted. 
       @metres = metres
       @points = [orig_pts.first]
-      local_min = orig_pts.first
-      local_max = orig_pts.first
-
-      # We're either in the process of increasing or decreasing in elevation
-      # - that's captured by the state variable.
-      # Somewhat arbitrary initialization:
-      state = orig_pts[1].ele > orig_pts[0].ele ? :inc : :dec
-
-      orig_pts.each do |p|
-	if state == :inc
-	  if p.ele > local_max.ele
-	    local_max = p
-	    if p.ele >= @points.last.ele + metres
-	      add_point(p)
-	    end
-	  elsif p.ele <= local_max.ele - metres
-	    add_point(local_max) unless @points.last === local_max
-	    add_point(p)
-	    state = :dec
-	    local_min = p
-	  end
-	else
-	  if p.ele < local_min.ele
-	    local_min = p
-	    if p.ele <= @points.last.ele - metres
-	      add_point(p)
-	    end
-	  elsif p.ele >= local_min.ele + metres
-	    add_point(local_min) unless @points.last === local_min
-	    add_point(p)
-	    state = :inc
-	    local_max = p
-	  end
+      orig_pts[1... orig_pts.size-1].each {|p|
+	if (p.ele - @points.last.ele).abs >= metres
+	  @points << p
 	end
-      end
-      add_point(orig_pts.last) unless @points.last === orig_pts.last 
+      }
+      @points << orig_pts.last
       @points.freeze
     end
     def gpx_name

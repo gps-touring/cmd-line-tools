@@ -16,7 +16,7 @@ module GpsTouring
     end
     def points
       # Concatenate the poins from each edge in order:
-      map {|e| e.points}.inject([], :+)
+      map {|e| e.original_edge.points}.inject([], :+)
     end
     def cost(edge_cost)
       map {|e| edge_cost[e]}.inject(0, :+)
