@@ -100,7 +100,7 @@ module GpsTouring
     end
     def ele
       return @ele if defined? @ele
-      @ele = @wpts.map {|wpt| wpt.at_css('ele')}.compact.map{|s| s.text.to_f}.first || 0.0
+      @ele = @wpts.map {|wpt| wpt.at_css('ele')}.compact.map{|s| s.text.to_f}.first
     end
     def name
       return @name if defined? @name
@@ -120,13 +120,13 @@ module GpsTouring
     def to_gpx_trkpt(xml)
       xml.trkpt(lat: lat_s, lon: lon_s) {
 	xml.name(name) if name
-	xml.ele(ele)
+	xml.ele(ele) if ele
       }
     end
     def to_gpx_rtept(xml)
       xml.rtept(lat: lat_s, lon: lon_s) {
 	xml.name(name) if name
-	xml.ele(ele)
+	xml.ele(ele) if ele
       }
     end
   end

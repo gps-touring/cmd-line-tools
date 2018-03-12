@@ -1,3 +1,4 @@
+require 'csv'
 require_relative "gpx/builder"
 
 module GpsTouring
@@ -18,8 +19,6 @@ module GpsTouring
       }
     end
     def to_gpx_rtepts(xml)
-      #$stderr.puts "to_gpx_rtepts"
-      #$stderr.puts points.first
       points.each {|p|
 	p.to_gpx_rtept(xml)
       }
@@ -38,11 +37,11 @@ module GpsTouring
       ele_gain = metres_up - metres_down
       data = [
 	["distance", (metres_distance/1000.0).round(2), "km"],
-	["start ele", points.first.ele, "m"],
-	["end ele", points.last.ele, "m"],
-	["ascent", metres_up, "m"],
-	["descent", metres_down, "m"],
-	["height gained", ele_gain, "m"],
+	["start ele", points.first.ele || '?', "m"],
+	["end ele", points.last.ele || '?', "m"],
+	["ascent", metres_up.round(0), "m"],
+	["descent", metres_down.round(0), "m"],
+	["height gained", ele_gain.round(0), "m"],
 	["points", points.size, ""]
       ]
       xml.desc data.map {|x| "#{x[0]}: #{x[1,2].join}"}.join("; ")
@@ -53,24 +52,30 @@ module GpsTouring
     def to_gradient_csv(original_points = points)
       prev = nil
       cumm_dists = cumm_distances_using_original_points(original_points)
-      points.zip(cumm_dists).map{|z|
-	# There's one fewer elements in the result than in the points
-	# and this first nil element will be removed by compacting the array
-	res = nil 
-	if prev
-	  res = [
-	    prev[0].ele, 
-	    z[0].ele, 
-	    prev[1].round(1), 
-	    z[1].round(1), 
-	    z[0].ele - prev[0].ele, 
-	    (z[1] - prev[1]).round(0), 
-	    ((z[0].ele - prev[0].ele)/(z[1] - prev[1])*100).round(1)
-	  ].join(',')
-	end
-	prev = z
-	res
-      }.compact.join("\n")
+      ::CSV.generate {|csv|
+	points.zip(cumm_dists).each_cons(2).map{|z|
+	  # a, b represent two adjacent points
+	  #  a[0] and b[0] are NetowrkPoints
+	  #  a[1] and b[1] are cumm. distances.
+	  a,b = z	
+	  dist = b[1] - a[1]
+
+	  ele_diff =
+	    begin
+	      b[0].ele - a[0].ele
+	    rescue
+	      nil
+	    end
+	  grad =
+	    begin
+	      (ele_diff/dist*100).round(1)
+	    rescue
+	      nil
+	    end
+	  csv << [a[0].ele, b[0].ele, a[1].round(1), b[1].round(1), ele_diff, dist.round(0), grad]
+
+	}
+      }
     end
     def cumm_distances_using_original_points(orig_pts)
       # Precondition: points is a subset of orig_pts in the following sense:
@@ -105,34 +110,29 @@ module GpsTouring
       "#{points.first.fname}-#{points.last.fname}"
     end
     def metres_distance
-      total = 0.0
-      prev = points.first
-      points.each {|p| 
-	total += prev.distance_m(p)
-	prev = p
-      }
-      total
+      points.each_cons(2).map { |pair|
+	pair[0].distance_m(pair[1])
+      }.inject(0, :+)
     end
-
     def metres_up
-      total = 0.0
-      ps = points
-      ele = ps.first.ele
-      ps.each {|p|
-	total += (p.ele - ele) if p.ele > ele
-	ele = p.ele
-      }
-      total
+      elevation_array.compact.find_all {|x| x > 0}.inject(0, :+)
     end
     def metres_down
-      total = 0.0
-      ps = points
-      ele = ps.first.ele
-      ps.each {|p|
-	total += (ele - p.ele) if p.ele < ele
-	ele = p.ele
+      -elevation_array.compact.find_all {|x| x < 0}.inject(0, :+)
+    end
+    private
+    def elevation_array
+      # returns an array of size one less than size of points
+      # each element is the difference between the next and the prev point.
+      # If Either prev or next elevation is undefined, then corresponding element will be nil.
+      points.each_cons(2).map {|pair_of_points|
+	a, b = pair_of_points
+	begin
+	  b.ele - a.ele
+	rescue
+	  nil
+	end
       }
-      total
     end
   end
 end

@@ -12,8 +12,17 @@ module GpsTouring
       @metres = metres
       @points = [orig_pts.first]
       orig_pts[1... orig_pts.size-1].each {|p|
-	if (p.ele - @points.last.ele).abs >= metres
-	  @points << p
+	begin
+	  if (p.ele - @points.last.ele).abs >= metres
+	    @points << p
+	  end
+	rescue
+	  # Points without ele return nil, but should be added anyway ...
+	  if p.ele.nil? || @points.last.ele.nil?
+	    @points << p
+	  else
+	    raise
+	  end
 	end
       }
       @points << orig_pts.last
