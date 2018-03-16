@@ -31,10 +31,5 @@ module GpsTouring
     def gpx_name
       name + " Smoothed out elevation diffs less than #{metres}m"
     end
-    private
-    def add_point(p)
-      raise("Algotithm error: adding same point twice in a row to an ElevationEdge: #{p}") if p === @points.last
-      @points << p
-    end
   end
 end

@@ -56,7 +56,11 @@ class BasicRouteFinding < Test::Unit::TestCase
       }
     }
     File.open("basic-route-finding/output/route.gpx", "w") {|f| 
-      f.write(route.to_gpx)
+      f.write(route.to_rte_gpx)
     }
+    File.open("basic-route-finding/output/smoothed-route.gpx", "w") {|f| 
+      f.write(route.smoothed_elevation(50).to_gpx)
+    }
+
   end
 end

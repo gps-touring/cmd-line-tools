@@ -46,5 +46,13 @@ module GpsTouring
 	}
       }.to_xml
     end
+    def to_rte_gpx
+      GPX::Builder.new {|xml|
+	to_gpx_rte(xml)
+      }.to_xml
+    end
+    def gpx_name
+      "Route"
+    end
   end
 end
