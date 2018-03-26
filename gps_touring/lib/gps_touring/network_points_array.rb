@@ -14,6 +14,10 @@ module GpsTouring
     def smoothed_elevation(metres = 100)
       SmoothedElevation.new(self, metres)
     end
+    def elevation_svg
+      #SVG::ElevationProfile.new(points)
+      SVG.elevation_profile(points, cumm_distances)
+    end
     def to_gpx_rte(xml)
       xml.rte {|xml|
 	to_gpx_name(xml)

@@ -40,7 +40,7 @@ module GpsTouring
 
 	raise "Bad mini #{mini}" unless mini >= 0
 	raise "Bad maxi #{maxi}" unless maxi < point_seq.points.size
-	puts "mini, maxi: #{mini}, #{maxi}"
+	#puts "mini, maxi: #{mini}, #{maxi}"
 	dist_ele_array = (mini...maxi).map {|j| 
 	  [(cumm_dists[i] - cumm_dists[j]).abs, point_seq.points[j].ele]
 	}.
