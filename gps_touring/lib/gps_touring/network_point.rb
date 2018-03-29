@@ -102,6 +102,9 @@ module GpsTouring
       return @ele if defined? @ele
       @ele = @wpts.map {|wpt| wpt.at_css('ele')}.compact.map{|s| s.text.to_f}.first
     end
+    def ele=(x)
+      @ele = x
+    end
     def name
       return @name if defined? @name
       names = @wpts.map {|w|

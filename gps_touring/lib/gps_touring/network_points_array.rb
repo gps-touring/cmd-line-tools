@@ -11,6 +11,13 @@ module GpsTouring
     def elevation_edge(metres = 2)
       ElevationEdge.new(points, metres)
     end
+    def smoothed_elevation(metres = 100)
+      SmoothedElevation.new(self, metres)
+    end
+    def elevation_svg
+      #SVG::ElevationProfile.new(points)
+      SVG.elevation_profile(points, cumm_distances)
+    end
     def to_gpx_rte(xml)
       xml.rte {|xml|
 	to_gpx_name(xml)
@@ -109,10 +116,21 @@ module GpsTouring
       # Name to be used when constructing filenames about this point
       "#{points.first.fname}-#{points.last.fname}"
     end
-    def metres_distance
+    def distances_between_points
+      # returns an array of size one less than size of points
       points.each_cons(2).map { |pair|
 	pair[0].distance_m(pair[1])
-      }.inject(0, :+)
+      }
+    end
+    def cumm_distances
+      # Returns an array the same size as @points.
+      # Each element is the distance of the corresponding element in @points from @points.first,
+      # when passing through each previous point in @points.
+      distances_between_points.each_with_object([0]) {|d, object| object << object.last + d}
+    end
+    def metres_distance
+      # Add up the distances between all the points:
+      distances_between_points.inject(0, :+)
     end
     def metres_up
       elevation_array.compact.find_all {|x| x > 0}.inject(0, :+)
