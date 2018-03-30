@@ -3,8 +3,16 @@ require_relative "gpx/builder"
 
 module GpsTouring
   module NetworkPointsArray
-    # Can be included in any class which defines 
-    # - a points method to return an array of GpsModule::NetworkPoint objects
+    # Can be included in any class which defines :
+    #
+    #   points 
+    #     to return an array of GpsModule::NetworkPoint objects
+    #     the points in this NetworkPointsArray
+    #
+    #   original_points
+    #     to return an array of GpsModule::NetworkPoint objects
+    #     the originalpoints from which this NetworkPointsArray was calculated.
+    #
     def to_gpx
       GpsTouring::GPX::Builder.new {|xml| to_gpx_rte(xml) }.to_xml
     end
@@ -15,7 +23,6 @@ module GpsTouring
       SmoothedElevation.new(self, metres)
     end
     def elevation_svg
-      #SVG::ElevationProfile.new(points)
       SVG.elevation_profile(points, cumm_distances)
     end
     def to_gpx_rte(xml)
@@ -56,9 +63,9 @@ module GpsTouring
     def to_gpx_name(xml)
       xml.name gpx_name
     end
-    def to_gradient_csv(original_points = points)
+    def to_gradient_csv
       prev = nil
-      cumm_dists = cumm_distances_using_original_points(original_points)
+      cumm_dists = cumm_distances_using_original_points
       ::CSV.generate {|csv|
 	points.zip(cumm_dists).each_cons(2).map{|z|
 	  # a, b represent two adjacent points
@@ -84,18 +91,14 @@ module GpsTouring
 	}
       }
     end
-    def cumm_distances_using_original_points(orig_pts)
-      # Precondition: points is a subset of orig_pts in the following sense:
-      # Points is contained in orig_pts (as a set), AND
-      # they are in the same order.
-      #
+    def cumm_distances_using_original_points
       # Returns an array of cummulative distances between points
-      # where the distances are calculated based on orig_pts. 
+      # where the distances are calculated based on original_points. 
       cumm = []
       total = 0.0
       prev = nil
       index = 0
-      orig_pts.each {|p|
+      original_points.each {|p|
 	if prev
 	  total += prev.distance_m(p)
 	end

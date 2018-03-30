@@ -6,6 +6,9 @@ module GpsTouring
   class OriginalEdge
     include NetworkPointsArray
     attr_reader :points
+    def original_points
+      @points
+    end
     def initialize(logical_edge)
       point = logical_edge.from
       link = logical_edge.first_link

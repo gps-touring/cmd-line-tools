@@ -5,11 +5,15 @@ module GpsTouring
   class SmoothedElevation
     include NetworkPointsArray
     attr_reader :points, :metres
+    def original_points
+      @original_point_seq.points
+    end
     def initialize(point_seq, metres = 100)
       # Create an SmoothedElevation corresponding to the original points
       # Each point in the created SmoothedElevation will have it's elevation set
       # to a (weighted) average of the points around it.
       # The number of points is the same as the number of orig_points.
+      @original_point_seq = point_seq
       @metres = metres
       cumm_dists = point_seq.cumm_distances
       #pp cumm_dists

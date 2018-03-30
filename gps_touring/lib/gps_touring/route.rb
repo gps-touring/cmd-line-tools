@@ -31,6 +31,9 @@ module GpsTouring
     def points
       map {|path| path.points}.inject([], :+)
     end
+    def original_points
+      map {|path| path.original_points}.inject([], :+)
+    end
     def to_gpx
       GPX::Builder.new {|xml|
 	each {|path|

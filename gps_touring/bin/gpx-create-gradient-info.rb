@@ -41,7 +41,7 @@ nwk.logical_edges.each {|edge|
       File.open(filename, "w") {|f|
 	# The original.points will be used for calculating distances,
 	# because the smoothed ones will be less accurate:
-	f.write(smoothed.to_gradient_csv(original.points))
+	f.write(smoothed.to_gradient_csv)
       }
     end
   end
