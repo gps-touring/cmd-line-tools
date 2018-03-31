@@ -33,11 +33,14 @@ route = nwk.find_route(calling_network_points, GpsTouring::EdgeCost.by_distance_
 route_smoothed = route.elevation_edge(options.metres)
 
 Dir.chdir(options.outdir) do
-  File.open("route.gpx", "w") {|f| 
+  File.open("route.gpx", "w") {|f|
     f.write(route.to_gpx)
   }
-  File.open("provile.svg", "w") {|f| 
+  File.open("profile.svg", "w") {|f|
     f.write(route.elevation_svg)
+  }
+  File.open("smoothed_profile.svg", "w") {|f|
+    f.write(route_smoothed.elevation_svg)
   }
   File.open("smoothed.gpx", "w") {|f|
     f.write(GpsTouring::GPX::Builder.new {|xml| route_smoothed.to_gpx_rte(xml)}.to_xml)

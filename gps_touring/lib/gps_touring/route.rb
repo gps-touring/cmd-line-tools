@@ -7,6 +7,7 @@
 module GpsTouring
   class Route < Array # Array members are Paths
     include NetworkPointsArray
+    attr_reader :points, :original_points
     def initialize(graph, calling_points, edge_cost_method)
       # pre-calculate edge costs for each edge, to save
       # costly repetitive calculations:
@@ -27,12 +28,9 @@ module GpsTouring
 	# Get just the path:
 	first
       }
-    end
-    def points
-      map {|path| path.points}.inject([], :+)
-    end
-    def original_points
-      map {|path| path.original_points}.inject([], :+)
+      @points = map {|path| path.points}.inject([], :+)
+      @original_points = map {|path| path.original_points}.inject([], :+)
+      freeze
     end
     def to_gpx
       GPX::Builder.new {|xml|

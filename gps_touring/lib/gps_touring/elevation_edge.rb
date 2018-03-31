@@ -27,7 +27,7 @@ module GpsTouring
 	end
       }
       @points << orig_pts.last
-      @points.freeze
+      freeze
     end
     def gpx_name
       name + " Smoothed out elevation diffs less than #{metres}m"

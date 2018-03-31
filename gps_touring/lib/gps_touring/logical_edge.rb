@@ -3,11 +3,12 @@ require_relative "network_points_array"
 module GpsTouring
   class LogicalEdge
     include NetworkPointsArray
-    attr_reader :from, :to, :first_link, :hops
+    attr_reader :from, :to, :first_link, :hops, :original_points
     def initialize(point, link, node_test)
       @hops = 1
       @from = point
       @first_link = link
+      @original_points = [@from]
       # Keep following the next link until we hit another Node
       # (based on calling node_test):
       while ! node_test.call(link)
@@ -38,10 +39,14 @@ module GpsTouring
 	  raise "Calling error: point #{link} should be a logical node because it does not provide just one onward link to follow"
 	end
 	point = link
+	@original_points << link
 	link = next_links.first
 	@hops += 1
       end
       @to = link
+      @original_points << link
+      freeze
+      raise "Bad LogicalEdge init" unless @original_points == OriginalEdge.new(self).points
     end
     def points
       [from, to]

@@ -69,7 +69,7 @@ module GpsTouring
 	q.ele = new_ele
 	q
       }
-      @points.freeze
+      freeze
     end
     def interpolate(x1, y1, x2, y2, x)
       #raise "bad params to interpolate" unless (x1 <= x && x <= x2)

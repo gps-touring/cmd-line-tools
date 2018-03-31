@@ -23,7 +23,7 @@ module GpsTouring
       SmoothedElevation.new(self, metres)
     end
     def elevation_svg
-      SVG.elevation_profile(points, cumm_distances)
+      SVG.elevation_profile(points, cumm_distances_using_original_points)
     end
     def to_gpx_rte(xml)
       xml.rte {|xml|
@@ -98,17 +98,18 @@ module GpsTouring
       total = 0.0
       prev = nil
       index = 0
+      pts = points
       original_points.each {|p|
 	if prev
 	  total += prev.distance_m(p)
 	end
 	prev = p
-	if p === points[index]
+	if p === pts[index]
 	  cumm << total
 	  index += 1
 	end
       }
-      raise "Bad array size" unless cumm.size == points.size
+      raise "Bad array size" unless cumm.size == pts.size
       cumm
     end
 

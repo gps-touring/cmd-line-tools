@@ -9,18 +9,14 @@ module GpsTouring
     # To make avilable the methods from NetworkPointsArray,
     # we need to define the instance method: #points
     include NetworkPointsArray
+    attr_reader :points, :original_points
 
     def initialize(edges)
       # A Path is an Array (i.e. sequence) of edges
       concat edges
-    end
-    def points
-      # Concatenate the points from each edge in order:
-      map {|e| e.original_edge.points}.inject([], :+)
-    end
-    def original_points
-      # Concatenate the points from each edge in order:
-      map {|e| e.original_edge.original_points}.inject([], :+)
+      @points = map {|e| e.original_edge.points}.inject([], :+)
+      @original_points = map {|e| e.original_edge.original_points}.inject([], :+)
+      freeze
     end
     def cost(edge_cost)
       map {|e| edge_cost[e]}.inject(0, :+)

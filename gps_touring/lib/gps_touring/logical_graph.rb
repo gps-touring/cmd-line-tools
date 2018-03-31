@@ -18,6 +18,7 @@ module GpsTouring
 	inject([], :+).
 	map {|p| Path.new(p)}
 
+      freeze
 
     end
     def paths(from, to)
