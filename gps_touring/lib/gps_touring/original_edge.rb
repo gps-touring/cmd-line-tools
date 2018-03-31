@@ -9,14 +9,22 @@ module GpsTouring
     def original_points
       @points
     end
-    def initialize(logical_edge)
+    def initialize(points)
+      @points = points
+      freeze
+    end
+    def self.from_logical_edge(logical_edge)
+      ###
+      ### OBSOLETE
+      ###
+      raise "OriginalEdge.from_logical_edge is Obsolete! Use logical_edge.original_edge instead"
       point = logical_edge.from
       link = logical_edge.first_link
-      @points = [point]
+      points = [point]
       while link != logical_edge.to
 	raise("Badly defined logicalEdge") unless link.links.size == 2
 
-	@points << link
+	points << link
 	next_links = link.links - [point]
 
 	raise "point is expected to be in link.links" unless next_links.size == 1
@@ -24,11 +32,11 @@ module GpsTouring
 	point = link
 	link = next_links.first
       end
-      @points << link
-      @points.freeze
+      points << link
 
-      raise("Expected to start at beginning of LogicalEdge") unless @points.first === logical_edge.from
-      raise("Expected to reach end of LogicalEdge") unless @points.last === logical_edge.to
+      raise("Expected to start at beginning of LogicalEdge") unless points.first === logical_edge.from
+      raise("Expected to reach end of LogicalEdge") unless points.last === logical_edge.to
+      new(points)
     end
     def gpx_name
       name + " Original GPX waypoints"

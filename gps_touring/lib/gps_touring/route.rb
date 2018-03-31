@@ -38,10 +38,7 @@ module GpsTouring
 	  xml.trk {
 	    path.to_gpx_name(xml)
 	    path.each {|e|
-	      orig = OriginalEdge.new(e)
-	      #puts "Path - Orig points: #{orig.points.size}"
-
-	      orig.to_gpx_trkseg(xml)
+	      e.original_edge.to_gpx_trkseg(xml)
 	    }
 	  }
 	}

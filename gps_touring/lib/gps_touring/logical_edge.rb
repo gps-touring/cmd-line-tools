@@ -46,13 +46,12 @@ module GpsTouring
       @to = link
       @original_points << link
       freeze
-      raise "Bad LogicalEdge init" unless @original_points == OriginalEdge.new(self).points
     end
     def points
       [from, to]
     end
     def original_edge
-      OriginalEdge.new(self)
+      OriginalEdge.new(original_points)
     end
     def to_s
       "#{@from.to_s} - #{@to.to_s}. hops: #{@hops}"

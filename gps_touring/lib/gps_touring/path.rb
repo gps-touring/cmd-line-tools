@@ -14,8 +14,8 @@ module GpsTouring
     def initialize(edges)
       # A Path is an Array (i.e. sequence) of edges
       concat edges
-      @points = map {|e| e.original_edge.points}.inject([], :+)
-      @original_points = map {|e| e.original_edge.original_points}.inject([], :+)
+      @points = map {|e| e.original_points}.inject([], :+)
+      @original_points = @points
       freeze
     end
     def cost(edge_cost)
