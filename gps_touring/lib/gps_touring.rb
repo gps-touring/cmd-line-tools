@@ -1,4 +1,5 @@
 require 'gps_touring/utils'
+require 'gps_touring/point_definition'
 require 'gps_touring/network_point'
 require 'gps_touring/elevation_edge'
 require 'gps_touring/logical_edge'

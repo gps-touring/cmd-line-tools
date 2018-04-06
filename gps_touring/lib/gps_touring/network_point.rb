@@ -1,25 +1,23 @@
 require 'pp'
 module GpsTouring
   class NetworkPoint
-    attr_reader :wpts, :links
-    def initialize
-      # wpts are all of the GPX waypoints (objects from Nokogiri) which have lat/lon that exactly match this NetworkPoint
-      @wpts = []
+    attr_reader :links, :definitions, :lat, :lon
+    def initialize(geoloc)
+      @lat, @lon = geoloc
+      # The same latitude and longitude may be defined in several places (e.g. more than once in GPX files)
+      # There may also be definitions that do not come from GPX waypoints.
+      # All such definitions are kept here:
+      @definitions = []
 
       # links are NetworkPoints reachable by a single hop 
       # i.e. adjacent <rtept> or <trkpt> elements in the <rte> or <trkseg> gps data:
       @links = []
-
-    end
-    def self.wpt2key(wpt)
-      # key for the @points hash:
-      [wpt['lat'].to_f, wpt['lon'].to_f]
     end
     def sanity_check
       # Check invariants
       [
 	# All GPX waypoints for this point have identical lat and lon:
-	@wpts.map{|w| [w['lat'].to_f, w['lon'].to_f]}.uniq.size == 1,
+	@definitions.map{|w| w.geoloc}.uniq.size == 1,
 
 	# All points linked to have different lat/long:
 	@links.size == @links.map {|p| p.geoloc}.uniq.size
@@ -29,7 +27,7 @@ module GpsTouring
       }
     end
     def key
-      self.class.wpt2key(wpts.first)
+      definitions.first.geoloc
     end
     def distance_m(p)
       Geo::distance_in_metres(self, p)
@@ -50,8 +48,8 @@ module GpsTouring
       end
       points
     end
-    def add_wpt(wpt)
-      @wpts << wpt
+    def add_definition(definition)
+      @definitions << definition
       self
     end
     def add_bidirectional_link(p)
@@ -70,33 +68,23 @@ module GpsTouring
       @links.size
     end
     def to_s
-      @wpts.first.to_s
+      raise "Unexpected call - need to implement this"
     end
     def lat_s
-      @lat_s ||= @wpts.first['lat']
+      lat.to_s
     end
     def lon_s
-      @lon_s ||= @wpts.first['lon']
-    end
-    def lat
-      @lat ||= @wpts.first['lat'].to_f
-    end
-    def lon
-      @lon ||= @wpts.first['lon'].to_f
+      lon.to_s
     end
     def ele
-      return @ele if defined? @ele
-      @ele = @wpts.map {|wpt| wpt.at_css('ele')}.compact.map{|s| s.text.to_f}.first
+      definitions.map {|d| d.ele}.compact.first
     end
     def ele=(x)
       @ele = x
     end
     def name
       return @name if defined? @name
-      names = @wpts.map {|w|
-	n = w.at_css('name')
-	n && n.text
-      }.compact.sort.uniq
+      names = definitions.map {|d| d.name}.compact.sort.uniq
       @name = names.empty? ? nil : names.join('|')
     end
     def fname

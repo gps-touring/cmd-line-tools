@@ -33,14 +33,14 @@ class BasicNetwork < Test::Unit::TestCase
     b = a.links.first
 
     # There's just one GPX waypoint with the exact same lat/long as A:
-    assert_equal(1, a.wpts.size)
+    assert_equal(1, a.definitions.size)
 
     # The point that A is linked to is linked to 2 points:
     assert_equal(2, b.links.size)
     # NetworkPoint B was defined twice in the input GPX,
     # once at the end of a trkseg, and once at the start of the next trkseg.
     # So:
-    assert_equal(2, b.wpts.size)
+    assert_equal(2, b.definitions.size)
 
     assert_equal(3, nwk.points.size, "Check number of network points")
     assert_kind_of(GpsTouring::NetworkPoint, nwk.points.values.first)

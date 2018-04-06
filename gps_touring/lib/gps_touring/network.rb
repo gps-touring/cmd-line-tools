@@ -12,7 +12,7 @@ module GpsTouring
     # are regarded as being co-located, and can have links to 1, 2, 3,... more points 
     attr_reader :points
     def initialize(gpx_files)
-      @points = Hash.new {|h, k| h[k] = NetworkPoint.new}
+      @points = Hash.new {|h, k| h[k] = NetworkPoint.new(k)}
 
       # Keep track of which points are calling points
       # Use a Hash for efficiency of querying:
@@ -51,7 +51,8 @@ module GpsTouring
       doc = Nokogiri::XML(File.open(gpx_file), &:noblanks)
       wpts = doc.css('wpt')
       wpts.each {|wpt|
-	key = wpt2key(wpt)
+	point_def = PointDefinition::from_gpx_waypoint(wpt)
+	key = point_def.geoloc
 	pre_existing_points = nil
 	unless @points.has_key? key
 	  # There's no NetworkPoint with the same lat/lon as this wpt.
@@ -59,7 +60,7 @@ module GpsTouring
 	  # So we remember the points we have before adding this wpt:
 	  pre_existing_points = @points.values.dup
 	end
-	calling_point = @points[key].add_wpt(wpt)
+	calling_point = @points[key].add_definition(point_def)
 	@calling_points[calling_point] = true
 	network_points << calling_point
 	if pre_existing_points
@@ -129,31 +130,25 @@ module GpsTouring
       }
       puts logical_graphs
     end
-    def wpt2key(wpt)
-      # key for the @points hash:
-      NetworkPoint.wpt2key(wpt)
-      #[wpt['lat'].to_f, wpt['lon'].to_f]
-    end
     private
     def add_waypoint_sequence(wpts)
       # add a saquence of waypoints that are part of a sequence 
       # (from a <trkseg>,or <rte>)
-      curr_wpt = nil
+      curr_nwk_point = nil
       wpts.each {|wpt|
-	add_point(wpt)
-	add_link(curr_wpt, wpt)
-	curr_wpt = wpt
+	nwk_point = add_waypoint(wpt)
+	add_link(curr_nwk_point, nwk_point)
+	curr_nwk_point = nwk_point
       }
     end
-    def add_point(wpt)
-      @points[wpt2key(wpt)].add_wpt(wpt)
+    def add_waypoint(wpt)
+      point_def = PointDefinition::from_gpx_waypoint(wpt)
+      @points[point_def.geoloc].add_definition(point_def)
     end
-    def add_link(wpt1, wpt2)
+    def add_link(pt1, pt2)
       # May be called with one waypoint nil - if so, no link to add
-      if wpt1 && wpt2
-	@points.has_key?(wpt2key(wpt1)) || raise("@points has no key for wpt1")
-	@points.has_key?(wpt2key(wpt2)) || raise("@points has no key for wpt2")
-	@points[wpt2key(wpt1)].add_bidirectional_link(@points[wpt2key(wpt2)])
+      if pt1 && pt2
+	pt1.add_bidirectional_link(pt2)
       end
     end
     def make_logical_graphs
