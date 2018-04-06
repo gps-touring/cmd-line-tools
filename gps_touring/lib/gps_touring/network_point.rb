@@ -1,8 +1,6 @@
 require 'pp'
 module GpsTouring
   class NetworkPoint
-    TORADIANS = Math::PI / 180;
-    R = 6371000; # metres
     attr_reader :wpts, :links
     def initialize
       # wpts are all of the GPX waypoints (objects from Nokogiri) which have lat/lon that exactly match this NetworkPoint
@@ -34,19 +32,7 @@ module GpsTouring
       self.class.wpt2key(wpts.first)
     end
     def distance_m(p)
-      # Distance in metres
-      # Uses Haversine - more accurate over short distances.
-      selfLatRad = self.lat * TORADIANS;
-      pLatRad = p.lat * TORADIANS;
-      latDiffRad = (p.lat - self.lat) * TORADIANS;
-      lonDiffRad = (p.lon - self.lon) * TORADIANS;
-
-      a = Math.sin(latDiffRad / 2) * Math.sin(latDiffRad / 2) +
-	Math.cos(selfLatRad) * Math.cos(pLatRad) *
-	Math.sin(lonDiffRad / 2) * Math.sin(lonDiffRad / 2);
-      c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-
-      return R * c;
+      Geo::distance_in_metres(self, p)
     end
     def to_point_array(link, to)
       $stderr.puts "NetworkPoint#to_point_array - method untested!"

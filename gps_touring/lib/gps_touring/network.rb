@@ -108,7 +108,7 @@ module GpsTouring
     end
     def logical_nodes
       # If a NetworkPoint has exactly two links, then it is interior to a simple sequence of points:
-      # One line is to go to the previous point, one to go to the next. That's all.
+      # One link goes to the previous point, the other link to the next. That's all.
       #
       # A NetworkPoint with one link is an end point.
       # A NetworkPoint with more than two links is a 'junction'.
