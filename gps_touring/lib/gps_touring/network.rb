@@ -51,8 +51,7 @@ module GpsTouring
       doc = Nokogiri::XML(File.open(gpx_file), &:noblanks)
       wpts = doc.css('wpt')
       wpts.each {|wpt|
-	point_def = PointDefinition::from_gpx_waypoint(wpt)
-	point_def.type = PointDefinition::Type::CALLING_POINT
+	point_def = CallingPoint::from_gpx_waypoint(wpt)
 	calling_point = @points[point_def.geoloc].add_definition(point_def)
 	network_points << calling_point
 	if calling_point.links.size == 0
@@ -133,8 +132,7 @@ module GpsTouring
       }
     end
     def add_waypoint(wpt)
-      point_def = PointDefinition::from_gpx_waypoint(wpt)
-      point_def.type = PointDefinition::Type::SEQUENCE_POINT
+      point_def = SequencePoint::from_gpx_waypoint(wpt)
       @points[point_def.geoloc].add_definition(point_def)
     end
     def add_link(pt1, pt2)
