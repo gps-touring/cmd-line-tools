@@ -14,10 +14,6 @@ module GpsTouring
     def initialize(gpx_files)
       @points = Hash.new {|h, k| h[k] = NetworkPoint.new(k)}
 
-      # Keep track of which points are calling points
-      # Use a Hash for efficiency of querying:
-      @calling_points = {}
-
       gpx_files.each {|f|
 	doc = Nokogiri::XML(File.open(f), &:noblanks)
 	trks = doc.css('trk')
@@ -44,30 +40,25 @@ module GpsTouring
     def sanity_check
       points.values.each {|p| p.sanity_check}
     end
+    def sequence_points
+      @points.values.find_all {|p| p.sequence_point? }
+    end
     def set_calling_points(gpx_file)
       # Returns sequence of NetworkPoints corresponding to these
       # calling points:
       network_points = []
+      seq_pts = sequence_points
       doc = Nokogiri::XML(File.open(gpx_file), &:noblanks)
       wpts = doc.css('wpt')
       wpts.each {|wpt|
 	point_def = PointDefinition::from_gpx_waypoint(wpt)
-	key = point_def.geoloc
-	pre_existing_points = nil
-	unless @points.has_key? key
-	  # There's no NetworkPoint with the same lat/lon as this wpt.
-	  # So we need to find the nearest one, and link to that.
-	  # So we remember the points we have before adding this wpt:
-	  pre_existing_points = @points.values.dup
-	end
-	calling_point = @points[key].add_definition(point_def)
-	@calling_points[calling_point] = true
+	point_def.type = PointDefinition::Type::CALLING_POINT
+	calling_point = @points[point_def.geoloc].add_definition(point_def)
 	network_points << calling_point
-	if pre_existing_points
-	  #$stderr.puts "Adding link to unconnected calling point:"
-	  #$stderr.puts calling_point
-	  nearest_point_in_dup_set = find_nearest_point(calling_point, pre_existing_points)
-	  nearest_point = @points[nearest_point_in_dup_set.key]
+	if calling_point.links.size == 0
+	  # If calling point is detatched, link it into a SEQUENCE point
+	  # (i.e. one that's joined to others in the network)
+	  nearest_point = find_nearest_point(calling_point, seq_pts)
 	  calling_point.add_bidirectional_link(nearest_point)
 	end
       }
@@ -115,7 +106,7 @@ module GpsTouring
       # A NetworkPoint with more than two links is a 'junction'.
       # logical_nodes are these end points and junctions.
       # Calling Points are also logical nodes.
-      @points.values.find_all {|point| point.link_count != 2 || @calling_points[point]}
+      @points.values.find_all {|point| point.link_count != 2 || point.calling_point?}
     end
     def logical_graphs_gpx
       GPX::Builder.new {|xml|
@@ -143,6 +134,7 @@ module GpsTouring
     end
     def add_waypoint(wpt)
       point_def = PointDefinition::from_gpx_waypoint(wpt)
+      point_def.type = PointDefinition::Type::SEQUENCE_POINT
       @points[point_def.geoloc].add_definition(point_def)
     end
     def add_link(pt1, pt2)

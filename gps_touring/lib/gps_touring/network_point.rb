@@ -29,6 +29,12 @@ module GpsTouring
     def key
       definitions.first.geoloc
     end
+    def sequence_point?
+      @definitions.find { |d| d.sequence_point? }
+    end
+    def calling_point?
+      @definitions.find { |d| d.calling_point? }
+    end
     def distance_m(p)
       Geo::distance_in_metres(self, p)
     end
