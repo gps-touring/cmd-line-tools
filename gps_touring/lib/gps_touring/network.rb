@@ -38,6 +38,7 @@ module GpsTouring
     attr_reader :points
     def initialize(gpx_files)
       @points = Points.new
+      @line_segments = LineSegments.new
 
       gpx_files.each {|f|
 	doc = Nokogiri::XML(File.open(f), &:noblanks)
@@ -53,6 +54,7 @@ module GpsTouring
 	  add_waypoint_sequence(rte.css('rtept'))
 	}
       }
+      add_intersection_points
 
       sanity_check
     end
@@ -64,6 +66,14 @@ module GpsTouring
     end
     def sanity_check
       @points.all.each {|p| p.sanity_check}
+    end
+    def add_intersection_points
+      # If there are line segments in the network that cross, 
+      # and where there is no existing NetworkPoint at the point of intersection,
+      # we want to define new NetworkPoints at these intersection points.
+      #
+      # We obtain a list of intersecting line segments:
+      intersections = Geo::intersecting_line_segments(@line_segments)
     end
     def set_calling_points(gpx_file)
       # Returns sequence of NetworkPoints corresponding to these
@@ -79,7 +89,8 @@ module GpsTouring
 	  # If calling point is detatched, link it into a SEQUENCE point
 	  # (i.e. one that's joined to others in the network)
 	  nearest_point = Geo::find_nearest_point(calling_point, seq_pts)
-	  calling_point.add_bidirectional_link(nearest_point)
+	  #calling_point.add_bidirectional_link(nearest_point)
+	  @line_segments.add(calling_point, nearest_point)
 	end
       }
       network_points
@@ -116,19 +127,20 @@ module GpsTouring
       curr_nwk_point = nil
       wpts.each {|wpt|
 	nwk_point = add_waypoint(wpt)
-	add_link(curr_nwk_point, nwk_point)
+	#add_link(curr_nwk_point, nwk_point)
+	@line_segments.add(curr_nwk_point, nwk_point) if curr_nwk_point
 	curr_nwk_point = nwk_point
       }
     end
     def add_waypoint(wpt)
       @points.add_definition(SequencePoint::from_gpx_waypoint(wpt))
     end
-    def add_link(pt1, pt2)
-      # May be called with one waypoint nil - if so, no link to add
-      if pt1 && pt2
-	pt1.add_bidirectional_link(pt2)
-      end
-    end
+    #def add_link(pt1, pt2)
+      ## May be called with one waypoint nil - if so, no link to add
+      #if pt1 && pt2
+	#pt1.add_bidirectional_link(pt2)
+      #end
+    #end
     def make_logical_graphs
       # returns an array of LogicalGraphs
       logical_graphs = []

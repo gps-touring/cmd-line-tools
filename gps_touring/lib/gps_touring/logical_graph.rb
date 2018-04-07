@@ -37,8 +37,7 @@ module GpsTouring
 	}
       }
     end
-    private
-    def grow(eseq)
+    private def grow(eseq)
       # Returns an array of all of the acyclic paths that start with eseq
       # including eseq itself
 
@@ -61,7 +60,7 @@ module GpsTouring
       res
     end
 
-    def add_edges_from_node(node, node_test)
+    private def add_edges_from_node(node, node_test)
       unless @nodes.include? node
 	@nodes << node
 	node.links.each {|link|
