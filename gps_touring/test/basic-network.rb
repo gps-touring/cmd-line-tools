@@ -42,9 +42,9 @@ class BasicNetwork < Test::Unit::TestCase
     # So:
     assert_equal(2, b.definitions.size)
 
-    assert_equal(3, nwk.points.size, "Check number of network points")
-    assert_kind_of(GpsTouring::NetworkPoint, nwk.points.values.first)
-    assert_kind_of(GpsTouring::NetworkPoint, nwk.points.values.last)
+    assert_equal(3, nwk.points.all.size, "Check number of network points")
+    assert_kind_of(GpsTouring::NetworkPoint, nwk.points.all.first)
+    assert_kind_of(GpsTouring::NetworkPoint, nwk.points.all.last)
   end
   def test2
     assert( 2 == 2, "2 is 2")

@@ -19,6 +19,18 @@ module GpsTouring
 
       return R * c;
     end
+    def self.find_nearest_point(to_p, from_points)
+      min_dist = Float::INFINITY
+      nearest_point = nil
+      from_points.each {|p|
+	dist = p.distance_m(to_p)
+	if dist < min_dist
+	  nearest_point = p
+	  min_dist = dist
+	end
+      }
+      nearest_point
+    end
   end
 end
 
