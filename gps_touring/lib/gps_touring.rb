@@ -1,4 +1,7 @@
 require 'gps_touring/utils'
+require 'gps_touring/geom/point'
+require 'gps_touring/geom/line_segment'
+require 'gps_touring/geom/intersections'
 require 'gps_touring/point_definition'
 require 'gps_touring/network_point'
 require 'gps_touring/elevation_edge'

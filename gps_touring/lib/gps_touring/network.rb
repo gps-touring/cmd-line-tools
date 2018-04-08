@@ -74,6 +74,9 @@ module GpsTouring
       #
       # We obtain a list of intersecting line segments:
       intersections = Geo::intersecting_line_segments(@line_segments)
+      intersections.each {|i|
+	puts "Intersection at #{i.point.as_s}, ele: #{Geo::intersection_ele(i)}"
+      }
     end
     def set_calling_points(gpx_file)
       # Returns sequence of NetworkPoints corresponding to these

@@ -1,9 +1,10 @@
 require 'pp'
 module GpsTouring
-  class NetworkPoint
+  class NetworkPoint < Geom::Point
     attr_reader :links, :definitions, :lat, :lon
     def initialize(geoloc)
       @lat, @lon = geoloc
+      super(@lon, @lat)
       # The same latitude and longitude may be defined in several places (e.g. more than once in GPX files)
       # There may also be definitions that do not come from GPX waypoints.
       # All such definitions are kept here:
