@@ -1,7 +1,7 @@
 
 module GpsTouring
   class LogicalGraph
-    attr_reader :nodes, :edges, :acyclic_paths, :edges_from_node
+    attr_reader :nodes, :edges, :edges_from_node
     def initialize(logical_node, node_test)
       @edges = []
       @nodes = []
@@ -14,20 +14,19 @@ module GpsTouring
 	[n, edges.find_all {|e| e.from === n}]
       }]
 
+      freeze
+
+    end
+    def acyclic_paths
+      # CAUTION - EXPENSIVE OPERATION!
       # All paths through the graph that don't visit the same node twice.
       # A path is a sequence of edges
-      @acyclic_paths = edges.map {|e|
+      edges.map {|e|
 	#puts "Building paths starting with edge #{e.to_s}"
-	grow([e])
+	grow([e], [e.from])
       }.
 	inject([], :+).
 	map {|p| Path.new(p)}
-
-
-	puts "Acyclic_paths: #{@acyclic_paths.size}"
-
-      freeze
-
     end
     def paths(from, to)
       acyclic_paths.find_all {|p|
@@ -45,14 +44,15 @@ module GpsTouring
 	}
       }
     end
-    private def grow(eseq)
+    private def grow(eseq, visited_nodes)
     #puts "grow: path length: #{eseq.size}"
       # Returns an array of all of the acyclic paths that start with eseq
       # including eseq itself
 
       # We need to know which nodes we've already visited in the
       # sequence of LogicalEdges called eseq:
-      already_visited = eseq.map {|e| e.from}
+      #already_visited = eseq.map {|e| e.from}
+      #raise "Bugger" unless already_visited == visited_nodes
 
       # Which edges lead on from  the end of eseq:
       next_edges = @edges_from_node[eseq.last.to]
@@ -63,11 +63,12 @@ module GpsTouring
       # plus all of the sequneces that can be grown onto eseq
       # without visiting the same node twice:
       next_edges.
-	reject{|e| already_visited.include? e.to}.
+	#reject{|e| already_visited.include? e.to}.
+	reject{|e| visited_nodes.include? e.to}.
 	each {|e|
 	  #puts e.to.to_s
 	  #res += grow(eseq.dup + [e])
-	  res += grow(eseq + [e])
+	res += grow(eseq + [e], visited_nodes + [e.from])
 	}
 
 	#puts "grow returns with #{res.size} paths. Max path len = #{res.map {|path| path.size}.max}"

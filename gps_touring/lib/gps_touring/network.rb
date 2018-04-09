@@ -186,7 +186,7 @@ module GpsTouring
 	#pt1.add_bidirectional_link(pt2)
       #end
     #end
-    def make_logical_graphs
+    private def make_logical_graphs
       # returns an array of LogicalGraphs
       logical_graphs = []
       remaining_nodes = logical_nodes
@@ -199,7 +199,7 @@ module GpsTouring
       end
       logical_graphs
     end
-    def logical_graph(node, nodes)
+    private def logical_graph(node, nodes)
       # Return the LogicalGraph containing node where other
       # nodes in the graph are in the array nodes
       nodes_hash = Hash[nodes.map{|n| [n, true]}]
