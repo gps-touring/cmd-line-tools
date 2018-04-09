@@ -12,6 +12,17 @@
   <name>Cow Ark, Clitheroe - Newton-in-Bowland, Clitheroe</name>
   <desc>11.0 km, 0:41</desc>
   <trkseg>
+    <trkpt lat="53.90211" lon="-2.49702">
+      <ele>189.573</ele>
+    </trkpt>
+    <trkpt lat="53.90213" lon="-2.49696">
+      <ele>189.578</ele>
+    </trkpt>
+    <trkpt lat="53.90211" lon="-2.49696">
+      <ele>189.573</ele>
+    </trkpt>
+  </trkseg>
+  <trkseg>
     <trkpt lat="53.90211" lon="-2.49696">
       <ele>189.573</ele>
     </trkpt>

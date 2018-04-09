@@ -36,6 +36,9 @@ module GpsTouring
     def calling_point?
       @definitions.find { |d| d.calling_point? }
     end
+    def intersection_point?
+      @definitions.find { |d| d.intersection_point? }
+    end
     def distance_m(p)
       Geo::distance_in_metres(self, p)
     end
@@ -63,6 +66,10 @@ module GpsTouring
       self.add_link_to(p)
       p.add_link_to(self)
     end
+    def remove_bidirectional_link(p)
+      self.remove_link_to(p)
+      p.remove_link_to(self)
+    end
     def add_link_to(p)
       return if p === self
       # p will already be in @links if there is a sequence of waypoints like this:
@@ -71,11 +78,16 @@ module GpsTouring
       # In this case q must be treated as the end of an edge - i.e. it will have just one link.
       @links << p unless @links.include?(p)
     end
+    def remove_link_to(p)
+      unless @links.delete(p)
+	raise "Attempt to delete line non-existent link from #{self.to_s} to #{p.to_s}"
+      end
+    end
     def link_count
       @links.size
     end
     def to_s
-      raise "Unexpected call - need to implement this"
+      "name: #{name}, lat: #{lat_s}, lon: #{lon_s}, ele: #{ele}"
     end
     def lat_s
       lat.to_s

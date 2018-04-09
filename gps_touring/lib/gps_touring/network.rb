@@ -18,7 +18,7 @@ module GpsTouring
       @pHash.values
     end
     def sequence_points
-      @pHash.values.find_all {|p| p.sequence_point? }
+      @pHash.values.find_all {|p| p.sequence_point? || p.intersection_point?}
     end
     def calling_points
       @pHash.values.find_all {|p| p.calling_point? }
@@ -31,7 +31,15 @@ module GpsTouring
       # A NetworkPoint with more than two links is a 'junction'.
       # logical_nodes are these end points and junctions.
       # Calling Points are also logical nodes.
-      @pHash.values.find_all {|point| point.link_count != 2 || point.calling_point?}
+      @pHash.values.find_all {|point|
+	point.link_count != 2 || point.calling_point?
+	# Should already be including intersection_points because all should 
+	# have more than 2 links. So don't need:
+	#point.link_count != 2 || point.calling_point? || point.intersection_point?
+      }
+    end
+    def find(geoloc)
+      @pHash.has_key?(geoloc) ? @pHash[geoloc] : nil
     end
   end
   class Network
@@ -54,7 +62,10 @@ module GpsTouring
 	  add_waypoint_sequence(rte.css('rtept'))
 	}
       }
-      add_intersection_points
+      #puts "Line segments: #{@line_segments.all.size}"
+      #puts "logical nodes before add_intersection_points: #{logical_nodes.size}"
+      #add_intersection_points
+      #puts "logical nodes after add_intersection_points: #{logical_nodes.size}"
 
       sanity_check
     end
@@ -73,9 +84,43 @@ module GpsTouring
       # we want to define new NetworkPoints at these intersection points.
       #
       # We obtain a list of intersecting line segments:
-      intersections = Geo::intersecting_line_segments(@line_segments)
+      @line_segments.all.each {|ls|
+	raise "Huh? no LineSegments key for #{ls.to_s}" unless @line_segments.include?(ls)
+      }
+      intersections = Geo::intersecting_line_segments(@line_segments.all)
       intersections.each {|i|
+	ls1, ls2 = i.line_segments
 	puts "Intersection at #{i.point.as_s}, ele: #{Geo::intersection_ele(i)}"
+	intersection_point = @points.add_definition(IntersectionPoint::new(
+	  lat: i.point.y,
+	  lon: i.point.x,
+	  ele: Geo::intersection_ele(i),
+	  name: "Intersection of #{ls1.name} and #{ls2.name}"
+	))
+	i.line_segments.each {|ls|
+	  #raise "Huh? no LineSegments key for #{ls.to_s}" unless @line_segments.include?(ls)
+	  ls.each {|p|
+	    q = @points.find(p.geoloc) 
+	    unless q && p.object_id == q.object_id
+	      $stderr.puts "Point at an end of a line segment does not exist in netowrk points"
+	    end
+	  }
+	}
+	@line_segments.remove(ls1)
+	@line_segments.remove(ls2)
+	@line_segments.add(intersection_point, ls1[0])
+	@line_segments.add(intersection_point, ls1[1])
+	@line_segments.add(intersection_point, ls2[0])
+	@line_segments.add(intersection_point, ls2[1])
+	if (intersection_point.links.size < 4)
+	  $stderr.puts "IntersectionPoint #{intersection_point.name} has too few links."
+	  $stderr.puts "Found links:"
+	  $stderr.puts intersection_point.links.map {|p|
+	    p.to_s
+	  }.join("\n")
+	  abort
+	end
+	#puts "Links to intersection: #{intersection_point.links.size}"
       }
     end
     def set_calling_points(gpx_file)
@@ -129,14 +174,11 @@ module GpsTouring
       # (from a <trkseg>,or <rte>)
       curr_nwk_point = nil
       wpts.each {|wpt|
-	nwk_point = add_waypoint(wpt)
+	nwk_point = @points.add_definition(SequencePoint::from_gpx_waypoint(wpt))
 	#add_link(curr_nwk_point, nwk_point)
 	@line_segments.add(curr_nwk_point, nwk_point) if curr_nwk_point
 	curr_nwk_point = nwk_point
       }
-    end
-    def add_waypoint(wpt)
-      @points.add_definition(SequencePoint::from_gpx_waypoint(wpt))
     end
     #def add_link(pt1, pt2)
       ## May be called with one waypoint nil - if so, no link to add
@@ -150,6 +192,7 @@ module GpsTouring
       remaining_nodes = logical_nodes
 
       while n = remaining_nodes.first
+	puts "Creating logical_graph from #{n.to_s}, remaining_nodes: #{remaining_nodes.size}"
 	g = logical_graph(n, remaining_nodes)
 	logical_graphs << g
 	remaining_nodes = remaining_nodes - g.nodes

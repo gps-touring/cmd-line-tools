@@ -6,6 +6,8 @@ module GpsTouring
       @edges = []
       @nodes = []
       add_edges_from_node(logical_node, node_test)
+      puts "Nodes in graph: #{@nodes.size}"
+      puts "Edges in graph: #{@edges.size}"
 
       # Map from  node to array of edges leading from that node:
       @edges_from_node = Hash[nodes.map {|n| 
@@ -14,9 +16,15 @@ module GpsTouring
 
       # All paths through the graph that don't visit the same node twice.
       # A path is a sequence of edges
-      @acyclic_paths = edges.map {|e| grow([e]) }.
+      @acyclic_paths = edges.map {|e|
+	#puts "Building paths starting with edge #{e.to_s}"
+	grow([e])
+      }.
 	inject([], :+).
 	map {|p| Path.new(p)}
+
+
+	puts "Acyclic_paths: #{@acyclic_paths.size}"
 
       freeze
 
@@ -38,6 +46,7 @@ module GpsTouring
       }
     end
     private def grow(eseq)
+    #puts "grow: path length: #{eseq.size}"
       # Returns an array of all of the acyclic paths that start with eseq
       # including eseq itself
 
@@ -55,8 +64,13 @@ module GpsTouring
       # without visiting the same node twice:
       next_edges.
 	reject{|e| already_visited.include? e.to}.
-	each {|e| res += grow(eseq + [e]) }
+	each {|e|
+	  #puts e.to.to_s
+	  #res += grow(eseq.dup + [e])
+	  res += grow(eseq + [e])
+	}
 
+	#puts "grow returns with #{res.size} paths. Max path len = #{res.map {|path| path.size}.max}"
       res
     end
 

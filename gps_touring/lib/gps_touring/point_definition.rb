@@ -24,11 +24,17 @@ module GpsTouring
     def calling_point?
       is_a? CallingPoint
     end
+    def intersection_point?
+      is_a? IntersectionPoint
+    end
   end
   class SequencePoint < PointDefinition
     # Intentionally empty
   end
   class CallingPoint < PointDefinition
+    # Intentionally empty
+  end
+  class IntersectionPoint < PointDefinition
     # Intentionally empty
   end
 end

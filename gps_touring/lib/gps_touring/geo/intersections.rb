@@ -87,15 +87,26 @@ module GpsTouring
 	#puts e
 	#pp working_set.keys.map {|ls| ls.name}
       }
+      intersections.each {|i|
+	i.line_segments.each {|ls|
+	  raise "Hmm." unless line_segments.include?(ls)
+	}
+      }
       intersections
     end
     def self.intersections_with_set(line_seg, line_segs)
       line_segs.map { |b|
-	res = Geom::line_segment_intersection(line_seg, b)
-	if res
-	  Geom::Intersection::new(line_seg, res.first, b, res.last)
-	else
+	if line_seg.find {|p| b.include? (p)}
+	  #$stderr.puts "Line segs #{line_seg.name} and #{b.name} have point in common - not searching for intersection."
+	  #abort
 	  nil
+	else
+	  res = Geom::line_segment_intersection(line_seg, b)
+	  if res
+	    Geom::Intersection::new(line_seg, res.first, b, res.last)
+	  else
+	    nil
+	  end
 	end
       }.compact
     end

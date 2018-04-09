@@ -3,6 +3,7 @@ module GpsTouring
     class Intersection
       def initialize(ls1, r1, ls2, r2)
 	@ls1, @r1, @ls2, @r2 = ls1, r1, ls2, r2
+	freeze
 
 	# Check to n significant digits:
 	n = 9
