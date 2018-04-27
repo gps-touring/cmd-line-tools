@@ -18,10 +18,13 @@ module GpsTouring
       @pHash.values
     end
     def sequence_points
-      @pHash.values.find_all {|p| p.sequence_point? || p.intersection_point?}
+      @pHash.values.find_all {|p| p.sequence_point? }
     end
     def calling_points
       @pHash.values.find_all {|p| p.calling_point? }
+    end
+    def intersection_points
+      @pHash.values.find_all {|p| p.intersection_point?}
     end
     def logical_nodes
       # If a NetworkPoint has exactly two links, then it is interior to a simple sequence of points:
@@ -40,6 +43,13 @@ module GpsTouring
     end
     def find(geoloc)
       @pHash.has_key?(geoloc) ? @pHash[geoloc] : nil
+    end
+    def self.to_wpt_gpx(points)
+      GPX::Builder.new {|xml|
+	points.each {|p|
+	  p.to_gpx_wpt(xml)
+	}
+      }.to_xml
     end
   end
   class Network
@@ -63,9 +73,9 @@ module GpsTouring
 	}
       }
       #puts "Line segments: #{@line_segments.all.size}"
-      #puts "logical nodes before add_intersection_points: #{logical_nodes.size}"
-      #add_intersection_points
-      #puts "logical nodes after add_intersection_points: #{logical_nodes.size}"
+      puts "logical nodes before add_intersection_points: #{logical_nodes.size}"
+      add_intersection_points
+      puts "logical nodes after add_intersection_points: #{logical_nodes.size}"
 
       sanity_check
     end
@@ -167,6 +177,9 @@ module GpsTouring
 	  graph.to_gpx_trk(xml)
 	}
       }.to_xml
+    end
+    def intersection_points_gpx
+      Points::to_wpt_gpx(@points.intersection_points)
     end
     private
     def add_waypoint_sequence(wpts)

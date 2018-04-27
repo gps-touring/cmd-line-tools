@@ -125,6 +125,12 @@ module GpsTouring
 	xml.ele(ele) if ele
       }
     end
+    def to_gpx_wpt(xml)
+      xml.wpt(lat: lat_s, lon: lon_s) {
+	xml.name(name) if name
+	xml.ele(ele) if ele
+      }
+    end
   end
 end
 

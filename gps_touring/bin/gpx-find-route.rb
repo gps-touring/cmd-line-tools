@@ -27,6 +27,11 @@ end.parse!
 
 
 nwk = GpsTouring::Network.new(ARGV)
+Dir.chdir(options.outdir) do
+  File.open("intersection_points.gpx", "w") {|f|
+    f.write(nwk.intersection_points_gpx)
+  }
+end
 #puts "Network loaded"
 calling_network_points = nwk.set_calling_points(options.waypoints)
 route = nwk.find_route(calling_network_points, GpsTouring::EdgeCost.by_distance_only)
